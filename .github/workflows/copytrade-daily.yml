@@ -1,0 +1,42 @@
+name: copytrade-daily
+on:
+  schedule:
+    - cron: '13 9 * * *'  # 09:13 UTC, off-peak minute
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: copytrade-state
+  cancel-in-progress: false
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      - run: pip install -r requirements.txt
+      - run: python job_daily.py
+      - name: Commit state changes
+        if: always()  # commit whatever state was written, even if previous step failed
+        run: |
+          set -e
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Stage each path individually — `git add a b c` exits 128 and stages
+          # NOTHING if any pathspec is missing, so the all-in-one form silently
+          # drops every state change on cold-start runs.
+          for path in active_wallets.json NOTES.md; do
+            [ -e "$path" ] && git add "$path"
+          done
+          if git diff --cached --quiet; then echo "No changes."; exit 0; fi
+          git commit -m "copytrade-daily: refresh $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in 1 2 3; do
+            if git push; then exit 0; fi
+            echo "Retry $i…"; git pull --rebase -X theirs origin "${{ github.ref_name }}"; sleep $((2**i))
+          done
+          exit 1
