@@ -186,6 +186,8 @@ Take the top 5 by score.
 **Why edge_bps and not ROI?**
 Hyperliquid's `roi` field returns nonsensical numbers for accounts with deposits/withdrawals (the #1 trader showed ROI of 17,197%, not real). Instead we use **volume-normalized PnL**: "how many bps earned per $1 traded." This measures **execution quality**, independent of account size.
 
+**`week.vlm` can also be near-zero garbage.** Same data-quality class as the `roi` bug: a trader can show `week.pnl` in the millions with `week.vlm` near zero, which blows up `week_edge_bps` into the hundreds of millions and lets it dominate the score. Fix: if `week_volume < MIN_RELIABLE_WEEK_VOLUME` ($10,000), treat `week_edge_bps` as `0.0` instead of computing it — the trader still competes on `month_edge_bps` and the other filters, just without the bogus boost.
+
 ## Traps and Solutions
 
 | Trap | Solution |
@@ -657,3 +659,4 @@ Paper portfolio: $10,000 → $9,993 (-0.07 %, slippage only)
 - **2026-05-19:** The 22-hour silent bug — `copytrade-positions` polled fine but never committed state. Root cause: `git add a b c d e` aborts entirely (exit 128) if any one pathspec is missing, and `paper_trades.json` doesn't exist until the first trade closes. Fixed by staging each path in a loop. Also: `if: always()` on the commit step, broadened paper_engine except, and `git pull --rebase -X theirs` to auto-resolve state-file conflicts between near-simultaneous runs.
 - **2026-05-19:** GitHub Actions cron confirmed unreliable — ~80 % of scheduled runs dropped. Moved the real scheduling to **cron-job.org** (free external scheduler) hitting the `workflow_dispatch` API. Workflows keep `schedule:` blocks as fallback. Positions cadence raised to every 5 min (GitHub cron minimum), report to every 30 min for the launch period.
 - **2026-05-19:** `daily_report.py` gained a "Last activity" section (most recent signal + closed trade with humanised age) so the reader can tell how fresh the data is at a glance.
+- **2026-06-16:** First live bootstrap run surfaced a `week_edge_bps` blow-up (621M+ bps) caused by a trader showing `week.vlm` ≈ 0 alongside a real multi-million `week.pnl` — same data-quality class as the known `roi` bug. Fixed by zeroing `week_edge_bps` when `week_volume < MIN_RELIABLE_WEEK_VOLUME` ($10,000) instead of dividing by near-zero.

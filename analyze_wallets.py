@@ -15,6 +15,14 @@ FILTERS = {
     "min_30d_pnl": 50_000,
 }
 
+# Hyperliquid's per-window `vlm` field is occasionally near-zero for a trader even
+# when `pnl` for that same window is large (same data-quality class as the broken
+# `roi` field — see CLAUDE.md). Dividing pnl by a near-zero volume produces
+# nonsensical edge_bps (observed: 600M+ bps). Below this floor we treat the
+# week-window edge as unreliable and exclude it from the score rather than let it
+# dominate.
+MIN_RELIABLE_WEEK_VOLUME = 10_000
+
 TOP_N = 5
 
 
@@ -67,7 +75,10 @@ def score_trader(row: dict) -> dict | None:
         return None
 
     month_edge_bps = (month_pnl / month_volume) * 10000 if month_volume else 0.0
-    week_edge_bps = (week_pnl / week_volume) * 10000 if week_volume else 0.0
+    if week_volume >= MIN_RELIABLE_WEEK_VOLUME:
+        week_edge_bps = (week_pnl / week_volume) * 10000
+    else:
+        week_edge_bps = 0.0
     score = month_edge_bps * 2.0 + week_edge_bps * 1.0 + math.log10(max(month_pnl, 1))
 
     return {
