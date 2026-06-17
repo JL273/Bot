@@ -1,0 +1,759 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Copytrade Dashboard</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --bg: #0d0f14;
+    --bg2: #13161e;
+    --bg3: #1a1e29;
+    --border: rgba(255,255,255,0.07);
+    --border2: rgba(255,255,255,0.13);
+    --text: #e8eaf0;
+    --text2: #8b90a0;
+    --text3: #555a6a;
+    --green: #22c984;
+    --green-dim: rgba(34,201,132,0.12);
+    --red: #f05a5a;
+    --red-dim: rgba(240,90,90,0.12);
+    --blue: #4d9fff;
+    --blue-dim: rgba(77,159,255,0.12);
+    --amber: #f5a623;
+    --amber-dim: rgba(245,166,35,0.12);
+    --accent: #4d9fff;
+    --radius: 10px;
+    --radius-sm: 6px;
+  }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+    min-height: 100vh;
+  }
+
+  /* Auth screen */
+  #auth-screen {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 2rem;
+  }
+  .auth-card {
+    background: var(--bg2);
+    border: 0.5px solid var(--border2);
+    border-radius: 14px;
+    padding: 2.5rem;
+    width: 100%;
+    max-width: 440px;
+  }
+  .auth-card h1 { font-size: 20px; font-weight: 600; margin-bottom: 6px; }
+  .auth-card p { color: var(--text2); margin-bottom: 1.5rem; font-size: 13px; }
+  .auth-card input {
+    width: 100%;
+    background: var(--bg3);
+    border: 0.5px solid var(--border2);
+    border-radius: var(--radius-sm);
+    color: var(--text);
+    font-size: 13px;
+    padding: 10px 12px;
+    outline: none;
+    margin-bottom: 10px;
+    font-family: monospace;
+  }
+  .auth-card input:focus { border-color: var(--blue); }
+  .btn {
+    background: var(--blue);
+    border: none;
+    border-radius: var(--radius-sm);
+    color: #fff;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 10px 20px;
+    width: 100%;
+  }
+  .btn:hover { opacity: 0.9; }
+  .auth-error { color: var(--red); font-size: 12px; margin-top: 8px; display: none; }
+
+  /* Layout */
+  #app { display: none; }
+  .topbar {
+    background: var(--bg2);
+    border-bottom: 0.5px solid var(--border);
+    padding: 0 24px;
+    height: 52px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }
+  .topbar-left { display: flex; align-items: center; gap: 10px; }
+  .logo { font-size: 15px; font-weight: 600; letter-spacing: -0.3px; }
+  .dot {
+    width: 7px; height: 7px; border-radius: 50%;
+    background: var(--green);
+    animation: pulse 2s infinite;
+  }
+  @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.4} }
+  .topbar-right { display: flex; align-items: center; gap: 16px; }
+  .last-updated { color: var(--text3); font-size: 12px; }
+  .refresh-btn {
+    background: var(--bg3);
+    border: 0.5px solid var(--border2);
+    border-radius: var(--radius-sm);
+    color: var(--text2);
+    cursor: pointer;
+    font-size: 12px;
+    padding: 5px 10px;
+  }
+  .refresh-btn:hover { color: var(--text); border-color: var(--border2); }
+  .logout-btn {
+    background: none;
+    border: none;
+    color: var(--text3);
+    cursor: pointer;
+    font-size: 12px;
+    padding: 5px;
+  }
+  .logout-btn:hover { color: var(--text2); }
+
+  .main { padding: 20px 24px; max-width: 1200px; margin: 0 auto; }
+
+  /* KPI strip */
+  .kpi-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  .kpi {
+    background: var(--bg2);
+    border: 0.5px solid var(--border);
+    border-radius: var(--radius);
+    padding: 14px 16px;
+  }
+  .kpi-label { color: var(--text2); font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; margin-bottom: 6px; }
+  .kpi-value { font-size: 22px; font-weight: 600; letter-spacing: -0.5px; }
+  .kpi-sub { color: var(--text2); font-size: 11px; margin-top: 3px; }
+  .pos { color: var(--green); }
+  .neg { color: var(--red); }
+  .neu { color: var(--text); }
+
+  /* Two-col layout */
+  .row { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 12px; }
+  @media (max-width: 700px) { .row { grid-template-columns: 1fr; } }
+
+  .card {
+    background: var(--bg2);
+    border: 0.5px solid var(--border);
+    border-radius: var(--radius);
+    overflow: hidden;
+  }
+  .card-header {
+    padding: 12px 16px 10px;
+    border-bottom: 0.5px solid var(--border);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .card-title { font-size: 12px; font-weight: 500; text-transform: uppercase; letter-spacing: 0.07em; color: var(--text2); }
+  .badge {
+    font-size: 11px;
+    padding: 2px 8px;
+    border-radius: 20px;
+    font-weight: 500;
+  }
+  .badge-green { background: var(--green-dim); color: var(--green); }
+  .badge-red { background: var(--red-dim); color: var(--red); }
+  .badge-blue { background: var(--blue-dim); color: var(--blue); }
+  .badge-amber { background: var(--amber-dim); color: var(--amber); }
+
+  .card-body { padding: 14px 16px; }
+  .card-body.no-pad { padding: 0; }
+
+  /* Chart */
+  .chart-wrap { position: relative; height: 180px; padding: 14px 16px; }
+
+  /* Table / list */
+  .data-list { list-style: none; }
+  .data-list li {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 9px 16px;
+    border-bottom: 0.5px solid var(--border);
+    gap: 12px;
+  }
+  .data-list li:last-child { border-bottom: none; }
+  .li-main { flex: 1; min-width: 0; }
+  .li-title { font-size: 13px; font-weight: 500; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .li-sub { color: var(--text2); font-size: 11px; margin-top: 1px; }
+  .li-right { text-align: right; flex-shrink: 0; }
+  .li-val { font-size: 13px; font-weight: 500; }
+  .li-time { color: var(--text3); font-size: 11px; }
+
+  /* Traders */
+  .trader-row {
+    display: grid;
+    grid-template-columns: 24px 1fr auto;
+    align-items: center;
+    gap: 10px;
+    padding: 9px 16px;
+    border-bottom: 0.5px solid var(--border);
+  }
+  .trader-row:last-child { border-bottom: none; }
+  .rank { color: var(--text3); font-size: 12px; font-weight: 600; text-align: center; }
+  .addr { font-size: 12px; font-family: monospace; color: var(--text2); }
+  .edge-pill {
+    font-size: 11px;
+    padding: 2px 7px;
+    border-radius: 20px;
+    background: var(--blue-dim);
+    color: var(--blue);
+    white-space: nowrap;
+  }
+
+  /* Notes log */
+  .notes-entry { padding: 10px 16px; border-bottom: 0.5px solid var(--border); }
+  .notes-entry:last-child { border-bottom: none; }
+  .notes-ts { font-size: 11px; color: var(--text3); margin-bottom: 4px; }
+  .notes-title { font-size: 13px; font-weight: 500; margin-bottom: 4px; }
+  .notes-line { font-size: 12px; color: var(--text2); line-height: 1.6; }
+
+  /* Full-width card */
+  .full { margin-bottom: 12px; }
+
+  /* Skeleton */
+  .skel { background: var(--bg3); border-radius: 4px; animation: shimmer 1.4s infinite; }
+  @keyframes shimmer { 0%,100%{opacity:0.5} 50%{opacity:1} }
+
+  /* Error banner */
+  .error-banner {
+    background: var(--red-dim);
+    border: 0.5px solid var(--red);
+    border-radius: var(--radius-sm);
+    color: var(--red);
+    font-size: 12px;
+    margin-bottom: 16px;
+    padding: 10px 14px;
+    display: none;
+  }
+</style>
+</head>
+<body>
+
+<div id="auth-screen">
+  <div class="auth-card">
+    <h1>🤖 Copytrade Dashboard</h1>
+    <p>Enter your GitHub Personal Access Token to load live data from the private repo. It's stored only in your browser's localStorage.</p>
+    <input type="password" id="pat-input" placeholder="ghp_..." autocomplete="off" />
+    <input type="text" id="repo-input" value="JL273/Bot" placeholder="owner/repo" />
+    <button class="btn" onclick="connect()">Connect</button>
+    <div class="auth-error" id="auth-error"></div>
+  </div>
+</div>
+
+<div id="app">
+  <div class="topbar">
+    <div class="topbar-left">
+      <div class="dot" id="live-dot"></div>
+      <span class="logo">Copytrade</span>
+    </div>
+    <div class="topbar-right">
+      <span class="last-updated" id="last-updated">loading…</span>
+      <button class="refresh-btn" onclick="loadAll()">↻ Refresh</button>
+      <button class="logout-btn" onclick="logout()">Sign out</button>
+    </div>
+  </div>
+
+  <div class="main">
+    <div class="error-banner" id="error-banner"></div>
+
+    <!-- KPIs -->
+    <div class="kpi-grid">
+      <div class="kpi">
+        <div class="kpi-label">Portfolio equity</div>
+        <div class="kpi-value neu" id="kpi-equity">—</div>
+        <div class="kpi-sub" id="kpi-equity-sub"></div>
+      </div>
+      <div class="kpi">
+        <div class="kpi-label">24h PnL</div>
+        <div class="kpi-value" id="kpi-24h">—</div>
+        <div class="kpi-sub" id="kpi-24h-sub"></div>
+      </div>
+      <div class="kpi">
+        <div class="kpi-label">All-time PnL</div>
+        <div class="kpi-value" id="kpi-alltime">—</div>
+        <div class="kpi-sub" id="kpi-alltime-sub"></div>
+      </div>
+      <div class="kpi">
+        <div class="kpi-label">Open positions</div>
+        <div class="kpi-value neu" id="kpi-positions">—</div>
+        <div class="kpi-sub" id="kpi-positions-sub"></div>
+      </div>
+      <div class="kpi">
+        <div class="kpi-label">Signals today</div>
+        <div class="kpi-value neu" id="kpi-signals">—</div>
+        <div class="kpi-sub" id="kpi-signals-sub"></div>
+      </div>
+      <div class="kpi">
+        <div class="kpi-label">Following</div>
+        <div class="kpi-value neu" id="kpi-following">—</div>
+        <div class="kpi-sub" id="kpi-following-sub"></div>
+      </div>
+    </div>
+
+    <!-- Equity chart -->
+    <div class="card full">
+      <div class="card-header">
+        <span class="card-title">Equity curve</span>
+        <span class="badge badge-blue" id="equity-period">All time</span>
+      </div>
+      <div class="chart-wrap">
+        <canvas id="equityChart" role="img" aria-label="Portfolio equity over time">Portfolio equity history chart.</canvas>
+      </div>
+    </div>
+
+    <!-- Middle row -->
+    <div class="row">
+      <!-- Open positions -->
+      <div class="card">
+        <div class="card-header">
+          <span class="card-title">Open positions</span>
+          <span class="badge badge-green" id="pos-count-badge">0</span>
+        </div>
+        <ul class="data-list no-pad" id="positions-list">
+          <li style="color:var(--text3);font-size:12px;padding:20px 16px;">No open positions</li>
+        </ul>
+      </div>
+
+      <!-- Recent signals -->
+      <div class="card">
+        <div class="card-header">
+          <span class="card-title">Recent signals</span>
+          <span class="badge badge-amber" id="sig-count-badge">0</span>
+        </div>
+        <ul class="data-list no-pad" id="signals-list">
+          <li style="color:var(--text3);font-size:12px;padding:20px 16px;">No signals yet</li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Bottom row -->
+    <div class="row">
+      <!-- Top traders -->
+      <div class="card">
+        <div class="card-header">
+          <span class="card-title">Top traders today</span>
+          <span class="badge badge-blue" id="traders-updated"></span>
+        </div>
+        <div id="traders-list">
+          <div style="color:var(--text3);font-size:12px;padding:20px 16px;">Loading…</div>
+        </div>
+      </div>
+
+      <!-- Closed trades -->
+      <div class="card">
+        <div class="card-header">
+          <span class="card-title">Closed paper trades</span>
+          <span class="badge badge-amber" id="trades-count-badge">0</span>
+        </div>
+        <ul class="data-list no-pad" id="trades-list">
+          <li style="color:var(--text3);font-size:12px;padding:20px 16px;">No closed trades yet</li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Activity log -->
+    <div class="card full" style="margin-bottom: 24px;">
+      <div class="card-header">
+        <span class="card-title">Activity log (NOTES.md)</span>
+      </div>
+      <div id="notes-log">
+        <div style="color:var(--text3);font-size:12px;padding:20px 16px;">Loading…</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<script>
+let PAT = '', REPO = '', equityChart = null, refreshTimer = null;
+
+function connect() {
+  PAT = document.getElementById('pat-input').value.trim();
+  REPO = document.getElementById('repo-input').value.trim();
+  if (!PAT || !REPO) { showAuthError('Both fields are required.'); return; }
+  localStorage.setItem('ct_pat', PAT);
+  localStorage.setItem('ct_repo', REPO);
+  showApp();
+}
+
+function logout() {
+  localStorage.removeItem('ct_pat');
+  localStorage.removeItem('ct_repo');
+  clearInterval(refreshTimer);
+  document.getElementById('app').style.display = 'none';
+  document.getElementById('auth-screen').style.display = 'flex';
+}
+
+function showAuthError(msg) {
+  const el = document.getElementById('auth-error');
+  el.textContent = msg;
+  el.style.display = 'block';
+}
+
+function showApp() {
+  document.getElementById('auth-screen').style.display = 'none';
+  document.getElementById('app').style.display = 'block';
+  loadAll();
+  refreshTimer = setInterval(loadAll, 60000);
+}
+
+async function ghGet(path) {
+  const url = `https://api.github.com/repos/${REPO}/contents/${path}?ref=main&t=${Date.now()}`;
+  const r = await fetch(url, {
+    headers: {
+      'Authorization': `Bearer ${PAT}`,
+      'Accept': 'application/vnd.github+json',
+      'X-GitHub-Api-Version': '2022-11-28'
+    }
+  });
+  if (!r.ok) throw new Error(`${r.status} fetching ${path}`);
+  const d = await r.json();
+  return JSON.parse(atob(d.content.replace(/\n/g,'')));
+}
+
+async function ghRaw(path) {
+  const url = `https://api.github.com/repos/${REPO}/contents/${path}?ref=main&t=${Date.now()}`;
+  const r = await fetch(url, {
+    headers: {
+      'Authorization': `Bearer ${PAT}`,
+      'Accept': 'application/vnd.github+json',
+      'X-GitHub-Api-Version': '2022-11-28'
+    }
+  });
+  if (!r.ok) throw new Error(`${r.status} fetching ${path}`);
+  const d = await r.json();
+  return atob(d.content.replace(/\n/g,''));
+}
+
+function fmt$(v) { return '$' + Math.abs(v).toLocaleString('en-US', {minimumFractionDigits:2,maximumFractionDigits:2}); }
+function fmtPnl(v) { return (v>=0?'+':'-') + fmt$(v); }
+function fmtPct(v) { return (v>=0?'+':'') + v.toFixed(2) + '%'; }
+function pnlClass(v) { return v > 0 ? 'pos' : v < 0 ? 'neg' : 'neu'; }
+
+function timeAgo(isoStr) {
+  const diff = (Date.now() - new Date(isoStr).getTime()) / 1000;
+  if (diff < 60) return Math.round(diff) + 's ago';
+  if (diff < 3600) return Math.round(diff/60) + 'm ago';
+  if (diff < 86400) { const h=Math.floor(diff/3600), m=Math.round((diff%3600)/60); return h+'h '+(m>0?m+'m ':'')+' ago'; }
+  return Math.round(diff/86400) + 'd ago';
+}
+
+function showError(msg) {
+  const el = document.getElementById('error-banner');
+  el.textContent = '⚠ ' + msg;
+  el.style.display = 'block';
+  setTimeout(()=>{ el.style.display='none'; }, 8000);
+}
+
+async function loadAll() {
+  try {
+    const [portfolio, wallets, notes] = await Promise.all([
+      ghGet('portfolio.json').catch(()=>null),
+      ghGet('active_wallets.json').catch(()=>null),
+      ghRaw('NOTES.md').catch(()=>null)
+    ]);
+
+    const signals = await ghGet('signals.json').catch(()=>[]);
+    const trades = await ghGet('paper_trades.json').catch(()=>[]);
+
+    renderKPIs(portfolio, signals, wallets);
+    renderEquityChart(portfolio);
+    renderPositions(portfolio);
+    renderSignals(signals);
+    renderTraders(wallets);
+    renderTrades(trades);
+    renderNotes(notes);
+
+    document.getElementById('last-updated').textContent = 'Updated ' + new Date().toLocaleTimeString();
+    document.getElementById('live-dot').style.background = 'var(--green)';
+  } catch(e) {
+    showError(e.message);
+    document.getElementById('live-dot').style.background = 'var(--red)';
+    if (e.message.includes('401')) logout();
+  }
+}
+
+function renderKPIs(portfolio, signals, wallets) {
+  if (!portfolio) return;
+  const history = portfolio.equity_history || [];
+  const equity = history.length ? history[history.length-1].equity : portfolio.cash;
+  const starting = portfolio.starting_cash || 10000;
+  const now = Date.now();
+  const cut24 = now - 86400000;
+  let eq24ago = starting;
+  for (const s of history) {
+    if (new Date(s.ts).getTime() <= cut24) eq24ago = s.equity;
+  }
+  const pnl24 = equity - eq24ago;
+  const pnl24pct = eq24ago ? (pnl24/eq24ago*100) : 0;
+  const allPnl = equity - starting;
+  const allPct = starting ? (allPnl/starting*100) : 0;
+  const openPos = Object.keys(portfolio.open_positions||{}).length;
+
+  const sigToday = signals.filter(s => (now - new Date(s.ts).getTime()) < 86400000);
+  const newCount = sigToday.filter(s=>s.type==='NEW').length;
+  const closeCount = sigToday.filter(s=>s.type==='CLOSED').length;
+
+  document.getElementById('kpi-equity').textContent = fmt$(equity);
+  document.getElementById('kpi-equity').className = 'kpi-value neu';
+  document.getElementById('kpi-equity-sub').textContent = 'started ' + fmt$(starting);
+
+  const kpi24 = document.getElementById('kpi-24h');
+  kpi24.textContent = fmtPnl(pnl24);
+  kpi24.className = 'kpi-value ' + pnlClass(pnl24);
+  document.getElementById('kpi-24h-sub').textContent = fmtPct(pnl24pct);
+
+  const kpiAll = document.getElementById('kpi-alltime');
+  kpiAll.textContent = fmtPnl(allPnl);
+  kpiAll.className = 'kpi-value ' + pnlClass(allPnl);
+  document.getElementById('kpi-alltime-sub').textContent = fmtPct(allPct);
+
+  document.getElementById('kpi-positions').textContent = openPos;
+  document.getElementById('kpi-positions-sub').textContent = openPos === 1 ? '1 active trade' : openPos + ' active trades';
+  document.getElementById('kpi-signals').textContent = sigToday.length;
+  document.getElementById('kpi-signals-sub').textContent = newCount + ' new · ' + closeCount + ' closed';
+  document.getElementById('kpi-following').textContent = wallets ? (wallets.top_traders||[]).length : '—';
+  document.getElementById('kpi-following-sub').textContent = 'top traders by edge';
+}
+
+function renderEquityChart(portfolio) {
+  if (!portfolio) return;
+  const history = (portfolio.equity_history||[]).slice(-200);
+  if (!history.length) return;
+
+  const labels = history.map(s => {
+    const d = new Date(s.ts);
+    return d.toLocaleDateString('en-US',{month:'short',day:'numeric'}) + ' ' + d.toLocaleTimeString('en-US',{hour:'2-digit',minute:'2-digit'});
+  });
+  const data = history.map(s => parseFloat(s.equity.toFixed(2)));
+  const start = portfolio.starting_cash || 10000;
+  const last = data[data.length-1];
+  const isUp = last >= start;
+
+  const color = isUp ? '#22c984' : '#f05a5a';
+  const colorDim = isUp ? 'rgba(34,201,132,0.08)' : 'rgba(240,90,90,0.08)';
+
+  document.getElementById('equity-period').textContent = history.length + ' snapshots';
+
+  if (equityChart) {
+    equityChart.data.labels = labels;
+    equityChart.data.datasets[0].data = data;
+    equityChart.data.datasets[0].borderColor = color;
+    equityChart.data.datasets[0].backgroundColor = colorDim;
+    equityChart.update('none');
+    return;
+  }
+
+  equityChart = new Chart(document.getElementById('equityChart'), {
+    type: 'line',
+    data: {
+      labels,
+      datasets: [{
+        data,
+        borderColor: color,
+        backgroundColor: colorDim,
+        fill: true,
+        tension: 0.3,
+        pointRadius: data.length > 50 ? 0 : 3,
+        pointHoverRadius: 5,
+        borderWidth: 2,
+        label: 'Equity'
+      }]
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: { display: false },
+        tooltip: {
+          backgroundColor: '#1a1e29',
+          borderColor: 'rgba(255,255,255,0.1)',
+          borderWidth: 1,
+          titleColor: '#8b90a0',
+          bodyColor: '#e8eaf0',
+          callbacks: {
+            label: ctx => ' $' + ctx.raw.toLocaleString('en-US',{minimumFractionDigits:2,maximumFractionDigits:2})
+          }
+        }
+      },
+      scales: {
+        x: {
+          display: false,
+          ticks: { autoSkip: true, maxTicksLimit: 8, color: '#555a6a', font: { size: 10 } }
+        },
+        y: {
+          grid: { color: 'rgba(255,255,255,0.04)' },
+          ticks: {
+            color: '#555a6a',
+            font: { size: 11 },
+            callback: v => '$' + v.toLocaleString()
+          }
+        }
+      }
+    }
+  });
+}
+
+function renderPositions(portfolio) {
+  if (!portfolio) return;
+  const positions = Object.values(portfolio.open_positions||{});
+  const list = document.getElementById('positions-list');
+  const badge = document.getElementById('pos-count-badge');
+  badge.textContent = positions.length;
+  if (!positions.length) {
+    list.innerHTML = '<li style="color:var(--text3);font-size:12px;padding:20px 16px;">No open positions</li>';
+    return;
+  }
+  list.innerHTML = positions.slice(0,8).map(p => {
+    const sideClass = p.side === 'LONG' ? 'pos' : 'neg';
+    const sideBadge = p.side === 'LONG' ? 'badge-green' : 'badge-red';
+    return `<li>
+      <div class="li-main">
+        <div class="li-title"><span class="badge ${sideBadge}" style="margin-right:6px">${p.side}</span>${p.coin} <span style="color:var(--text3);font-size:11px;">x${p.leverage}</span></div>
+        <div class="li-sub">entry ${fmt$(p.entry_price)} · size ${p.size.toFixed(4)}</div>
+      </div>
+      <div class="li-right">
+        <div class="li-val" style="font-size:11px;color:var(--text2);">${p.trader ? p.trader.slice(0,10)+'…' : ''}</div>
+        <div class="li-time">margin ${fmt$(p.margin)}</div>
+      </div>
+    </li>`;
+  }).join('');
+}
+
+function renderSignals(signals) {
+  const recent = [...signals].reverse().slice(0,8);
+  const list = document.getElementById('signals-list');
+  const badge = document.getElementById('sig-count-badge');
+  badge.textContent = signals.length;
+  if (!recent.length) {
+    list.innerHTML = '<li style="color:var(--text3);font-size:12px;padding:20px 16px;">No signals yet</li>';
+    return;
+  }
+  list.innerHTML = recent.map(s => {
+    const isNew = s.type === 'NEW';
+    const bClass = isNew ? 'badge-green' : 'badge-red';
+    return `<li>
+      <div class="li-main">
+        <div class="li-title"><span class="badge ${bClass}" style="margin-right:6px">${s.type}</span>${s.side} ${s.coin}</div>
+        <div class="li-sub">${s.trader ? s.trader.slice(0,14)+'…' : ''}</div>
+      </div>
+      <div class="li-right">
+        <div class="li-time">${timeAgo(s.ts)}</div>
+      </div>
+    </li>`;
+  }).join('');
+}
+
+function renderTraders(wallets) {
+  if (!wallets) return;
+  const traders = wallets.top_traders || [];
+  const el = document.getElementById('traders-list');
+  const ts = wallets.generated_at ? timeAgo(wallets.generated_at) : '';
+  document.getElementById('traders-updated').textContent = ts ? 'refreshed ' + ts : '';
+
+  if (!traders.length) {
+    el.innerHTML = '<div style="color:var(--text3);font-size:12px;padding:20px 16px;">No data yet</div>';
+    return;
+  }
+  el.innerHTML = traders.map((t, i) => `
+    <div class="trader-row">
+      <span class="rank">#${i+1}</span>
+      <div>
+        <div class="addr">${t.address.slice(0,16)}…</div>
+        <div style="font-size:11px;color:var(--text3);margin-top:1px;">acc ${fmt$(t.account_value)} · month ${fmtPnl(t.month_pnl)}</div>
+      </div>
+      <span class="edge-pill">${Math.round(t.month_edge_bps)} bps</span>
+    </div>
+  `).join('');
+}
+
+function renderTrades(trades) {
+  const recent = [...trades].reverse().slice(0,8);
+  const list = document.getElementById('trades-list');
+  const badge = document.getElementById('trades-count-badge');
+  badge.textContent = trades.length;
+  if (!recent.length) {
+    list.innerHTML = '<li style="color:var(--text3);font-size:12px;padding:20px 16px;">No closed trades yet</li>';
+    return;
+  }
+  list.innerHTML = recent.map(t => {
+    const pnlClass2 = t.pnl >= 0 ? 'pos' : 'neg';
+    return `<li>
+      <div class="li-main">
+        <div class="li-title">${t.side} ${t.coin} <span style="color:var(--text3);font-size:11px;">x${t.leverage}</span></div>
+        <div class="li-sub">entry ${fmt$(t.entry_price)} → exit ${fmt$(t.exit_price)}</div>
+      </div>
+      <div class="li-right">
+        <div class="li-val ${pnlClass2}">${fmtPnl(t.pnl)}</div>
+        <div class="li-time">${t.closed_at ? timeAgo(t.closed_at) : ''}</div>
+      </div>
+    </li>`;
+  }).join('');
+}
+
+function renderNotes(text) {
+  if (!text) return;
+  const el = document.getElementById('notes-log');
+  const lines = text.split('\n');
+  const entries = [];
+  let cur = null;
+
+  for (const line of lines) {
+    if (line.startsWith('### ')) {
+      if (cur) entries.push(cur);
+      cur = { title: line.replace('### ',''), lines: [] };
+    } else if (cur && line.startsWith('- ')) {
+      cur.lines.push(line.slice(2));
+    }
+  }
+  if (cur) entries.push(cur);
+
+  if (!entries.length) {
+    el.innerHTML = '<div style="color:var(--text3);font-size:12px;padding:20px 16px;">No activity logged yet</div>';
+    return;
+  }
+
+  el.innerHTML = entries.slice(0, 10).map(e => `
+    <div class="notes-entry">
+      <div class="notes-ts">${e.title}</div>
+      ${e.lines.slice(0,6).map(l => `<div class="notes-line">· ${l}</div>`).join('')}
+      ${e.lines.length > 6 ? `<div style="color:var(--text3);font-size:11px;margin-top:2px;">+${e.lines.length-6} more lines…</div>` : ''}
+    </div>
+  `).join('');
+}
+
+(function init() {
+  PAT = localStorage.getItem('ct_pat') || '';
+  REPO = localStorage.getItem('ct_repo') || 'JL273/Bot';
+  if (PAT) {
+    document.getElementById('pat-input').value = PAT;
+    document.getElementById('repo-input').value = REPO;
+    showApp();
+  }
+})();
+</script>
+</body>
+</html>
