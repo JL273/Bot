@@ -233,6 +233,45 @@
   /* Full-width card */
   .full { margin-bottom: 12px; }
 
+  /* Bot status */
+  .status-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 13px;
+    font-weight: 500;
+    padding: 3px 10px;
+    border-radius: 20px;
+  }
+  .status-pill.working { background: var(--green-dim); color: var(--green); }
+  .status-pill.sleeping { background: rgba(139,144,160,0.12); color: var(--text2); }
+  .status-dot { width: 6px; height: 6px; border-radius: 50%; flex-shrink: 0; }
+  .status-pill.working .status-dot { background: var(--green); animation: pulse 2s infinite; }
+  .status-pill.sleeping .status-dot { background: var(--text3); }
+
+  /* Orders table */
+  .orders-table { width: 100%; border-collapse: collapse; font-size: 12px; }
+  .orders-table th {
+    color: var(--text3);
+    font-weight: 500;
+    text-align: left;
+    padding: 8px 16px 6px;
+    border-bottom: 0.5px solid var(--border);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-size: 10px;
+  }
+  .orders-table td {
+    padding: 8px 16px;
+    border-bottom: 0.5px solid var(--border);
+    color: var(--text);
+    vertical-align: middle;
+  }
+  .orders-table tr:last-child td { border-bottom: none; }
+  .orders-table tr:hover td { background: rgba(255,255,255,0.02); }
+  .coin-cell { font-weight: 500; font-size: 13px; }
+  .mono { font-family: monospace; font-size: 11px; color: var(--text2); }
+
   /* Skeleton */
   .skel { background: var(--bg3); border-radius: 4px; animation: shimmer 1.4s infinite; }
   @keyframes shimmer { 0%,100%{opacity:0.5} 50%{opacity:1} }
@@ -311,6 +350,11 @@
         <div class="kpi-value neu" id="kpi-following">—</div>
         <div class="kpi-sub" id="kpi-following-sub"></div>
       </div>
+      <div class="kpi">
+        <div class="kpi-label">Bot status</div>
+        <div style="margin-top:6px" id="kpi-status"><span class="status-pill sleeping"><span class="status-dot"></span>Loading…</span></div>
+        <div class="kpi-sub" id="kpi-status-sub" style="margin-top:4px"></div>
+      </div>
     </div>
 
     <!-- Equity chart -->
@@ -371,6 +415,17 @@
         <ul class="data-list no-pad" id="trades-list">
           <li style="color:var(--text3);font-size:12px;padding:20px 16px;">No closed trades yet</li>
         </ul>
+      </div>
+    </div>
+
+    <!-- Placed orders -->
+    <div class="card full">
+      <div class="card-header">
+        <span class="card-title">Placed orders</span>
+        <span class="badge badge-blue" id="orders-count-badge">0</span>
+      </div>
+      <div id="orders-body">
+        <div style="color:var(--text3);font-size:12px;padding:20px 16px;">No orders placed yet</div>
       </div>
     </div>
 
@@ -480,9 +535,11 @@ async function loadAll() {
     const trades = await ghGet('paper_trades.json').catch(()=>[]);
 
     renderKPIs(portfolio, signals, wallets);
+    renderBotStatus(portfolio);
     renderEquityChart(portfolio);
     renderPositions(portfolio);
     renderSignals(signals);
+    renderOrders(signals, portfolio);
     renderTraders(wallets);
     renderTrades(trades);
     renderNotes(notes);
@@ -712,6 +769,83 @@ function renderTrades(trades) {
       </div>
     </li>`;
   }).join('');
+}
+
+function renderBotStatus(portfolio) {
+  const el = document.getElementById('kpi-status');
+  const sub = document.getElementById('kpi-status-sub');
+  if (!portfolio) return;
+
+  const history = portfolio.equity_history || [];
+  if (!history.length) {
+    el.innerHTML = '<span class="status-pill sleeping"><span class="status-dot"></span>No data yet</span>';
+    sub.textContent = '';
+    return;
+  }
+
+  const lastTs = new Date(history[history.length - 1].ts);
+  const ageMs = Date.now() - lastTs.getTime();
+  const ageMins = Math.round(ageMs / 60000);
+
+  // Working = last poll within 10 minutes
+  if (ageMs < 10 * 60 * 1000) {
+    el.innerHTML = '<span class="status-pill working"><span class="status-dot"></span>Working</span>';
+    sub.textContent = 'last poll ' + (ageMins < 1 ? 'just now' : ageMins + 'm ago');
+  } else {
+    el.innerHTML = '<span class="status-pill sleeping"><span class="status-dot"></span>Sleeping</span>';
+    sub.textContent = 'last poll ' + timeAgo(history[history.length - 1].ts);
+  }
+}
+
+function renderOrders(signals, portfolio) {
+  const el = document.getElementById('orders-body');
+  const badge = document.getElementById('orders-count-badge');
+
+  const newSignals = (signals || []).filter(s => s.type === 'NEW');
+  badge.textContent = newSignals.length;
+
+  if (!newSignals.length) {
+    el.innerHTML = '<div style="color:var(--text3);font-size:12px;padding:20px 16px;">No orders placed yet</div>';
+    return;
+  }
+
+  const openPositions = portfolio ? portfolio.open_positions || {} : {};
+
+  // Build a lookup of open positions by coin+side for status
+  const openKeys = new Set(Object.values(openPositions).map(p => p.coin + ':' + p.side));
+
+  const rows = [...newSignals].reverse().slice(0, 30).map(s => {
+    const isOpen = openKeys.has(s.coin + ':' + s.side);
+    const statusBadge = isOpen
+      ? '<span class="badge badge-green">Open</span>'
+      : '<span class="badge" style="background:rgba(139,144,160,0.12);color:var(--text2)">Closed</span>';
+    const sideClass = s.side === 'LONG' ? 'pos' : 'neg';
+    const entry = s.entry_price ? fmt$(s.entry_price) : '—';
+    const size = s.size ? s.size.toFixed(4) : '—';
+    const lev = s.leverage !== undefined ? 'x' + s.leverage : '—';
+    const val = s.position_value_usd ? fmt$(s.position_value_usd) : '—';
+
+    return `<tr>
+      <td class="coin-cell">${s.coin}</td>
+      <td><span class="${sideClass}" style="font-weight:500">${s.side}</span></td>
+      <td>${entry}</td>
+      <td>${size} ${lev}</td>
+      <td>${val}</td>
+      <td>${statusBadge}</td>
+      <td class="mono">${s.trader ? s.trader.slice(0,12)+'…' : '—'}</td>
+      <td style="color:var(--text3);font-size:11px">${timeAgo(s.ts)}</td>
+    </tr>`;
+  }).join('');
+
+  el.innerHTML = `<div style="overflow-x:auto">
+    <table class="orders-table">
+      <thead><tr>
+        <th>Coin</th><th>Side</th><th>Entry price</th><th>Size</th>
+        <th>Notional</th><th>Status</th><th>Trader</th><th>Placed</th>
+      </tr></thead>
+      <tbody>${rows}</tbody>
+    </table>
+  </div>`;
 }
 
 function renderNotes(text) {
