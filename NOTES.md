@@ -38,6 +38,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-18
 
+### 18:33 UTC — Daily refresh (Job A)
+- Leaderboard: 39162 traders fetched, 5 shortlisted
+- Shortlist change: +1 new, -1 dropped
+- #1 0x5f94a51948d2376ad34a6fadfa2544e651b74b96 acc=$14,729,580 month=$3,565,339 edge=3328bps
+- #2 0x60a8c761f39696b3b419f31dcda20b405cb685f6 acc=$30,649,105 month=$3,513,810 edge=863bps
+- #3 0x7dacca323e44f168494c779bb5e7483c468ef410 acc=$37,839,094 month=$8,511,720 edge=11161bps
+- #4 0x94dac1facdc4afd2614c3119447187b4143bc449 acc=$9,381,231 month=$2,399,017 edge=3095bps
+- #5 0xceec48581b3145a575508719f45da07dc57fa7ce acc=$14,642,274 month=$3,033,207 edge=2731bps
+- Current positions across the shortlist:
+-   0x5f94a51948d2376ad34a6fadfa2544e651b74b96... 13 positions: SHORT OP x5, SHORT SUI x10, SHORT kPEPE x10, SHORT APT x10, SHORT DOT x10, SHORT ADA x10, LONG NEAR x10, SHORT STRK x5, SHORT EIGEN x5, SHORT HYPE x10, SHORT TRUMP x8, SHORT WLFI x5, LONG LIT x5
+-   0x60a8c761f39696b3b419f31dcda20b405cb685f6... 2 positions: LONG BTC x20, LONG FARTCOIN x10
+-   0x7dacca323e44f168494c779bb5e7483c468ef410... 1 positions: SHORT HYPE x10
+-   0x94dac1facdc4afd2614c3119447187b4143bc449... 32 positions: LONG BNB x3, SHORT LTC x3, LONG ARB x3, SHORT XRP x3, SHORT BCH x3, SHORT AAVE x3, SHORT WLD x3, SHORT TRX x3, SHORT UNI x3, SHORT ZRO x3, SHORT TIA x3, SHORT FET x3, SHORT NEAR x3, SHORT TAO x3, SHORT ENA x3, LONG POL x3, SHORT XLM x3, SHORT HYPE x3, SHORT FARTCOIN x3, LONG TRUMP x3, SHORT IP x3, SHORT KAITO x3, SHORT XPL x3, LONG WLFI x3, SHORT ASTER x3, SHORT ZEC x3, SHORT MON x3, SHORT ICP x3, SHORT LIT x3, SHORT XMR x3, LONG AXS x3, SHORT DASH x3
+-   0xceec48581b3145a575508719f45da07dc57fa7ce... 1 positions: SHORT HYPE x5
 ### 16:05 UTC — Position poll (Job B)
 - 1 signal(s) detected:
 - NEW SHORT XRP (0x94dac1facdc4afd2614c3119447187b4143bc449)
