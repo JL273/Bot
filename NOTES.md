@@ -38,6 +38,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-18
 
+### 18:35 UTC — Position poll (Job B)
+- 2 signal(s) detected:
+- NEW LONG FARTCOIN (0x60a8c761f39696b3b419f31dcda20b405cb685f6)
+- NEW LONG BTC (0x60a8c761f39696b3b419f31dcda20b405cb685f6)
+- Portfolio equity: $10,584.20 (+5.84%)
 ### 18:33 UTC — Daily refresh (Job A)
 - Leaderboard: 39162 traders fetched, 5 shortlisted
 - Shortlist change: +1 new, -1 dropped

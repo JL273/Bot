@@ -1,5 +1,5 @@
 {
-  "cash": 897.4483193085089,
+  "cash": 809.9471081759292,
   "starting_cash": 10000.0,
   "open_positions": {
     "0xceec48581b3145a575508719f45da07dc57fa7ce:HYPE:SHORT": {
@@ -518,6 +518,28 @@
       "margin": 47.23412206886889,
       "notional": 141.70236620660668,
       "opened_at": "2026-06-18T16:05:27.589625+00:00"
+    },
+    "0x60a8c761f39696b3b419f31dcda20b405cb685f6:FARTCOIN:LONG": {
+      "trader": "0x60a8c761f39696b3b419f31dcda20b405cb685f6",
+      "coin": "FARTCOIN",
+      "side": "LONG",
+      "size": 1097.8294134286998,
+      "entry_price": 0.12262128,
+      "leverage": 3,
+      "margin": 44.87241596542545,
+      "notional": 134.61724789627635,
+      "opened_at": "2026-06-18T18:35:17.158380+00:00"
+    },
+    "0x60a8c761f39696b3b419f31dcda20b405cb685f6:BTC:LONG": {
+      "trader": "0x60a8c761f39696b3b419f31dcda20b405cb685f6",
+      "coin": "BTC",
+      "side": "LONG",
+      "size": 0.0020364436095802823,
+      "entry_price": 62798.88374999999,
+      "leverage": 3,
+      "margin": 42.62879516715417,
+      "notional": 127.88638550146251,
+      "opened_at": "2026-06-18T18:35:17.158380+00:00"
     }
   },
   "equity_history": [
@@ -3415,7 +3437,12 @@
       "ts": "2026-06-18T18:30:35.044096+00:00",
       "equity": 10566.290073126262,
       "cash": 897.4483193085089
+    },
+    {
+      "ts": "2026-06-18T18:35:18.748024+00:00",
+      "equity": 10584.204106523322,
+      "cash": 809.9471081759292
     }
   ],
-  "last_processed_signal_index": 46
+  "last_processed_signal_index": 48
 }
