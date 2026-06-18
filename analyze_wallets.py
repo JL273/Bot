@@ -97,7 +97,7 @@ def score_trader(row: dict) -> dict | None:
     }
 
 
-def main() -> dict:
+def main(top_n: int = TOP_N) -> dict:
     snapshot_path = _latest_snapshot_path()
     payload = json.loads(snapshot_path.read_text())
     rows = payload.get("leaderboardRows", payload if isinstance(payload, list) else [])
@@ -109,7 +109,7 @@ def main() -> dict:
             scored.append(result)
 
     scored.sort(key=lambda t: t["score"], reverse=True)
-    top_traders = scored[:TOP_N]
+    top_traders = scored[:top_n]
 
     output = {
         "generated_at": datetime.now(timezone.utc).isoformat(),

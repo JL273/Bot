@@ -7,6 +7,8 @@ import traceback
 from datetime import datetime, timezone
 from pathlib import Path
 
+import time
+
 import analyze_wallets
 import fetch_leaderboard
 import fetch_positions
@@ -22,6 +24,37 @@ def log(msg: str) -> None:
     print(line)
     with LOG_PATH.open("a") as f:
         f.write(line + "\n")
+
+
+def _is_live_on_clearinghouse(address: str) -> bool:
+    """Return True if the trader has a non-zero perp account OR recent standard perp fills.
+
+    Traders whose PnL comes from HyperEVM / vaults show account_value == 0 in
+    clearinghouseState — our polling can never see their positions. Skip them.
+    """
+    try:
+        data = fetch_positions.get_open_positions(address)
+        if data["account_value"] > 0:
+            return True
+        # Fall back: check for any fill in the last 7 days on a standard perp coin
+        import requests as _req
+        r = _req.post(
+            "https://api.hyperliquid.xyz/info",
+            json={"type": "userFills", "user": address},
+            headers={"Content-Type": "application/json"},
+            timeout=20,
+        )
+        fills = r.json() if isinstance(r.json(), list) else []
+        cutoff_ms = (time.time() - 7 * 86400) * 1000
+        for f in fills:
+            # Standard perp coins have no prefix; spot = '@', HyperEVM = 'xyz:'
+            coin = f.get("coin", "")
+            if not coin.startswith("@") and not coin.startswith("xyz:") and f.get("time", 0) >= cutoff_ms:
+                return True
+        return False
+    except Exception as exc:
+        log(f"Liveness check failed for {address}: {exc} — excluding")
+        return False
 
 
 def _load_prior_addresses() -> set[str]:
@@ -45,10 +78,35 @@ def main() -> int:
         leaderboard_count = len(payload.get("leaderboardRows", payload if isinstance(payload, list) else []))
         log(f"Leaderboard snapshot saved to {snapshot_path} ({leaderboard_count} traders)")
 
-        result = analyze_wallets.main()
-        top_traders = result["top_traders"]
+        # Score a wider candidate pool so we can drop HyperEVM/vault wallets
+        result = analyze_wallets.main(top_n=20)
+        candidates = result["top_traders"]
+        log(f"Scored {len(candidates)} candidates, running liveness checks…")
+
+        live_traders = []
+        for t in candidates:
+            if len(live_traders) >= 5:
+                break
+            addr = t["address"]
+            if _is_live_on_clearinghouse(addr):
+                live_traders.append(t)
+                log(f"  ✓ {addr} — active on clearinghouse")
+            else:
+                log(f"  ✗ {addr} — no clearinghouse activity (HyperEVM/vault), skipping")
+
+        # Overwrite active_wallets.json with the filtered live shortlist
+        import json as _json
+        from datetime import datetime as _dt, timezone as _tz
+        live_result = {
+            "generated_at": _dt.now(_tz.utc).isoformat(),
+            "filters": result["filters"],
+            "top_traders": live_traders,
+        }
+        analyze_wallets.OUTPUT_PATH.write_text(_json.dumps(live_result, indent=2))
+
+        top_traders = live_traders
         new_addresses = {t["address"] for t in top_traders}
-        log(f"Shortlist updated: {len(top_traders)} traders")
+        log(f"Shortlist updated: {len(top_traders)} live traders")
 
         position_lines = []
         for trader in top_traders:
