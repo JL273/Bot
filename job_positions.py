@@ -25,6 +25,10 @@ TIME_STOP_DAYS  = 5     # close if open >5 days and PnL is flat (within ±2%)
 # before we open a paper position. Set to 1 to disable (open on any signal).
 CONFLUENCE_MIN = 2
 
+# Daily profit pause: stop opening NEW positions once daily PnL reaches this %.
+# Existing positions continue running with SL/TP/time-stop rules.
+DAILY_PROFIT_PAUSE_PCT = 8.0
+
 
 def log(msg: str) -> None:
     LOG_PATH.parent.mkdir(parents=True, exist_ok=True)
@@ -40,6 +44,31 @@ def _key(p: dict) -> str:
 
 def _state_path(address: str) -> Path:
     return STATE_DIR / f"{address}.json"
+
+
+def _daily_pnl_pct(portfolio: dict) -> float:
+    """Return today's PnL as a % of starting cash using equity_history."""
+    history = portfolio.get("equity_history", [])
+    starting = portfolio.get("starting_cash", 10_000.0)
+    if not history or not starting:
+        return 0.0
+
+    today = datetime.now(timezone.utc).date().isoformat()
+
+    # Find the equity at the start of today (first entry from today).
+    # If there are no entries from today yet, fall back to the last entry before today.
+    today_entries = [e for e in history if e["ts"][:10] == today]
+    prior_entries = [e for e in history if e["ts"][:10] < today]
+
+    if today_entries:
+        day_open_equity = today_entries[0]["equity"]
+    elif prior_entries:
+        day_open_equity = prior_entries[-1]["equity"]
+    else:
+        day_open_equity = starting
+
+    current_equity = history[-1]["equity"]
+    return (current_equity - day_open_equity) / day_open_equity * 100 if day_open_equity else 0.0
 
 
 def _check_exits(portfolio: dict, signals: list, now_iso: str) -> list[str]:
@@ -164,14 +193,27 @@ def main() -> int:
 
         log(f"Confluence map: {confluence_map}")
 
+        # Check daily profit pause before opening any new positions
+        portfolio_snapshot = paper_engine.load_portfolio()
+        daily_pnl = _daily_pnl_pct(portfolio_snapshot)
+        pause_new = daily_pnl >= DAILY_PROFIT_PAUSE_PCT
+        if pause_new:
+            log(f"Daily profit pause active — today's PnL is +{daily_pnl:.2f}% (>= {DAILY_PROFIT_PAUSE_PCT}%). "
+                f"Skipping all NEW positions; exits still run.")
+
         # Pass 2: diff per trader, apply confluence filter to opens
         skipped_confluence = []
+        skipped_pause = []
         for addr, (curr_data, curr_map, prev_map) in fetch_results.items():
             opened_keys = set(curr_map) - set(prev_map)
             closed_keys = set(prev_map) - set(curr_map)
 
             for k in opened_keys:
                 p = curr_map[k]
+                if pause_new:
+                    skipped_pause.append(
+                        f"PAUSED {p['side']} {p['coin']} ({addr}) — daily profit limit reached")
+                    continue
                 count = confluence_map.get(k, 0)
                 if count >= CONFLUENCE_MIN:
                     signal = {"ts": now_iso, "trader": addr, "type": "NEW",
@@ -204,17 +246,25 @@ def main() -> int:
             portfolio = paper_engine.apply_new_signals()
             new_signal_lines.extend(exit_lines)
 
-        if new_signal_lines or skipped_confluence:
+        if new_signal_lines or skipped_confluence or skipped_pause:
             equity = portfolio["equity_history"][-1]["equity"] if portfolio["equity_history"] else portfolio["cash"]
             starting = portfolio["starting_cash"]
             pnl_pct = ((equity - starting) / starting * 100) if starting else 0.0
-            lines = [f"{len(new_signal_lines)} signal(s) acted on, {len(skipped_confluence)} skipped (confluence):"]
+            lines = [
+                f"{len(new_signal_lines)} signal(s) acted on, "
+                f"{len(skipped_confluence)} skipped (confluence), "
+                f"{len(skipped_pause)} paused (daily profit limit):"
+            ]
             lines.extend(new_signal_lines)
             if skipped_confluence:
                 lines.extend(skipped_confluence)
+            if skipped_pause:
+                lines.append(f"Daily PnL: +{daily_pnl:.2f}% — pause threshold {DAILY_PROFIT_PAUSE_PCT}% reached")
+                lines.extend(skipped_pause)
             lines.append(f"Portfolio equity: ${equity:,.2f} ({pnl_pct:+.2f}%)")
             notes.append_entry("Position poll (Job B)", lines)
-            log(f"{len(new_signal_lines)} signals processed, {len(skipped_confluence)} skipped.")
+            log(f"{len(new_signal_lines)} signals processed, {len(skipped_confluence)} skipped (confluence), "
+                f"{len(skipped_pause)} paused (daily limit).")
         else:
             log("No position changes.")
 
