@@ -649,5 +649,19 @@
     "unrealized_pnl": -168.47455113426278,
     "liquidation_price": 0,
     "exit_reason": "SL hit (-39.3% of margin)"
+  },
+  {
+    "ts": "2026-06-19T14:30:32.424206+00:00",
+    "trader": "0x94dac1facdc4afd2614c3119447187b4143bc449",
+    "type": "CLOSED",
+    "coin": "KAITO",
+    "side": "SHORT",
+    "size": 474.0085235968177,
+    "entry_price": 0.4743277175,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -15.283116725216486,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-20.4% of margin)"
   }
 ]
