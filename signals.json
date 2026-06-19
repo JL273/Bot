@@ -635,5 +635,19 @@
     "leverage": 20,
     "unrealized_pnl": -80.884,
     "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-06-19T14:15:21.806663+00:00",
+    "trader": "0x5f94a51948d2376ad34a6fadfa2544e651b74b96",
+    "type": "CLOSED",
+    "coin": "EIGEN",
+    "side": "SHORT",
+    "size": 6357.242356356043,
+    "entry_price": 0.2022988,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -168.47455113426278,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-39.3% of margin)"
   }
 ]
