@@ -17,9 +17,13 @@ SIGNALS_PATH = Path("signals.json")
 STATE_DIR = Path("state")
 
 # Exit thresholds (as % of margin)
-STOP_LOSS_PCT  = 20.0   # close if position is down >20% of margin
+STOP_LOSS_PCT   = 20.0  # close if position is down >20% of margin
 TAKE_PROFIT_PCT = 40.0  # close if position is up  >40% of margin
 TIME_STOP_DAYS  = 5     # close if open >5 days and PnL is flat (within ±2%)
+
+# Confluence: minimum number of followed traders holding the same coin+side
+# before we open a paper position. Set to 1 to disable (open on any signal).
+CONFLUENCE_MIN = 2
 
 
 def log(msg: str) -> None:
@@ -129,6 +133,11 @@ def main() -> int:
         new_signal_lines = []
         STATE_DIR.mkdir(parents=True, exist_ok=True)
 
+        # Pass 1: fetch all current positions, build confluence map
+        # confluence_map[coin:side] = number of traders currently holding it
+        fetch_results: dict[str, tuple[dict, dict]] = {}  # addr -> (curr_data, prev_map)
+        confluence_map: dict[str, int] = {}
+
         for trader in top_traders:
             addr = trader["address"]
             try:
@@ -137,8 +146,7 @@ def main() -> int:
                 log(f"Failed to fetch positions for {addr}: {exc}")
                 continue
 
-            curr_positions = curr_data["positions"]
-            curr_map = {_key(p): p for p in curr_positions}
+            curr_map = {_key(p): p for p in curr_data["positions"]}
 
             prev_positions = []
             state_path = _state_path(addr)
@@ -149,14 +157,32 @@ def main() -> int:
                     prev_positions = []
             prev_map = {_key(p): p for p in prev_positions}
 
+            fetch_results[addr] = (curr_data, curr_map, prev_map)
+
+            for k in curr_map:
+                confluence_map[k] = confluence_map.get(k, 0) + 1
+
+        log(f"Confluence map: {confluence_map}")
+
+        # Pass 2: diff per trader, apply confluence filter to opens
+        skipped_confluence = []
+        for addr, (curr_data, curr_map, prev_map) in fetch_results.items():
             opened_keys = set(curr_map) - set(prev_map)
             closed_keys = set(prev_map) - set(curr_map)
 
             for k in opened_keys:
                 p = curr_map[k]
-                signal = {"ts": now_iso, "trader": addr, "type": "NEW", **p}
-                signals.append(signal)
-                new_signal_lines.append(f"NEW {p['side']} {p['coin']} ({addr})")
+                count = confluence_map.get(k, 0)
+                if count >= CONFLUENCE_MIN:
+                    signal = {"ts": now_iso, "trader": addr, "type": "NEW",
+                              "confluence": count, **p}
+                    signals.append(signal)
+                    new_signal_lines.append(
+                        f"NEW {p['side']} {p['coin']} ({addr}) [{count}/{len(top_traders)} traders]")
+                else:
+                    skipped_confluence.append(
+                        f"SKIPPED {p['side']} {p['coin']} ({addr}) — only {count}/{len(top_traders)} traders")
+                    log(f"Confluence miss: {p['side']} {p['coin']} — {count} trader(s), need {CONFLUENCE_MIN}")
 
             for k in closed_keys:
                 p = prev_map[k]
@@ -164,7 +190,7 @@ def main() -> int:
                 signals.append(signal)
                 new_signal_lines.append(f"CLOSED {p['side']} {p['coin']} ({addr})")
 
-            state_path.write_text(json.dumps(curr_data, indent=2))
+            _state_path(addr).write_text(json.dumps(curr_data, indent=2))
 
         if new_signal_lines:
             SIGNALS_PATH.write_text(json.dumps(signals, indent=2))
@@ -178,15 +204,17 @@ def main() -> int:
             portfolio = paper_engine.apply_new_signals()
             new_signal_lines.extend(exit_lines)
 
-        if new_signal_lines:
+        if new_signal_lines or skipped_confluence:
             equity = portfolio["equity_history"][-1]["equity"] if portfolio["equity_history"] else portfolio["cash"]
             starting = portfolio["starting_cash"]
             pnl_pct = ((equity - starting) / starting * 100) if starting else 0.0
-            lines = [f"{len(new_signal_lines)} signal(s) detected:"]
+            lines = [f"{len(new_signal_lines)} signal(s) acted on, {len(skipped_confluence)} skipped (confluence):"]
             lines.extend(new_signal_lines)
+            if skipped_confluence:
+                lines.extend(skipped_confluence)
             lines.append(f"Portfolio equity: ${equity:,.2f} ({pnl_pct:+.2f}%)")
             notes.append_entry("Position poll (Job B)", lines)
-            log(f"{len(new_signal_lines)} signals processed.")
+            log(f"{len(new_signal_lines)} signals processed, {len(skipped_confluence)} skipped.")
         else:
             log("No position changes.")
 
