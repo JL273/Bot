@@ -663,5 +663,33 @@
     "unrealized_pnl": -15.283116725216486,
     "liquidation_price": 0,
     "exit_reason": "SL hit (-20.4% of margin)"
+  },
+  {
+    "ts": "2026-06-19T17:30:25.392860+00:00",
+    "trader": "0xa9b95f2a2e7ef219021efc5c04c32761b8553bbd",
+    "type": "NEW",
+    "confluence": 2,
+    "coin": "HYPE",
+    "side": "LONG",
+    "size": 493500.0,
+    "entry_price": 39.6337,
+    "position_value_usd": 34406820.0,
+    "leverage": 10,
+    "unrealized_pnl": 14847586.21172,
+    "liquidation_price": 41.7238668438
+  },
+  {
+    "ts": "2026-06-19T17:30:25.392860+00:00",
+    "trader": "0xbcfbbf38789d63721e800f1f8595af816e52c417",
+    "type": "NEW",
+    "confluence": 2,
+    "coin": "HYPE",
+    "side": "LONG",
+    "size": 44500.34,
+    "entry_price": 56.5507,
+    "position_value_usd": 3102563.7048,
+    "leverage": 3,
+    "unrealized_pnl": 586038.10577,
+    "liquidation_price": 51.2293378751
   }
 ]
