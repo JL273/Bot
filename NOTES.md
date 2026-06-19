@@ -127,6 +127,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-19
 
+### 17:27 UTC — Daily refresh (Job A)
+- Leaderboard: 39275 traders fetched, 5 shortlisted
+- Shortlist change: +2 new, -2 dropped
+- #1 0xa9b95f2a2e7ef219021efc5c04c32761b8553bbd acc=$33,846,731 month=$17,991,224 edge=5932bps
+- #2 0x7dacca323e44f168494c779bb5e7483c468ef410 acc=$38,527,611 month=$8,854,221 edge=11610bps
+- #3 0xbcfbbf38789d63721e800f1f8595af816e52c417 acc=$1,959,758 month=$931,135 edge=872bps
+- #4 0x94dac1facdc4afd2614c3119447187b4143bc449 acc=$9,646,900 month=$2,553,104 edge=3319bps
+- #5 0xceec48581b3145a575508719f45da07dc57fa7ce acc=$14,471,576 month=$3,281,290 edge=3005bps
+- Current positions across the shortlist:
+-   0xa9b95f2a2e7ef219021efc5c04c32761b8553bbd... 3 positions: SHORT BTC x20, SHORT ETH x20, LONG HYPE x10
+-   0x7dacca323e44f168494c779bb5e7483c468ef410... 1 positions: SHORT HYPE x10
+-   0xbcfbbf38789d63721e800f1f8595af816e52c417... 1 positions: LONG HYPE x3
+-   0x94dac1facdc4afd2614c3119447187b4143bc449... 32 positions: LONG BNB x3, SHORT LTC x3, LONG ARB x3, SHORT XRP x3, SHORT BCH x3, SHORT AAVE x3, SHORT WLD x3, SHORT TRX x3, SHORT UNI x3, SHORT ZRO x3, SHORT TIA x3, SHORT FET x3, SHORT NEAR x3, SHORT TAO x3, SHORT ENA x3, LONG POL x3, SHORT XLM x3, SHORT HYPE x3, SHORT FARTCOIN x3, LONG TRUMP x3, SHORT IP x3, SHORT KAITO x3, SHORT XPL x3, LONG WLFI x3, SHORT ASTER x3, SHORT ZEC x3, SHORT MON x3, SHORT ICP x3, SHORT LIT x3, SHORT XMR x3, LONG AXS x3, SHORT DASH x3
+-   0xceec48581b3145a575508719f45da07dc57fa7ce... 1 positions: SHORT HYPE x5
 ### 14:30 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT KAITO [SL hit (-20.4% of margin)]
