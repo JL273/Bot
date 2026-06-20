@@ -705,5 +705,19 @@
     "unrealized_pnl": -77.76233773504889,
     "liquidation_price": 0,
     "exit_reason": "SL hit (-20.1% of margin)"
+  },
+  {
+    "ts": "2026-06-20T02:00:34.106139+00:00",
+    "trader": "0x94dac1facdc4afd2614c3119447187b4143bc449",
+    "type": "CLOSED",
+    "coin": "AXS",
+    "side": "LONG",
+    "size": 365.83598918541924,
+    "entry_price": 0.9751373249999999,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 52.959396405752344,
+    "liquidation_price": 0,
+    "exit_reason": "TP hit (+44.5% of margin)"
   }
 ]
