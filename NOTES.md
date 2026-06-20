@@ -163,6 +163,14 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-20
 
+### 15:30 UTC — Position poll (Job B)
+- 0 signal(s) acted on, 5 skipped (confluence), 0 paused (daily profit limit):
+- SKIPPED LONG ONDO (0x6555e1cc97d3cba6eaddebbcd7ca51d75771e0b8) — only 1/5 traders
+- SKIPPED LONG ENA (0x6555e1cc97d3cba6eaddebbcd7ca51d75771e0b8) — only 1/5 traders
+- SKIPPED LONG LDO (0x6555e1cc97d3cba6eaddebbcd7ca51d75771e0b8) — only 1/5 traders
+- SKIPPED LONG WLFI (0x6555e1cc97d3cba6eaddebbcd7ca51d75771e0b8) — only 1/5 traders
+- SKIPPED LONG STBL (0x6555e1cc97d3cba6eaddebbcd7ca51d75771e0b8) — only 1/5 traders
+- Portfolio equity: $10,363.44 (+3.63%)
 ### 15:25 UTC — Daily refresh (Job A)
 - Leaderboard: 39313 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
