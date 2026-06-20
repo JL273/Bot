@@ -163,6 +163,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-20
 
+### 15:25 UTC — Daily refresh (Job A)
+- Leaderboard: 39313 traders fetched, 5 shortlisted
+- Shortlist change: +3 new, -3 dropped
+- #1 0xa9b95f2a2e7ef219021efc5c04c32761b8553bbd acc=$33,480,633 month=$13,848,114 edge=4566bps
+- #2 0x5f94a51948d2376ad34a6fadfa2544e651b74b96 acc=$14,924,869 month=$2,681,209 edge=2503bps
+- #3 0x6555e1cc97d3cba6eaddebbcd7ca51d75771e0b8 acc=$31,362,983 month=$5,067,077 edge=5704bps
+- #4 0xbcfbbf38789d63721e800f1f8595af816e52c417 acc=$1,957,681 month=$624,720 edge=585bps
+- #5 0xefba0f56eef05f6a7d614ce519d2e284b46d3583 acc=$6,918,986 month=$661,643 edge=568bps
+- Current positions across the shortlist:
+-   0xa9b95f2a2e7ef219021efc5c04c32761b8553bbd... 3 positions: SHORT BTC x20, SHORT ETH x20, LONG HYPE x10
+-   0x5f94a51948d2376ad34a6fadfa2544e651b74b96... 13 positions: SHORT OP x5, SHORT SUI x10, SHORT kPEPE x10, SHORT APT x10, SHORT DOT x10, SHORT ADA x10, LONG NEAR x10, SHORT STRK x5, SHORT EIGEN x5, SHORT HYPE x10, SHORT TRUMP x8, SHORT WLFI x5, LONG LIT x5
+-   0x6555e1cc97d3cba6eaddebbcd7ca51d75771e0b8... 5 positions: LONG LDO x1, LONG ONDO x1, LONG ENA x1, LONG WLFI x1, LONG STBL x1
+-   0xbcfbbf38789d63721e800f1f8595af816e52c417... 1 positions: LONG HYPE x3
+-   0xefba0f56eef05f6a7d614ce519d2e284b46d3583... no open positions
 ### 14:05 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT LONG WLFI [SL hit (-20.7% of margin)]
