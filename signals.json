@@ -733,5 +733,19 @@
     "unrealized_pnl": 37.52402769038321,
     "liquidation_price": 0,
     "exit_reason": "TP hit (+42.9% of margin)"
+  },
+  {
+    "ts": "2026-06-20T14:05:20.464246+00:00",
+    "trader": "0x94dac1facdc4afd2614c3119447187b4143bc449",
+    "type": "CLOSED",
+    "coin": "WLFI",
+    "side": "LONG",
+    "size": 2954.327328318413,
+    "entry_price": 0.06198697799999999,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -12.611958369390061,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-20.7% of margin)"
   }
 ]
