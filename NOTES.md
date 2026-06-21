@@ -204,6 +204,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-21
 
+### 15:31 UTC — Daily refresh (Job A)
+- Leaderboard: 39299 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+- #1 0x6555e1cc97d3cba6eaddebbcd7ca51d75771e0b8 acc=$31,033,120 month=$2,967,982 edge=3341bps
+- #2 0xceec48581b3145a575508719f45da07dc57fa7ce acc=$14,273,668 month=$1,624,647 edge=2334bps
+- #3 0xcf67e4da9e9cd38c0afd26338d0fbddb3036eb24 acc=$3,562,439 month=$1,090,864 edge=390bps
+- #4 0x77746ff04a7014752ab12d81d531aa5e50775343 acc=$7,043,986 month=$1,461,749 edge=768bps
+- #5 0xa3555141f2ea7ed01e1d5a6589c4355ccaa31bf5 acc=$902,965 month=$471,286 edge=545bps
+- Current positions across the shortlist:
+-   0x6555e1cc97d3cba6eaddebbcd7ca51d75771e0b8... 5 positions: LONG LDO x1, LONG ONDO x1, LONG ENA x1, LONG WLFI x1, LONG STBL x1
+-   0xceec48581b3145a575508719f45da07dc57fa7ce... 1 positions: SHORT HYPE x5
+-   0xcf67e4da9e9cd38c0afd26338d0fbddb3036eb24... no open positions
+-   0x77746ff04a7014752ab12d81d531aa5e50775343... 1 positions: SHORT HYPE x10
+-   0xa3555141f2ea7ed01e1d5a6589c4355ccaa31bf5... 1 positions: SHORT BTC x7
 ### 11:05 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT IP [SL hit (-21.2% of margin)]
