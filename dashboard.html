@@ -514,11 +514,27 @@ function showError(msg) {
   setTimeout(()=>{ el.style.display='none'; }, 8000);
 }
 
+async function fetchMarkPrices() {
+  try {
+    const r = await fetch('https://api.hyperliquid.xyz/info', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ type: 'allMids' })
+    });
+    if (!r.ok) return {};
+    const data = await r.json();
+    const out = {};
+    for (const [k, v] of Object.entries(data)) out[k] = parseFloat(v);
+    return out;
+  } catch { return {}; }
+}
+
 async function loadAll() {
   try {
-    const [portfolio, wallets] = await Promise.all([
+    const [portfolio, wallets, marks] = await Promise.all([
       ghGet('portfolio.json').catch(()=>null),
       ghGet('active_wallets.json').catch(()=>null),
+      fetchMarkPrices(),
     ]);
 
     const signals = await ghGet('signals.json').catch(()=>[]);
@@ -527,7 +543,7 @@ async function loadAll() {
     renderKPIs(portfolio, signals, wallets, trades);
     renderBotStatus(portfolio);
     renderEquityChart(portfolio);
-    renderPositions(portfolio);
+    renderPositions(portfolio, marks);
     renderSignals(signals);
     renderOrders(signals, portfolio);
     renderTraders(wallets);
@@ -728,7 +744,7 @@ function renderEquityChart(portfolio) {
   equityChart = new Chart(document.getElementById('equityChart'), chartConfig);
 }
 
-function renderPositions(portfolio) {
+function renderPositions(portfolio, marks) {
   if (!portfolio) return;
   const positions = Object.values(portfolio.open_positions||{});
   const list = document.getElementById('positions-list');
@@ -738,18 +754,29 @@ function renderPositions(portfolio) {
     list.innerHTML = '<li style="color:var(--text3);font-size:12px;padding:20px 16px;">No open positions</li>';
     return;
   }
-  list.innerHTML = positions.slice(0,8).map(p => {
-    const sideClass = p.side === 'LONG' ? 'pos' : 'neg';
+  list.innerHTML = positions.slice(0,12).map(p => {
     const sideBadge = p.side === 'LONG' ? 'badge-green' : 'badge-red';
+    const mark = marks && marks[p.coin];
+    let pnlHtml = '';
+    if (mark && p.entry_price && p.size) {
+      const unrealized = p.side === 'LONG'
+        ? (mark - p.entry_price) * p.size
+        : (p.entry_price - mark) * p.size;
+      const pnlPct = p.margin ? (unrealized / p.margin * 100) : 0;
+      const cls = unrealized >= 0 ? 'pos' : 'neg';
+      pnlHtml = `<div class="li-val ${cls}" style="font-size:13px">${fmtPnl(unrealized)}</div>
+                 <div class="li-time ${cls}">${fmtPct(pnlPct)} on margin</div>`;
+    } else {
+      pnlHtml = `<div class="li-val" style="font-size:11px;color:var(--text2);">no price</div>
+                 <div class="li-time">margin ${fmt$(p.margin)}</div>`;
+    }
+    const markLine = mark ? `mark ${fmt$(mark)} · ` : '';
     return `<li>
       <div class="li-main">
         <div class="li-title"><span class="badge ${sideBadge}" style="margin-right:6px">${p.side}</span>${p.coin} <span style="color:var(--text3);font-size:11px;">x${p.leverage}</span></div>
-        <div class="li-sub">entry ${fmt$(p.entry_price)} · size ${p.size.toFixed(4)}</div>
+        <div class="li-sub">${markLine}entry ${fmt$(p.entry_price)}</div>
       </div>
-      <div class="li-right">
-        <div class="li-val" style="font-size:11px;color:var(--text2);">${p.trader ? p.trader.slice(0,10)+'…' : ''}</div>
-        <div class="li-time">margin ${fmt$(p.margin)}</div>
-      </div>
+      <div class="li-right">${pnlHtml}</div>
     </li>`;
   }).join('');
 }
