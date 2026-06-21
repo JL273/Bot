@@ -839,9 +839,22 @@ function renderTrades(trades) {
   }
   list.innerHTML = recent.map(t => {
     const pnlClass2 = t.pnl >= 0 ? 'pos' : 'neg';
+    const reason = t.exit_reason || 'trader';
+    let reasonBadge;
+    if (reason === 'trader') {
+      reasonBadge = '<span class="badge badge-blue" style="font-size:10px">copy trader</span>';
+    } else if (reason.startsWith('SL')) {
+      reasonBadge = '<span class="badge badge-red" style="font-size:10px">stop-loss</span>';
+    } else if (reason.startsWith('TP')) {
+      reasonBadge = '<span class="badge badge-green" style="font-size:10px">take-profit</span>';
+    } else if (reason.startsWith('time')) {
+      reasonBadge = '<span class="badge badge-amber" style="font-size:10px">time-stop</span>';
+    } else {
+      reasonBadge = `<span class="badge" style="font-size:10px;background:var(--bg3);color:var(--text2)">${reason}</span>`;
+    }
     return `<li>
       <div class="li-main">
-        <div class="li-title">${t.side} ${t.coin} <span style="color:var(--text3);font-size:11px;">x${t.leverage}</span></div>
+        <div class="li-title">${t.side} ${t.coin} <span style="color:var(--text3);font-size:11px;">x${t.leverage}</span> ${reasonBadge}</div>
         <div class="li-sub">entry ${fmt$(t.entry_price)} → exit ${fmt$(t.exit_price)}</div>
       </div>
       <div class="li-right">

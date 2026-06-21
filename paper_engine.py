@@ -176,6 +176,8 @@ def close_position(portfolio: dict, signal: dict, mark: float) -> None:
     trade["total_slippage_bps"] = round(
         pos.get("entry_slippage_bps", 0) + exit_slippage_bps, 2
     )
+    # "trader" = copy trader closed it; anything else = our own rule triggered
+    trade["exit_reason"] = signal.get("exit_reason", "trader")
 
     trades = []
     if TRADES_PATH.exists():
