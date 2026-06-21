@@ -747,5 +747,19 @@
     "unrealized_pnl": -12.611958369390061,
     "liquidation_price": 0,
     "exit_reason": "SL hit (-20.7% of margin)"
+  },
+  {
+    "ts": "2026-06-21T11:05:17.495156+00:00",
+    "trader": "0x94dac1facdc4afd2614c3119447187b4143bc449",
+    "type": "CLOSED",
+    "coin": "IP",
+    "side": "SHORT",
+    "size": 1262.8217282591977,
+    "entry_price": 0.313013415,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -27.979816962021825,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-21.2% of margin)"
   }
 ]

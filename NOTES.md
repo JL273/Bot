@@ -201,3 +201,10 @@ _Auto-generated. Newest entry at top._
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT LONG AXS [TP hit (+44.5% of margin)]
 - Portfolio equity: $10,488.85 (+4.89%)
+
+## 2026-06-21
+
+### 11:05 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT IP [SL hit (-21.2% of margin)]
+- Portfolio equity: $10,448.24 (+4.48%)
