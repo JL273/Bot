@@ -106,5 +106,27 @@
     "pnl": -28.204745119114104,
     "pnl_pct": -21.406143752563604,
     "total_slippage_bps": 5.31
+  },
+  {
+    "trader": "0x94dac1facdc4afd2614c3119447187b4143bc449",
+    "coin": "XLM",
+    "side": "SHORT",
+    "size": 2625.553881686825,
+    "entry_price": 0.23887550250000003,
+    "leverage": 3,
+    "margin": 209.06016760958866,
+    "notional": 627.180502828766,
+    "opened_at": "2026-06-18T08:05:21.071969+00:00",
+    "exit_price": 0.20694,
+    "exit_fee": 0.2716660601381358,
+    "total_fees": 0.5852563115525188,
+    "exit_slippage_bps": 0.24,
+    "exit_fill_method": "book",
+    "closed_at": "2026-06-22T16:10:02.636769+00:00",
+    "gross_pnl": 83.84838255249436,
+    "pnl": 83.26312624094184,
+    "pnl_pct": 39.827350754081635,
+    "total_slippage_bps": 0.24,
+    "exit_reason": "TP hit (+40.2% of margin)"
   }
 ]

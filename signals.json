@@ -775,5 +775,19 @@
     "leverage": 10,
     "unrealized_pnl": -9521.163466,
     "liquidation_price": 123.5091089045
+  },
+  {
+    "ts": "2026-06-22T16:10:02.636769+00:00",
+    "trader": "0x94dac1facdc4afd2614c3119447187b4143bc449",
+    "type": "CLOSED",
+    "coin": "XLM",
+    "side": "SHORT",
+    "size": 2625.553881686825,
+    "entry_price": 0.23887550250000003,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 84.05842686302937,
+    "liquidation_price": 0,
+    "exit_reason": "TP hit (+40.2% of margin)"
   }
 ]
