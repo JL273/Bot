@@ -12,6 +12,7 @@ STARTING_CASH = 10_000.0
 POSITION_PCT = 0.05  # 5% of cash per signal
 MAX_LEVERAGE = 3
 SLIPPAGE_BPS_FALLBACK = 10  # used only when L2 book fetch fails
+TAKER_FEE = 0.0005  # 0.05% taker fee on notional, charged on both entry and exit
 
 PORTFOLIO_PATH = Path("portfolio.json")
 SIGNALS_PATH = Path("signals.json")
@@ -124,7 +125,7 @@ def open_position(portfolio: dict, signal: dict, mark: float) -> None:
     fill_price, fill_method = get_fill_price(coin, side, notional, mark)
     size = notional / fill_price
 
-    # Slippage vs mid for logging
+    entry_fee = notional * TAKER_FEE
     slippage_bps = abs(fill_price - mark) / mark * 10_000 if mark else 0.0
 
     key = _position_key(signal["trader"], coin, side)
@@ -134,6 +135,7 @@ def open_position(portfolio: dict, signal: dict, mark: float) -> None:
         "side": side,
         "size": size,
         "entry_price": fill_price,
+        "entry_fee": entry_fee,
         "entry_slippage_bps": round(slippage_bps, 2),
         "entry_fill_method": fill_method,
         "leverage": leverage,
@@ -141,7 +143,7 @@ def open_position(portfolio: dict, signal: dict, mark: float) -> None:
         "notional": notional,
         "opened_at": signal.get("ts"),
     }
-    portfolio["cash"] = cash - margin
+    portfolio["cash"] = cash - margin - entry_fee
 
 
 def close_position(portfolio: dict, signal: dict, mark: float) -> None:
@@ -157,22 +159,31 @@ def close_position(portfolio: dict, signal: dict, mark: float) -> None:
     close_notional = pos["size"] * mark  # approximate notional to walk the book
     exit_price, exit_method = get_fill_price(coin, exit_side, close_notional, mark)
 
-    if side == "LONG":
-        pnl = (exit_price - pos["entry_price"]) * pos["size"]
-    else:
-        pnl = (pos["entry_price"] - exit_price) * pos["size"]
+    exit_notional = pos["size"] * exit_price
+    exit_fee = exit_notional * TAKER_FEE
+    entry_fee = pos.get("entry_fee", pos["notional"] * TAKER_FEE)
+    total_fees = entry_fee + exit_fee
 
-    portfolio["cash"] += pos["margin"] + pnl
+    if side == "LONG":
+        gross_pnl = (exit_price - pos["entry_price"]) * pos["size"]
+    else:
+        gross_pnl = (pos["entry_price"] - exit_price) * pos["size"]
+
+    net_pnl = gross_pnl - total_fees
+    portfolio["cash"] += pos["margin"] + net_pnl
 
     exit_slippage_bps = abs(exit_price - mark) / mark * 10_000 if mark else 0.0
 
     trade = dict(pos)
     trade["exit_price"] = exit_price
+    trade["exit_fee"] = exit_fee
+    trade["total_fees"] = total_fees
     trade["exit_slippage_bps"] = round(exit_slippage_bps, 2)
     trade["exit_fill_method"] = exit_method
     trade["closed_at"] = signal.get("ts")
-    trade["pnl"] = pnl
-    trade["pnl_pct"] = (pnl / pos["margin"] * 100) if pos["margin"] else 0.0
+    trade["gross_pnl"] = gross_pnl
+    trade["pnl"] = net_pnl  # net of fees — this is what hits the portfolio
+    trade["pnl_pct"] = (net_pnl / pos["margin"] * 100) if pos["margin"] else 0.0
     trade["total_slippage_bps"] = round(
         pos.get("entry_slippage_bps", 0) + exit_slippage_bps, 2
     )

@@ -855,7 +855,7 @@ function renderTrades(trades) {
     return `<li>
       <div class="li-main">
         <div class="li-title">${t.side} ${t.coin} <span style="color:var(--text3);font-size:11px;">x${t.leverage}</span> ${reasonBadge}</div>
-        <div class="li-sub">entry ${fmt$(t.entry_price)} → exit ${fmt$(t.exit_price)}</div>
+        <div class="li-sub">entry ${fmt$(t.entry_price)} → exit ${fmt$(t.exit_price)}${t.total_fees ? ' · fees -'+fmt$(t.total_fees) : ''}</div>
       </div>
       <div class="li-right">
         <div class="li-val ${pnlClass2}">${fmtPnl(t.pnl)}</div>
