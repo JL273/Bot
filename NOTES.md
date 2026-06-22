@@ -230,6 +230,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-22
 
+### 20:18 UTC — Daily refresh (Job A)
+- Leaderboard: 39374 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+- #1 0x5272f37ecaa073e5a0ea07618145939e5e6cfcd9 acc=$1,077,499 month=$653,708 edge=795bps
+- #2 0x60a8c761f39696b3b419f31dcda20b405cb685f6 acc=$31,469,099 month=$3,803,973 edge=1008bps
+- #3 0x7dacca323e44f168494c779bb5e7483c468ef410 acc=$37,985,895 month=$4,966,666 edge=8894bps
+- #4 0xceec48581b3145a575508719f45da07dc57fa7ce acc=$14,255,857 month=$2,051,803 edge=2947bps
+- #5 0x4f7634c03ec4e87e14725c84913ade523c6fad5a acc=$6,259,343 month=$776,068 edge=173bps
+- Current positions across the shortlist:
+-   0x5272f37ecaa073e5a0ea07618145939e5e6cfcd9... 2 positions: SHORT ETH x5, SHORT SOL x5
+-   0x60a8c761f39696b3b419f31dcda20b405cb685f6... 2 positions: LONG BTC x20, LONG FARTCOIN x10
+-   0x7dacca323e44f168494c779bb5e7483c468ef410... 1 positions: SHORT HYPE x10
+-   0xceec48581b3145a575508719f45da07dc57fa7ce... 1 positions: SHORT HYPE x5
+-   0x4f7634c03ec4e87e14725c84913ade523c6fad5a... 2 positions: SHORT NEAR x10, SHORT HYPE x10
 ### 16:10 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT XLM [TP hit (+40.2% of margin)]
