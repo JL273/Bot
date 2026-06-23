@@ -530,5 +530,27 @@
     "pnl_pct": -2.1186309312782665,
     "total_slippage_bps": 0.24,
     "exit_reason": "time-stop (5d open, flat)"
+  },
+  {
+    "trader": "0x5f94a51948d2376ad34a6fadfa2544e651b74b96",
+    "coin": "APT",
+    "side": "SHORT",
+    "size": 1382.3918249241058,
+    "entry_price": 0.649675,
+    "leverage": 3,
+    "margin": 299.36846961918945,
+    "notional": 898.1054088575684,
+    "opened_at": "2026-06-18T08:05:21.071969+00:00",
+    "exit_price": 0.6465560018554247,
+    "exit_fee": 0.4468968656602771,
+    "total_fees": 0.8959495700890613,
+    "exit_slippage_bps": 2.41,
+    "exit_fill_method": "book",
+    "closed_at": "2026-06-23T20:30:02.478408+00:00",
+    "gross_pnl": 4.311677537014321,
+    "pnl": 3.4157279669252603,
+    "pnl_pct": 1.1409778629226466,
+    "total_slippage_bps": 2.41,
+    "exit_reason": "time-stop (5d open, flat)"
   }
 ]

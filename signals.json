@@ -1262,5 +1262,19 @@
     "unrealized_pnl": -0.7787029440948312,
     "liquidation_price": 0,
     "exit_reason": "time-stop (5d open, flat)"
+  },
+  {
+    "ts": "2026-06-23T20:30:02.478408+00:00",
+    "trader": "0x5f94a51948d2376ad34a6fadfa2544e651b74b96",
+    "type": "CLOSED",
+    "coin": "APT",
+    "side": "SHORT",
+    "size": 1382.3918249241058,
+    "entry_price": 0.649675,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 4.112615679149146,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (5d open, flat)"
   }
 ]
