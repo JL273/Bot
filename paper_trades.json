@@ -194,5 +194,27 @@
     "pnl_pct": -20.380002453490796,
     "total_slippage_bps": 1.0,
     "exit_reason": "SL hit (-20.1% of margin)"
+  },
+  {
+    "trader": "0x94dac1facdc4afd2614c3119447187b4143bc449",
+    "coin": "ARB",
+    "side": "LONG",
+    "size": 2933.905687446262,
+    "entry_price": 0.084912435,
+    "leverage": 3,
+    "margin": 83.04169199380368,
+    "notional": 249.12507598141104,
+    "opened_at": "2026-06-18T08:05:21.071969+00:00",
+    "exit_price": 0.07911531003371926,
+    "exit_fee": 0.11605842903600162,
+    "total_fees": 0.24062096702670716,
+    "exit_slippage_bps": 3.12,
+    "exit_fill_method": "book",
+    "closed_at": "2026-06-23T08:05:02.209145+00:00",
+    "gross_pnl": -17.008217909407776,
+    "pnl": -17.248838876434483,
+    "pnl_pct": -20.771299888400083,
+    "total_slippage_bps": 3.12,
+    "exit_reason": "SL hit (-20.4% of margin)"
   }
 ]

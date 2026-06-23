@@ -845,5 +845,19 @@
     "unrealized_pnl": -10.758559836807695,
     "liquidation_price": 0,
     "exit_reason": "SL hit (-20.1% of margin)"
+  },
+  {
+    "ts": "2026-06-23T08:05:02.209145+00:00",
+    "trader": "0x94dac1facdc4afd2614c3119447187b4143bc449",
+    "type": "CLOSED",
+    "coin": "ARB",
+    "side": "LONG",
+    "size": 2933.905687446262,
+    "entry_price": 0.084912435,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -16.93577987691384,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-20.4% of margin)"
   }
 ]
