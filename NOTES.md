@@ -262,6 +262,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-23
 
+### 14:30 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT TIA [time-stop (5d open, flat)]
+- Portfolio equity: $11,095.35 (+10.95%)
 ### 13:45 UTC — Position poll (Job B)
 - 3 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - CLOSED SHORT HYPE (0x6fededdbee4f25ad1ccb1bbc30dda3ed0fe9fc23)

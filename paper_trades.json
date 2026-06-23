@@ -332,5 +332,27 @@
     "pnl_pct": -0.0019985649242817527,
     "total_slippage_bps": 1.27,
     "exit_reason": "trader"
+  },
+  {
+    "trader": "0x94dac1facdc4afd2614c3119447187b4143bc449",
+    "coin": "TIA",
+    "side": "SHORT",
+    "size": 424.4938748896658,
+    "entry_price": 0.38934523000000004,
+    "leverage": 3,
+    "margin": 55.09155511750273,
+    "notional": 165.27466535250818,
+    "opened_at": "2026-06-18T08:05:21.071969+00:00",
+    "exit_price": 0.3887438559489334,
+    "exit_fee": 0.0825096928756564,
+    "total_fees": 0.1651470255519105,
+    "exit_slippage_bps": 11.95,
+    "exit_fill_method": "book",
+    "closed_at": "2026-06-23T14:30:02.926740+00:00",
+    "gross_pnl": 0.25527960119537324,
+    "pnl": 0.09013257564346275,
+    "pnl_pct": 0.16360506696756397,
+    "total_slippage_bps": 11.95,
+    "exit_reason": "time-stop (5d open, flat)"
   }
 ]

@@ -1024,5 +1024,19 @@
     "leverage": 10,
     "unrealized_pnl": 0.23064,
     "liquidation_price": 106514668.9196867
+  },
+  {
+    "ts": "2026-06-23T14:30:02.926740+00:00",
+    "trader": "0x94dac1facdc4afd2614c3119447187b4143bc449",
+    "type": "CLOSED",
+    "coin": "TIA",
+    "side": "SHORT",
+    "size": 424.4938748896658,
+    "entry_price": 0.38934523000000004,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 0.4521836103487306,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (5d open, flat)"
   }
 ]
