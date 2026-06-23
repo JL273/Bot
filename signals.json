@@ -859,5 +859,47 @@
     "unrealized_pnl": -16.93577987691384,
     "liquidation_price": 0,
     "exit_reason": "SL hit (-20.4% of margin)"
+  },
+  {
+    "ts": "2026-06-23T08:20:02.302005+00:00",
+    "trader": "0x94dac1facdc4afd2614c3119447187b4143bc449",
+    "type": "CLOSED",
+    "coin": "POL",
+    "side": "LONG",
+    "size": 4198.377613124426,
+    "entry_price": 0.07668632399999999,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -1.6471242986913666,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (5d open, flat)"
+  },
+  {
+    "ts": "2026-06-23T08:20:02.302005+00:00",
+    "trader": "0x94dac1facdc4afd2614c3119447187b4143bc449",
+    "type": "CLOSED",
+    "coin": "TRUMP",
+    "side": "LONG",
+    "size": 155.10268134257885,
+    "entry_price": 1.8733862249999997,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -20.79713302860428,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-21.5% of margin)"
+  },
+  {
+    "ts": "2026-06-23T08:20:02.302005+00:00",
+    "trader": "0x94dac1facdc4afd2614c3119447187b4143bc449",
+    "type": "CLOSED",
+    "coin": "FET",
+    "side": "SHORT",
+    "size": 1388.0680211609038,
+    "entry_price": 0.1988655175,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 38.95684733908171,
+    "liquidation_price": 0,
+    "exit_reason": "TP hit (+42.3% of margin)"
   }
 ]

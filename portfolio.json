@@ -1,5 +1,5 @@
 {
-  "cash": 2308.2498641002244,
+  "cash": 2619.825560972371,
   "starting_cash": 10000.0,
   "open_positions": {
     "0xceec48581b3145a575508719f45da07dc57fa7ce:HYPE:SHORT": {
@@ -266,17 +266,6 @@
       "notional": 338.9033114888487,
       "opened_at": "2026-06-18T08:05:21.071969+00:00"
     },
-    "0x94dac1facdc4afd2614c3119447187b4143bc449:POL:LONG": {
-      "trader": "0x94dac1facdc4afd2614c3119447187b4143bc449",
-      "coin": "POL",
-      "side": "LONG",
-      "size": 4198.377613124426,
-      "entry_price": 0.07668632399999999,
-      "leverage": 3,
-      "margin": 107.31938197146877,
-      "notional": 321.9581459144063,
-      "opened_at": "2026-06-18T08:05:21.071969+00:00"
-    },
     "0x94dac1facdc4afd2614c3119447187b4143bc449:ZRO:SHORT": {
       "trader": "0x94dac1facdc4afd2614c3119447187b4143bc449",
       "coin": "ZRO",
@@ -286,28 +275,6 @@
       "leverage": 3,
       "margin": 101.95341287289533,
       "notional": 305.86023861868597,
-      "opened_at": "2026-06-18T08:05:21.071969+00:00"
-    },
-    "0x94dac1facdc4afd2614c3119447187b4143bc449:TRUMP:LONG": {
-      "trader": "0x94dac1facdc4afd2614c3119447187b4143bc449",
-      "coin": "TRUMP",
-      "side": "LONG",
-      "size": 155.10268134257885,
-      "entry_price": 1.8733862249999997,
-      "leverage": 3,
-      "margin": 96.85574222925055,
-      "notional": 290.56722668775166,
-      "opened_at": "2026-06-18T08:05:21.071969+00:00"
-    },
-    "0x94dac1facdc4afd2614c3119447187b4143bc449:FET:SHORT": {
-      "trader": "0x94dac1facdc4afd2614c3119447187b4143bc449",
-      "coin": "FET",
-      "side": "SHORT",
-      "size": 1388.0680211609038,
-      "entry_price": 0.1988655175,
-      "leverage": 3,
-      "margin": 92.01295511778802,
-      "notional": 276.0388653533641,
       "opened_at": "2026-06-18T08:05:21.071969+00:00"
     },
     "0x94dac1facdc4afd2614c3119447187b4143bc449:UNI:SHORT": {
@@ -10059,7 +10026,17 @@
       "ts": "2026-06-23T08:15:04.630241+00:00",
       "equity": 11198.866327613401,
       "cash": 2308.2498641002244
+    },
+    {
+      "ts": "2026-06-23T08:20:04.577297+00:00",
+      "equity": 11427.116014669842,
+      "cash": 2308.2498641002244
+    },
+    {
+      "ts": "2026-06-23T08:20:07.393283+00:00",
+      "equity": 11425.991042211694,
+      "cash": 2619.825560972371
     }
   ],
-  "last_processed_signal_index": 64
+  "last_processed_signal_index": 67
 }

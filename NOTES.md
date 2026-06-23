@@ -262,6 +262,12 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-23
 
+### 08:20 UTC — Position poll (Job B)
+- 3 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT LONG POL [time-stop (5d open, flat)]
+- EXIT LONG TRUMP [SL hit (-21.5% of margin)]
+- EXIT SHORT FET [TP hit (+42.3% of margin)]
+- Portfolio equity: $11,425.99 (+14.26%)
 ### 08:05 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT LONG ARB [SL hit (-20.4% of margin)]
