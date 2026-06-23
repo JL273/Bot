@@ -1,26 +1,26 @@
 {
-  "account_value": 947725.375712,
+  "account_value": 937089.375712,
   "positions": [
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 2200.0,
       "entry_price": 2241.82,
-      "position_value_usd": 3656180.0,
+      "position_value_usd": 3666520.0,
       "leverage": 5,
-      "unrealized_pnl": 1275833.878531,
-      "liquidation_price": 2106.8334442442
+      "unrealized_pnl": 1265493.878531,
+      "liquidation_price": 2106.6982392531
     },
     {
       "coin": "SOL",
       "side": "SHORT",
       "size": 2000.0,
       "entry_price": 84.685,
-      "position_value_usd": 138634.0,
+      "position_value_usd": 138930.0,
       "leverage": 5,
-      "unrealized_pnl": 30736.0,
-      "liquidation_price": 556.356340919
+      "unrealized_pnl": 30440.0,
+      "liquidation_price": 551.2115604312
     }
   ],
-  "timestamp_ms": 1782223803388
+  "timestamp_ms": 1782224102461
 }
