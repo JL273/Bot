@@ -262,6 +262,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-23
 
+### 22:15 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT FARTCOIN [time-stop (5d open, flat)]
+- Portfolio equity: $11,151.91 (+11.52%)
 ### 20:30 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT APT [time-stop (5d open, flat)]

@@ -552,5 +552,27 @@
     "pnl_pct": 1.1409778629226466,
     "total_slippage_bps": 2.41,
     "exit_reason": "time-stop (5d open, flat)"
+  },
+  {
+    "trader": "0x94dac1facdc4afd2614c3119447187b4143bc449",
+    "coin": "FARTCOIN",
+    "side": "SHORT",
+    "size": 3353.506067399345,
+    "entry_price": 0.130604665,
+    "leverage": 3,
+    "margin": 145.9945121693863,
+    "notional": 437.98353650815886,
+    "opened_at": "2026-06-18T08:05:21.071969+00:00",
+    "exit_price": 0.13009246895036292,
+    "exit_fee": 0.21813294197400146,
+    "total_fees": 0.43712471022808086,
+    "exit_slippage_bps": 0.96,
+    "exit_fill_method": "book",
+    "closed_at": "2026-06-23T22:15:02.319374+00:00",
+    "gross_pnl": 1.7176525601559658,
+    "pnl": 1.280527849927885,
+    "pnl_pct": 0.877106838401012,
+    "total_slippage_bps": 0.96,
+    "exit_reason": "time-stop (5d open, flat)"
   }
 ]
