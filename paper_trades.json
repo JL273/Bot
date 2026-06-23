@@ -486,5 +486,27 @@
     "pnl_pct": 42.37710943531999,
     "total_slippage_bps": 2.24,
     "exit_reason": "TP hit (+42.7% of margin)"
+  },
+  {
+    "trader": "0x94dac1facdc4afd2614c3119447187b4143bc449",
+    "coin": "DASH",
+    "side": "SHORT",
+    "size": 5.677721229375169,
+    "entry_price": 35.73862175000001,
+    "leverage": 3,
+    "margin": 67.63797713952806,
+    "notional": 202.91393141858418,
+    "opened_at": "2026-06-18T08:05:21.071969+00:00",
+    "exit_price": 35.578671124689315,
+    "exit_fee": 0.10100288817880292,
+    "total_fees": 0.202459853888095,
+    "exit_slippage_bps": 2.72,
+    "exit_fill_method": "book",
+    "closed_at": "2026-06-23T18:25:01.865360+00:00",
+    "gross_pnl": 0.9081550609783513,
+    "pnl": 0.7056952070902562,
+    "pnl_pct": 1.0433416801252082,
+    "total_slippage_bps": 2.72,
+    "exit_reason": "time-stop (5d open, flat)"
   }
 ]

@@ -262,6 +262,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-23
 
+### 18:25 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT DASH [time-stop (5d open, flat)]
+- Portfolio equity: $11,348.58 (+13.49%)
 ### 17:25 UTC — Position poll (Job B)
 - 8 signal(s) acted on, 12 skipped (confluence), 0 paused (daily profit limit):
 - NEW SHORT SOL (0x5b5d51203a0f9079f8aeb098a6523a13f298c060) [4/5 traders]
