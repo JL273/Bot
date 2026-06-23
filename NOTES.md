@@ -259,3 +259,11 @@ _Auto-generated. Newest entry at top._
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT XLM [TP hit (+40.2% of margin)]
 - Portfolio equity: $10,373.74 (+3.74%)
+
+## 2026-06-23
+
+### 05:55 UTC — Position poll (Job B)
+- 2 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT LONG HYPE [SL hit (-20.1% of margin)]
+- EXIT LONG HYPE [SL hit (-20.1% of margin)]
+- Portfolio equity: $10,793.77 (+7.94%)
