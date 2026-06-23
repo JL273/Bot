@@ -1038,5 +1038,19 @@
     "unrealized_pnl": 0.4521836103487306,
     "liquidation_price": 0,
     "exit_reason": "time-stop (5d open, flat)"
+  },
+  {
+    "ts": "2026-06-23T14:50:02.518475+00:00",
+    "trader": "0x94dac1facdc4afd2614c3119447187b4143bc449",
+    "type": "CLOSED",
+    "coin": "AAVE",
+    "side": "SHORT",
+    "size": 2.345495073218401,
+    "entry_price": 74.17339475,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 0.9860338149318809,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (5d open, flat)"
   }
 ]
