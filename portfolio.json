@@ -1,5 +1,5 @@
 {
-  "cash": 3955.168565151596,
+  "cash": 2622.282868126132,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x5f94a51948d2376ad34a6fadfa2544e651b74b96:DOT:SHORT": {
@@ -403,6 +403,118 @@
       "margin": 101.32388334062551,
       "notional": 202.64776668125103,
       "opened_at": "2026-06-23T09:15:02.524731+00:00"
+    },
+    "0x5b5d51203a0f9079f8aeb098a6523a13f298c060:SOL:SHORT": {
+      "trader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
+      "coin": "SOL",
+      "side": "SHORT",
+      "size": 8.598192532938253,
+      "entry_price": 69.0,
+      "entry_fee": 0.2966376423863697,
+      "entry_slippage_bps": 0.07,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 197.7584282575798,
+      "notional": 593.2752847727394,
+      "opened_at": "2026-06-23T17:25:02.607322+00:00"
+    },
+    "0x5b5d51203a0f9079f8aeb098a6523a13f298c060:BTC:LONG": {
+      "trader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
+      "coin": "BTC",
+      "side": "LONG",
+      "size": 0.009005257500363434,
+      "entry_price": 62582.0,
+      "entry_fee": 0.28178351244387223,
+      "entry_slippage_bps": 0.08,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 187.85567496258147,
+      "notional": 563.5670248877444,
+      "opened_at": "2026-06-23T17:25:02.607322+00:00"
+    },
+    "0x5b5d51203a0f9079f8aeb098a6523a13f298c060:XRP:SHORT": {
+      "trader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
+      "coin": "XRP",
+      "side": "SHORT",
+      "size": 485.53093244738864,
+      "entry_price": 1.1026,
+      "entry_fee": 0.2676732030582454,
+      "entry_slippage_bps": 1.36,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 178.44880203883022,
+      "notional": 535.3464061164907,
+      "opened_at": "2026-06-23T17:25:02.607322+00:00"
+    },
+    "0x5b5d51203a0f9079f8aeb098a6523a13f298c060:ETH:SHORT": {
+      "trader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
+      "coin": "ETH",
+      "side": "SHORT",
+      "size": 0.30621962716336926,
+      "entry_price": 1660.7000000000003,
+      "entry_fee": 0.2542694674151037,
+      "entry_slippage_bps": 0.3,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 169.5129782767358,
+      "notional": 508.5389348302074,
+      "opened_at": "2026-06-23T17:25:02.607322+00:00"
+    },
+    "0x5b5d51203a0f9079f8aeb098a6523a13f298c060:HYPE:SHORT": {
+      "trader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
+      "coin": "HYPE",
+      "side": "SHORT",
+      "size": 7.746782251973841,
+      "entry_price": 62.358,
+      "entry_fee": 0.2415369238342924,
+      "entry_slippage_bps": 0.72,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 161.02461588952826,
+      "notional": 483.0738476685848,
+      "opened_at": "2026-06-23T17:25:02.607322+00:00"
+    },
+    "0xd6ef5649200101eb44ce8949f4cfb167b0c5a07a:SOL:SHORT": {
+      "trader": "0xd6ef5649200101eb44ce8949f4cfb167b0c5a07a",
+      "coin": "SOL",
+      "side": "SHORT",
+      "size": 6.649527963289093,
+      "entry_price": 69.01,
+      "entry_fee": 0.22944196237329018,
+      "entry_slippage_bps": 1.38,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 152.96130824886012,
+      "notional": 458.88392474658036,
+      "opened_at": "2026-06-23T17:25:02.607322+00:00"
+    },
+    "0xd6ef5649200101eb44ce8949f4cfb167b0c5a07a:BTC:LONG": {
+      "trader": "0xd6ef5649200101eb44ce8949f4cfb167b0c5a07a",
+      "coin": "BTC",
+      "side": "LONG",
+      "size": 0.0069653464608816495,
+      "entry_price": 62582.0,
+      "entry_fee": 0.2179526561074477,
+      "entry_slippage_bps": 0.08,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 145.30177073829847,
+      "notional": 435.9053122148954,
+      "opened_at": "2026-06-23T17:25:02.607322+00:00"
+    },
+    "0xd6ef5649200101eb44ce8949f4cfb167b0c5a07a:XRP:SHORT": {
+      "trader": "0xd6ef5649200101eb44ce8949f4cfb167b0c5a07a",
+      "coin": "XRP",
+      "side": "SHORT",
+      "size": 375.51224603766616,
+      "entry_price": 1.1027,
+      "entry_fee": 0.20703867685286725,
+      "entry_slippage_bps": 2.27,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 138.02578456857816,
+      "notional": 414.0773537057345,
+      "opened_at": "2026-06-23T17:25:02.607322+00:00"
     }
   },
   "equity_history": [
@@ -10580,7 +10692,12 @@
       "ts": "2026-06-23T17:20:05.088083+00:00",
       "equity": 11356.80769436119,
       "cash": 3955.168565151596
+    },
+    {
+      "ts": "2026-06-23T17:25:07.828681+00:00",
+      "equity": 11335.300477092434,
+      "cash": 2622.282868126132
     }
   ],
-  "last_processed_signal_index": 83
+  "last_processed_signal_index": 91
 }

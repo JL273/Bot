@@ -262,6 +262,29 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-23
 
+### 17:25 UTC — Position poll (Job B)
+- 8 signal(s) acted on, 12 skipped (confluence), 0 paused (daily profit limit):
+- NEW SHORT SOL (0x5b5d51203a0f9079f8aeb098a6523a13f298c060) [4/5 traders]
+- NEW LONG BTC (0x5b5d51203a0f9079f8aeb098a6523a13f298c060) [2/5 traders]
+- NEW SHORT XRP (0x5b5d51203a0f9079f8aeb098a6523a13f298c060) [2/5 traders]
+- NEW SHORT ETH (0x5b5d51203a0f9079f8aeb098a6523a13f298c060) [3/5 traders]
+- NEW SHORT HYPE (0x5b5d51203a0f9079f8aeb098a6523a13f298c060) [2/5 traders]
+- NEW SHORT SOL (0xd6ef5649200101eb44ce8949f4cfb167b0c5a07a) [4/5 traders]
+- NEW LONG BTC (0xd6ef5649200101eb44ce8949f4cfb167b0c5a07a) [2/5 traders]
+- NEW SHORT XRP (0xd6ef5649200101eb44ce8949f4cfb167b0c5a07a) [2/5 traders]
+- SKIPPED SHORT SUI (0x5b5d51203a0f9079f8aeb098a6523a13f298c060) — only 1/5 traders
+- SKIPPED SHORT PUMP (0x5b5d51203a0f9079f8aeb098a6523a13f298c060) — only 1/5 traders
+- SKIPPED SHORT AVAX (0x5b5d51203a0f9079f8aeb098a6523a13f298c060) — only 1/5 traders
+- SKIPPED SHORT FARTCOIN (0x5b5d51203a0f9079f8aeb098a6523a13f298c060) — only 1/5 traders
+- SKIPPED SHORT VVV (0xd6ef5649200101eb44ce8949f4cfb167b0c5a07a) — only 1/5 traders
+- SKIPPED SHORT WLD (0xd6ef5649200101eb44ce8949f4cfb167b0c5a07a) — only 1/5 traders
+- SKIPPED LONG ZEC (0xd6ef5649200101eb44ce8949f4cfb167b0c5a07a) — only 1/5 traders
+- SKIPPED LONG ETH (0xd6ef5649200101eb44ce8949f4cfb167b0c5a07a) — only 1/5 traders
+- SKIPPED LONG BNB (0xd6ef5649200101eb44ce8949f4cfb167b0c5a07a) — only 1/5 traders
+- SKIPPED SHORT XMR (0xd6ef5649200101eb44ce8949f4cfb167b0c5a07a) — only 1/5 traders
+- SKIPPED SHORT NEAR (0xd6ef5649200101eb44ce8949f4cfb167b0c5a07a) — only 1/5 traders
+- SKIPPED LONG DOGE (0xd6ef5649200101eb44ce8949f4cfb167b0c5a07a) — only 1/5 traders
+- Portfolio equity: $11,335.30 (+13.35%)
 ### 17:22 UTC — Daily refresh (Job A)
 - Leaderboard: 39218 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
