@@ -382,6 +382,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-24
 
+### 09:13 UTC — Daily refresh (Job A)
+- Leaderboard: 39248 traders fetched, 5 shortlisted
+- Shortlist change: +2 new, -2 dropped
+- #1 0x5272f37ecaa073e5a0ea07618145939e5e6cfcd9 acc=$1,118,179 month=$834,272 edge=1068bps
+- #2 0x5b5d51203a0f9079f8aeb098a6523a13f298c060 acc=$32,629,659 month=$3,556,494 edge=461bps
+- #3 0xd6ef5649200101eb44ce8949f4cfb167b0c5a07a acc=$663,124 month=$233,751 edge=55bps
+- #4 0x4a96036fb1529561fa3eeeb2781fad2d4f25500e acc=$3,327,946 month=$574,586 edge=395bps
+- #5 0xb947763b6e64b4441b02562a63fda94f6b805162 acc=$571,603 month=$313,251 edge=405bps
+- Current positions across the shortlist:
+-   0x5272f37ecaa073e5a0ea07618145939e5e6cfcd9... 2 positions: SHORT ETH x5, SHORT SOL x5
+-   0x5b5d51203a0f9079f8aeb098a6523a13f298c060... 9 positions: LONG BTC x10, SHORT ETH x10, SHORT SOL x10, SHORT AVAX x5, SHORT SUI x10, SHORT XRP x20, SHORT HYPE x5, SHORT FARTCOIN x5, SHORT PUMP x5
+-   0xd6ef5649200101eb44ce8949f4cfb167b0c5a07a... 11 positions: LONG BTC x20, LONG ETH x20, SHORT SOL x20, LONG BNB x10, LONG DOGE x10, SHORT XRP x20, SHORT WLD x10, SHORT NEAR x10, SHORT VVV x3, LONG ZEC x10, SHORT XMR x5
+-   0x4a96036fb1529561fa3eeeb2781fad2d4f25500e... 25 positions: SHORT BTC x40, SHORT ETH x25, LONG SOL x20, SHORT AVAX x10, SHORT DOGE x10, LONG kPEPE x10, SHORT LINK x10, LONG XRP x20, SHORT UNI x10, LONG DOT x10, SHORT NEAR x10, SHORT ONDO x10, SHORT TAO x5, SHORT HYPE x6, SHORT VIRTUAL x5, SHORT PENGU x5, LONG TRUMP x10, SHORT VVV x3, SHORT XPL x10, SHORT WLFI x5, SHORT ASTER x5, SHORT ZEC x10, SHORT MON x1, SHORT LIT x5, SHORT XMR x5
+-   0xb947763b6e64b4441b02562a63fda94f6b805162... 2 positions: SHORT BTC x40, SHORT ETH x20
 ### 08:55 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT XMR [time-stop (6d open, flat)]
