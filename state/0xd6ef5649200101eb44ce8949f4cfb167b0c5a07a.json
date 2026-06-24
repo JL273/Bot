@@ -1,14 +1,14 @@
 {
-  "account_value": 596439.773849,
+  "account_value": 596858.944964,
   "positions": [
     {
       "coin": "BTC",
       "side": "LONG",
       "size": 2.08322,
       "entry_price": 67472.2,
-      "position_value_usd": 127018.08984,
+      "position_value_usd": 126857.6819,
       "leverage": 20,
-      "unrealized_pnl": -13541.366671,
+      "unrealized_pnl": -13701.774611,
       "liquidation_price": 0.0
     },
     {
@@ -16,29 +16,29 @@
       "side": "LONG",
       "size": 36.1201,
       "entry_price": 1820.44,
-      "position_value_usd": 58478.4419,
+      "position_value_usd": 58366.46959,
       "leverage": 20,
-      "unrealized_pnl": -7276.118835,
+      "unrealized_pnl": -7388.091145,
       "liquidation_price": 0.0
     },
     {
       "coin": "SOL",
       "side": "SHORT",
-      "size": 2512.99,
+      "size": 2430.92,
       "entry_price": 71.4229,
-      "position_value_usd": 170926.04083,
+      "position_value_usd": 164877.149,
       "leverage": 20,
-      "unrealized_pnl": 8559.080336,
-      "liquidation_price": 286.045868997
+      "unrealized_pnl": 8746.291898,
+      "liquidation_price": 294.0992050762
     },
     {
       "coin": "BNB",
       "side": "LONG",
       "size": 71.151,
       "entry_price": 638.963,
-      "position_value_usd": 40139.83665,
+      "position_value_usd": 40098.56907,
       "leverage": 10,
-      "unrealized_pnl": -5323.08491,
+      "unrealized_pnl": -5364.35249,
       "liquidation_price": 0.0
     },
     {
@@ -46,9 +46,9 @@
       "side": "LONG",
       "size": 309559.0,
       "entry_price": 0.088327,
-      "position_value_usd": 23534.222975,
+      "position_value_usd": 23493.980305,
       "leverage": 10,
-      "unrealized_pnl": -3808.309674,
+      "unrealized_pnl": -3848.552344,
       "liquidation_price": 0.0
     },
     {
@@ -56,61 +56,61 @@
       "side": "SHORT",
       "size": 733.0,
       "entry_price": 1.171232,
-      "position_value_usd": 787.975,
+      "position_value_usd": 787.3153,
       "leverage": 20,
-      "unrealized_pnl": 70.538765,
-      "liquidation_price": 748.5570839038
+      "unrealized_pnl": 71.198465,
+      "liquidation_price": 751.4895032789
     },
     {
       "coin": "WLD",
       "side": "SHORT",
       "size": 273795.8,
       "entry_price": 0.48732,
-      "position_value_usd": 147252.857156,
+      "position_value_usd": 147121.435172,
       "leverage": 10,
-      "unrealized_pnl": -13824.301901,
-      "liquidation_price": 2.4913160924
+      "unrealized_pnl": -13692.879917,
+      "liquidation_price": 2.4985021329
     },
     {
       "coin": "NEAR",
       "side": "SHORT",
       "size": 52566.9,
       "entry_price": 2.05678,
-      "position_value_usd": 103314.98526,
+      "position_value_usd": 103157.28456,
       "leverage": 10,
-      "unrealized_pnl": 4803.994984,
-      "liquidation_price": 12.1402253258
+      "unrealized_pnl": 4961.695684,
+      "liquidation_price": 12.1771540584
     },
     {
       "coin": "VVV",
       "side": "SHORT",
-      "size": 2358.24,
+      "size": 1629.75,
       "entry_price": 15.9341,
-      "position_value_usd": 30414.22128,
+      "position_value_usd": 21038.44275,
       "leverage": 3,
-      "unrealized_pnl": 7162.296611,
-      "liquidation_price": 217.0208902216
+      "unrealized_pnl": 4930.216084,
+      "liquidation_price": 309.4343318619
     },
     {
       "coin": "ZEC",
       "side": "LONG",
       "size": 53.41,
       "entry_price": 372.0998,
-      "position_value_usd": 22180.1048,
+      "position_value_usd": 22159.809,
       "leverage": 10,
-      "unrealized_pnl": 2306.253964,
+      "unrealized_pnl": 2285.958164,
       "liquidation_price": 0.0
     },
     {
       "coin": "XMR",
       "side": "SHORT",
-      "size": 185.848,
+      "size": 184.505,
       "entry_price": 322.714,
-      "position_value_usd": 58975.14584,
+      "position_value_usd": 58504.69045,
       "leverage": 5,
-      "unrealized_pnl": 1000.617335,
-      "liquidation_price": 3064.452656878
+      "unrealized_pnl": 1037.667738,
+      "liquidation_price": 3095.0676988995
     }
   ],
-  "timestamp_ms": 1782339303954
+  "timestamp_ms": 1782339603954
 }
