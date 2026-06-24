@@ -382,6 +382,36 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-24
 
+### 09:15 UTC — Position poll (Job B)
+- 9 signal(s) acted on, 18 skipped (confluence), 0 paused (daily profit limit):
+- NEW SHORT AVAX (0x4a96036fb1529561fa3eeeb2781fad2d4f25500e) [2/5 traders]
+- NEW SHORT ETH (0x4a96036fb1529561fa3eeeb2781fad2d4f25500e) [4/5 traders]
+- NEW SHORT BTC (0x4a96036fb1529561fa3eeeb2781fad2d4f25500e) [2/5 traders]
+- NEW SHORT HYPE (0x4a96036fb1529561fa3eeeb2781fad2d4f25500e) [2/5 traders]
+- NEW SHORT VVV (0x4a96036fb1529561fa3eeeb2781fad2d4f25500e) [2/5 traders]
+- NEW SHORT NEAR (0x4a96036fb1529561fa3eeeb2781fad2d4f25500e) [2/5 traders]
+- NEW SHORT XMR (0x4a96036fb1529561fa3eeeb2781fad2d4f25500e) [2/5 traders]
+- NEW SHORT ETH (0xb947763b6e64b4441b02562a63fda94f6b805162) [4/5 traders]
+- NEW SHORT BTC (0xb947763b6e64b4441b02562a63fda94f6b805162) [2/5 traders]
+- SKIPPED SHORT MON (0x4a96036fb1529561fa3eeeb2781fad2d4f25500e) — only 1/5 traders
+- SKIPPED SHORT VIRTUAL (0x4a96036fb1529561fa3eeeb2781fad2d4f25500e) — only 1/5 traders
+- SKIPPED SHORT PENGU (0x4a96036fb1529561fa3eeeb2781fad2d4f25500e) — only 1/5 traders
+- SKIPPED SHORT UNI (0x4a96036fb1529561fa3eeeb2781fad2d4f25500e) — only 1/5 traders
+- SKIPPED SHORT XPL (0x4a96036fb1529561fa3eeeb2781fad2d4f25500e) — only 1/5 traders
+- SKIPPED SHORT LINK (0x4a96036fb1529561fa3eeeb2781fad2d4f25500e) — only 1/5 traders
+- SKIPPED LONG DOT (0x4a96036fb1529561fa3eeeb2781fad2d4f25500e) — only 1/5 traders
+- SKIPPED LONG kPEPE (0x4a96036fb1529561fa3eeeb2781fad2d4f25500e) — only 1/5 traders
+- SKIPPED SHORT ONDO (0x4a96036fb1529561fa3eeeb2781fad2d4f25500e) — only 1/5 traders
+- SKIPPED SHORT DOGE (0x4a96036fb1529561fa3eeeb2781fad2d4f25500e) — only 1/5 traders
+- SKIPPED SHORT LIT (0x4a96036fb1529561fa3eeeb2781fad2d4f25500e) — only 1/5 traders
+- SKIPPED SHORT WLFI (0x4a96036fb1529561fa3eeeb2781fad2d4f25500e) — only 1/5 traders
+- SKIPPED SHORT ASTER (0x4a96036fb1529561fa3eeeb2781fad2d4f25500e) — only 1/5 traders
+- SKIPPED SHORT ZEC (0x4a96036fb1529561fa3eeeb2781fad2d4f25500e) — only 1/5 traders
+- SKIPPED LONG SOL (0x4a96036fb1529561fa3eeeb2781fad2d4f25500e) — only 1/5 traders
+- SKIPPED LONG XRP (0x4a96036fb1529561fa3eeeb2781fad2d4f25500e) — only 1/5 traders
+- SKIPPED SHORT TAO (0x4a96036fb1529561fa3eeeb2781fad2d4f25500e) — only 1/5 traders
+- SKIPPED LONG TRUMP (0x4a96036fb1529561fa3eeeb2781fad2d4f25500e) — only 1/5 traders
+- Portfolio equity: $11,260.42 (+12.60%)
 ### 09:13 UTC — Daily refresh (Job A)
 - Leaderboard: 39248 traders fetched, 5 shortlisted
 - Shortlist change: +2 new, -2 dropped
