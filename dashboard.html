@@ -755,12 +755,13 @@ function renderKPIs(portfolio, signals, wallets, trades) {
   const history = portfolio.equity_history || [];
   const equity = history.length ? history[history.length-1].equity : portfolio.cash;
   const starting = portfolio.starting_cash || 10000;
-  const now = Date.now();
-  const cut24 = now - 86400000;
-  let eq24ago = starting;
-  for (const s of history) {
-    if (new Date(s.ts).getTime() <= cut24) eq24ago = s.equity;
-  }
+  // Today's PnL: last equity today vs last equity of yesterday (calendar day, UTC)
+  const todayUtcStr = new Date().toISOString().slice(0, 10);
+  const byDay2 = {};
+  for (const s of history) byDay2[s.ts.slice(0, 10)] = s.equity;
+  const allDays2 = Object.keys(byDay2).sort();
+  const prevDays2 = allDays2.filter(d => d < todayUtcStr);
+  const eq24ago = prevDays2.length ? byDay2[prevDays2[prevDays2.length - 1]] : starting;
   const pnl24 = equity - eq24ago;
   const pnl24pct = eq24ago ? (pnl24/eq24ago*100) : 0;
   const allPnl = equity - starting;
