@@ -382,6 +382,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-24
 
+### 15:50 UTC — Position poll (Job B)
+- 2 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT ADA [TP hit (+40.2% of margin)]
+- EXIT SHORT ZEC [TP hit (+40.4% of margin)]
+- Portfolio equity: $11,909.38 (+19.09%)
 ### 15:45 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT NEAR [TP hit (+40.7% of margin)]

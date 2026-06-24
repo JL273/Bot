@@ -1,5 +1,5 @@
 {
-  "cash": 2426.199167980996,
+  "cash": 3128.233800242986,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x5f94a51948d2376ad34a6fadfa2544e651b74b96:DOT:SHORT": {
@@ -11,17 +11,6 @@
       "leverage": 3,
       "margin": 475.0,
       "notional": 1425.0,
-      "opened_at": "2026-06-18T08:05:21.071969+00:00"
-    },
-    "0x5f94a51948d2376ad34a6fadfa2544e651b74b96:ADA:SHORT": {
-      "trader": "0x5f94a51948d2376ad34a6fadfa2544e651b74b96",
-      "coin": "ADA",
-      "side": "SHORT",
-      "size": 8156.006464979397,
-      "entry_price": 0.1659819675,
-      "leverage": 3,
-      "margin": 451.25,
-      "notional": 1353.75,
       "opened_at": "2026-06-18T08:05:21.071969+00:00"
     },
     "0x5f94a51948d2376ad34a6fadfa2544e651b74b96:TRUMP:SHORT": {
@@ -220,17 +209,6 @@
       "leverage": 3,
       "margin": 64.25607828255166,
       "notional": 192.76823484765498,
-      "opened_at": "2026-06-18T08:05:21.071969+00:00"
-    },
-    "0x94dac1facdc4afd2614c3119447187b4143bc449:ZEC:SHORT": {
-      "trader": "0x94dac1facdc4afd2614c3119447187b4143bc449",
-      "coin": "ZEC",
-      "side": "SHORT",
-      "size": 0.3346779799164727,
-      "entry_price": 469.14031250000005,
-      "leverage": 3,
-      "margin": 52.33697736162758,
-      "notional": 157.01093208488274,
       "opened_at": "2026-06-18T08:05:21.071969+00:00"
     },
     "0x94dac1facdc4afd2614c3119447187b4143bc449:XRP:SHORT": {
@@ -12137,7 +12115,17 @@
       "ts": "2026-06-24T15:45:06.691627+00:00",
       "equity": 11861.97197495434,
       "cash": 2426.199167980996
+    },
+    {
+      "ts": "2026-06-24T15:50:05.296692+00:00",
+      "equity": 11913.294154981722,
+      "cash": 2426.199167980996
+    },
+    {
+      "ts": "2026-06-24T15:50:07.392403+00:00",
+      "equity": 11909.376612672962,
+      "cash": 3128.233800242986
     }
   ],
-  "last_processed_signal_index": 106
+  "last_processed_signal_index": 108
 }

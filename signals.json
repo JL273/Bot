@@ -1444,5 +1444,33 @@
     "unrealized_pnl": 89.57019241171292,
     "liquidation_price": 0,
     "exit_reason": "TP hit (+40.7% of margin)"
+  },
+  {
+    "ts": "2026-06-24T15:50:02.876969+00:00",
+    "trader": "0x5f94a51948d2376ad34a6fadfa2544e651b74b96",
+    "type": "CLOSED",
+    "coin": "ADA",
+    "side": "SHORT",
+    "size": 8156.006464979397,
+    "entry_price": 0.1659819675,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 181.20173056223706,
+    "liquidation_price": 0,
+    "exit_reason": "TP hit (+40.2% of margin)"
+  },
+  {
+    "ts": "2026-06-24T15:50:02.876969+00:00",
+    "trader": "0x94dac1facdc4afd2614c3119447187b4143bc449",
+    "type": "CLOSED",
+    "coin": "ZEC",
+    "side": "SHORT",
+    "size": 0.3346779799164727,
+    "entry_price": 469.14031250000005,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 21.1634666468869,
+    "liquidation_price": 0,
+    "exit_reason": "TP hit (+40.4% of margin)"
   }
 ]
