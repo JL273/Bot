@@ -576,9 +576,7 @@
         <span class="card-title">Daily P&amp;L — Last 14 Days</span>
         <span class="badge badge-gold" id="daily-pnl-range"></span>
       </div>
-      <div class="chart-wrap" style="height:160px">
-        <canvas id="dailyPnlChart" role="img" aria-label="Daily P&L last 14 days"></canvas>
-      </div>
+      <div id="daily-pnl-grid" style="display:grid;grid-template-columns:repeat(7,1fr);gap:8px;padding:14px 16px;"></div>
     </div>
 
     <!-- Open positions + Closed trades -->
@@ -736,7 +734,7 @@ async function loadAll() {
     renderBotCard(portfolio, wallets, trades, signals);
     renderEquityChart(portfolio);
     renderSparkline(portfolio);
-    renderDailyPnl(portfolio);
+    renderDailyPnl(portfolio, trades);
     renderPositions(portfolio, marks);
     renderSignals(signals);
     renderTraders(wallets);
@@ -1111,98 +1109,101 @@ function renderTrades(trades) {
   }).join('');
 }
 
-let dailyPnlChart = null;
-
-function renderDailyPnl(portfolio) {
+function renderDailyPnl(portfolio, trades) {
   if (!portfolio) return;
   const history = portfolio.equity_history || [];
-  if (history.length < 2) return;
 
-  // Group by UTC date: keep last equity snapshot per day
+  // Last equity per UTC day
   const byDay = {};
   for (const s of history) {
-    const day = s.ts.slice(0, 10);
-    byDay[day] = s.equity;
+    byDay[s.ts.slice(0, 10)] = s.equity;
   }
 
-  const days = Object.keys(byDay).sort().slice(-15); // need 15 to compute 14 deltas
-  if (days.length < 2) return;
-
-  const labels = [];
-  const values = [];
-
-  for (let i = 1; i < days.length; i++) {
-    const prev = byDay[days[i - 1]];
-    const curr = byDay[days[i]];
-    const delta = curr - prev;
-    const d = new Date(days[i] + 'T00:00:00Z');
-    labels.push(d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', timeZone: 'UTC' }));
-    values.push(parseFloat(delta.toFixed(2)));
+  // W/L counts per day from closed trades
+  const wlByDay = {};
+  for (const t of (trades || [])) {
+    const day = (t.closed_at || '').slice(0, 10);
+    if (!day) continue;
+    if (!wlByDay[day]) wlByDay[day] = { w: 0, l: 0 };
+    if (t.pnl > 0) wlByDay[day].w++;
+    else wlByDay[day].l++;
   }
 
-  // Keep last 14
-  const lbls = labels.slice(-14);
-  const vals = values.slice(-14);
+  // Build last 14 calendar days (always show a full 14-slot grid)
+  const todayUtc = new Date(new Date().toISOString().slice(0, 10) + 'T00:00:00Z');
+  const slots = [];
+  for (let i = 13; i >= 0; i--) {
+    const d = new Date(todayUtc);
+    d.setUTCDate(d.getUTCDate() - i);
+    slots.push(d.toISOString().slice(0, 10));
+  }
 
-  const colors = vals.map(v => v >= 0 ? 'rgba(34,197,94,0.85)' : 'rgba(239,68,68,0.85)');
-  const borderColors = vals.map(v => v >= 0 ? '#22c55e' : '#ef4444');
+  // Compute daily PnL: last equity of day minus last equity of previous day
+  const allDays = Object.keys(byDay).sort();
 
-  document.getElementById('daily-pnl-range').textContent = lbls[0] + ' – ' + lbls[lbls.length - 1];
+  function prevEquity(dateStr) {
+    const prev = allDays.filter(d => d < dateStr);
+    return prev.length ? byDay[prev[prev.length - 1]] : null;
+  }
 
-  const cfg = {
-    type: 'bar',
-    data: {
-      labels: lbls,
-      datasets: [{
-        data: vals,
-        backgroundColor: colors,
-        borderColor: borderColors,
-        borderWidth: 1,
-        borderRadius: 4,
-        borderSkipped: false,
-      }]
-    },
-    options: {
-      responsive: true,
-      maintainAspectRatio: false,
-      plugins: {
-        legend: { display: false },
-        tooltip: {
-          backgroundColor: '#1a1a1f',
-          borderColor: 'rgba(255,255,255,0.08)',
-          borderWidth: 1,
-          titleColor: '#71717a',
-          bodyColor: '#ebebeb',
-          callbacks: {
-            label: ctx => ' ' + fmtPnl(ctx.raw) + ' (' + fmtPct(ctx.raw / (portfolio.starting_cash || 10000) * 100) + ')'
-          }
-        }
-      },
-      scales: {
-        x: {
-          grid: { display: false },
-          ticks: { color: '#3f3f46', font: { size: 10 }, maxRotation: 0 }
-        },
-        y: {
-          grid: { color: 'rgba(255,255,255,0.03)' },
-          ticks: {
-            color: '#3f3f46', font: { size: 10 }, maxTicksLimit: 4,
-            callback: v => (v >= 0 ? '+' : '') + '$' + v.toFixed(0)
-          }
-        }
-      }
+  const todayStr = slots[slots.length - 1];
+  const yesterdayStr = slots[slots.length - 2];
+
+  // Badge range
+  const firstSlot = new Date(slots[0] + 'T00:00:00Z');
+  const lastSlot  = new Date(slots[slots.length - 1] + 'T00:00:00Z');
+  const fmtBadge = d => d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', timeZone: 'UTC' });
+  document.getElementById('daily-pnl-range').textContent = fmtBadge(firstSlot) + ' – ' + fmtBadge(lastSlot);
+
+  const grid = document.getElementById('daily-pnl-grid');
+  grid.innerHTML = slots.map(day => {
+    const isToday     = day === todayStr;
+    const isYesterday = day === yesterdayStr;
+    const hasCurr = byDay[day] !== undefined;
+    const curr = byDay[day];
+    const prev = prevEquity(day);
+    const hasPnl = hasCurr && prev !== undefined;
+    const pnl = hasPnl ? curr - prev : null;
+    const wl = wlByDay[day];
+
+    const d = new Date(day + 'T00:00:00Z');
+    const dayLabel = isToday ? 'Today'
+      : isYesterday ? 'Yesterday'
+      : d.toLocaleDateString('en-US', { day: 'numeric', month: 'short', timeZone: 'UTC' });
+
+    let bg = 'background:var(--bg3);border:1px solid var(--border);';
+    let pnlHtml = '<div style="font-size:18px;font-weight:700;color:var(--text3);margin:6px 0">—</div>';
+    let wlHtml  = '<div style="font-size:10px;color:var(--text3)">no trades</div>';
+
+    if (pnl !== null) {
+      const pos = pnl >= 0;
+      bg = pos
+        ? 'background:rgba(34,197,94,0.07);border:1px solid rgba(34,197,94,0.18);'
+        : 'background:rgba(239,68,68,0.07);border:1px solid rgba(239,68,68,0.18);';
+      if (isToday) bg = 'background:rgba(34,197,94,0.07);border:2px solid var(--green);';
+      const color = pos ? 'var(--green)' : 'var(--red)';
+      pnlHtml = `<div style="font-size:18px;font-weight:700;color:${color};margin:6px 0">${fmtPnl(pnl)}</div>`;
+    } else if (isToday) {
+      bg = 'background:rgba(34,197,94,0.04);border:2px solid rgba(34,197,94,0.4);';
     }
-  };
 
-  if (dailyPnlChart) {
-    dailyPnlChart.data.labels = lbls;
-    dailyPnlChart.data.datasets[0].data = vals;
-    dailyPnlChart.data.datasets[0].backgroundColor = colors;
-    dailyPnlChart.data.datasets[0].borderColor = borderColors;
-    dailyPnlChart.update('none');
-    return;
-  }
-  dailyPnlChart = new Chart(document.getElementById('dailyPnlChart'), cfg);
+    if (wl) {
+      const wColor = wl.w > 0 ? 'var(--green)' : 'var(--text3)';
+      const lColor = wl.l > 0 ? 'var(--red)'   : 'var(--text3)';
+      wlHtml = `<div style="font-size:10px;font-weight:600">
+        <span style="color:${wColor}">${wl.w}W</span>
+        <span style="color:var(--text3)"> / </span>
+        <span style="color:${lColor}">${wl.l}L</span>
+      </div>`;
+    }
+
+    const labelColor = isToday ? 'var(--green)' : 'var(--text2)';
+    return `<div style="${bg}border-radius:10px;padding:10px 8px;text-align:center;min-height:90px;display:flex;flex-direction:column;align-items:center;justify-content:center;">
+      <div style="font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:0.06em;color:${labelColor}">${dayLabel}</div>
+      ${pnlHtml}
+      ${wlHtml}
+    </div>`;
+  }).join('');
 }
 
 function renderOrders(signals, portfolio) {
