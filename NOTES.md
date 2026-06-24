@@ -379,3 +379,10 @@ _Auto-generated. Newest entry at top._
 - EXIT LONG HYPE [SL hit (-20.1% of margin)]
 - EXIT LONG HYPE [SL hit (-20.1% of margin)]
 - Portfolio equity: $10,793.77 (+7.94%)
+
+## 2026-06-24
+
+### 08:55 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT XMR [time-stop (6d open, flat)]
+- Portfolio equity: $11,240.02 (+12.40%)
