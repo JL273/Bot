@@ -1541,5 +1541,33 @@
     "unrealized_pnl": 0.07544283729081404,
     "liquidation_price": 0,
     "exit_reason": "time-stop (5d open, flat)"
+  },
+  {
+    "ts": "2026-06-24T16:55:02.407091+00:00",
+    "trader": "0x94dac1facdc4afd2614c3119447187b4143bc449",
+    "type": "CLOSED",
+    "coin": "ZRO",
+    "side": "SHORT",
+    "size": 302.84847863952353,
+    "entry_price": 1.0099447750000001,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 41.50077312945946,
+    "liquidation_price": 0,
+    "exit_reason": "TP hit (+40.7% of margin)"
+  },
+  {
+    "ts": "2026-06-24T16:55:02.407091+00:00",
+    "trader": "0x94dac1facdc4afd2614c3119447187b4143bc449",
+    "type": "CLOSED",
+    "coin": "TAO",
+    "side": "SHORT",
+    "size": 0.7951050942273024,
+    "entry_price": 242.44371750000002,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 26.309007845698112,
+    "liquidation_price": 0,
+    "exit_reason": "TP hit (+40.9% of margin)"
   }
 ]
