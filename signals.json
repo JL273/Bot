@@ -1472,5 +1472,19 @@
     "unrealized_pnl": 21.1634666468869,
     "liquidation_price": 0,
     "exit_reason": "TP hit (+40.4% of margin)"
+  },
+  {
+    "ts": "2026-06-24T16:00:02.694331+00:00",
+    "trader": "0x94dac1facdc4afd2614c3119447187b4143bc449",
+    "type": "CLOSED",
+    "coin": "ENA",
+    "side": "SHORT",
+    "size": 3599.8051629947886,
+    "entry_price": 0.094144904,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 46.224752516720436,
+    "liquidation_price": 0,
+    "exit_reason": "TP hit (+40.9% of margin)"
   }
 ]
