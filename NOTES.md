@@ -382,6 +382,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-24
 
+### 17:55 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT LONG BNB [SL hit (-20.4% of margin)]
+- Portfolio equity: $12,342.86 (+23.43%)
 ### 17:25 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 0 skipped (confluence), 1 paused (daily profit limit):
 - EXIT SHORT DOT [TP hit (+40.9% of margin)]

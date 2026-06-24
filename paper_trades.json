@@ -818,5 +818,27 @@
     "pnl_pct": 40.48905746347334,
     "total_slippage_bps": 3.37,
     "exit_reason": "TP hit (+40.9% of margin)"
+  },
+  {
+    "trader": "0x94dac1facdc4afd2614c3119447187b4143bc449",
+    "coin": "BNB",
+    "side": "LONG",
+    "size": 0.8236744896225658,
+    "entry_price": 589.1894474999999,
+    "leverage": 3,
+    "margin": 161.76677248685465,
+    "notional": 485.300317460564,
+    "opened_at": "2026-06-18T08:05:21.071969+00:00",
+    "exit_price": 549.1222456331308,
+    "exit_fee": 0.22614899270613312,
+    "total_fees": 0.4687991514364151,
+    "exit_slippage_bps": 1.78,
+    "exit_fill_method": "book",
+    "closed_at": "2026-06-24T17:55:02.446398+00:00",
+    "gross_pnl": -33.00233204829776,
+    "pnl": -33.471131199734174,
+    "pnl_pct": -20.69098040665556,
+    "total_slippage_bps": 1.78,
+    "exit_reason": "SL hit (-20.4% of margin)"
   }
 ]

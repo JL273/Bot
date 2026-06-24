@@ -1583,5 +1583,19 @@
     "unrealized_pnl": 194.0657260152449,
     "liquidation_price": 0,
     "exit_reason": "TP hit (+40.9% of margin)"
+  },
+  {
+    "ts": "2026-06-24T17:55:02.446398+00:00",
+    "trader": "0x94dac1facdc4afd2614c3119447187b4143bc449",
+    "type": "CLOSED",
+    "coin": "BNB",
+    "side": "LONG",
+    "size": 0.8236744896225658,
+    "entry_price": 589.1894474999999,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -32.92181427005835,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-20.4% of margin)"
   }
 ]
