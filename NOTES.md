@@ -382,6 +382,12 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-24
 
+### 17:25 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 1 paused (daily profit limit):
+- EXIT SHORT DOT [TP hit (+40.9% of margin)]
+- Daily PnL: +9.11% — pause threshold 8.0% reached
+- PAUSED LONG BCH (0xb947763b6e64b4441b02562a63fda94f6b805162) — daily profit limit reached
+- Portfolio equity: $12,326.94 (+23.27%)
 ### 17:16 UTC — Daily refresh (Job A)
 - Leaderboard: 39185 traders fetched, 5 shortlisted
 - Shortlist change: +0 new, -0 dropped

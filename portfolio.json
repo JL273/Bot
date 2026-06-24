@@ -1,18 +1,7 @@
 {
-  "cash": 4049.756388091204,
+  "cash": 4717.079411042702,
   "starting_cash": 10000.0,
   "open_positions": {
-    "0x5f94a51948d2376ad34a6fadfa2544e651b74b96:DOT:SHORT": {
-      "trader": "0x5f94a51948d2376ad34a6fadfa2544e651b74b96",
-      "coin": "DOT",
-      "side": "SHORT",
-      "size": 1455.4179365124328,
-      "entry_price": 0.9791002050000001,
-      "leverage": 3,
-      "margin": 475.0,
-      "notional": 1425.0,
-      "opened_at": "2026-06-18T08:05:21.071969+00:00"
-    },
     "0x5f94a51948d2376ad34a6fadfa2544e651b74b96:TRUMP:SHORT": {
       "trader": "0x5f94a51948d2376ad34a6fadfa2544e651b74b96",
       "coin": "TRUMP",
@@ -12167,7 +12156,17 @@
       "ts": "2026-06-24T17:20:05.296930+00:00",
       "equity": 12218.61535866907,
       "cash": 4049.756388091204
+    },
+    {
+      "ts": "2026-06-24T17:25:04.923721+00:00",
+      "equity": 12328.687293642159,
+      "cash": 4049.756388091204
+    },
+    {
+      "ts": "2026-06-24T17:25:07.014044+00:00",
+      "equity": 12326.94459057841,
+      "cash": 4717.079411042702
     }
   ],
-  "last_processed_signal_index": 115
+  "last_processed_signal_index": 116
 }
