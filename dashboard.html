@@ -313,6 +313,7 @@
     margin-bottom: 3px;
   }
   .bot-stat-val { font-size: 15px; font-weight: 700; letter-spacing: -0.3px; }
+  .bot-stat-sub { font-size: 10px; font-weight: 600; margin-top: 2px; }
 
   /* ── Two-col grid ── */
   .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 12px; }
@@ -555,6 +556,7 @@
         <div class="bot-stat">
           <div class="bot-stat-label">Realized</div>
           <div class="bot-stat-val" id="stat-realized">—</div>
+          <div class="bot-stat-sub" id="stat-realized-pct"></div>
         </div>
       </div>
     </div>
@@ -842,6 +844,10 @@ function renderBotCard(portfolio, wallets, trades, signals) {
   const realEl = document.getElementById('stat-realized');
   realEl.textContent = total > 0 ? fmtPnl(realizedPnl) : '$0.00';
   realEl.className = 'bot-stat-val ' + pnlClass(realizedPnl);
+  const starting = portfolio ? (portfolio.starting_cash || 10000) : 10000;
+  const realPct = realizedPnl / starting * 100;
+  document.getElementById('stat-realized-pct').textContent = total > 0 ? fmtPct(realPct) : '';
+  document.getElementById('stat-realized-pct').className = 'bot-stat-sub ' + pnlClass(realizedPnl);
 }
 
 function renderSparkline(portfolio) {
