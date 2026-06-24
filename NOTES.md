@@ -382,6 +382,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-24
 
+### 16:50 UTC — Position poll (Job B)
+- 2 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT kPEPE [TP hit (+41.0% of margin)]
+- EXIT LONG FARTCOIN [time-stop (5d open, flat)]
+- Portfolio equity: $12,032.11 (+20.32%)
 ### 16:45 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT HYPE [TP hit (+40.2% of margin)]

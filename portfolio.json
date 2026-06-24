@@ -1,5 +1,5 @@
 {
-  "cash": 3411.3126880365344,
+  "cash": 3816.2203855538623,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x5f94a51948d2376ad34a6fadfa2544e651b74b96:DOT:SHORT": {
@@ -66,17 +66,6 @@
       "leverage": 3,
       "margin": 284.40004613823,
       "notional": 853.20013841469,
-      "opened_at": "2026-06-18T08:05:21.071969+00:00"
-    },
-    "0x5f94a51948d2376ad34a6fadfa2544e651b74b96:kPEPE:SHORT": {
-      "trader": "0x5f94a51948d2376ad34a6fadfa2544e651b74b96",
-      "coin": "kPEPE",
-      "side": "SHORT",
-      "size": 266481.6063927009,
-      "entry_price": 0.0028895545,
-      "leverage": 3,
-      "margin": 256.67104163975256,
-      "notional": 770.0131249192577,
       "opened_at": "2026-06-18T08:05:21.071969+00:00"
     },
     "0x94dac1facdc4afd2614c3119447187b4143bc449:MON:SHORT": {
@@ -210,17 +199,6 @@
       "margin": 47.23412206886889,
       "notional": 141.70236620660668,
       "opened_at": "2026-06-18T16:05:27.589625+00:00"
-    },
-    "0x60a8c761f39696b3b419f31dcda20b405cb685f6:FARTCOIN:LONG": {
-      "trader": "0x60a8c761f39696b3b419f31dcda20b405cb685f6",
-      "coin": "FARTCOIN",
-      "side": "LONG",
-      "size": 1097.8294134286998,
-      "entry_price": 0.12262128,
-      "leverage": 3,
-      "margin": 44.87241596542545,
-      "notional": 134.61724789627635,
-      "opened_at": "2026-06-18T18:35:17.158380+00:00"
     },
     "0x4f7634c03ec4e87e14725c84913ade523c6fad5a:HYPE:SHORT": {
       "trader": "0x4f7634c03ec4e87e14725c84913ade523c6fad5a",
@@ -12166,7 +12144,17 @@
       "ts": "2026-06-24T16:45:05.955179+00:00",
       "equity": 11920.713987215699,
       "cash": 3411.3126880365344
+    },
+    {
+      "ts": "2026-06-24T16:50:04.854991+00:00",
+      "equity": 12033.960162959947,
+      "cash": 3411.3126880365344
+    },
+    {
+      "ts": "2026-06-24T16:50:06.693989+00:00",
+      "equity": 12032.107443065337,
+      "cash": 3816.2203855538623
     }
   ],
-  "last_processed_signal_index": 111
+  "last_processed_signal_index": 113
 }

@@ -1513,5 +1513,33 @@
     "unrealized_pnl": 35.68937571507045,
     "liquidation_price": 0,
     "exit_reason": "TP hit (+40.2% of margin)"
+  },
+  {
+    "ts": "2026-06-24T16:50:02.735222+00:00",
+    "trader": "0x5f94a51948d2376ad34a6fadfa2544e651b74b96",
+    "type": "CLOSED",
+    "coin": "kPEPE",
+    "side": "SHORT",
+    "size": 266481.6063927009,
+    "entry_price": 0.0028895545,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 105.14151696946898,
+    "liquidation_price": 0,
+    "exit_reason": "TP hit (+41.0% of margin)"
+  },
+  {
+    "ts": "2026-06-24T16:50:02.735222+00:00",
+    "trader": "0x60a8c761f39696b3b419f31dcda20b405cb685f6",
+    "type": "CLOSED",
+    "coin": "FARTCOIN",
+    "side": "LONG",
+    "size": 1097.8294134286998,
+    "entry_price": 0.12262128,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 0.07544283729081404,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (5d open, flat)"
   }
 ]
