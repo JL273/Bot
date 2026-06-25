@@ -1639,5 +1639,32 @@
     "leverage": 2,
     "unrealized_pnl": -0.0144,
     "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-06-25T03:45:02.328255+00:00",
+    "trader": "0xd6ef5649200101eb44ce8949f4cfb167b0c5a07a",
+    "type": "NEW",
+    "confluence": 2,
+    "coin": "SOL",
+    "side": "LONG",
+    "size": 67.26,
+    "entry_price": 67.506,
+    "position_value_usd": 4538.50302,
+    "leverage": 20,
+    "unrealized_pnl": -1.95054,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-06-25T03:45:02.328255+00:00",
+    "trader": "0xd6ef5649200101eb44ce8949f4cfb167b0c5a07a",
+    "type": "CLOSED",
+    "coin": "SOL",
+    "side": "SHORT",
+    "size": 80.88,
+    "entry_price": 71.4229,
+    "position_value_usd": 5460.6132,
+    "leverage": 20,
+    "unrealized_pnl": 316.073772,
+    "liquidation_price": 7119.5662900051
   }
 ]

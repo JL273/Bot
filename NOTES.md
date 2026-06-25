@@ -492,6 +492,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-25
 
+### 03:45 UTC — Position poll (Job B)
+- 2 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- NEW LONG SOL (0xd6ef5649200101eb44ce8949f4cfb167b0c5a07a) [2/5 traders]
+- CLOSED SHORT SOL (0xd6ef5649200101eb44ce8949f4cfb167b0c5a07a)
+- Portfolio equity: $11,708.71 (+17.09%)
 ### 02:00 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - NEW LONG BTC (0x5272f37ecaa073e5a0ea07618145939e5e6cfcd9) [3/5 traders]
