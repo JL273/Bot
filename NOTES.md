@@ -492,6 +492,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-25
 
+### 04:30 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- CLOSED SHORT MON (0x4a96036fb1529561fa3eeeb2781fad2d4f25500e)
+- Portfolio equity: $11,711.62 (+17.12%)
 ### 03:45 UTC — Position poll (Job B)
 - 2 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - NEW LONG SOL (0xd6ef5649200101eb44ce8949f4cfb167b0c5a07a) [2/5 traders]
