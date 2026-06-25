@@ -492,6 +492,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-25
 
+### 13:55 UTC — Position poll (Job B)
+- 2 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT TRUMP [TP hit (+43.7% of margin)]
+- EXIT SHORT STRK [TP hit (+42.8% of margin)]
+- Portfolio equity: $12,160.95 (+21.61%)
 ### 09:15 UTC — Position poll (Job B)
 - 4 signal(s) acted on, 4 skipped (confluence), 0 paused (daily profit limit):
 - NEW LONG BTC (0xbe19541903f64af97bcf8436f4d15bf3a56b8bd1) [3/5 traders]
