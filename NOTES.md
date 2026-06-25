@@ -492,6 +492,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-25
 
+### 09:13 UTC — Daily refresh (Job A)
+- Leaderboard: 39392 traders fetched, 5 shortlisted
+- Shortlist change: +3 new, -3 dropped
+- #1 0xbe19541903f64af97bcf8436f4d15bf3a56b8bd1 acc=$5,300,200 month=$553,856 edge=712bps
+- #2 0x5272f37ecaa073e5a0ea07618145939e5e6cfcd9 acc=$1,072,142 month=$906,303 edge=1161bps
+- #3 0x5b5d51203a0f9079f8aeb098a6523a13f298c060 acc=$32,841,670 month=$3,414,110 edge=497bps
+- #4 0xcf67e4da9e9cd38c0afd26338d0fbddb3036eb24 acc=$3,917,462 month=$1,386,162 edge=607bps
+- #5 0xceec48581b3145a575508719f45da07dc57fa7ce acc=$13,786,171 month=$828,410 edge=1300bps
+- Current positions across the shortlist:
+-   0xbe19541903f64af97bcf8436f4d15bf3a56b8bd1... 8 positions: LONG BTC x20, SHORT SOL x20, SHORT HYPE x10, SHORT FARTCOIN x10, SHORT WLFI x5, SHORT ASTER x3, SHORT MEGA x3, SHORT CHIP x3
+-   0x5272f37ecaa073e5a0ea07618145939e5e6cfcd9... 3 positions: LONG BTC x2, SHORT ETH x5, SHORT SOL x5
+-   0x5b5d51203a0f9079f8aeb098a6523a13f298c060... 9 positions: LONG BTC x10, SHORT ETH x10, SHORT SOL x10, SHORT AVAX x5, SHORT SUI x10, SHORT XRP x20, SHORT HYPE x5, SHORT FARTCOIN x5, SHORT PUMP x5
+-   0xcf67e4da9e9cd38c0afd26338d0fbddb3036eb24... no open positions
+-   0xceec48581b3145a575508719f45da07dc57fa7ce... 1 positions: SHORT HYPE x5
 ### 08:05 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT WLFI [time-stop (6d open, flat)]
