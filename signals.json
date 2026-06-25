@@ -1693,5 +1693,19 @@
     "unrealized_pnl": 0.9022064930225818,
     "liquidation_price": 0,
     "exit_reason": "time-stop (6d open, flat)"
+  },
+  {
+    "ts": "2026-06-25T08:05:02.225539+00:00",
+    "trader": "0x5f94a51948d2376ad34a6fadfa2544e651b74b96",
+    "type": "CLOSED",
+    "coin": "WLFI",
+    "side": "SHORT",
+    "size": 16069.928032219248,
+    "entry_price": 0.061925022,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 5.592688493629062,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (6d open, flat)"
   }
 ]

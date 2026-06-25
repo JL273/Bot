@@ -492,6 +492,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-25
 
+### 08:05 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT WLFI [time-stop (6d open, flat)]
+- Portfolio equity: $11,438.15 (+14.38%)
 ### 06:10 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT ICP [time-stop (6d open, flat)]
