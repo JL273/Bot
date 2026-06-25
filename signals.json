@@ -1791,5 +1791,47 @@
     "unrealized_pnl": 121.80382107882555,
     "liquidation_price": 0,
     "exit_reason": "TP hit (+42.8% of margin)"
+  },
+  {
+    "ts": "2026-06-25T14:00:04.189578+00:00",
+    "trader": "0x94dac1facdc4afd2614c3119447187b4143bc449",
+    "type": "CLOSED",
+    "coin": "TRX",
+    "side": "SHORT",
+    "size": 1594.7143900104081,
+    "entry_price": 0.3203347525,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -3.062246320631555,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (7d open, flat)"
+  },
+  {
+    "ts": "2026-06-25T14:00:04.189578+00:00",
+    "trader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
+    "type": "CLOSED",
+    "coin": "BTC",
+    "side": "LONG",
+    "size": 0.009005257500363434,
+    "entry_price": 62582.0,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -38.05171556778569,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-20.3% of margin)"
+  },
+  {
+    "ts": "2026-06-25T14:00:04.189578+00:00",
+    "trader": "0xd6ef5649200101eb44ce8949f4cfb167b0c5a07a",
+    "type": "CLOSED",
+    "coin": "BTC",
+    "side": "LONG",
+    "size": 0.0069653464608816495,
+    "entry_price": 62582.0,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -29.43207147045541,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-20.3% of margin)"
   }
 ]
