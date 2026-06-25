@@ -1833,5 +1833,19 @@
     "unrealized_pnl": -29.43207147045541,
     "liquidation_price": 0,
     "exit_reason": "SL hit (-20.3% of margin)"
+  },
+  {
+    "ts": "2026-06-25T17:10:01.856853+00:00",
+    "trader": "0x4a96036fb1529561fa3eeeb2781fad2d4f25500e",
+    "type": "CLOSED",
+    "coin": "VVV",
+    "side": "SHORT",
+    "size": 30.748325953922823,
+    "entry_price": 13.353166351239604,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -30.328108531406645,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-22.2% of margin)"
   }
 ]

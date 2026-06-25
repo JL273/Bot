@@ -492,6 +492,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-25
 
+### 17:10 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT VVV [SL hit (-22.2% of margin)]
+- Portfolio equity: $11,944.53 (+19.45%)
 ### 14:00 UTC — Position poll (Job B)
 - 3 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT TRX [time-stop (7d open, flat)]
