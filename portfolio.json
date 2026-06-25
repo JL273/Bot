@@ -1,5 +1,5 @@
 {
-  "cash": 5287.769045757063,
+  "cash": 5023.116205016922,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x5f94a51948d2376ad34a6fadfa2544e651b74b96:TRUMP:SHORT": {
@@ -441,6 +441,20 @@
       "margin": 111.44016618055201,
       "notional": 334.32049854165604,
       "opened_at": "2026-06-24T09:15:02.222434+00:00"
+    },
+    "0x5272f37ecaa073e5a0ea07618145939e5e6cfcd9:BTC:LONG": {
+      "trader": "0x5272f37ecaa073e5a0ea07618145939e5e6cfcd9",
+      "coin": "BTC",
+      "side": "LONG",
+      "size": 0.008683563316183964,
+      "entry_price": 60894.0,
+      "entry_fee": 0.2643884522878532,
+      "entry_slippage_bps": 0.25,
+      "entry_fill_method": "book",
+      "leverage": 2,
+      "margin": 264.38845228785317,
+      "notional": 528.7769045757063,
+      "opened_at": "2026-06-25T02:00:02.729716+00:00"
     }
   },
   "equity_history": [
@@ -12668,7 +12682,12 @@
       "ts": "2026-06-25T01:55:04.661710+00:00",
       "equity": 11670.56657010258,
       "cash": 5287.769045757063
+    },
+    {
+      "ts": "2026-06-25T02:00:05.250953+00:00",
+      "equity": 11675.891296155523,
+      "cash": 5023.116205016922
     }
   ],
-  "last_processed_signal_index": 119
+  "last_processed_signal_index": 120
 }
