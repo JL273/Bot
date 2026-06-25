@@ -1611,5 +1611,19 @@
     "unrealized_pnl": -0.3701385501677597,
     "liquidation_price": 0,
     "exit_reason": "time-stop (6d open, flat)"
+  },
+  {
+    "ts": "2026-06-25T01:10:02.166483+00:00",
+    "trader": "0x5f94a51948d2376ad34a6fadfa2544e651b74b96",
+    "type": "CLOSED",
+    "coin": "OP",
+    "side": "SHORT",
+    "size": 8902.089770409102,
+    "entry_price": 0.10619687500000001,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 3.6220377753353357,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (6d open, flat)"
   }
 ]

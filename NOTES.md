@@ -489,3 +489,10 @@ _Auto-generated. Newest entry at top._
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT XMR [time-stop (6d open, flat)]
 - Portfolio equity: $11,240.02 (+12.40%)
+
+## 2026-06-25
+
+### 01:10 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT OP [time-stop (6d open, flat)]
+- Portfolio equity: $11,703.02 (+17.03%)
