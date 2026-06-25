@@ -1847,5 +1847,19 @@
     "unrealized_pnl": -30.328108531406645,
     "liquidation_price": 0,
     "exit_reason": "SL hit (-22.2% of margin)"
+  },
+  {
+    "ts": "2026-06-25T17:25:02.117544+00:00",
+    "trader": "0x218a65e21eddeece7a9df38c6bbdd89f692b7da2",
+    "type": "NEW",
+    "confluence": 3,
+    "coin": "ETH",
+    "side": "SHORT",
+    "size": 8471.2124,
+    "entry_price": 1757.15,
+    "position_value_usd": 13266765.73964,
+    "leverage": 10,
+    "unrealized_pnl": 1618446.797466,
+    "liquidation_price": 1915.0185556201
   }
 ]
