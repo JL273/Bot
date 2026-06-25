@@ -1013,6 +1013,16 @@ function renderPositions(portfolio, marks) {
     list.innerHTML = '<li style="color:var(--text3);font-size:12px;padding:20px 18px;border:none;">No open positions</li>';
     return;
   }
+  // Sort by unrealized PnL descending
+  positions.sort((a, b) => {
+    const unreal = p => {
+      const mark = marks && marks[p.coin];
+      if (!mark || !p.entry_price || !p.size) return 0;
+      return p.side === 'LONG' ? (mark - p.entry_price) * p.size : (p.entry_price - mark) * p.size;
+    };
+    return unreal(b) - unreal(a);
+  });
+
   list.innerHTML = positions.slice(0,12).map(p => {
     const sideCls = p.side === 'LONG' ? 'badge-green' : 'badge-red';
     const mark = marks && marks[p.coin];
