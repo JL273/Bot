@@ -492,6 +492,17 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-25
 
+### 09:15 UTC — Position poll (Job B)
+- 4 signal(s) acted on, 4 skipped (confluence), 0 paused (daily profit limit):
+- NEW LONG BTC (0xbe19541903f64af97bcf8436f4d15bf3a56b8bd1) [3/5 traders]
+- NEW SHORT SOL (0xbe19541903f64af97bcf8436f4d15bf3a56b8bd1) [3/5 traders]
+- NEW SHORT HYPE (0xbe19541903f64af97bcf8436f4d15bf3a56b8bd1) [3/5 traders]
+- NEW SHORT FARTCOIN (0xbe19541903f64af97bcf8436f4d15bf3a56b8bd1) [2/5 traders]
+- SKIPPED SHORT WLFI (0xbe19541903f64af97bcf8436f4d15bf3a56b8bd1) — only 1/5 traders
+- SKIPPED SHORT CHIP (0xbe19541903f64af97bcf8436f4d15bf3a56b8bd1) — only 1/5 traders
+- SKIPPED SHORT ASTER (0xbe19541903f64af97bcf8436f4d15bf3a56b8bd1) — only 1/5 traders
+- SKIPPED SHORT MEGA (0xbe19541903f64af97bcf8436f4d15bf3a56b8bd1) — only 1/5 traders
+- Portfolio equity: $11,471.74 (+14.72%)
 ### 09:13 UTC — Daily refresh (Job A)
 - Leaderboard: 39392 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
