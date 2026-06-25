@@ -909,5 +909,27 @@
     "pnl_pct": 6.367583683524132,
     "total_slippage_bps": 1.45,
     "exit_reason": "trader"
+  },
+  {
+    "trader": "0x94dac1facdc4afd2614c3119447187b4143bc449",
+    "coin": "ICP",
+    "side": "SHORT",
+    "size": 93.43117816184838,
+    "entry_price": 2.2861063749999997,
+    "leverage": 3,
+    "margin": 71.19787067318744,
+    "notional": 213.59361201956233,
+    "opened_at": "2026-06-18T08:05:21.071969+00:00",
+    "exit_price": 2.2789,
+    "exit_fee": 0.10646015595651814,
+    "total_fees": 0.2132569619662993,
+    "exit_slippage_bps": 10.76,
+    "exit_fill_method": "book",
+    "closed_at": "2026-06-25T06:10:01.990171+00:00",
+    "gross_pnl": 0.6733001065260474,
+    "pnl": 0.46004314455974815,
+    "pnl_pct": 0.6461473358823311,
+    "total_slippage_bps": 10.76,
+    "exit_reason": "time-stop (6d open, flat)"
   }
 ]

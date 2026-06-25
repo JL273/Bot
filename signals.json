@@ -1679,5 +1679,19 @@
     "leverage": 1,
     "unrealized_pnl": 212.714146,
     "liquidation_price": 30.4083357012
+  },
+  {
+    "ts": "2026-06-25T06:10:01.990171+00:00",
+    "trader": "0x94dac1facdc4afd2614c3119447187b4143bc449",
+    "type": "CLOSED",
+    "coin": "ICP",
+    "side": "SHORT",
+    "size": 93.43117816184838,
+    "entry_price": 2.2861063749999997,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 0.9022064930225818,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (6d open, flat)"
   }
 ]

@@ -492,6 +492,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-25
 
+### 06:10 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT ICP [time-stop (6d open, flat)]
+- Portfolio equity: $11,469.89 (+14.70%)
 ### 04:30 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - CLOSED SHORT MON (0x4a96036fb1529561fa3eeeb2781fad2d4f25500e)
