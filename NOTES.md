@@ -579,6 +579,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-26
 
+### 15:25 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT FARTCOIN [SL hit (-20.1% of margin)]
+- Portfolio equity: $11,443.45 (+14.43%)
 ### 09:15 UTC — Position poll (Job B)
 - 16 signal(s) acted on, 41 skipped (confluence), 0 paused (daily profit limit):
 - NEW SHORT ASTER (0x45d26f28196d226497130c4bac709d808fed4029) [2/5 traders]
