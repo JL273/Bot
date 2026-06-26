@@ -579,6 +579,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-26
 
+### 16:33 UTC — Daily refresh (Job A)
+- Leaderboard: 39528 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+- #1 0x71dfc07de32c2ebf1c4801f4b1c9e40b76d4a23d acc=$7,490,072 month=$1,817,940 edge=3407bps
+- #2 0x62ff69d604e63403b8373b382d17d4ef94bca8ce acc=$289,559 month=$67,092 edge=121bps
+- #3 0x60a8c761f39696b3b419f31dcda20b405cb685f6 acc=$32,374,280 month=$3,923,081 edge=2509bps
+- #4 0x95fde6cf0d305078b7eeac44182a931c169dd947 acc=$2,325,881 month=$384,869 edge=284bps
+- #5 0x2fcb6898d5a0623de19c3691904927685014c4d8 acc=$4,698,958 month=$587,767 edge=186bps
+- Current positions across the shortlist:
+-   0x71dfc07de32c2ebf1c4801f4b1c9e40b76d4a23d... 7 positions: SHORT BTC x2, SHORT ETH x2, SHORT GRIFFAIN x3, SHORT STBL x3, SHORT ZEC x10, SHORT XMR x2, SHORT CHIP x2
+-   0x62ff69d604e63403b8373b382d17d4ef94bca8ce... 1 positions: SHORT BTC x6
+-   0x60a8c761f39696b3b419f31dcda20b405cb685f6... 2 positions: LONG BTC x20, LONG FARTCOIN x10
+-   0x95fde6cf0d305078b7eeac44182a931c169dd947... 2 positions: SHORT ETH x20, LONG ZEC x5
+-   0x2fcb6898d5a0623de19c3691904927685014c4d8... 29 positions: SHORT BCH x10, SHORT WLD x10, SHORT UNI x10, SHORT ZRO x5, SHORT NEAR x10, SHORT ORDI x3, SHORT ZEN x5, SHORT FIL x5, SHORT kLUNC x3, SHORT STRK x5, SHORT TNSR x3, SHORT XLM x5, SHORT VIRTUAL x5, SHORT TRUMP x10, SHORT MELANIA x3, SHORT ANIME x3, SHORT VVV x3, SHORT BERA x5, SHORT IP x3, SHORT AVNT x5, SHORT STBL x3, SHORT 0G x3, SHORT ZEC x10, SHORT MET x3, SHORT ICP x5, SHORT FOGO x3, SHORT LIT x3, SHORT DASH x5, SHORT CHIP x3
 ### 15:25 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT FARTCOIN [SL hit (-20.1% of margin)]
