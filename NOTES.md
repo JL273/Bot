@@ -576,3 +576,10 @@ _Auto-generated. Newest entry at top._
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT OP [time-stop (6d open, flat)]
 - Portfolio equity: $11,703.02 (+17.03%)
+
+## 2026-06-26
+
+### 02:15 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT MON [TP hit (+42.5% of margin)]
+- Portfolio equity: $12,071.80 (+20.72%)

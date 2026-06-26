@@ -1861,5 +1861,19 @@
     "leverage": 10,
     "unrealized_pnl": 1618446.797466,
     "liquidation_price": 1915.0185556201
+  },
+  {
+    "ts": "2026-06-26T02:15:01.940688+00:00",
+    "trader": "0x94dac1facdc4afd2614c3119447187b4143bc449",
+    "type": "CLOSED",
+    "coin": "MON",
+    "side": "SHORT",
+    "size": 33778.483771506595,
+    "entry_price": 0.0216561665,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 103.60423384475867,
+    "liquidation_price": 0,
+    "exit_reason": "TP hit (+42.5% of margin)"
   }
 ]
