@@ -579,6 +579,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-26
 
+### 09:13 UTC — Daily refresh (Job A)
+- Leaderboard: 39467 traders fetched, 5 shortlisted
+- Shortlist change: +3 new, -3 dropped
+- #1 0x45d26f28196d226497130c4bac709d808fed4029 acc=$32,642,667 month=$4,198,743 edge=8059bps
+- #2 0xceec48581b3145a575508719f45da07dc57fa7ce acc=$13,857,758 month=$1,147,098 edge=1801bps
+- #3 0x06cecfbac34101ae41c88ebc2450f8602b3d164b acc=$3,024,360 month=$775,590 edge=1068bps
+- #4 0xbe19541903f64af97bcf8436f4d15bf3a56b8bd1 acc=$5,340,374 month=$449,242 edge=574bps
+- #5 0x71dfc07de32c2ebf1c4801f4b1c9e40b76d4a23d acc=$7,491,975 month=$1,819,843 edge=3410bps
+- Current positions across the shortlist:
+-   0x45d26f28196d226497130c4bac709d808fed4029... 44 positions: SHORT BTC x20, SHORT ETH x20, SHORT ATOM x5, SHORT SOL x20, SHORT AVAX x10, SHORT BNB x10, SHORT OP x5, SHORT ARB x10, SHORT DOGE x10, SHORT CRV x10, SHORT STX x5, SHORT XRP x20, SHORT TRX x10, SHORT kSHIB x10, SHORT UNI x10, SHORT SEI x5, SHORT ZRO x5, SHORT TIA x5, SHORT NEAR x10, SHORT FIL x5, SHORT kBONK x10, SHORT ONDO x10, SHORT TAO x5, SHORT kFLOKI x5, SHORT ENA x10, SHORT POL x5, SHORT MOODENG x3, SHORT GRASS x3, SHORT HYPE x10, SHORT VIRTUAL x5, SHORT PENGU x5, SHORT FARTCOIN x10, SHORT SPX x5, SHORT VVV x3, SHORT INIT x3, SHORT SYRUP x3, SHORT PUMP x3, SHORT XPL x5, SHORT ASTER x3, SHORT APEX x3, SHORT 2Z x3, SHORT MON x5, SHORT LIT x3, SHORT CHIP x3
+-   0xceec48581b3145a575508719f45da07dc57fa7ce... 1 positions: SHORT HYPE x5
+-   0x06cecfbac34101ae41c88ebc2450f8602b3d164b... 6 positions: SHORT BTC x20, SHORT ETH x20, SHORT SOL x20, SHORT AAVE x10, SHORT HYPE x10, SHORT MON x5
+-   0xbe19541903f64af97bcf8436f4d15bf3a56b8bd1... 8 positions: LONG BTC x20, SHORT SOL x20, SHORT HYPE x10, SHORT FARTCOIN x10, SHORT WLFI x5, SHORT ASTER x3, SHORT MEGA x3, SHORT CHIP x3
+-   0x71dfc07de32c2ebf1c4801f4b1c9e40b76d4a23d... 7 positions: SHORT BTC x2, SHORT ETH x2, SHORT GRIFFAIN x3, SHORT STBL x3, SHORT ZEC x10, SHORT XMR x2, SHORT CHIP x2
 ### 02:15 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT MON [TP hit (+42.5% of margin)]
