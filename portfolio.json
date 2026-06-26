@@ -1,5 +1,5 @@
 {
-  "cash": 2149.929553537106,
+  "cash": 2286.5061829655115,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x5f94a51948d2376ad34a6fadfa2544e651b74b96:SUI:SHORT": {
@@ -598,20 +598,6 @@
       "leverage": 2,
       "margin": 151.95609421170357,
       "notional": 303.91218842340714,
-      "opened_at": "2026-06-26T09:15:02.906722+00:00"
-    },
-    "0x71dfc07de32c2ebf1c4801f4b1c9e40b76d4a23d:CHIP:SHORT": {
-      "trader": "0x71dfc07de32c2ebf1c4801f4b1c9e40b76d4a23d",
-      "coin": "CHIP",
-      "side": "SHORT",
-      "size": 9936.37526734867,
-      "entry_price": 0.029054999999999997,
-      "entry_fee": 0.14435069169640782,
-      "entry_slippage_bps": 2.06,
-      "entry_fill_method": "book",
-      "leverage": 2,
-      "margin": 144.3506916964078,
-      "notional": 288.7013833928156,
       "opened_at": "2026-06-26T09:15:02.906722+00:00"
     },
     "0x71dfc07de32c2ebf1c4801f4b1c9e40b76d4a23d:ETH:SHORT": {
@@ -15354,7 +15340,12 @@
       "ts": "2026-06-26T17:25:04.116511+00:00",
       "equity": 11349.032595884193,
       "cash": 2149.929553537106
+    },
+    {
+      "ts": "2026-06-26T17:30:04.602315+00:00",
+      "equity": 11303.795529035982,
+      "cash": 2286.5061829655115
     }
   ],
-  "last_processed_signal_index": 159
+  "last_processed_signal_index": 160
 }
