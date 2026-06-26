@@ -181,6 +181,106 @@ def main() -> None:
     if not learnings:
         learnings.append("Not enough data for pattern analysis yet — check back next week.")
 
+    # ── Change suggestions ────────────────────────────────────────────────────
+    suggestions: list[str] = []
+
+    # SL fires too often with small losses → SL might be too tight
+    if len(sl_trades) >= 3 and week_trades:
+        avg_sl_loss = abs(sum(t.get("pnl", 0) for t in sl_trades) / len(sl_trades))
+        avg_trade_size = abs(sum(t.get("pnl", 0) for t in week_trades if t.get("pnl", 0) != 0) / max(len(week_trades), 1))
+        if avg_sl_loss < avg_trade_size * 0.5:
+            suggestions.append(
+                f"Stop-loss fired {len(sl_trades)}x with small avg loss ({_fmt(-avg_sl_loss)}) — "
+                f"consider widening SL threshold slightly to avoid being stopped out on noise."
+            )
+
+    # SL fires often with large losses → SL too loose or not working
+    if len(sl_trades) >= 3:
+        avg_sl_loss = abs(sum(t.get("pnl", 0) for t in sl_trades) / len(sl_trades))
+        if avg_sl_loss > 30:
+            suggestions.append(
+                f"SL avg loss is {_fmt(-avg_sl_loss)} — consider tightening stop-loss to cap downside per trade."
+            )
+
+    # TP never fires → TP threshold possibly too high
+    if ts_trades and not tp_trades and week_trades:
+        suggestions.append(
+            f"Take-profit never triggered this week but time-stop fired {len(ts_trades)}x — "
+            f"TP target may be set too high. Consider lowering it to lock in more wins."
+        )
+
+    # Time-stop fires a lot with near-zero results → trades go nowhere
+    if len(ts_trades) >= 3:
+        avg_ts_pnl = sum(t.get("pnl", 0) for t in ts_trades) / len(ts_trades)
+        if abs(avg_ts_pnl) < 5:
+            suggestions.append(
+                f"Time-stop fired {len(ts_trades)}x with near-flat avg result ({_fmt(avg_ts_pnl)}) — "
+                f"these positions aren't moving. Consider shortening TIME_STOP_DAYS to free up capital sooner."
+            )
+
+    # Confluence outperforms strongly → reinforce keeping it
+    if conf_trades and len(conf_trades) >= 2:
+        conf_wr_val = sum(1 for t in conf_trades if t.get("pnl", 0) > 0) / len(conf_trades) * 100
+        non_conf = [t for t in week_trades if t.get("confluence", 1) < 2]
+        non_conf_wr = (sum(1 for t in non_conf if t.get("pnl", 0) > 0) / len(non_conf) * 100) if non_conf else 0
+        if conf_wr_val > non_conf_wr + 15:
+            suggestions.append(
+                f"Confluence trades ({len(conf_trades)}) won {conf_wr_val:.0f}% vs {non_conf_wr:.0f}% for single-trader signals — "
+                f"confluence filter is working well. Consider raising CONFLUENCE_MIN to ≥2 if not already set."
+            )
+        elif non_conf_wr > conf_wr_val + 15 and non_conf:
+            suggestions.append(
+                f"Single-trader signals ({len(non_conf)}) outperformed confluence trades ({len(conf_trades)}) this week — "
+                f"confluence requirement may be filtering out good signals. Consider lowering CONFLUENCE_MIN."
+            )
+
+    # A coin has 3+ consecutive losses → flag it
+    coin_seq_losses: dict[str, int] = {}
+    for t in sorted(week_trades, key=lambda x: x.get("closed_at", "")):
+        coin = t.get("coin", "?")
+        if t.get("pnl", 0) < 0:
+            coin_seq_losses[coin] = coin_seq_losses.get(coin, 0) + 1
+        else:
+            coin_seq_losses[coin] = 0
+    for coin, streak in coin_seq_losses.items():
+        if streak >= 3:
+            suggestions.append(
+                f"{coin} had {streak} consecutive losing trades this week — "
+                f"consider filtering it out or reducing position size for this coin."
+            )
+
+    # Consistent losing side (LONG or SHORT) → possible directional bias issue
+    if long_cnt >= 3 and short_cnt >= 3:
+        long_wr = sum(1 for t in week_trades if t.get("side") == "LONG" and t.get("pnl", 0) > 0) / long_cnt * 100
+        short_wr = sum(1 for t in week_trades if t.get("side") == "SHORT" and t.get("pnl", 0) > 0) / short_cnt * 100
+        if long_wr < 30 and short_wr > 55:
+            suggestions.append(
+                f"LONG win rate ({long_wr:.0f}%) is much lower than SHORT ({short_wr:.0f}%) — "
+                f"market may be bearish. Consider being more selective with LONG entries."
+            )
+        elif short_wr < 30 and long_wr > 55:
+            suggestions.append(
+                f"SHORT win rate ({short_wr:.0f}%) is much lower than LONG ({long_wr:.0f}%) — "
+                f"market may be bullish. Consider being more selective with SHORT entries."
+            )
+
+    # Win rate declining significantly
+    if win_rate < 35 and week_trades:
+        suggestions.append(
+            f"Win rate this week ({win_rate:.0f}%) is well below average — "
+            f"consider reviewing trader shortlist quality or tightening entry filters."
+        )
+
+    # Very few trades → signal frequency may be too low
+    if len(week_trades) < 3 and len(new_sigs) < 5:
+        suggestions.append(
+            "Very few trades this week — if this continues, consider expanding the trader shortlist "
+            "or relaxing the confluence filter to increase signal frequency."
+        )
+
+    if not suggestions:
+        suggestions.append("No specific changes recommended this week — keep the current parameters.")
+
     # ── Build message ─────────────────────────────────────────────────────────
     L: list[str] = []
     L.append(f"*📊 Copytrade — Weekly Learning Report*")
@@ -255,6 +355,11 @@ def main() -> None:
     L.append("*🧠 Learnings & observations*")
     for obs in learnings:
         L.append(f"• {obs}")
+    L.append("")
+
+    L.append("*💡 Suggestions for next week*")
+    for s in suggestions:
+        L.append(f"• {s}")
 
     _post("\n".join(L))
     print("Weekly report sent successfully.")
