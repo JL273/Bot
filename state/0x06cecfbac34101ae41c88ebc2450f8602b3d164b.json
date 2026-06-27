@@ -1,66 +1,66 @@
 {
-  "account_value": 1042249.91599,
+  "account_value": 1035177.988254,
   "positions": [
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 10.76979,
       "entry_price": 99415.1,
-      "position_value_usd": 650473.77642,
+      "position_value_usd": 650829.17949,
       "leverage": 20,
-      "unrealized_pnl": 420206.101633,
-      "liquidation_price": 205088.1231710572
+      "unrealized_pnl": 419850.698563,
+      "liquidation_price": 204435.4679989806
     },
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 1402.9221,
       "entry_price": 2198.3,
-      "position_value_usd": 2224332.98955,
+      "position_value_usd": 2225034.4506,
       "leverage": 20,
-      "unrealized_pnl": 859719.427856,
-      "liquidation_price": 2688.0731820517
+      "unrealized_pnl": 859017.966806,
+      "liquidation_price": 2683.3483264205
     },
     {
       "coin": "SOL",
       "side": "SHORT",
       "size": 359.69,
       "entry_price": 171.6757,
-      "position_value_usd": 25967.81955,
+      "position_value_usd": 25984.36529,
       "leverage": 20,
-      "unrealized_pnl": 35782.237849,
-      "liquidation_price": 4351.6545336397
+      "unrealized_pnl": 35765.692109,
+      "liquidation_price": 4331.4211013034
     },
     {
       "coin": "AAVE",
       "side": "SHORT",
       "size": 6401.64,
       "entry_price": 81.2821,
-      "position_value_usd": 617854.2846,
+      "position_value_usd": 617886.2928,
       "leverage": 10,
-      "unrealized_pnl": -97515.476578,
-      "liquidation_price": 331.2406803609
+      "unrealized_pnl": -97547.484778,
+      "liquidation_price": 330.1333661737
     },
     {
       "coin": "HYPE",
       "side": "SHORT",
       "size": 97619.88,
       "entry_price": 41.4261,
-      "position_value_usd": 6191052.7896,
+      "position_value_usd": 6196519.50288,
       "leverage": 10,
-      "unrealized_pnl": -2147032.622601,
-      "liquidation_price": 78.812656746
+      "unrealized_pnl": -2152499.335881,
+      "liquidation_price": 78.7957142778
     },
     {
       "coin": "MON",
       "side": "SHORT",
       "size": 45436036.0,
       "entry_price": 0.018488,
-      "position_value_usd": 871872.094804,
+      "position_value_usd": 872371.8912,
       "leverage": 5,
-      "unrealized_pnl": -31843.00242,
-      "liquidation_price": 0.0507570702
+      "unrealized_pnl": -32342.798816,
+      "liquidation_price": 0.0506184759
     }
   ],
-  "timestamp_ms": 1782566402070
+  "timestamp_ms": 1782566702207
 }
