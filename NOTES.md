@@ -722,6 +722,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-27
 
+### 15:30 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT CHIP [SL hit (-20.4% of margin)]
+- Portfolio equity: $11,089.15 (+10.89%)
 ### 14:58 UTC — Daily refresh (Job A)
 - Leaderboard: 39529 traders fetched, 5 shortlisted
 - Shortlist change: +2 new, -2 dropped
