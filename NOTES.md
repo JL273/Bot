@@ -719,3 +719,10 @@ _Auto-generated. Newest entry at top._
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT MON [TP hit (+42.5% of margin)]
 - Portfolio equity: $12,071.80 (+20.72%)
+
+## 2026-06-27
+
+### 03:25 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT FARTCOIN [SL hit (-20.3% of margin)]
+- Portfolio equity: $11,287.16 (+12.87%)
