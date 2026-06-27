@@ -1,66 +1,66 @@
 {
-  "account_value": 601126.831386,
+  "account_value": 598825.657938,
   "positions": [
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 0.0233,
       "entry_price": 102473.7,
-      "position_value_usd": 1403.9415,
+      "position_value_usd": 1402.893,
       "leverage": 2,
-      "unrealized_pnl": 983.697246,
-      "liquidation_price": 211592988.98498383
+      "unrealized_pnl": 984.745746,
+      "liquidation_price": 211490535.7910666
     },
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 342.0,
       "entry_price": 2038.19,
-      "position_value_usd": 540223.2,
+      "position_value_usd": 539881.2,
       "leverage": 2,
-      "unrealized_pnl": 156838.331469,
-      "liquidation_price": 15885.0741733287
+      "unrealized_pnl": 157180.331469,
+      "liquidation_price": 15877.1485417928
     },
     {
       "coin": "GRIFFAIN",
       "side": "SHORT",
       "size": 3850000.0,
       "entry_price": 0.0188,
-      "position_value_usd": 33021.45,
+      "position_value_usd": 32986.8,
       "leverage": 3,
-      "unrealized_pnl": 39358.908308,
-      "liquidation_price": 1.1195947983
+      "unrealized_pnl": 39393.558308,
+      "liquidation_price": 1.1190479273
     },
     {
       "coin": "STBL",
       "side": "SHORT",
       "size": 1173634.0,
       "entry_price": 0.032978,
-      "position_value_usd": 28117.923372,
+      "position_value_usd": 28076.846182,
       "leverage": 3,
-      "unrealized_pnl": 10587.159442,
-      "liquidation_price": 3.6685512236
+      "unrealized_pnl": 10628.236632,
+      "liquidation_price": 3.6667517865
     },
     {
       "coin": "ZEC",
       "side": "SHORT",
       "size": 5850.05,
       "entry_price": 513.5031,
-      "position_value_usd": 2420282.686,
+      "position_value_usd": 2423090.71,
       "leverage": 10,
-      "unrealized_pnl": 583736.16911,
-      "liquidation_price": 1226.1382268892
+      "unrealized_pnl": 580928.14511,
+      "liquidation_price": 1226.2249152643
     },
     {
       "coin": "XMR",
       "side": "SHORT",
       "size": 146.739,
       "entry_price": 381.819,
-      "position_value_usd": 46935.93654,
+      "position_value_usd": 46874.30616,
       "leverage": 2,
-      "unrealized_pnl": 9091.86574,
-      "liquidation_price": 31236.3580656689
+      "unrealized_pnl": 9153.49612,
+      "liquidation_price": 31220.9706293301
     }
   ],
-  "timestamp_ms": 1782536102074
+  "timestamp_ms": 1782536403022
 }
