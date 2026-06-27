@@ -1266,5 +1266,30 @@
     "pnl_pct": -20.842316780058976,
     "total_slippage_bps": 9.97,
     "exit_reason": "SL hit (-20.4% of margin)"
+  },
+  {
+    "trader": "0x2fcb6898d5a0623de19c3691904927685014c4d8",
+    "coin": "STBL",
+    "side": "SHORT",
+    "size": 15673.86995871525,
+    "entry_price": 0.024003319002263844,
+    "entry_fee": 0.1881124503095211,
+    "entry_slippage_bps": 0.13,
+    "entry_fill_method": "book",
+    "leverage": 3,
+    "margin": 125.40830020634739,
+    "notional": 376.22490061904216,
+    "opened_at": "2026-06-26T16:35:02.219326+00:00",
+    "exit_price": 0.02580009856548513,
+    "exit_fee": 0.2021936949187249,
+    "total_fees": 0.390306145228246,
+    "exit_slippage_bps": 9.35,
+    "exit_fill_method": "book",
+    "closed_at": "2026-06-27T18:45:02.235795+00:00",
+    "gross_pnl": -28.162489218407643,
+    "pnl": -28.552795363635887,
+    "pnl_pct": -22.7678672916027,
+    "total_slippage_bps": 9.48,
+    "exit_reason": "SL hit (-22.2% of margin)"
   }
 ]

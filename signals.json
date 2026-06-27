@@ -2252,5 +2252,19 @@
     "unrealized_pnl": -54.41574600689874,
     "liquidation_price": 0,
     "exit_reason": "SL hit (-20.4% of margin)"
+  },
+  {
+    "ts": "2026-06-27T18:45:02.235795+00:00",
+    "trader": "0x2fcb6898d5a0623de19c3691904927685014c4d8",
+    "type": "CLOSED",
+    "coin": "STBL",
+    "side": "SHORT",
+    "size": 15673.86995871525,
+    "entry_price": 0.024003319002263844,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -27.784771436802114,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-22.2% of margin)"
   }
 ]
