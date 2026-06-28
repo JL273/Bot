@@ -1,55 +1,55 @@
 {
-  "account_value": 1157334.732098,
+  "account_value": 1175374.124558,
   "positions": [
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 10.76979,
       "entry_price": 99415.1,
-      "position_value_usd": 647985.95493,
+      "position_value_usd": 647393.61648,
       "leverage": 20,
-      "unrealized_pnl": 422693.923123,
-      "liquidation_price": 216151.2103294791
+      "unrealized_pnl": 423286.261573,
+      "liquidation_price": 217829.8370943624
     },
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 1402.9221,
       "entry_price": 2198.3,
-      "position_value_usd": 2213109.61275,
+      "position_value_usd": 2210444.06076,
       "leverage": 20,
-      "unrealized_pnl": 870942.804656,
-      "liquidation_price": 2766.1368147569
+      "unrealized_pnl": 873608.356646,
+      "liquidation_price": 2777.4474633946
     },
     {
       "coin": "SOL",
       "side": "SHORT",
       "size": 359.69,
       "entry_price": 171.6757,
-      "position_value_usd": 25667.4784,
+      "position_value_usd": 25639.42258,
       "leverage": 20,
-      "unrealized_pnl": 36082.578999,
-      "liquidation_price": 4684.8616085586
+      "unrealized_pnl": 36110.634819,
+      "liquidation_price": 4736.0586052461
     },
     {
       "coin": "AAVE",
       "side": "SHORT",
       "size": 6401.64,
       "entry_price": 81.2821,
-      "position_value_usd": 577248.68208,
+      "position_value_usd": 576454.87872,
       "leverage": 10,
-      "unrealized_pnl": -56909.874058,
-      "liquidation_price": 343.2196793628
+      "unrealized_pnl": -56116.070698,
+      "liquidation_price": 345.9080808796
     },
     {
       "coin": "HYPE",
       "side": "SHORT",
       "size": 97619.88,
       "entry_price": 41.4261,
-      "position_value_usd": 6137459.47548,
+      "position_value_usd": 6123499.83264,
       "leverage": 10,
-      "unrealized_pnl": -2093439.308481,
-      "liquidation_price": 79.4651624402
+      "unrealized_pnl": -2079479.665641,
+      "liquidation_price": 79.5065919032
     },
     {
       "coin": "MON",
@@ -59,8 +59,8 @@
       "position_value_usd": 865147.561476,
       "leverage": 5,
       "unrealized_pnl": -25118.469092,
-      "liquidation_price": 0.0530731812
+      "liquidation_price": 0.0534514189
     }
   ],
-  "timestamp_ms": 1782642002065
+  "timestamp_ms": 1782642302145
 }
