@@ -2546,5 +2546,61 @@
     "leverage": 10,
     "unrealized_pnl": 12616.146319,
     "liquidation_price": 0.6882145058
+  },
+  {
+    "ts": "2026-06-28T15:05:02.092729+00:00",
+    "trader": "0xb0fbfefc6c325964d0ffc3f909bdda80b8421326",
+    "type": "NEW",
+    "confluence": 4,
+    "coin": "ETH",
+    "side": "SHORT",
+    "size": 123.09,
+    "entry_price": 1957.85,
+    "position_value_usd": 194863.779,
+    "leverage": 25,
+    "unrealized_pnl": 46128.284794,
+    "liquidation_price": 5037.5497045124
+  },
+  {
+    "ts": "2026-06-28T15:05:02.092729+00:00",
+    "trader": "0xb0fbfefc6c325964d0ffc3f909bdda80b8421326",
+    "type": "NEW",
+    "confluence": 4,
+    "coin": "HYPE",
+    "side": "SHORT",
+    "size": 16795.6,
+    "entry_price": 52.2554,
+    "position_value_usd": 1055771.416,
+    "leverage": 10,
+    "unrealized_pnl": -178110.123247,
+    "liquidation_price": 87.4533106296
+  },
+  {
+    "ts": "2026-06-28T15:05:02.092729+00:00",
+    "trader": "0xb0fbfefc6c325964d0ffc3f909bdda80b8421326",
+    "type": "NEW",
+    "confluence": 3,
+    "coin": "XPL",
+    "side": "SHORT",
+    "size": 2000000.0,
+    "entry_price": 0.078595,
+    "position_value_usd": 197026.0,
+    "leverage": 10,
+    "unrealized_pnl": -39835.281733,
+    "liquidation_price": 0.305042704
+  },
+  {
+    "ts": "2026-06-28T15:05:02.092729+00:00",
+    "trader": "0xb0fbfefc6c325964d0ffc3f909bdda80b8421326",
+    "type": "NEW",
+    "confluence": 2,
+    "coin": "NEAR",
+    "side": "SHORT",
+    "size": 100000.0,
+    "entry_price": 1.82848,
+    "position_value_usd": 187720.0,
+    "leverage": 10,
+    "unrealized_pnl": -4871.608516,
+    "liquidation_price": 6.0077940801
   }
 ]
