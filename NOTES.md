@@ -765,6 +765,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-28
 
+### 06:10 UTC — Position poll (Job B)
+- 0 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
+- SKIPPED LONG ADA (0x71dfc07de32c2ebf1c4801f4b1c9e40b76d4a23d) — only 1/5 traders
+- Portfolio equity: $11,540.48 (+15.40%)
 ### 06:00 UTC — Position poll (Job B)
 - 0 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
 - SKIPPED SHORT LIT (0x71dfc07de32c2ebf1c4801f4b1c9e40b76d4a23d) — only 1/5 traders
