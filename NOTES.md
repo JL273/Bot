@@ -762,3 +762,10 @@ _Auto-generated. Newest entry at top._
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT FARTCOIN [SL hit (-20.3% of margin)]
 - Portfolio equity: $11,287.16 (+12.87%)
+
+## 2026-06-28
+
+### 06:00 UTC — Position poll (Job B)
+- 0 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
+- SKIPPED SHORT LIT (0x71dfc07de32c2ebf1c4801f4b1c9e40b76d4a23d) — only 1/5 traders
+- Portfolio equity: $11,528.88 (+15.29%)
