@@ -765,6 +765,57 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-28
 
+### 09:15 UTC — Position poll (Job B)
+- 19 signal(s) acted on, 29 skipped (confluence), 0 paused (daily profit limit):
+- NEW SHORT BTC (0xa20fb0c9e04063eec5be286e9269028d966646fa) [4/5 traders]
+- NEW SHORT TAO (0xa20fb0c9e04063eec5be286e9269028d966646fa) [2/5 traders]
+- NEW SHORT PENGU (0xa20fb0c9e04063eec5be286e9269028d966646fa) [2/5 traders]
+- NEW SHORT HYPE (0xa20fb0c9e04063eec5be286e9269028d966646fa) [3/5 traders]
+- NEW SHORT VIRTUAL (0xa20fb0c9e04063eec5be286e9269028d966646fa) [2/5 traders]
+- NEW SHORT STX (0xa20fb0c9e04063eec5be286e9269028d966646fa) [2/5 traders]
+- NEW SHORT ONDO (0xa20fb0c9e04063eec5be286e9269028d966646fa) [2/5 traders]
+- NEW SHORT MON (0xa20fb0c9e04063eec5be286e9269028d966646fa) [3/5 traders]
+- NEW SHORT ASTER (0xa20fb0c9e04063eec5be286e9269028d966646fa) [2/5 traders]
+- NEW SHORT POL (0xa20fb0c9e04063eec5be286e9269028d966646fa) [2/5 traders]
+- NEW SHORT AVAX (0xa20fb0c9e04063eec5be286e9269028d966646fa) [2/5 traders]
+- NEW SHORT ENA (0xa20fb0c9e04063eec5be286e9269028d966646fa) [2/5 traders]
+- NEW SHORT FARTCOIN (0xa20fb0c9e04063eec5be286e9269028d966646fa) [2/5 traders]
+- NEW SHORT DOGE (0xa20fb0c9e04063eec5be286e9269028d966646fa) [2/5 traders]
+- NEW SHORT kBONK (0xa20fb0c9e04063eec5be286e9269028d966646fa) [2/5 traders]
+- NEW SHORT CRV (0xa20fb0c9e04063eec5be286e9269028d966646fa) [2/5 traders]
+- NEW SHORT FIL (0xa20fb0c9e04063eec5be286e9269028d966646fa) [2/5 traders]
+- NEW SHORT ZEC (0xa20fb0c9e04063eec5be286e9269028d966646fa) [2/5 traders]
+- NEW SHORT XPL (0xa20fb0c9e04063eec5be286e9269028d966646fa) [2/5 traders]
+- SKIPPED SHORT ALGO (0xa20fb0c9e04063eec5be286e9269028d966646fa) — only 1/5 traders
+- SKIPPED SHORT LINK (0xa20fb0c9e04063eec5be286e9269028d966646fa) — only 1/5 traders
+- SKIPPED SHORT kPEPE (0xa20fb0c9e04063eec5be286e9269028d966646fa) — only 1/5 traders
+- SKIPPED SHORT KAS (0xa20fb0c9e04063eec5be286e9269028d966646fa) — only 1/5 traders
+- SKIPPED SHORT GALA (0xa20fb0c9e04063eec5be286e9269028d966646fa) — only 1/5 traders
+- SKIPPED LONG SKY (0xa20fb0c9e04063eec5be286e9269028d966646fa) — only 1/5 traders
+- SKIPPED SHORT DASH (0xa20fb0c9e04063eec5be286e9269028d966646fa) — only 1/5 traders
+- SKIPPED SHORT XLM (0xa20fb0c9e04063eec5be286e9269028d966646fa) — only 1/5 traders
+- SKIPPED SHORT MORPHO (0xa20fb0c9e04063eec5be286e9269028d966646fa) — only 1/5 traders
+- SKIPPED SHORT MET (0xa20fb0c9e04063eec5be286e9269028d966646fa) — only 1/5 traders
+- SKIPPED SHORT WLFI (0xa20fb0c9e04063eec5be286e9269028d966646fa) — only 1/5 traders
+- SKIPPED SHORT WLD (0xa20fb0c9e04063eec5be286e9269028d966646fa) — only 1/5 traders
+- SKIPPED SHORT HBAR (0xa20fb0c9e04063eec5be286e9269028d966646fa) — only 1/5 traders
+- SKIPPED SHORT AERO (0xa20fb0c9e04063eec5be286e9269028d966646fa) — only 1/5 traders
+- SKIPPED SHORT INJ (0xa20fb0c9e04063eec5be286e9269028d966646fa) — only 1/5 traders
+- SKIPPED SHORT WIF (0xa20fb0c9e04063eec5be286e9269028d966646fa) — only 1/5 traders
+- SKIPPED SHORT STRK (0xa20fb0c9e04063eec5be286e9269028d966646fa) — only 1/5 traders
+- SKIPPED SHORT LDO (0xa20fb0c9e04063eec5be286e9269028d966646fa) — only 1/5 traders
+- SKIPPED LONG XMR (0xa20fb0c9e04063eec5be286e9269028d966646fa) — only 1/5 traders
+- SKIPPED SHORT DOT (0xa20fb0c9e04063eec5be286e9269028d966646fa) — only 1/5 traders
+- SKIPPED SHORT RENDER (0xa20fb0c9e04063eec5be286e9269028d966646fa) — only 1/5 traders
+- SKIPPED SHORT PENDLE (0xa20fb0c9e04063eec5be286e9269028d966646fa) — only 1/5 traders
+- SKIPPED SHORT FET (0xa20fb0c9e04063eec5be286e9269028d966646fa) — only 1/5 traders
+- SKIPPED SHORT ETHFI (0xa20fb0c9e04063eec5be286e9269028d966646fa) — only 1/5 traders
+- SKIPPED SHORT CAKE (0xa20fb0c9e04063eec5be286e9269028d966646fa) — only 1/5 traders
+- SKIPPED SHORT ICP (0xa20fb0c9e04063eec5be286e9269028d966646fa) — only 1/5 traders
+- SKIPPED LONG XRP (0xa20fb0c9e04063eec5be286e9269028d966646fa) — only 1/5 traders
+- SKIPPED LONG NEAR (0xa20fb0c9e04063eec5be286e9269028d966646fa) — only 1/5 traders
+- SKIPPED LONG ZRO (0xa20fb0c9e04063eec5be286e9269028d966646fa) — only 1/5 traders
+- Portfolio equity: $11,370.79 (+13.71%)
 ### 09:13 UTC — Daily refresh (Job A)
 - Leaderboard: 39486 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
