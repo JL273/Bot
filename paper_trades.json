@@ -1291,5 +1291,30 @@
     "pnl_pct": -22.7678672916027,
     "total_slippage_bps": 9.48,
     "exit_reason": "SL hit (-22.2% of margin)"
+  },
+  {
+    "trader": "0x2fcb6898d5a0623de19c3691904927685014c4d8",
+    "coin": "CHIP",
+    "side": "SHORT",
+    "size": 11319.33058404282,
+    "entry_price": 0.029992,
+    "entry_fee": 0.16974468143830615,
+    "entry_slippage_bps": 4.33,
+    "entry_fill_method": "book",
+    "leverage": 3,
+    "margin": 113.16312095887076,
+    "notional": 339.4893628766123,
+    "opened_at": "2026-06-26T16:35:02.219326+00:00",
+    "exit_price": 0.032127,
+    "exit_fee": 0.18182806683677186,
+    "total_fees": 0.351572748275078,
+    "exit_slippage_bps": 4.36,
+    "exit_fill_method": "book",
+    "closed_at": "2026-06-28T08:35:02.553659+00:00",
+    "gross_pnl": -24.166770796931438,
+    "pnl": -24.518343545206516,
+    "pnl_pct": -21.666372699386514,
+    "total_slippage_bps": 8.69,
+    "exit_reason": "SL hit (-21.2% of margin)"
   }
 ]

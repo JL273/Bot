@@ -2266,5 +2266,19 @@
     "unrealized_pnl": -27.784771436802114,
     "liquidation_price": 0,
     "exit_reason": "SL hit (-22.2% of margin)"
+  },
+  {
+    "ts": "2026-06-28T08:35:02.553659+00:00",
+    "trader": "0x2fcb6898d5a0623de19c3691904927685014c4d8",
+    "type": "CLOSED",
+    "coin": "CHIP",
+    "side": "SHORT",
+    "size": 11319.33058404282,
+    "entry_price": 0.029992,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -24.008300168754836,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-21.2% of margin)"
   }
 ]
