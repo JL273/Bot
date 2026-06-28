@@ -765,6 +765,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-28
 
+### 17:25 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT HYPE [time-stop (5d open, flat)]
+- Portfolio equity: $11,610.61 (+16.11%)
 ### 15:05 UTC — Position poll (Job B)
 - 4 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
 - NEW SHORT ETH (0xb0fbfefc6c325964d0ffc3f909bdda80b8421326) [4/5 traders]
