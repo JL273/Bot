@@ -9,7 +9,7 @@ from pathlib import Path
 
 import requests
 
-SLACK_WEBHOOK  = os.environ["SLACK_WEBHOOK_URL"]
+SLACK_WEBHOOK  = os.environ.get("SLACK_WEBHOOK_URL", "")
 PORTFOLIO_PATH = Path("portfolio.json")
 TRADES_PATH    = Path("paper_trades.json")
 SIGNALS_PATH   = Path("signals.json")
@@ -29,6 +29,11 @@ def _pct(v: float) -> str:
 
 
 def _post(text: str) -> None:
+    if os.environ.get("DRY_RUN"):
+        print(text)
+        return
+    if not SLACK_WEBHOOK:
+        raise RuntimeError("SLACK_WEBHOOK_URL env var is not set")
     r = requests.post(SLACK_WEBHOOK, json={"text": text}, timeout=15)
     r.raise_for_status()
 
