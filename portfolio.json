@@ -1,5 +1,5 @@
 {
-  "cash": 1147.6015492436768,
+  "cash": 1212.1011580526279,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x5f94a51948d2376ad34a6fadfa2544e651b74b96:SUI:SHORT": {
@@ -752,20 +752,6 @@
       "leverage": 3,
       "margin": 91.61106157650198,
       "notional": 274.83318472950594,
-      "opened_at": "2026-06-28T09:15:02.715792+00:00"
-    },
-    "0xa20fb0c9e04063eec5be286e9269028d966646fa:FARTCOIN:SHORT": {
-      "trader": "0xa20fb0c9e04063eec5be286e9269028d966646fa",
-      "coin": "FARTCOIN",
-      "side": "SHORT",
-      "size": 1990.324868523107,
-      "entry_price": 0.13117,
-      "entry_fee": 0.13053545650208798,
-      "entry_slippage_bps": 3.81,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 87.02363766805865,
-      "notional": 261.07091300417596,
       "opened_at": "2026-06-28T09:15:02.715792+00:00"
     },
     "0xa20fb0c9e04063eec5be286e9269028d966646fa:DOGE:SHORT": {
@@ -18749,7 +18735,17 @@
       "ts": "2026-06-28T23:47:30.590173+00:00",
       "equity": 11604.685496449276,
       "cash": 1147.6015492436768
+    },
+    {
+      "ts": "2026-06-29T14:39:16.813690+00:00",
+      "equity": 11418.384652207285,
+      "cash": 1147.6015492436768
+    },
+    {
+      "ts": "2026-06-29T14:39:17.757232+00:00",
+      "equity": 11417.913422891415,
+      "cash": 1212.1011580526279
     }
   ],
-  "last_processed_signal_index": 190
+  "last_processed_signal_index": 191
 }

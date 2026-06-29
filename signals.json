@@ -2616,5 +2616,19 @@
     "unrealized_pnl": -2.118744945914889,
     "liquidation_price": 0,
     "exit_reason": "time-stop (5d open, flat)"
+  },
+  {
+    "ts": "2026-06-29T14:39:15.402924+00:00",
+    "trader": "0xa20fb0c9e04063eec5be286e9269028d966646fa",
+    "type": "CLOSED",
+    "coin": "FARTCOIN",
+    "side": "SHORT",
+    "size": 1990.324868523107,
+    "entry_price": 0.13117,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -22.05279954323598,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-25.3% of margin)"
   }
 ]

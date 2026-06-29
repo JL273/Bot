@@ -868,3 +868,11 @@ _Auto-generated. Newest entry at top._
 - 0 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
 - SKIPPED SHORT LIT (0x71dfc07de32c2ebf1c4801f4b1c9e40b76d4a23d) — only 1/5 traders
 - Portfolio equity: $11,528.88 (+15.29%)
+
+## 2026-06-29
+
+### 14:39 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT FARTCOIN [SL hit (-25.3% of margin)]
+- SKIPPED LONG SOL (0xa20fb0c9e04063eec5be286e9269028d966646fa) — only 1/5 traders
+- Portfolio equity: $11,417.91 (+14.18%)
