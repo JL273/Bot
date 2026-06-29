@@ -871,6 +871,59 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-29
 
+### 20:58 UTC — Position poll (Job B)
+- 19 signal(s) acted on, 31 skipped (confluence), 0 paused (daily profit limit):
+- CLOSED SHORT IP (0x2fcb6898d5a0623de19c3691904927685014c4d8)
+- NEW SHORT kPEPE (0x47f5a6397b79deaaca5c456503e7c1a49357b942) [2/5 traders]
+- NEW SHORT ICP (0x47f5a6397b79deaaca5c456503e7c1a49357b942) [2/5 traders]
+- NEW SHORT SUI (0x47f5a6397b79deaaca5c456503e7c1a49357b942) [2/5 traders]
+- NEW SHORT WLD (0x47f5a6397b79deaaca5c456503e7c1a49357b942) [2/5 traders]
+- NEW SHORT BCH (0x47f5a6397b79deaaca5c456503e7c1a49357b942) [2/5 traders]
+- NEW SHORT WLFI (0x47f5a6397b79deaaca5c456503e7c1a49357b942) [2/5 traders]
+- NEW SHORT XLM (0x47f5a6397b79deaaca5c456503e7c1a49357b942) [2/5 traders]
+- NEW SHORT ZEC (0x47f5a6397b79deaaca5c456503e7c1a49357b942) [3/5 traders]
+- NEW SHORT HYPE (0x47f5a6397b79deaaca5c456503e7c1a49357b942) [2/5 traders]
+- NEW SHORT VIRTUAL (0x47f5a6397b79deaaca5c456503e7c1a49357b942) [2/5 traders]
+- NEW LONG NEAR (0x47f5a6397b79deaaca5c456503e7c1a49357b942) [2/5 traders]
+- NEW SHORT STRK (0x47f5a6397b79deaaca5c456503e7c1a49357b942) [3/5 traders]
+- NEW SHORT FIL (0x47f5a6397b79deaaca5c456503e7c1a49357b942) [2/5 traders]
+- NEW SHORT DOT (0x47f5a6397b79deaaca5c456503e7c1a49357b942) [2/5 traders]
+- NEW SHORT MET (0x47f5a6397b79deaaca5c456503e7c1a49357b942) [2/5 traders]
+- EXIT SHORT SOL [SL hit (-24.3% of margin)]
+- EXIT SHORT SOL [SL hit (-24.4% of margin)]
+- EXIT SHORT XPL [SL hit (-23.1% of margin)]
+- SKIPPED SHORT HBAR (0x47f5a6397b79deaaca5c456503e7c1a49357b942) — only 1/5 traders
+- SKIPPED SHORT kFLOKI (0x47f5a6397b79deaaca5c456503e7c1a49357b942) — only 1/5 traders
+- SKIPPED SHORT CRV (0x47f5a6397b79deaaca5c456503e7c1a49357b942) — only 1/5 traders
+- SKIPPED SHORT APEX (0x47f5a6397b79deaaca5c456503e7c1a49357b942) — only 1/5 traders
+- SKIPPED SHORT POL (0x47f5a6397b79deaaca5c456503e7c1a49357b942) — only 1/5 traders
+- SKIPPED SHORT BNB (0x47f5a6397b79deaaca5c456503e7c1a49357b942) — only 1/5 traders
+- SKIPPED SHORT ONDO (0x47f5a6397b79deaaca5c456503e7c1a49357b942) — only 1/5 traders
+- SKIPPED SHORT kBONK (0x47f5a6397b79deaaca5c456503e7c1a49357b942) — only 1/5 traders
+- SKIPPED SHORT SPX (0x47f5a6397b79deaaca5c456503e7c1a49357b942) — only 1/5 traders
+- SKIPPED SHORT ATOM (0x47f5a6397b79deaaca5c456503e7c1a49357b942) — only 1/5 traders
+- SKIPPED SHORT INJ (0x47f5a6397b79deaaca5c456503e7c1a49357b942) — only 1/5 traders
+- SKIPPED SHORT RENDER (0x47f5a6397b79deaaca5c456503e7c1a49357b942) — only 1/5 traders
+- SKIPPED SHORT DOGE (0x47f5a6397b79deaaca5c456503e7c1a49357b942) — only 1/5 traders
+- SKIPPED SHORT PENDLE (0x47f5a6397b79deaaca5c456503e7c1a49357b942) — only 1/5 traders
+- SKIPPED SHORT CAKE (0x47f5a6397b79deaaca5c456503e7c1a49357b942) — only 1/5 traders
+- SKIPPED SHORT MORPHO (0x47f5a6397b79deaaca5c456503e7c1a49357b942) — only 1/5 traders
+- SKIPPED SHORT AVAX (0x47f5a6397b79deaaca5c456503e7c1a49357b942) — only 1/5 traders
+- SKIPPED SHORT PURR (0x47f5a6397b79deaaca5c456503e7c1a49357b942) — only 1/5 traders
+- SKIPPED SHORT WIF (0x47f5a6397b79deaaca5c456503e7c1a49357b942) — only 1/5 traders
+- SKIPPED LONG SKY (0x47f5a6397b79deaaca5c456503e7c1a49357b942) — only 1/5 traders
+- SKIPPED SHORT KAS (0x47f5a6397b79deaaca5c456503e7c1a49357b942) — only 1/5 traders
+- SKIPPED SHORT ETHFI (0x47f5a6397b79deaaca5c456503e7c1a49357b942) — only 1/5 traders
+- SKIPPED LONG APT (0x47f5a6397b79deaaca5c456503e7c1a49357b942) — only 1/5 traders
+- SKIPPED SHORT MON (0x47f5a6397b79deaaca5c456503e7c1a49357b942) — only 1/5 traders
+- SKIPPED SHORT ASTER (0x47f5a6397b79deaaca5c456503e7c1a49357b942) — only 1/5 traders
+- SKIPPED LONG XMR (0x47f5a6397b79deaaca5c456503e7c1a49357b942) — only 1/5 traders
+- SKIPPED SHORT SKR (0x47f5a6397b79deaaca5c456503e7c1a49357b942) — only 1/5 traders
+- SKIPPED SHORT MANTA (0x47f5a6397b79deaaca5c456503e7c1a49357b942) — only 1/5 traders
+- SKIPPED LONG SOL (0x47f5a6397b79deaaca5c456503e7c1a49357b942) — only 1/5 traders
+- SKIPPED SHORT FET (0x47f5a6397b79deaaca5c456503e7c1a49357b942) — only 1/5 traders
+- SKIPPED SHORT TAO (0x47f5a6397b79deaaca5c456503e7c1a49357b942) — only 1/5 traders
+- Portfolio equity: $10,881.55 (+8.82%)
 ### 17:59 UTC — Daily refresh (Job A)
 - Leaderboard: 39666 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped
