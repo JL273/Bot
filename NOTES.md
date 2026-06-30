@@ -946,6 +946,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-30
 
+### 17:10 UTC — Daily refresh (Job A)
+- Leaderboard: 39661 traders fetched, 5 shortlisted
+- Shortlist change: +3 new, -3 dropped
+- #1 0xa9b95f2a2e7ef219021efc5c04c32761b8553bbd acc=$34,659,865 month=$1,182,958 edge=368bps
+- #2 0x95fde6cf0d305078b7eeac44182a931c169dd947 acc=$2,326,092 month=$229,519 edge=260bps
+- #3 0x265eac78fb57495674227c93065d67abe6f97f70 acc=$10,627,279 month=$56,520 edge=40bps
+- #4 0x5f94a51948d2376ad34a6fadfa2544e651b74b96 acc=$14,801,892 month=$818,496 edge=946bps
+- #5 0xa20fb0c9e04063eec5be286e9269028d966646fa acc=$1,814,334 month=$953,360 edge=1829bps
+- Current positions across the shortlist:
+-   0xa9b95f2a2e7ef219021efc5c04c32761b8553bbd... failed to fetch positions
+-   0x95fde6cf0d305078b7eeac44182a931c169dd947... failed to fetch positions
+-   0x265eac78fb57495674227c93065d67abe6f97f70... failed to fetch positions
+-   0x5f94a51948d2376ad34a6fadfa2544e651b74b96... failed to fetch positions
+-   0xa20fb0c9e04063eec5be286e9269028d966646fa... failed to fetch positions
 ### 16:37 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - CLOSED SHORT LIT (0x2fcb6898d5a0623de19c3691904927685014c4d8)
