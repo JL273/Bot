@@ -946,6 +946,13 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-06-30
 
+### 22:02 UTC — Position poll (Job B)
+- 3 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
+- NEW LONG HYPE (0x265eac78fb57495674227c93065d67abe6f97f70) [2/5 traders]
+- NEW SHORT SUI (0xa20fb0c9e04063eec5be286e9269028d966646fa) [2/5 traders]
+- EXIT SHORT ETH [time-stop (5d open, flat)]
+- SKIPPED SHORT MEGA (0xa20fb0c9e04063eec5be286e9269028d966646fa) — only 1/5 traders
+- Portfolio equity: $11,508.39 (+15.08%)
 ### 17:10 UTC — Daily refresh (Job A)
 - Leaderboard: 39661 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
