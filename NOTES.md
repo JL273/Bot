@@ -974,6 +974,15 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-01
 
+### 22:43 UTC — Position poll (Job B)
+- 6 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT LONG BTC [time-stop (6d open, flat)]
+- EXIT SHORT MON [SL hit (-20.2% of margin)]
+- EXIT SHORT MON [SL hit (-20.0% of margin)]
+- EXIT SHORT ZEC [time-stop (5d open, flat)]
+- EXIT SHORT CRV [SL hit (-23.6% of margin)]
+- EXIT SHORT ZEC [SL hit (-24.9% of margin)]
+- Portfolio equity: $10,850.92 (+8.51%)
 ### 17:33 UTC — Position poll (Job B)
 - 15 signal(s) acted on, 72 skipped (confluence), 0 paused (daily profit limit):
 - NEW LONG FARTCOIN (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) [2/5 traders]
