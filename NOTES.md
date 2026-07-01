@@ -974,6 +974,96 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-01
 
+### 17:33 UTC — Position poll (Job B)
+- 15 signal(s) acted on, 72 skipped (confluence), 0 paused (daily profit limit):
+- NEW LONG FARTCOIN (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) [2/5 traders]
+- NEW SHORT ICP (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) [2/5 traders]
+- NEW SHORT WLD (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) [2/5 traders]
+- NEW SHORT NEAR (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) [2/5 traders]
+- NEW SHORT ZEC (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) [3/5 traders]
+- NEW LONG BTC (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) [2/5 traders]
+- NEW SHORT ZRO (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) [2/5 traders]
+- NEW LONG ADA (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) [2/5 traders]
+- EXIT SHORT SOL [SL hit (-25.6% of margin)]
+- EXIT LONG SOL [TP hit (+44.9% of margin)]
+- EXIT SHORT BTC [time-stop (5d open, flat)]
+- EXIT SHORT BTC [time-stop (5d open, flat)]
+- EXIT SHORT BTC [time-stop (5d open, flat)]
+- EXIT SHORT BTC [time-stop (5d open, flat)]
+- EXIT SHORT MET [SL hit (-24.5% of margin)]
+- SKIPPED LONG SOL (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED SHORT ZK (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED SHORT JTO (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED SHORT PENDLE (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED SHORT PUMP (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG XLM (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG BIO (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG FIL (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG TRB (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED SHORT BIGTIME (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG BRETT (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED SHORT AAVE (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG PYTH (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG XRP (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED SHORT ENA (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG JUP (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG MOODENG (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED SHORT ZORA (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED SHORT MON (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG BLUR (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG kSHIB (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG CRV (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG USUAL (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG UNI (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG TIA (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG DYDX (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG ZETA (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED SHORT IMX (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG COMP (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED SHORT kBONK (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED SHORT ATOM (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG RENDER (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG TRUMP (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG APT (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED SHORT kFLOKI (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG BNB (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG LTC (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG GOAT (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG SUSHI (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG TURBO (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG ALGO (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG SEI (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED SHORT ETC (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG LDO (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG kPEPE (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED SHORT AR (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED SHORT LINK (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED SHORT SPX (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED SHORT TAO (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED SHORT DOGE (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG APE (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG DOT (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG EIGEN (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG NEO (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG SNX (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED SHORT HYPE (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG TRX (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED SHORT GMX (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG OP (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG ARB (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED SHORT W (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED SHORT SUI (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG GRIFFAIN (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED SHORT PENGU (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG AVAX (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG MELANIA (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED SHORT WIF (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG BOME (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG PAXG (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED SHORT PNUT (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG FET (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- SKIPPED LONG KAITO (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- Portfolio equity: $10,956.11 (+9.56%)
 ### 17:23 UTC — Daily refresh (Job A)
 - Leaderboard: 39743 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped
