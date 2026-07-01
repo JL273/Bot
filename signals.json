@@ -2950,5 +2950,61 @@
     "unrealized_pnl": -3.7418780517525643,
     "liquidation_price": 0,
     "exit_reason": "time-stop (5d open, flat)"
+  },
+  {
+    "ts": "2026-07-01T10:56:15.424144+00:00",
+    "trader": "0x4a96036fb1529561fa3eeeb2781fad2d4f25500e",
+    "type": "CLOSED",
+    "coin": "HYPE",
+    "side": "SHORT",
+    "size": 6.93156348204985,
+    "entry_price": 62.357,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -0.675827439499886,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (7d open, flat)"
+  },
+  {
+    "ts": "2026-07-01T10:56:15.424144+00:00",
+    "trader": "0x45d26f28196d226497130c4bac709d808fed4029",
+    "type": "CLOSED",
+    "coin": "ASTER",
+    "side": "SHORT",
+    "size": 1428.3880035913992,
+    "entry_price": 0.6223462183663724,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -5.65467619431165,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (5d open, flat)"
+  },
+  {
+    "ts": "2026-07-01T10:56:15.424144+00:00",
+    "trader": "0x71dfc07de32c2ebf1c4801f4b1c9e40b76d4a23d",
+    "type": "CLOSED",
+    "coin": "ETH",
+    "side": "SHORT",
+    "size": 0.17555490920112996,
+    "entry_price": 1562.2,
+    "position_value_usd": 0,
+    "leverage": 2,
+    "unrealized_pnl": -1.957437237592575,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (5d open, flat)"
+  },
+  {
+    "ts": "2026-07-01T10:56:15.424144+00:00",
+    "trader": "0x47f5a6397b79deaaca5c456503e7c1a49357b942",
+    "type": "CLOSED",
+    "coin": "XLM",
+    "side": "SHORT",
+    "size": 760.4028004154692,
+    "entry_price": 0.17568,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -18.040556439857003,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-40.5% of margin)"
   }
 ]

@@ -971,3 +971,13 @@ _Auto-generated. Newest entry at top._
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - CLOSED SHORT LIT (0x2fcb6898d5a0623de19c3691904927685014c4d8)
 - Portfolio equity: $11,584.56 (+15.85%)
+
+## 2026-07-01
+
+### 10:56 UTC — Position poll (Job B)
+- 4 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT HYPE [time-stop (7d open, flat)]
+- EXIT SHORT ASTER [time-stop (5d open, flat)]
+- EXIT SHORT ETH [time-stop (5d open, flat)]
+- EXIT SHORT XLM [SL hit (-40.5% of margin)]
+- Portfolio equity: $11,542.07 (+15.42%)
