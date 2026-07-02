@@ -1094,3 +1094,15 @@ _Auto-generated. Newest entry at top._
 - EXIT SHORT ETH [time-stop (5d open, flat)]
 - EXIT SHORT XLM [SL hit (-40.5% of margin)]
 - Portfolio equity: $11,542.07 (+15.42%)
+
+## 2026-07-02
+
+### 10:15 UTC — Position poll (Job B)
+- 5 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT ETH [time-stop (9d open, flat)]
+- EXIT SHORT NEAR [time-stop (8d open, flat)]
+- EXIT SHORT ONDO [SL hit (-21.4% of margin)]
+- EXIT SHORT BCH [SL hit (-21.9% of margin)]
+- EXIT SHORT NEAR [SL hit (-20.9% of margin)]
+- SKIPPED LONG INJ (0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff) — only 1/5 traders
+- Portfolio equity: $10,582.28 (+5.82%)
