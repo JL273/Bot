@@ -3482,5 +3482,33 @@
     "unrealized_pnl": -9.124925271478803,
     "liquidation_price": 0,
     "exit_reason": "SL hit (-21.6% of margin)"
+  },
+  {
+    "ts": "2026-07-02T20:43:25.718617+00:00",
+    "trader": "0xbe19541903f64af97bcf8436f4d15bf3a56b8bd1",
+    "type": "CLOSED",
+    "coin": "BTC",
+    "side": "LONG",
+    "size": 0.012986745003933278,
+    "entry_price": 61703.0,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -4.0973180487409495,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (7d open, flat)"
+  },
+  {
+    "ts": "2026-07-02T20:43:25.718617+00:00",
+    "trader": "0x95fde6cf0d305078b7eeac44182a931c169dd947",
+    "type": "CLOSED",
+    "coin": "ETH",
+    "side": "SHORT",
+    "size": 0.24986277135426127,
+    "entry_price": 1585.1,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -28.37191768727641,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-21.5% of margin)"
   }
 ]

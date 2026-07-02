@@ -1,5 +1,5 @@
 {
-  "cash": 3304.895807143098,
+  "cash": 3670.3242679409022,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x5f94a51948d2376ad34a6fadfa2544e651b74b96:SUI:SHORT": {
@@ -236,20 +236,6 @@
       "notional": 334.32049854165604,
       "opened_at": "2026-06-24T09:15:02.222434+00:00"
     },
-    "0xbe19541903f64af97bcf8436f4d15bf3a56b8bd1:BTC:LONG": {
-      "trader": "0xbe19541903f64af97bcf8436f4d15bf3a56b8bd1",
-      "coin": "BTC",
-      "side": "LONG",
-      "size": 0.012986745003933278,
-      "entry_price": 61703.0,
-      "entry_fee": 0.40066056348884754,
-      "entry_slippage_bps": 0.08,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 267.10704232589836,
-      "notional": 801.321126977695,
-      "opened_at": "2026-06-25T09:15:01.995419+00:00"
-    },
     "0xbe19541903f64af97bcf8436f4d15bf3a56b8bd1:HYPE:SHORT": {
       "trader": "0xbe19541903f64af97bcf8436f4d15bf3a56b8bd1",
       "coin": "HYPE",
@@ -291,20 +277,6 @@
       "margin": 159.96641230802808,
       "notional": 479.8992369240842,
       "opened_at": "2026-06-26T09:15:02.906722+00:00"
-    },
-    "0x95fde6cf0d305078b7eeac44182a931c169dd947:ETH:SHORT": {
-      "trader": "0x95fde6cf0d305078b7eeac44182a931c169dd947",
-      "coin": "ETH",
-      "side": "SHORT",
-      "size": 0.24986277135426127,
-      "entry_price": 1585.1,
-      "entry_fee": 0.19802873943681976,
-      "entry_slippage_bps": 7.26,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 132.01915962454652,
-      "notional": 396.0574788736395,
-      "opened_at": "2026-06-26T16:35:02.219326+00:00"
     },
     "0xa20fb0c9e04063eec5be286e9269028d966646fa:BTC:SHORT": {
       "trader": "0xa20fb0c9e04063eec5be286e9269028d966646fa",
@@ -18811,7 +18783,17 @@
       "ts": "2026-07-02T16:30:12.048669+00:00",
       "equity": 10430.13925632585,
       "cash": 3304.895807143098
+    },
+    {
+      "ts": "2026-07-02T20:43:26.801441+00:00",
+      "equity": 10332.194418502717,
+      "cash": 3304.895807143098
+    },
+    {
+      "ts": "2026-07-02T20:43:27.844218+00:00",
+      "equity": 10330.965913086093,
+      "cash": 3670.3242679409022
     }
   ],
-  "last_processed_signal_index": 252
+  "last_processed_signal_index": 254
 }

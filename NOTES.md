@@ -1097,6 +1097,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-02
 
+### 20:43 UTC — Position poll (Job B)
+- 2 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT LONG BTC [time-stop (7d open, flat)]
+- EXIT SHORT ETH [SL hit (-21.5% of margin)]
+- Portfolio equity: $10,330.97 (+3.31%)
 ### 16:30 UTC — Position poll (Job B)
 - 8 signal(s) acted on, 7 skipped (confluence), 0 paused (daily profit limit):
 - NEW LONG ZEC (0xb885ed57cd16985f347d26f13a79dc4abd2e3c54) [2/5 traders]
