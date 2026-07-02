@@ -1097,6 +1097,24 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-02
 
+### 16:30 UTC — Position poll (Job B)
+- 8 signal(s) acted on, 7 skipped (confluence), 0 paused (daily profit limit):
+- NEW LONG ZEC (0xb885ed57cd16985f347d26f13a79dc4abd2e3c54) [2/5 traders]
+- NEW SHORT HYPE (0xb885ed57cd16985f347d26f13a79dc4abd2e3c54) [2/5 traders]
+- NEW LONG BTC (0xb885ed57cd16985f347d26f13a79dc4abd2e3c54) [2/5 traders]
+- NEW SHORT HYPE (0x1e771e1b95c86491299d6e2a5c3b3842d03b552e) [2/5 traders]
+- EXIT SHORT ETH [SL hit (-24.5% of margin)]
+- EXIT SHORT ETH [SL hit (-24.5% of margin)]
+- EXIT SHORT ETH [SL hit (-20.2% of margin)]
+- EXIT SHORT ZEC [SL hit (-21.6% of margin)]
+- SKIPPED LONG HYPE (0x54dbc1fbf6b1cd59807db61109b1d9eb91fd1a04) — only 1/5 traders
+- SKIPPED SHORT DOGE (0x1e771e1b95c86491299d6e2a5c3b3842d03b552e) — only 1/5 traders
+- SKIPPED LONG XPL (0x1e771e1b95c86491299d6e2a5c3b3842d03b552e) — only 1/5 traders
+- SKIPPED LONG ENA (0x1e771e1b95c86491299d6e2a5c3b3842d03b552e) — only 1/5 traders
+- SKIPPED LONG kBONK (0x1e771e1b95c86491299d6e2a5c3b3842d03b552e) — only 1/5 traders
+- SKIPPED LONG TIA (0x1e771e1b95c86491299d6e2a5c3b3842d03b552e) — only 1/5 traders
+- SKIPPED SHORT ZEC (0x1e771e1b95c86491299d6e2a5c3b3842d03b552e) — only 1/5 traders
+- Portfolio equity: $10,430.14 (+4.30%)
 ### 16:18 UTC — Daily refresh (Job A)
 - Leaderboard: 39842 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
