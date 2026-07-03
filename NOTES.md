@@ -1146,6 +1146,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-03
 
+### 16:00 UTC — Daily refresh (Job A)
+- Leaderboard: 40131 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+- #1 0x3ee505ba316879d246a8fd2b3d7ee63b51b44fab acc=$4,699,010 month=$563,582 edge=740bps
+- #2 0xadd12adbbd5db87674b38af99b6dd34dd2a45e0d acc=$2,182,982 month=$200,532 edge=66bps
+- #3 0x54dbc1fbf6b1cd59807db61109b1d9eb91fd1a04 acc=$2,758,920 month=$506,839 edge=284bps
+- #4 0xfdf891f2b214a4c9374d26595ec6d4080262e381 acc=$2,539,576 month=$853,399 edge=619bps
+- #5 0x051c2e6d49cf82ebc47f08f9b85800f94fc9693c acc=$6,115,035 month=$1,055,838 edge=826bps
+- Current positions across the shortlist:
+-   0x3ee505ba316879d246a8fd2b3d7ee63b51b44fab... 7 positions: LONG ETH x20, SHORT SOL x20, LONG AAVE x10, LONG ZRO x5, LONG HYPE x10, LONG SKY x3, LONG LIT x5
+-   0xadd12adbbd5db87674b38af99b6dd34dd2a45e0d... 3 positions: LONG XPL x4, LONG STABLE x3, LONG LIT x5
+-   0x54dbc1fbf6b1cd59807db61109b1d9eb91fd1a04... 1 positions: LONG HYPE x2
+-   0xfdf891f2b214a4c9374d26595ec6d4080262e381... 8 positions: SHORT ETH x20, LONG NEAR x10, LONG ENA x10, LONG GRASS x3, LONG HYPE x10, LONG VVV x3, LONG AERO x3, LONG LIT x5
+-   0x051c2e6d49cf82ebc47f08f9b85800f94fc9693c... 4 positions: LONG ETH x8, LONG AAVE x10, LONG NEAR x10, LONG XPL x5
 ### 15:44 UTC — Position poll (Job B)
 - 12 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT SUI [time-stop (15d open, flat)]
