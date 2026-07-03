@@ -1146,6 +1146,40 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-03
 
+### 20:21 UTC — Position poll (Job B)
+- 22 signal(s) acted on, 9 skipped (confluence), 0 paused (daily profit limit):
+- NEW LONG AAVE (0x3ee505ba316879d246a8fd2b3d7ee63b51b44fab) [2/5 traders]
+- NEW LONG ETH (0x3ee505ba316879d246a8fd2b3d7ee63b51b44fab) [2/5 traders]
+- NEW LONG LIT (0x3ee505ba316879d246a8fd2b3d7ee63b51b44fab) [3/5 traders]
+- NEW LONG HYPE (0x3ee505ba316879d246a8fd2b3d7ee63b51b44fab) [3/5 traders]
+- NEW LONG XPL (0xadd12adbbd5db87674b38af99b6dd34dd2a45e0d) [2/5 traders]
+- NEW LONG LIT (0xadd12adbbd5db87674b38af99b6dd34dd2a45e0d) [3/5 traders]
+- NEW LONG HYPE (0xfdf891f2b214a4c9374d26595ec6d4080262e381) [3/5 traders]
+- NEW LONG LIT (0xfdf891f2b214a4c9374d26595ec6d4080262e381) [3/5 traders]
+- NEW LONG NEAR (0xfdf891f2b214a4c9374d26595ec6d4080262e381) [2/5 traders]
+- NEW LONG XPL (0x051c2e6d49cf82ebc47f08f9b85800f94fc9693c) [2/5 traders]
+- NEW LONG ETH (0x051c2e6d49cf82ebc47f08f9b85800f94fc9693c) [2/5 traders]
+- NEW LONG AAVE (0x051c2e6d49cf82ebc47f08f9b85800f94fc9693c) [2/5 traders]
+- NEW LONG NEAR (0x051c2e6d49cf82ebc47f08f9b85800f94fc9693c) [2/5 traders]
+- EXIT SHORT LTC [time-stop (15d open, flat)]
+- EXIT SHORT XRP [time-stop (15d open, flat)]
+- EXIT SHORT BTC [time-stop (10d open, flat)]
+- EXIT SHORT BTC [time-stop (9d open, flat)]
+- EXIT SHORT BTC [time-stop (9d open, flat)]
+- EXIT SHORT VIRTUAL [SL hit (-25.0% of margin)]
+- EXIT SHORT VIRTUAL [SL hit (-20.2% of margin)]
+- EXIT SHORT DOT [SL hit (-22.5% of margin)]
+- EXIT LONG ADA [TP hit (+53.4% of margin)]
+- SKIPPED LONG ZRO (0x3ee505ba316879d246a8fd2b3d7ee63b51b44fab) — only 1/5 traders
+- SKIPPED LONG SKY (0x3ee505ba316879d246a8fd2b3d7ee63b51b44fab) — only 1/5 traders
+- SKIPPED SHORT SOL (0x3ee505ba316879d246a8fd2b3d7ee63b51b44fab) — only 1/5 traders
+- SKIPPED LONG STABLE (0xadd12adbbd5db87674b38af99b6dd34dd2a45e0d) — only 1/5 traders
+- SKIPPED LONG ENA (0xfdf891f2b214a4c9374d26595ec6d4080262e381) — only 1/5 traders
+- SKIPPED SHORT ETH (0xfdf891f2b214a4c9374d26595ec6d4080262e381) — only 1/5 traders
+- SKIPPED LONG GRASS (0xfdf891f2b214a4c9374d26595ec6d4080262e381) — only 1/5 traders
+- SKIPPED LONG VVV (0xfdf891f2b214a4c9374d26595ec6d4080262e381) — only 1/5 traders
+- SKIPPED LONG AERO (0xfdf891f2b214a4c9374d26595ec6d4080262e381) — only 1/5 traders
+- Portfolio equity: $9,784.23 (-2.16%)
 ### 16:00 UTC — Daily refresh (Job A)
 - Leaderboard: 40131 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped
