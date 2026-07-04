@@ -3129,5 +3129,30 @@
     "pnl_pct": -21.71343812164692,
     "total_slippage_bps": 0.75,
     "exit_reason": "SL hit (-21.4% of margin)"
+  },
+  {
+    "trader": "0x4a96036fb1529561fa3eeeb2781fad2d4f25500e",
+    "coin": "XMR",
+    "side": "SHORT",
+    "size": 1.1249939656401269,
+    "entry_price": 329.3321866783958,
+    "entry_fee": 0.1852483613521315,
+    "entry_slippage_bps": 0.54,
+    "entry_fill_method": "book",
+    "leverage": 3,
+    "margin": 123.49890756808766,
+    "notional": 370.496722704263,
+    "opened_at": "2026-06-24T09:15:02.222434+00:00",
+    "exit_price": 328.6527454635257,
+    "exit_fee": 0.1848661777187635,
+    "total_fees": 0.370114539070895,
+    "exit_slippage_bps": 0.39,
+    "exit_fill_method": "book",
+    "closed_at": "2026-07-04T09:10:16.621314+00:00",
+    "gross_pnl": 0.7643672667360065,
+    "pnl": 0.39425272766511155,
+    "pnl_pct": 0.319235801699502,
+    "total_slippage_bps": 0.93,
+    "exit_reason": "time-stop (9d open, flat)"
   }
 ]

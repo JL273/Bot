@@ -4238,5 +4238,19 @@
     "unrealized_pnl": -8.59897820971838,
     "liquidation_price": 0,
     "exit_reason": "SL hit (-21.4% of margin)"
+  },
+  {
+    "ts": "2026-07-04T09:10:16.621314+00:00",
+    "trader": "0x4a96036fb1529561fa3eeeb2781fad2d4f25500e",
+    "type": "CLOSED",
+    "coin": "XMR",
+    "side": "SHORT",
+    "size": 1.1249939656401269,
+    "entry_price": 329.3321866783958,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 0.7787058362917416,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (9d open, flat)"
   }
 ]
