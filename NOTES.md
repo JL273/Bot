@@ -1232,6 +1232,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-04
 
+### 12:49 UTC — Position poll (Job B)
+- 3 signal(s) acted on, 8 skipped (confluence), 0 paused (daily profit limit):
+- NEW LONG HYPE (0xea0027b6ea9b6d7d401b5266979cc3b3ca87a918) [2/5 traders]
+- NEW LONG ETH (0xea0027b6ea9b6d7d401b5266979cc3b3ca87a918) [2/5 traders]
+- NEW LONG ETH (0x0deb827a58f6eb88e15c91d941c33515298d0bc5) [2/5 traders]
+- SKIPPED LONG PURR (0xea0027b6ea9b6d7d401b5266979cc3b3ca87a918) — only 1/5 traders
+- SKIPPED LONG ZEC (0xea0027b6ea9b6d7d401b5266979cc3b3ca87a918) — only 1/5 traders
+- SKIPPED LONG SOL (0xea0027b6ea9b6d7d401b5266979cc3b3ca87a918) — only 1/5 traders
+- SKIPPED LONG VVV (0xea0027b6ea9b6d7d401b5266979cc3b3ca87a918) — only 1/5 traders
+- SKIPPED LONG SUI (0xea0027b6ea9b6d7d401b5266979cc3b3ca87a918) — only 1/5 traders
+- SKIPPED LONG LTC (0xea0027b6ea9b6d7d401b5266979cc3b3ca87a918) — only 1/5 traders
+- SKIPPED LONG BTC (0x92ea19eceb7a8de0f50978a1583a5d8b018050e9) — only 1/5 traders
+- SKIPPED SHORT ZEC (0x92ea19eceb7a8de0f50978a1583a5d8b018050e9) — only 1/5 traders
+- Portfolio equity: $9,895.96 (-1.04%)
 ### 12:49 UTC — Daily refresh (Job A)
 - Leaderboard: 40212 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
