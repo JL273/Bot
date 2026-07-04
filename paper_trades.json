@@ -3229,5 +3229,30 @@
     "pnl_pct": -21.994775136235667,
     "total_slippage_bps": 0.58,
     "exit_reason": "SL hit (-21.7% of margin)"
+  },
+  {
+    "trader": "0x47f5a6397b79deaaca5c456503e7c1a49357b942",
+    "coin": "WLD",
+    "side": "SHORT",
+    "size": 366.3623207615189,
+    "entry_price": 0.42539,
+    "entry_fee": 0.07792343381437127,
+    "entry_slippage_bps": 3.76,
+    "entry_fill_method": "book",
+    "leverage": 3,
+    "margin": 51.94895587624751,
+    "notional": 155.84686762874253,
+    "opened_at": "2026-06-29T20:58:23.709577+00:00",
+    "exit_price": 0.42456,
+    "exit_fee": 0.07777139345125524,
+    "total_fees": 0.1556948272656265,
+    "exit_slippage_bps": 0.24,
+    "exit_fill_method": "book",
+    "closed_at": "2026-07-04T23:45:58.973175+00:00",
+    "gross_pnl": 0.30408072623205973,
+    "pnl": 0.14838589896643323,
+    "pnl_pct": 0.28563788523472394,
+    "total_slippage_bps": 4.0,
+    "exit_reason": "time-stop (5d open, flat)"
   }
 ]

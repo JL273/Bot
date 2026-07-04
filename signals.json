@@ -4336,5 +4336,19 @@
     "unrealized_pnl": -25.427903217160452,
     "liquidation_price": 0,
     "exit_reason": "SL hit (-21.7% of margin)"
+  },
+  {
+    "ts": "2026-07-04T23:45:58.973175+00:00",
+    "trader": "0x47f5a6397b79deaaca5c456503e7c1a49357b942",
+    "type": "CLOSED",
+    "coin": "WLD",
+    "side": "SHORT",
+    "size": 366.3623207615189,
+    "entry_price": 0.42539,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 0.3077443494396786,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (5d open, flat)"
   }
 ]
