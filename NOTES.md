@@ -1278,3 +1278,14 @@ _Auto-generated. Newest entry at top._
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT HYPE [SL hit (-21.4% of margin)]
 - Portfolio equity: $9,759.49 (-2.41%)
+
+## 2026-07-05
+
+### 09:45 UTC — Position poll (Job B)
+- 5 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT TAO [time-stop (7d open, flat)]
+- EXIT SHORT STX [time-stop (7d open, flat)]
+- EXIT SHORT ENA [time-stop (7d open, flat)]
+- EXIT SHORT ICP [time-stop (5d open, flat)]
+- EXIT SHORT STRK [time-stop (5d open, flat)]
+- Portfolio equity: $9,763.02 (-2.37%)
