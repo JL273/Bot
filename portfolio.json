@@ -1,5 +1,5 @@
 {
-  "cash": 4599.159179318465,
+  "cash": 4645.675471344922,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x94dac1facdc4afd2614c3119447187b4143bc449:ASTER:SHORT": {
@@ -79,20 +79,6 @@
       "margin": 82.66592901183061,
       "notional": 247.99778703549185,
       "opened_at": "2026-06-28T09:15:02.715792+00:00"
-    },
-    "0x47f5a6397b79deaaca5c456503e7c1a49357b942:WLFI:SHORT": {
-      "trader": "0x47f5a6397b79deaaca5c456503e7c1a49357b942",
-      "coin": "WLFI",
-      "side": "SHORT",
-      "size": 2385.857366149359,
-      "entry_price": 0.058943,
-      "entry_fee": 0.07031479536647085,
-      "entry_slippage_bps": 0.68,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 46.8765302443139,
-      "notional": 140.6295907329417,
-      "opened_at": "2026-06-29T20:58:23.709577+00:00"
     },
     "0x47f5a6397b79deaaca5c456503e7c1a49357b942:NEAR:LONG": {
       "trader": "0x47f5a6397b79deaaca5c456503e7c1a49357b942",
@@ -18443,7 +18429,17 @@
       "ts": "2026-07-05T18:44:30.689093+00:00",
       "equity": 10073.663341167023,
       "cash": 4599.159179318465
+    },
+    {
+      "ts": "2026-07-05T22:14:52.138721+00:00",
+      "equity": 10264.980034941149,
+      "cash": 4599.159179318465
+    },
+    {
+      "ts": "2026-07-05T22:14:53.480878+00:00",
+      "equity": 10264.801121883118,
+      "cash": 4645.675471344922
     }
   ],
-  "last_processed_signal_index": 319
+  "last_processed_signal_index": 320
 }

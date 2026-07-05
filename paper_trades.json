@@ -3379,5 +3379,30 @@
     "pnl_pct": -1.8802566633760804,
     "total_slippage_bps": 6.56,
     "exit_reason": "time-stop (5d open, flat)"
+  },
+  {
+    "trader": "0x47f5a6397b79deaaca5c456503e7c1a49357b942",
+    "coin": "WLFI",
+    "side": "SHORT",
+    "size": 2385.857366149359,
+    "entry_price": 0.058943,
+    "entry_fee": 0.07031479536647085,
+    "entry_slippage_bps": 0.68,
+    "entry_fill_method": "book",
+    "leverage": 3,
+    "margin": 46.8765302443139,
+    "notional": 140.6295907329417,
+    "opened_at": "2026-06-29T20:58:23.709577+00:00",
+    "exit_price": 0.05903499999999999,
+    "exit_fee": 0.0704245448053137,
+    "total_fees": 0.14073934017178455,
+    "exit_slippage_bps": 2.71,
+    "exit_fill_method": "book",
+    "closed_at": "2026-07-05T22:14:50.426711+00:00",
+    "gross_pnl": -0.21949887768571225,
+    "pnl": -0.36023821785749677,
+    "pnl_pct": -0.7684831108018996,
+    "total_slippage_bps": 3.39,
+    "exit_reason": "time-stop (6d open, flat)"
   }
 ]
