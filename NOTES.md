@@ -1281,6 +1281,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-05
 
+### 14:55 UTC — Daily refresh (Job A)
+- Leaderboard: 40179 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+- #1 0x92ea19eceb7a8de0f50978a1583a5d8b018050e9 acc=$65,521,172 month=$304,467 edge=30bps
+- #2 0x051c2e6d49cf82ebc47f08f9b85800f94fc9693c acc=$6,075,325 month=$1,373,215 edge=1139bps
+- #3 0xdbe0780a5c5a0e3b345101bbc01ac2218196d6d5 acc=$2,847,789 month=$487,181 edge=778bps
+- #4 0x265eac78fb57495674227c93065d67abe6f97f70 acc=$12,060,961 month=$1,297,728 edge=954bps
+- #5 0x03b9a189e2480d1e4c3007080b29f362282130fa acc=$62,691,523 month=$3,709,836 edge=770bps
+- Current positions across the shortlist:
+-   0x92ea19eceb7a8de0f50978a1583a5d8b018050e9... 2 positions: LONG BTC x5, SHORT ZEC x2
+-   0x051c2e6d49cf82ebc47f08f9b85800f94fc9693c... 4 positions: LONG ETH x8, LONG AAVE x10, LONG NEAR x10, LONG XPL x5
+-   0xdbe0780a5c5a0e3b345101bbc01ac2218196d6d5... 2 positions: LONG ZEC x3, LONG LIT x3
+-   0x265eac78fb57495674227c93065d67abe6f97f70... 1 positions: LONG HYPE x3
+-   0x03b9a189e2480d1e4c3007080b29f362282130fa... no open positions
 ### 09:45 UTC — Position poll (Job B)
 - 5 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT TAO [time-stop (7d open, flat)]
