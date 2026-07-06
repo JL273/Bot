@@ -1315,6 +1315,34 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-06
 
+### 19:17 UTC — Position poll (Job B)
+- 15 signal(s) acted on, 10 skipped (confluence), 0 paused (daily profit limit):
+- NEW LONG AAVE (0xe2823659be02e0f48a4660e4da008b5e1abfdf29) [2/5 traders]
+- NEW LONG ETH (0xe2823659be02e0f48a4660e4da008b5e1abfdf29) [3/5 traders]
+- NEW LONG BTC (0xe2823659be02e0f48a4660e4da008b5e1abfdf29) [2/5 traders]
+- NEW LONG VVV (0xe2823659be02e0f48a4660e4da008b5e1abfdf29) [2/5 traders]
+- NEW LONG NEAR (0xe2823659be02e0f48a4660e4da008b5e1abfdf29) [2/5 traders]
+- NEW LONG ZEC (0xe2823659be02e0f48a4660e4da008b5e1abfdf29) [3/5 traders]
+- NEW LONG HYPE (0xe2823659be02e0f48a4660e4da008b5e1abfdf29) [3/5 traders]
+- NEW LONG SOL (0xe9c888b87f2c8723a08d105a18bcd5cbb101770f) [3/5 traders]
+- NEW LONG AAVE (0x77ee3604adbdefa66a817b3cf776412a6613a018) [2/5 traders]
+- NEW LONG ETH (0x77ee3604adbdefa66a817b3cf776412a6613a018) [3/5 traders]
+- NEW LONG BTC (0x77ee3604adbdefa66a817b3cf776412a6613a018) [2/5 traders]
+- NEW LONG NEAR (0x77ee3604adbdefa66a817b3cf776412a6613a018) [2/5 traders]
+- NEW LONG ZEC (0x77ee3604adbdefa66a817b3cf776412a6613a018) [3/5 traders]
+- NEW LONG SOL (0x77ee3604adbdefa66a817b3cf776412a6613a018) [3/5 traders]
+- NEW LONG HYPE (0x77ee3604adbdefa66a817b3cf776412a6613a018) [3/5 traders]
+- SKIPPED LONG ONDO (0xe2823659be02e0f48a4660e4da008b5e1abfdf29) — only 1/5 traders
+- SKIPPED LONG GMX (0xe2823659be02e0f48a4660e4da008b5e1abfdf29) — only 1/5 traders
+- SKIPPED LONG UNI (0xe2823659be02e0f48a4660e4da008b5e1abfdf29) — only 1/5 traders
+- SKIPPED LONG LINK (0xe2823659be02e0f48a4660e4da008b5e1abfdf29) — only 1/5 traders
+- SKIPPED LONG JTO (0xe9c888b87f2c8723a08d105a18bcd5cbb101770f) — only 1/5 traders
+- SKIPPED LONG MET (0xe9c888b87f2c8723a08d105a18bcd5cbb101770f) — only 1/5 traders
+- SKIPPED LONG ASTER (0x77ee3604adbdefa66a817b3cf776412a6613a018) — only 1/5 traders
+- SKIPPED LONG WLD (0x77ee3604adbdefa66a817b3cf776412a6613a018) — only 1/5 traders
+- SKIPPED LONG XMR (0x77ee3604adbdefa66a817b3cf776412a6613a018) — only 1/5 traders
+- SKIPPED LONG XPL (0x77ee3604adbdefa66a817b3cf776412a6613a018) — only 1/5 traders
+- Portfolio equity: $10,442.03 (+4.42%)
 ### 17:58 UTC — Daily refresh (Job A)
 - Leaderboard: 40291 traders fetched, 5 shortlisted
 - Shortlist change: +5 new, -5 dropped
