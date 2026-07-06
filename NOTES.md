@@ -1312,3 +1312,13 @@ _Auto-generated. Newest entry at top._
 - EXIT SHORT ICP [time-stop (5d open, flat)]
 - EXIT SHORT STRK [time-stop (5d open, flat)]
 - Portfolio equity: $9,763.02 (-2.37%)
+
+## 2026-07-06
+
+### 12:31 UTC — Position poll (Job B)
+- 4 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT UNI [time-stop (18d open, flat)]
+- EXIT LONG LIT [TP hit (+44.3% of margin)]
+- EXIT LONG LIT [TP hit (+44.3% of margin)]
+- EXIT LONG LIT [TP hit (+44.3% of margin)]
+- Portfolio equity: $10,165.14 (+1.65%)
