@@ -4854,5 +4854,33 @@
     "unrealized_pnl": 81.36011724643554,
     "liquidation_price": 0,
     "exit_reason": "TP hit (+45.0% of margin)"
+  },
+  {
+    "ts": "2026-07-07T22:36:48.670120+00:00",
+    "trader": "0xa20fb0c9e04063eec5be286e9269028d966646fa",
+    "type": "CLOSED",
+    "coin": "POL",
+    "side": "SHORT",
+    "size": 4258.919832325771,
+    "entry_price": 0.07151399999999998,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -22.09101717027388,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-21.8% of margin)"
+  },
+  {
+    "ts": "2026-07-07T22:36:48.670120+00:00",
+    "trader": "0xa20fb0c9e04063eec5be286e9269028d966646fa",
+    "type": "CLOSED",
+    "coin": "DOGE",
+    "side": "SHORT",
+    "size": 3346.843912002751,
+    "entry_price": 0.074099,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -0.6191661237205244,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (9d open, flat)"
   }
 ]
