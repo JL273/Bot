@@ -1367,6 +1367,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-07
 
+### 17:26 UTC — Daily refresh (Job A)
+- Leaderboard: 40433 traders fetched, 5 shortlisted
+- Shortlist change: +1 new, -1 dropped
+- #1 0xea0027b6ea9b6d7d401b5266979cc3b3ca87a918 acc=$7,724,697 month=$4,130,497 edge=3256bps
+- #2 0xe2823659be02e0f48a4660e4da008b5e1abfdf29 acc=$5,035,502 month=$4,115,506 edge=8101bps
+- #3 0x77ee3604adbdefa66a817b3cf776412a6613a018 acc=$862,688 month=$326,115 edge=371bps
+- #4 0x03ef8f736498047c3349bb2c18311d1bb4a79054 acc=$3,286,657 month=$1,260,095 edge=780bps
+- #5 0x8def9f50456c6c4e37fa5d3d57f108ed23992dae acc=$107,155,744 month=$24,296,713 edge=5895bps
+- Current positions across the shortlist:
+-   0xea0027b6ea9b6d7d401b5266979cc3b3ca87a918... 8 positions: LONG ETH x5, LONG SOL x20, LONG LTC x10, LONG SUI x10, LONG PURR x3, LONG HYPE x10, LONG VVV x3, LONG ZEC x5
+-   0xe2823659be02e0f48a4660e4da008b5e1abfdf29... 11 positions: LONG BTC x8, LONG ETH x5, LONG LINK x10, LONG GMX x3, LONG AAVE x10, LONG UNI x10, LONG NEAR x5, LONG ONDO x10, LONG HYPE x10, LONG VVV x3, LONG ZEC x10
+-   0x77ee3604adbdefa66a817b3cf776412a6613a018... 11 positions: LONG BTC x40, LONG ETH x25, LONG SOL x20, LONG AAVE x10, LONG WLD x10, LONG NEAR x10, LONG HYPE x10, LONG XPL x10, LONG ASTER x5, LONG ZEC x10, LONG XMR x5
+-   0x03ef8f736498047c3349bb2c18311d1bb4a79054... no open positions
+-   0x8def9f50456c6c4e37fa5d3d57f108ed23992dae... 9 positions: LONG SOL x17, LONG AAVE x10, LONG WLD x10, LONG NEAR x10, LONG HYPE x2, LONG XPL x4, LONG ASTER x5, LONG ZEC x10, LONG XMR x5
 ### 10:38 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT LONG VVV [SL hit (-26.7% of margin)]
