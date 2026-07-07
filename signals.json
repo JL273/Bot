@@ -4700,5 +4700,19 @@
     "leverage": 10,
     "unrealized_pnl": 22116.82,
     "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-07-07T10:38:50.694397+00:00",
+    "trader": "0xe2823659be02e0f48a4660e4da008b5e1abfdf29",
+    "type": "CLOSED",
+    "coin": "VVV",
+    "side": "LONG",
+    "size": 62.59411809713283,
+    "entry_price": 12.019335400812974,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -66.90280930488359,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-26.7% of margin)"
   }
 ]

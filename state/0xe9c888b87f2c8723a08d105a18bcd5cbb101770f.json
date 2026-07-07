@@ -1,36 +1,36 @@
 {
-  "account_value": 352415.086666,
+  "account_value": 339347.43209,
   "positions": [
     {
       "coin": "SOL",
       "side": "LONG",
       "size": 9932.33,
       "entry_price": 70.9498,
-      "position_value_usd": 818533.24763,
+      "position_value_usd": 805601.35397,
       "leverage": 4,
-      "unrealized_pnl": 113835.67485,
-      "liquidation_price": 54.8359055343
+      "unrealized_pnl": 100903.78119,
+      "liquidation_price": 54.8484515978
     },
     {
       "coin": "JTO",
       "side": "LONG",
       "size": 205146.0,
       "entry_price": 0.815406,
-      "position_value_usd": 162688.98384,
+      "position_value_usd": 163382.37732,
       "leverage": 3,
-      "unrealized_pnl": -4588.321598,
-      "liquidation_price": 0.6029808729
+      "unrealized_pnl": -3894.928118,
+      "liquidation_price": 0.6034673326
     },
     {
       "coin": "MET",
       "side": "LONG",
       "size": 238990.0,
       "entry_price": 0.168412,
-      "position_value_usd": 40489.6858,
+      "position_value_usd": 39877.8714,
       "leverage": 3,
-      "unrealized_pnl": 240.8923,
-      "liquidation_price": 0.1352467935
+      "unrealized_pnl": -370.9221,
+      "liquidation_price": 0.1352770605
     }
   ],
-  "timestamp_ms": 1783378338967
+  "timestamp_ms": 1783420731649
 }

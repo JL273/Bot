@@ -3501,5 +3501,30 @@
     "pnl_pct": 44.0651144276942,
     "total_slippage_bps": 5.38,
     "exit_reason": "TP hit (+44.3% of margin)"
+  },
+  {
+    "trader": "0xe2823659be02e0f48a4660e4da008b5e1abfdf29",
+    "coin": "VVV",
+    "side": "LONG",
+    "size": 62.59411809713283,
+    "entry_price": 12.019335400812974,
+    "entry_fee": 0.3761698497637683,
+    "entry_slippage_bps": 1.94,
+    "entry_fill_method": "book",
+    "leverage": 3,
+    "margin": 250.7798998425122,
+    "notional": 752.3396995275366,
+    "opened_at": "2026-07-06T19:17:45.862364+00:00",
+    "exit_price": 10.941158704355832,
+    "exit_fee": 0.3424260900299609,
+    "total_fees": 0.7185959397937292,
+    "exit_slippage_bps": 8.53,
+    "exit_fill_method": "book",
+    "closed_at": "2026-07-07T10:38:50.694397+00:00",
+    "gross_pnl": -67.48751946761486,
+    "pnl": -68.20611540740859,
+    "pnl_pct": -27.19760054543506,
+    "total_slippage_bps": 10.47,
+    "exit_reason": "SL hit (-26.7% of margin)"
   }
 ]

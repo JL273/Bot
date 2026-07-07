@@ -1,5 +1,5 @@
 {
-  "cash": 2707.6625024947034,
+  "cash": 2890.236286929807,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x94dac1facdc4afd2614c3119447187b4143bc449:ASTER:SHORT": {
@@ -375,20 +375,6 @@
       "leverage": 3,
       "margin": 263.99968401980385,
       "notional": 791.9990520594115,
-      "opened_at": "2026-07-06T19:17:45.862364+00:00"
-    },
-    "0xe2823659be02e0f48a4660e4da008b5e1abfdf29:VVV:LONG": {
-      "trader": "0xe2823659be02e0f48a4660e4da008b5e1abfdf29",
-      "coin": "VVV",
-      "side": "LONG",
-      "size": 62.59411809713283,
-      "entry_price": 12.019335400812974,
-      "entry_fee": 0.3761698497637683,
-      "entry_slippage_bps": 1.94,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 250.7798998425122,
-      "notional": 752.3396995275366,
       "opened_at": "2026-07-06T19:17:45.862364+00:00"
     },
     "0xe2823659be02e0f48a4660e4da008b5e1abfdf29:NEAR:LONG": {
@@ -18616,7 +18602,17 @@
       "ts": "2026-07-06T22:52:20.120864+00:00",
       "equity": 10448.53776454787,
       "cash": 2707.6625024947034
+    },
+    {
+      "ts": "2026-07-07T10:38:52.738199+00:00",
+      "equity": 10154.199579996639,
+      "cash": 2707.6625024947034
+    },
+    {
+      "ts": "2026-07-07T10:38:53.875830+00:00",
+      "equity": 10152.927570953161,
+      "cash": 2890.236286929807
     }
   ],
-  "last_processed_signal_index": 339
+  "last_processed_signal_index": 340
 }
