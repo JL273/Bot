@@ -3526,5 +3526,30 @@
     "pnl_pct": -27.19760054543506,
     "total_slippage_bps": 10.47,
     "exit_reason": "SL hit (-26.7% of margin)"
+  },
+  {
+    "trader": "0xb885ed57cd16985f347d26f13a79dc4abd2e3c54",
+    "coin": "ZEC",
+    "side": "LONG",
+    "size": 1.2418548003729764,
+    "entry_price": 436.3,
+    "entry_fee": 0.2709106247013648,
+    "entry_slippage_bps": 3.89,
+    "entry_fill_method": "book",
+    "leverage": 3,
+    "margin": 180.6070831342432,
+    "notional": 541.8212494027296,
+    "opened_at": "2026-07-02T16:30:06.920861+00:00",
+    "exit_price": 501.57091792204807,
+    "exit_fee": 0.31143912607448776,
+    "total_fees": 0.5823497507758526,
+    "exit_slippage_bps": 4.07,
+    "exit_fill_method": "book",
+    "closed_at": "2026-07-07T18:24:27.716494+00:00",
+    "gross_pnl": 81.05700274624591,
+    "pnl": 80.47465299547007,
+    "pnl_pct": 44.55786096476303,
+    "total_slippage_bps": 7.96,
+    "exit_reason": "TP hit (+45.0% of margin)"
   }
 ]
