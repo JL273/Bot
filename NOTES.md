@@ -1406,6 +1406,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-08
 
+### 16:13 UTC — Daily refresh (Job A)
+- Leaderboard: 40211 traders fetched, 5 shortlisted
+- Shortlist change: +5 new, -5 dropped
+- #1 0x9751cec58be43e0e27d57ba49ac3d68ec269a97e acc=$6,626,190 month=$775,309 edge=370bps
+- #2 0x265eac78fb57495674227c93065d67abe6f97f70 acc=$11,618,441 month=$1,451,826 edge=1382bps
+- #3 0x1e771e1b95c86491299d6e2a5c3b3842d03b552e acc=$5,516,764 month=$216,969 edge=340bps
+- #4 0x9237794d8e5c6eb247b20f2e5edd9ad5f530d8ec acc=$2,345,208 month=$740,616 edge=1247bps
+- #5 0x03b9a189e2480d1e4c3007080b29f362282130fa acc=$60,814,455 month=$6,268,316 edge=1852bps
+- Current positions across the shortlist:
+-   0x9751cec58be43e0e27d57ba49ac3d68ec269a97e... 1 positions: SHORT PAXG x2
+-   0x265eac78fb57495674227c93065d67abe6f97f70... 2 positions: LONG HYPE x3, LONG AERO x3
+-   0x1e771e1b95c86491299d6e2a5c3b3842d03b552e... 7 positions: SHORT DOGE x10, LONG TIA x5, LONG kBONK x10, LONG ENA x10, SHORT HYPE x4, LONG XPL x10, SHORT ZEC x10
+-   0x9237794d8e5c6eb247b20f2e5edd9ad5f530d8ec... 1 positions: LONG SOL x20
+-   0x03b9a189e2480d1e4c3007080b29f362282130fa... no open positions
 ### 13:16 UTC — Position poll (Job B)
 - 5 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT LONG NEAR [time-stop (8d open, flat)]
