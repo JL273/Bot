@@ -1,5 +1,16 @@
 {
-  "account_value": 0.0,
-  "positions": [],
-  "timestamp_ms": 1783463809207
+  "account_value": 9332.547614,
+  "positions": [
+    {
+      "coin": "HYPE",
+      "side": "LONG",
+      "size": 1368.77,
+      "entry_price": 68.1278,
+      "position_value_usd": 93313.15721,
+      "leverage": 10,
+      "unrealized_pnl": 61.79376,
+      "liquidation_price": 0.0
+    }
+  ],
+  "timestamp_ms": 1783496520373
 }

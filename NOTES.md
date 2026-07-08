@@ -1403,3 +1403,19 @@ _Auto-generated. Newest entry at top._
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT LONG VVV [SL hit (-26.7% of margin)]
 - Portfolio equity: $10,152.93 (+1.53%)
+
+## 2026-07-08
+
+### 07:42 UTC — Position poll (Job B)
+- 10 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- NEW LONG HYPE (0x03ef8f736498047c3349bb2c18311d1bb4a79054) [5/5 traders]
+- EXIT SHORT ASTER [time-stop (9d open, flat)]
+- EXIT LONG XPL [SL hit (-35.8% of margin)]
+- EXIT LONG XPL [SL hit (-35.8% of margin)]
+- EXIT LONG AAVE [SL hit (-21.3% of margin)]
+- EXIT LONG NEAR [SL hit (-24.5% of margin)]
+- EXIT LONG AAVE [SL hit (-21.2% of margin)]
+- EXIT LONG NEAR [SL hit (-24.5% of margin)]
+- EXIT LONG NEAR [SL hit (-22.9% of margin)]
+- EXIT LONG XPL [SL hit (-32.8% of margin)]
+- Portfolio equity: $9,430.08 (-5.70%)
