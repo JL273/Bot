@@ -1406,6 +1406,12 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-08
 
+### 18:09 UTC — Position poll (Job B)
+- 0 signal(s) acted on, 3 skipped (confluence), 0 paused (daily profit limit):
+- SKIPPED SHORT PAXG (0x9751cec58be43e0e27d57ba49ac3d68ec269a97e) — only 1/5 traders
+- SKIPPED LONG AERO (0x265eac78fb57495674227c93065d67abe6f97f70) — only 1/5 traders
+- SKIPPED LONG SOL (0x9237794d8e5c6eb247b20f2e5edd9ad5f530d8ec) — only 1/5 traders
+- Portfolio equity: $9,220.11 (-7.80%)
 ### 16:13 UTC — Daily refresh (Job A)
 - Leaderboard: 40211 traders fetched, 5 shortlisted
 - Shortlist change: +5 new, -5 dropped

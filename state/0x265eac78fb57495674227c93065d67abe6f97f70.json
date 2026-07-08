@@ -1,16 +1,26 @@
 {
-  "account_value": 33892.11696,
+  "account_value": 49386.190879,
   "positions": [
     {
       "coin": "HYPE",
       "side": "LONG",
-      "size": 1450.53,
-      "entry_price": 66.5884,
-      "position_value_usd": 101397.84912,
+      "size": 2181.34,
+      "entry_price": 67.203,
+      "position_value_usd": 147183.73516,
       "leverage": 3,
-      "unrealized_pnl": 4809.354793,
+      "unrealized_pnl": 591.110303,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "AERO",
+      "side": "LONG",
+      "size": 1712.0,
+      "entry_price": 0.584261,
+      "position_value_usd": 907.20592,
+      "leverage": 3,
+      "unrealized_pnl": -93.04966,
       "liquidation_price": 0.0
     }
   ],
-  "timestamp_ms": 1783341068817
+  "timestamp_ms": 1783534160097
 }
