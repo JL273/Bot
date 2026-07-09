@@ -1450,6 +1450,14 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-09
 
+### 17:31 UTC — Position poll (Job B)
+- 3 signal(s) acted on, 2 skipped (confluence), 0 paused (daily profit limit):
+- NEW LONG HYPE (0xaac091f502a773498fb9336f41500fd13098245b) [3/5 traders]
+- CLOSED LONG LIT (0x265eac78fb57495674227c93065d67abe6f97f70)
+- CLOSED LONG ETHFI (0x265eac78fb57495674227c93065d67abe6f97f70)
+- SKIPPED LONG BTC (0xaac091f502a773498fb9336f41500fd13098245b) — only 1/5 traders
+- SKIPPED LONG LDO (0x265eac78fb57495674227c93065d67abe6f97f70) — only 1/5 traders
+- Portfolio equity: $9,315.48 (-6.85%)
 ### 17:27 UTC — Daily refresh (Job A)
 - Leaderboard: 40275 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped

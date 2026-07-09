@@ -5120,5 +5120,45 @@
     "unrealized_pnl": 0.726568345052846,
     "liquidation_price": 0,
     "exit_reason": "time-stop (5d open, flat)"
+  },
+  {
+    "ts": "2026-07-09T17:31:55.584845+00:00",
+    "trader": "0xaac091f502a773498fb9336f41500fd13098245b",
+    "type": "NEW",
+    "confluence": 3,
+    "coin": "HYPE",
+    "side": "LONG",
+    "size": 15000.25,
+    "entry_price": 63.4446,
+    "position_value_usd": 1006276.771,
+    "leverage": 5,
+    "unrealized_pnl": 54590.993311,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-07-09T17:31:55.584845+00:00",
+    "trader": "0x265eac78fb57495674227c93065d67abe6f97f70",
+    "type": "CLOSED",
+    "coin": "LIT",
+    "side": "LONG",
+    "size": 22223.0,
+    "entry_price": 2.249271,
+    "position_value_usd": 55395.2721,
+    "leverage": 5,
+    "unrealized_pnl": 5409.7189,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-07-09T17:31:55.584845+00:00",
+    "trader": "0x265eac78fb57495674227c93065d67abe6f97f70",
+    "type": "CLOSED",
+    "coin": "ETHFI",
+    "side": "LONG",
+    "size": 51542.4,
+    "entry_price": 0.38828,
+    "position_value_usd": 21300.927648,
+    "leverage": 5,
+    "unrealized_pnl": 1287.689475,
+    "liquidation_price": 0.0
   }
 ]

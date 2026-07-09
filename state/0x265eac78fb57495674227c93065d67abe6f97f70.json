@@ -1,46 +1,36 @@
 {
-  "account_value": 64722.069533,
+  "account_value": 69533.646977,
   "positions": [
     {
-      "coin": "ETHFI",
+      "coin": "LDO",
       "side": "LONG",
-      "size": 51542.4,
-      "entry_price": 0.38828,
-      "position_value_usd": 21300.927648,
+      "size": 31814.6,
+      "entry_price": 0.31449,
+      "position_value_usd": 9696.453788,
       "leverage": 5,
-      "unrealized_pnl": 1287.689475,
+      "unrealized_pnl": -308.989443,
       "liquidation_price": 0.0
     },
     {
       "coin": "HYPE",
       "side": "LONG",
-      "size": 2181.34,
-      "entry_price": 67.203,
-      "position_value_usd": 147242.63134,
+      "size": 2999.53,
+      "entry_price": 67.2104,
+      "position_value_usd": 201220.47052,
       "leverage": 3,
-      "unrealized_pnl": 650.006483,
+      "unrealized_pnl": -379.384847,
       "liquidation_price": 0.0
     },
     {
       "coin": "AERO",
       "side": "LONG",
-      "size": 1712.0,
-      "entry_price": 0.584261,
-      "position_value_usd": 909.1576,
+      "size": 3618.0,
+      "entry_price": 0.552978,
+      "position_value_usd": 1901.94642,
       "leverage": 3,
-      "unrealized_pnl": -91.09798,
-      "liquidation_price": 0.0
-    },
-    {
-      "coin": "LIT",
-      "side": "LONG",
-      "size": 22223.0,
-      "entry_price": 2.249271,
-      "position_value_usd": 55395.2721,
-      "leverage": 5,
-      "unrealized_pnl": 5409.7189,
+      "unrealized_pnl": -98.73044,
       "liquidation_price": 0.0
     }
   ],
-  "timestamp_ms": 1783593580753
+  "timestamp_ms": 1783618316204
 }
