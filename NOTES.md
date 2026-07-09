@@ -1450,6 +1450,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-09
 
+### 17:27 UTC — Daily refresh (Job A)
+- Leaderboard: 40275 traders fetched, 5 shortlisted
+- Shortlist change: +3 new, -3 dropped
+- #1 0x8def9f50456c6c4e37fa5d3d57f108ed23992dae acc=$99,187,294 month=$3,641,749 edge=974bps
+- #2 0x17a4ce9320bec0ac79420f0af19848044a469d8d acc=$3,322,852 month=$1,653,808 edge=457bps
+- #3 0xaac091f502a773498fb9336f41500fd13098245b acc=$3,745,174 month=$340,895 edge=341bps
+- #4 0x265eac78fb57495674227c93065d67abe6f97f70 acc=$11,784,678 month=$952,595 edge=936bps
+- #5 0x9237794d8e5c6eb247b20f2e5edd9ad5f530d8ec acc=$2,336,421 month=$733,610 edge=1347bps
+- Current positions across the shortlist:
+-   0x8def9f50456c6c4e37fa5d3d57f108ed23992dae... 9 positions: LONG SOL x17, LONG AAVE x10, LONG WLD x10, LONG NEAR x10, LONG HYPE x2, LONG XPL x4, LONG ASTER x5, LONG ZEC x10, LONG XMR x5
+-   0x17a4ce9320bec0ac79420f0af19848044a469d8d... no open positions
+-   0xaac091f502a773498fb9336f41500fd13098245b... 2 positions: LONG BTC x10, LONG HYPE x5
+-   0x265eac78fb57495674227c93065d67abe6f97f70... 3 positions: LONG LDO x5, LONG HYPE x3, LONG AERO x3
+-   0x9237794d8e5c6eb247b20f2e5edd9ad5f530d8ec... 1 positions: LONG SOL x20
 ### 10:39 UTC — Position poll (Job B)
 - 2 signal(s) acted on, 2 skipped (confluence), 0 paused (daily profit limit):
 - EXIT LONG ETH [time-stop (5d open, flat)]
