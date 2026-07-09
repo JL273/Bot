@@ -1447,3 +1447,13 @@ _Auto-generated. Newest entry at top._
 - EXIT LONG NEAR [SL hit (-22.9% of margin)]
 - EXIT LONG XPL [SL hit (-32.8% of margin)]
 - Portfolio equity: $9,430.08 (-5.70%)
+
+## 2026-07-09
+
+### 10:39 UTC — Position poll (Job B)
+- 2 signal(s) acted on, 2 skipped (confluence), 0 paused (daily profit limit):
+- EXIT LONG ETH [time-stop (5d open, flat)]
+- EXIT LONG ETH [time-stop (5d open, flat)]
+- SKIPPED LONG LIT (0x265eac78fb57495674227c93065d67abe6f97f70) — only 1/5 traders
+- SKIPPED LONG ETHFI (0x265eac78fb57495674227c93065d67abe6f97f70) — only 1/5 traders
+- Portfolio equity: $9,307.23 (-6.93%)
