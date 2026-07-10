@@ -1482,6 +1482,33 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-10
 
+### 17:22 UTC — Position poll (Job B)
+- 7 signal(s) acted on, 17 skipped (confluence), 0 paused (daily profit limit):
+- NEW LONG ETH (0xbe10fd36393c8b677281d0bc2cf1bb8c98ad4b34) [3/5 traders]
+- NEW LONG XMR (0xbe10fd36393c8b677281d0bc2cf1bb8c98ad4b34) [2/5 traders]
+- NEW LONG AAVE (0xbe10fd36393c8b677281d0bc2cf1bb8c98ad4b34) [3/5 traders]
+- NEW LONG ZEC (0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05) [3/5 traders]
+- NEW LONG AAVE (0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05) [3/5 traders]
+- NEW LONG ETH (0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05) [3/5 traders]
+- NEW LONG HYPE (0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05) [3/5 traders]
+- SKIPPED SHORT APT (0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05) — only 1/5 traders
+- SKIPPED SHORT DOT (0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05) — only 1/5 traders
+- SKIPPED SHORT SUI (0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05) — only 1/5 traders
+- SKIPPED SHORT LINK (0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05) — only 1/5 traders
+- SKIPPED SHORT AVAX (0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05) — only 1/5 traders
+- SKIPPED SHORT ADA (0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05) — only 1/5 traders
+- SKIPPED SHORT CRV (0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05) — only 1/5 traders
+- SKIPPED SHORT FIL (0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05) — only 1/5 traders
+- SKIPPED LONG PUMP (0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05) — only 1/5 traders
+- SKIPPED SHORT kPEPE (0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05) — only 1/5 traders
+- SKIPPED SHORT PENDLE (0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05) — only 1/5 traders
+- SKIPPED SHORT NEAR (0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05) — only 1/5 traders
+- SKIPPED SHORT GRASS (0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05) — only 1/5 traders
+- SKIPPED LONG BTC (0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05) — only 1/5 traders
+- SKIPPED SHORT STRK (0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05) — only 1/5 traders
+- SKIPPED SHORT XRP (0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05) — only 1/5 traders
+- SKIPPED SHORT kSHIB (0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05) — only 1/5 traders
+- Portfolio equity: $9,613.32 (-3.87%)
 ### 16:48 UTC — Daily refresh (Job A)
 - Leaderboard: 40376 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped
