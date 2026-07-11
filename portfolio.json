@@ -1,5 +1,5 @@
 {
-  "cash": 3713.509384675481,
+  "cash": 4267.332056394421,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x94dac1facdc4afd2614c3119447187b4143bc449:ASTER:SHORT": {
@@ -153,20 +153,6 @@
       "notional": 791.9990520594115,
       "opened_at": "2026-07-06T19:17:45.862364+00:00"
     },
-    "0xe2823659be02e0f48a4660e4da008b5e1abfdf29:ZEC:LONG": {
-      "trader": "0xe2823659be02e0f48a4660e4da008b5e1abfdf29",
-      "coin": "ZEC",
-      "side": "LONG",
-      "size": 1.509258074850114,
-      "entry_price": 449.81000000000006,
-      "entry_fee": 0.33943968732416496,
-      "entry_slippage_bps": 0.11,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 226.29312488277662,
-      "notional": 678.8793746483299,
-      "opened_at": "2026-07-06T19:17:45.862364+00:00"
-    },
     "0xe9c888b87f2c8723a08d105a18bcd5cbb101770f:SOL:LONG": {
       "trader": "0xe9c888b87f2c8723a08d105a18bcd5cbb101770f",
       "coin": "SOL",
@@ -207,20 +193,6 @@
       "leverage": 3,
       "margin": 175.03219829754832,
       "notional": 525.0965948926449,
-      "opened_at": "2026-07-06T19:17:45.862364+00:00"
-    },
-    "0x77ee3604adbdefa66a817b3cf776412a6613a018:ZEC:LONG": {
-      "trader": "0x77ee3604adbdefa66a817b3cf776412a6613a018",
-      "coin": "ZEC",
-      "side": "LONG",
-      "size": 1.053388883260728,
-      "entry_price": 449.81000000000006,
-      "entry_fee": 0.23691242678975408,
-      "entry_slippage_bps": 0.11,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 157.94161785983604,
-      "notional": 473.82485357950816,
       "opened_at": "2026-07-06T19:17:45.862364+00:00"
     },
     "0x77ee3604adbdefa66a817b3cf776412a6613a018:SOL:LONG": {
@@ -18676,7 +18648,17 @@
       "ts": "2026-07-11T17:41:45.360479+00:00",
       "equity": 9882.732756471183,
       "cash": 3713.509384675481
+    },
+    {
+      "ts": "2026-07-11T20:27:33.095757+00:00",
+      "equity": 9954.475984720615,
+      "cash": 3713.509384675481
+    },
+    {
+      "ts": "2026-07-11T20:27:34.710038+00:00",
+      "equity": 9954.699985138597,
+      "cash": 4267.332056394421
     }
   ],
-  "last_processed_signal_index": 386
+  "last_processed_signal_index": 388
 }

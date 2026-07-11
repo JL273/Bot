@@ -1530,6 +1530,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-11
 
+### 20:27 UTC — Position poll (Job B)
+- 2 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT LONG ZEC [TP hit (+44.5% of margin)]
+- EXIT LONG ZEC [TP hit (+44.5% of margin)]
+- Portfolio equity: $9,954.70 (-0.45%)
 ### 17:41 UTC — Position poll (Job B)
 - 2 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT LONG AAVE [TP hit (+43.8% of margin)]
