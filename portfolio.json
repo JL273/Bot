@@ -1,5 +1,5 @@
 {
-  "cash": 3011.297547350517,
+  "cash": 3292.988147060226,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x94dac1facdc4afd2614c3119447187b4143bc449:ASTER:SHORT": {
@@ -195,20 +195,6 @@
       "notional": 678.8793746483299,
       "opened_at": "2026-07-06T19:17:45.862364+00:00"
     },
-    "0xe2823659be02e0f48a4660e4da008b5e1abfdf29:HYPE:LONG": {
-      "trader": "0xe2823659be02e0f48a4660e4da008b5e1abfdf29",
-      "coin": "HYPE",
-      "side": "LONG",
-      "size": 9.040605758464853,
-      "entry_price": 71.332,
-      "entry_fee": 0.3224422449814074,
-      "entry_slippage_bps": 0.0,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 214.9614966542716,
-      "notional": 644.8844899628148,
-      "opened_at": "2026-07-06T19:17:45.862364+00:00"
-    },
     "0xe9c888b87f2c8723a08d105a18bcd5cbb101770f:SOL:LONG": {
       "trader": "0xe9c888b87f2c8723a08d105a18bcd5cbb101770f",
       "coin": "SOL",
@@ -277,20 +263,6 @@
       "leverage": 3,
       "margin": 150.03269134550473,
       "notional": 450.09807403651416,
-      "opened_at": "2026-07-06T19:17:45.862364+00:00"
-    },
-    "0x77ee3604adbdefa66a817b3cf776412a6613a018:HYPE:LONG": {
-      "trader": "0x77ee3604adbdefa66a817b3cf776412a6613a018",
-      "coin": "HYPE",
-      "side": "LONG",
-      "size": 5.993935582615598,
-      "entry_price": 71.332,
-      "entry_fee": 0.2137797064895679,
-      "entry_slippage_bps": 0.0,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 142.5198043263786,
-      "notional": 427.5594129791358,
       "opened_at": "2026-07-06T19:17:45.862364+00:00"
     },
     "0x8def9f50456c6c4e37fa5d3d57f108ed23992dae:HYPE:LONG": {
@@ -18674,7 +18646,17 @@
       "ts": "2026-07-10T21:31:06.569980+00:00",
       "equity": 9657.912444296837,
       "cash": 3011.297547350517
+    },
+    {
+      "ts": "2026-07-11T06:02:37.124957+00:00",
+      "equity": 9533.291739697788,
+      "cash": 3011.297547350517
+    },
+    {
+      "ts": "2026-07-11T06:02:38.590831+00:00",
+      "equity": 9532.155053455983,
+      "cash": 3292.988147060226
     }
   ],
-  "last_processed_signal_index": 380
+  "last_processed_signal_index": 382
 }
