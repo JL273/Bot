@@ -1571,3 +1571,10 @@ _Auto-generated. Newest entry at top._
 - EXIT LONG HYPE [SL hit (-20.9% of margin)]
 - EXIT LONG HYPE [SL hit (-20.9% of margin)]
 - Portfolio equity: $9,532.16 (-4.68%)
+
+## 2026-07-12
+
+### 07:47 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT LONG SOL [SL hit (-21.1% of margin)]
+- Portfolio equity: $9,734.82 (-2.65%)

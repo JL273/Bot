@@ -4276,5 +4276,30 @@
     "pnl_pct": 0.3490259740259397,
     "total_slippage_bps": 2.82,
     "exit_reason": "time-stop (5d open, flat)"
+  },
+  {
+    "trader": "0x8def9f50456c6c4e37fa5d3d57f108ed23992dae",
+    "coin": "SOL",
+    "side": "LONG",
+    "size": 3.6783138723239124,
+    "entry_price": 82.2645024894385,
+    "entry_fee": 0.15129733035336332,
+    "entry_slippage_bps": 0.97,
+    "entry_fill_method": "book",
+    "leverage": 3,
+    "margin": 100.86488690224222,
+    "notional": 302.59466070672664,
+    "opened_at": "2026-07-07T18:24:27.716494+00:00",
+    "exit_price": 76.467,
+    "exit_fee": 0.1406348134374963,
+    "total_fees": 0.29193214379085963,
+    "exit_slippage_bps": 0.07,
+    "exit_fill_method": "book",
+    "closed_at": "2026-07-12T07:47:53.863850+00:00",
+    "gross_pnl": -21.32503383173405,
+    "pnl": -21.61696597552491,
+    "pnl_pct": -21.43160681523985,
+    "total_slippage_bps": 1.04,
+    "exit_reason": "SL hit (-21.1% of margin)"
   }
 ]
