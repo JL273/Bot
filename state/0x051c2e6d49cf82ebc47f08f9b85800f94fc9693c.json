@@ -1,24 +1,24 @@
 {
-  "account_value": 1519704.481555,
+  "account_value": 1493820.320903,
   "positions": [
     {
       "coin": "ETH",
       "side": "LONG",
       "size": 3189.8949,
       "entry_price": 1997.53,
-      "position_value_usd": 5774347.74798,
+      "position_value_usd": 5800504.88616,
       "leverage": 8,
-      "unrealized_pnl": -597590.64575,
-      "liquidation_price": 0.0
+      "unrealized_pnl": -571433.50757,
+      "liquidation_price": 11.0884942882
     },
     {
       "coin": "AAVE",
       "side": "LONG",
       "size": 40102.43,
       "entry_price": 81.9526,
-      "position_value_usd": 3973669.58384,
+      "position_value_usd": 3939021.08432,
       "leverage": 10,
-      "unrealized_pnl": 687168.02382,
+      "unrealized_pnl": 652519.5243,
       "liquidation_price": 0.0
     },
     {
@@ -26,9 +26,9 @@
       "side": "LONG",
       "size": 266223.0,
       "entry_price": 1.8793,
-      "position_value_usd": 501963.4665,
+      "position_value_usd": 504678.9411,
       "leverage": 10,
-      "unrealized_pnl": 1649.98104,
+      "unrealized_pnl": 4365.45564,
       "liquidation_price": 0.0
     },
     {
@@ -36,11 +36,11 @@
       "side": "LONG",
       "size": 12188868.0,
       "entry_price": 0.085907,
-      "position_value_usd": 1122631.309404,
+      "position_value_usd": 1103092.554,
       "leverage": 5,
-      "unrealized_pnl": 75511.793286,
+      "unrealized_pnl": 55973.037882,
       "liquidation_price": 0.0
     }
   ],
-  "timestamp_ms": 1783867471853
+  "timestamp_ms": 1783879643878
 }
