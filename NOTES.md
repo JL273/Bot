@@ -1595,6 +1595,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-13
 
+### 17:23 UTC — Daily refresh (Job A)
+- Leaderboard: 40315 traders fetched, 5 shortlisted
+- Shortlist change: +5 new, -5 dropped
+- #1 0x9237794d8e5c6eb247b20f2e5edd9ad5f530d8ec acc=$2,635,707 month=$1,021,928 edge=1935bps
+- #2 0xda744273f80b22412417f7cfe0503f3d721f987d acc=$6,514,110 month=$1,598,012 edge=739bps
+- #3 0x6bb971430554e3af58fbd469bce46ab2359a2d23 acc=$4,662,352 month=$2,604,024 edge=777bps
+- #4 0x095c938780605911df64dc66342c3260989e68a9 acc=$326,237 month=$113,249 edge=84bps
+- #5 0x7dacca323e44f168494c779bb5e7483c468ef410 acc=$27,663,571 month=$1,702,659 edge=2502bps
+- Current positions across the shortlist:
+-   0x9237794d8e5c6eb247b20f2e5edd9ad5f530d8ec... no open positions
+-   0xda744273f80b22412417f7cfe0503f3d721f987d... 3 positions: LONG BTC x20, SHORT HYPE x10, SHORT CASHCAT x3
+-   0x6bb971430554e3af58fbd469bce46ab2359a2d23... 3 positions: LONG ETH x25, SHORT PURR x3, SHORT HYPE x10
+-   0x095c938780605911df64dc66342c3260989e68a9... 2 positions: SHORT BTC x20, SHORT ETH x20
+-   0x7dacca323e44f168494c779bb5e7483c468ef410... 1 positions: SHORT HYPE x10
 ### 10:45 UTC — Position poll (Job B)
 - 6 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT LONG HYPE [time-stop (12d open, flat)]
