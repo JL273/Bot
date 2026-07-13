@@ -1595,6 +1595,22 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-13
 
+### 18:04 UTC — Position poll (Job B)
+- 7 signal(s) acted on, 6 skipped (confluence), 0 paused (daily profit limit):
+- CLOSED LONG SOL (0x9237794d8e5c6eb247b20f2e5edd9ad5f530d8ec)
+- NEW SHORT HYPE (0xda744273f80b22412417f7cfe0503f3d721f987d) [3/5 traders]
+- NEW SHORT HYPE (0x6bb971430554e3af58fbd469bce46ab2359a2d23) [3/5 traders]
+- EXIT LONG ETH [time-stop (9d open, flat)]
+- EXIT LONG ETH [time-stop (9d open, flat)]
+- EXIT LONG HYPE [SL hit (-23.1% of margin)]
+- EXIT LONG HYPE [SL hit (-20.5% of margin)]
+- SKIPPED SHORT CASHCAT (0xda744273f80b22412417f7cfe0503f3d721f987d) — only 1/5 traders
+- SKIPPED LONG BTC (0xda744273f80b22412417f7cfe0503f3d721f987d) — only 1/5 traders
+- SKIPPED LONG ETH (0x6bb971430554e3af58fbd469bce46ab2359a2d23) — only 1/5 traders
+- SKIPPED SHORT PURR (0x6bb971430554e3af58fbd469bce46ab2359a2d23) — only 1/5 traders
+- SKIPPED SHORT ETH (0x095c938780605911df64dc66342c3260989e68a9) — only 1/5 traders
+- SKIPPED SHORT BTC (0x095c938780605911df64dc66342c3260989e68a9) — only 1/5 traders
+- Portfolio equity: $9,420.68 (-5.79%)
 ### 17:23 UTC — Daily refresh (Job A)
 - Leaderboard: 40315 traders fetched, 5 shortlisted
 - Shortlist change: +5 new, -5 dropped
