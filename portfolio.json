@@ -1,5 +1,5 @@
 {
-  "cash": 5242.5913689145045,
+  "cash": 6130.901748807312,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x94dac1facdc4afd2614c3119447187b4143bc449:ASTER:SHORT": {
@@ -12,20 +12,6 @@
       "margin": 188.6768012676538,
       "notional": 566.0304038029614,
       "opened_at": "2026-06-18T08:05:21.071969+00:00"
-    },
-    "0x265eac78fb57495674227c93065d67abe6f97f70:HYPE:LONG": {
-      "trader": "0x265eac78fb57495674227c93065d67abe6f97f70",
-      "coin": "HYPE",
-      "side": "LONG",
-      "size": 2.106650148797451,
-      "entry_price": 64.729,
-      "entry_fee": 0.0681806787407551,
-      "entry_slippage_bps": 0.31,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 45.453785827170066,
-      "notional": 136.3613574815102,
-      "opened_at": "2026-06-30T22:01:56.905688+00:00"
     },
     "0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff:BTC:LONG": {
       "trader": "0x123dbca6a27005a3c4ce10cb66ee8ece8fc13bff",
@@ -55,48 +41,6 @@
       "notional": 488.91647110566817,
       "opened_at": "2026-07-02T16:30:06.920861+00:00"
     },
-    "0x3ee505ba316879d246a8fd2b3d7ee63b51b44fab:HYPE:LONG": {
-      "trader": "0x3ee505ba316879d246a8fd2b3d7ee63b51b44fab",
-      "coin": "HYPE",
-      "side": "LONG",
-      "size": 12.037644749292912,
-      "entry_price": 70.438,
-      "entry_fee": 0.42395381042534713,
-      "entry_slippage_bps": 0.07,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 282.6358736168981,
-      "notional": 847.9076208506942,
-      "opened_at": "2026-07-03T20:21:14.701457+00:00"
-    },
-    "0xfdf891f2b214a4c9374d26595ec6d4080262e381:HYPE:LONG": {
-      "trader": "0xfdf891f2b214a4c9374d26595ec6d4080262e381",
-      "coin": "HYPE",
-      "side": "LONG",
-      "size": 10.318331465661522,
-      "entry_price": 70.438,
-      "entry_fee": 0.36340131588913316,
-      "entry_slippage_bps": 0.07,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 242.2675439260888,
-      "notional": 726.8026317782663,
-      "opened_at": "2026-07-03T20:21:14.701457+00:00"
-    },
-    "0xea0027b6ea9b6d7d401b5266979cc3b3ca87a918:HYPE:LONG": {
-      "trader": "0xea0027b6ea9b6d7d401b5266979cc3b3ca87a918",
-      "coin": "HYPE",
-      "side": "LONG",
-      "size": 9.262011167462253,
-      "entry_price": 70.812,
-      "entry_fee": 0.3279307673951685,
-      "entry_slippage_bps": 0.64,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 218.620511596779,
-      "notional": 655.861534790337,
-      "opened_at": "2026-07-04T12:49:51.824176+00:00"
-    },
     "0xea0027b6ea9b6d7d401b5266979cc3b3ca87a918:ETH:LONG": {
       "trader": "0xea0027b6ea9b6d7d401b5266979cc3b3ca87a918",
       "coin": "ETH",
@@ -124,34 +68,6 @@
       "margin": 197.2738595229309,
       "notional": 591.8215785687927,
       "opened_at": "2026-07-04T12:49:51.824176+00:00"
-    },
-    "0xe9c888b87f2c8723a08d105a18bcd5cbb101770f:SOL:LONG": {
-      "trader": "0xe9c888b87f2c8723a08d105a18bcd5cbb101770f",
-      "coin": "SOL",
-      "side": "LONG",
-      "size": 7.47756334075395,
-      "entry_price": 81.924,
-      "entry_fee": 0.30629594956396333,
-      "entry_slippage_bps": 0.06,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 204.1972997093089,
-      "notional": 612.5918991279267,
-      "opened_at": "2026-07-06T19:17:45.862364+00:00"
-    },
-    "0x77ee3604adbdefa66a817b3cf776412a6613a018:SOL:LONG": {
-      "trader": "0x77ee3604adbdefa66a817b3cf776412a6613a018",
-      "coin": "SOL",
-      "side": "LONG",
-      "size": 5.494092989069309,
-      "entry_price": 81.924,
-      "entry_fee": 0.2250490370182571,
-      "entry_slippage_bps": 0.06,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 150.03269134550473,
-      "notional": 450.09807403651416,
-      "opened_at": "2026-07-06T19:17:45.862364+00:00"
     },
     "0x8def9f50456c6c4e37fa5d3d57f108ed23992dae:HYPE:LONG": {
       "trader": "0x8def9f50456c6c4e37fa5d3d57f108ed23992dae",
@@ -18633,7 +18549,17 @@
       "ts": "2026-07-12T23:36:25.134619+00:00",
       "equity": 9784.0584111569,
       "cash": 5242.5913689145045
+    },
+    {
+      "ts": "2026-07-13T10:45:06.310547+00:00",
+      "equity": 9574.755034543268,
+      "cash": 5242.5913689145045
+    },
+    {
+      "ts": "2026-07-13T10:45:08.711666+00:00",
+      "equity": 9571.555470915679,
+      "cash": 6130.901748807312
     }
   ],
-  "last_processed_signal_index": 393
+  "last_processed_signal_index": 399
 }
