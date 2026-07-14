@@ -5649,5 +5649,33 @@
     "unrealized_pnl": -32.93546621390138,
     "liquidation_price": 0,
     "exit_reason": "SL hit (-20.8% of margin)"
+  },
+  {
+    "ts": "2026-07-14T05:57:57.167228+00:00",
+    "trader": "0x8def9f50456c6c4e37fa5d3d57f108ed23992dae",
+    "type": "CLOSED",
+    "coin": "ASTER",
+    "side": "LONG",
+    "size": 559.2318745063207,
+    "entry_price": 0.6312500000000001,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -0.268431299763054,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (6d open, flat)"
+  },
+  {
+    "ts": "2026-07-14T05:57:57.167228+00:00",
+    "trader": "0x8def9f50456c6c4e37fa5d3d57f108ed23992dae",
+    "type": "CLOSED",
+    "coin": "WLD",
+    "side": "LONG",
+    "size": 722.7251158398806,
+    "entry_price": 0.3977200000000001,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 0.9178608971166035,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (6d open, flat)"
   }
 ]
