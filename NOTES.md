@@ -1663,6 +1663,26 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-15
 
+### 16:52 UTC — Position poll (Job B)
+- 4 signal(s) acted on, 13 skipped (confluence), 0 paused (daily profit limit):
+- NEW LONG AAVE (0x0748e296e5a350ec36c8487a1cea406e1b57d4b2) [2/5 traders]
+- NEW LONG ZEC (0x0748e296e5a350ec36c8487a1cea406e1b57d4b2) [3/5 traders]
+- NEW LONG HYPE (0x0748e296e5a350ec36c8487a1cea406e1b57d4b2) [3/5 traders]
+- NEW LONG ETH (0x66466428990e0f42a4c54f64bee0db6bf2336de5) [2/5 traders]
+- SKIPPED SHORT INJ (0x0748e296e5a350ec36c8487a1cea406e1b57d4b2) — only 1/5 traders
+- SKIPPED SHORT ADA (0x0748e296e5a350ec36c8487a1cea406e1b57d4b2) — only 1/5 traders
+- SKIPPED LONG LDO (0x0748e296e5a350ec36c8487a1cea406e1b57d4b2) — only 1/5 traders
+- SKIPPED SHORT VVV (0x0748e296e5a350ec36c8487a1cea406e1b57d4b2) — only 1/5 traders
+- SKIPPED LONG JUP (0x0748e296e5a350ec36c8487a1cea406e1b57d4b2) — only 1/5 traders
+- SKIPPED SHORT WLFI (0x0748e296e5a350ec36c8487a1cea406e1b57d4b2) — only 1/5 traders
+- SKIPPED LONG AERO (0x0748e296e5a350ec36c8487a1cea406e1b57d4b2) — only 1/5 traders
+- SKIPPED SHORT XLM (0x0748e296e5a350ec36c8487a1cea406e1b57d4b2) — only 1/5 traders
+- SKIPPED SHORT AVAX (0x0748e296e5a350ec36c8487a1cea406e1b57d4b2) — only 1/5 traders
+- SKIPPED LONG LIT (0x0748e296e5a350ec36c8487a1cea406e1b57d4b2) — only 1/5 traders
+- SKIPPED SHORT XRP (0x0748e296e5a350ec36c8487a1cea406e1b57d4b2) — only 1/5 traders
+- SKIPPED SHORT SUI (0x0748e296e5a350ec36c8487a1cea406e1b57d4b2) — only 1/5 traders
+- SKIPPED LONG BTC (0x66466428990e0f42a4c54f64bee0db6bf2336de5) — only 1/5 traders
+- Portfolio equity: $9,586.89 (-4.13%)
 ### 15:09 UTC — Daily refresh (Job A)
 - Leaderboard: 40654 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped

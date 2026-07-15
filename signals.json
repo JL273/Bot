@@ -5747,5 +5747,61 @@
     "unrealized_pnl": -66.06080633630674,
     "liquidation_price": 0,
     "exit_reason": "SL hit (-22.7% of margin)"
+  },
+  {
+    "ts": "2026-07-15T16:52:41.575847+00:00",
+    "trader": "0x0748e296e5a350ec36c8487a1cea406e1b57d4b2",
+    "type": "NEW",
+    "confluence": 2,
+    "coin": "AAVE",
+    "side": "LONG",
+    "size": 20397.81,
+    "entry_price": 73.3731,
+    "position_value_usd": 1967001.61392,
+    "leverage": 10,
+    "unrealized_pnl": 470349.02276,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-07-15T16:52:41.575847+00:00",
+    "trader": "0x0748e296e5a350ec36c8487a1cea406e1b57d4b2",
+    "type": "NEW",
+    "confluence": 3,
+    "coin": "ZEC",
+    "side": "LONG",
+    "size": 1000.0,
+    "entry_price": 495.7603,
+    "position_value_usd": 572020.0,
+    "leverage": 7,
+    "unrealized_pnl": 76259.61626,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-07-15T16:52:41.575847+00:00",
+    "trader": "0x0748e296e5a350ec36c8487a1cea406e1b57d4b2",
+    "type": "NEW",
+    "confluence": 3,
+    "coin": "HYPE",
+    "side": "LONG",
+    "size": 20000.0,
+    "entry_price": 69.7655,
+    "position_value_usd": 1349582.0,
+    "leverage": 10,
+    "unrealized_pnl": -45729.122615,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-07-15T16:52:41.575847+00:00",
+    "trader": "0x66466428990e0f42a4c54f64bee0db6bf2336de5",
+    "type": "NEW",
+    "confluence": 2,
+    "coin": "ETH",
+    "side": "LONG",
+    "size": 9150.0,
+    "entry_price": 1754.94,
+    "position_value_usd": 17534145.0,
+    "leverage": 25,
+    "unrealized_pnl": 1476382.545719,
+    "liquidation_price": 1414.1548958149
   }
 ]
