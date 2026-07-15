@@ -1660,3 +1660,11 @@ _Auto-generated. Newest entry at top._
 - EXIT LONG ASTER [time-stop (6d open, flat)]
 - EXIT LONG WLD [time-stop (6d open, flat)]
 - Portfolio equity: $9,472.54 (-5.27%)
+
+## 2026-07-15
+
+### 07:25 UTC — Position poll (Job B)
+- 2 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT LONG XMR [time-stop (7d open, flat)]
+- EXIT LONG HYPE [time-stop (5d open, flat)]
+- Portfolio equity: $9,571.65 (-4.28%)
