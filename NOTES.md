@@ -1663,6 +1663,13 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-15
 
+### 12:06 UTC — Position poll (Job B)
+- 3 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
+- EXIT LONG ZEC [TP hit (+42.2% of margin)]
+- EXIT SHORT HYPE [SL hit (-22.7% of margin)]
+- EXIT SHORT HYPE [SL hit (-22.7% of margin)]
+- SKIPPED SHORT BTC (0xbe10fd36393c8b677281d0bc2cf1bb8c98ad4b34) — only 1/5 traders
+- Portfolio equity: $9,566.92 (-4.33%)
 ### 07:25 UTC — Position poll (Job B)
 - 2 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT LONG XMR [time-stop (7d open, flat)]
