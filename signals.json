@@ -5887,5 +5887,33 @@
     "unrealized_pnl": 0.4945078976641422,
     "liquidation_price": 0,
     "exit_reason": "time-stop (5d open, flat)"
+  },
+  {
+    "ts": "2026-07-16T18:00:44.044775+00:00",
+    "trader": "0x0748e296e5a350ec36c8487a1cea406e1b57d4b2",
+    "type": "CLOSED",
+    "coin": "HYPE",
+    "side": "LONG",
+    "size": 15.12377826964183,
+    "entry_price": 67.483,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -72.23116501580944,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-21.2% of margin)"
+  },
+  {
+    "ts": "2026-07-16T18:00:44.044775+00:00",
+    "trader": "0x3e516cf3c9d4f29fae6c1324c2414dc872fc9c09",
+    "type": "CLOSED",
+    "coin": "CASHCAT",
+    "side": "SHORT",
+    "size": 8823.264822141584,
+    "entry_price": 0.10501966335406827,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 133.01657014239964,
+    "liquidation_price": 0,
+    "exit_reason": "TP hit (+43.1% of margin)"
   }
 ]

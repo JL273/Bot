@@ -1712,6 +1712,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-16
 
+### 18:00 UTC — Position poll (Job B)
+- 2 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT LONG HYPE [SL hit (-21.2% of margin)]
+- EXIT SHORT CASHCAT [TP hit (+43.1% of margin)]
+- Portfolio equity: $9,503.45 (-4.97%)
 ### 16:57 UTC — Position poll (Job B)
 - 4 signal(s) acted on, 6 skipped (confluence), 0 paused (daily profit limit):
 - NEW SHORT HYPE (0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0) [3/5 traders]
