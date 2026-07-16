@@ -5831,5 +5831,61 @@
     "unrealized_pnl": -2.4203754154823147,
     "liquidation_price": 0,
     "exit_reason": "time-stop (5d open, flat)"
+  },
+  {
+    "ts": "2026-07-16T16:57:15.191530+00:00",
+    "trader": "0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0",
+    "type": "NEW",
+    "confluence": 3,
+    "coin": "HYPE",
+    "side": "SHORT",
+    "size": 70000.0,
+    "entry_price": 62.8016,
+    "position_value_usd": 4477760.0,
+    "leverage": 10,
+    "unrealized_pnl": -81645.49653,
+    "liquidation_price": 147.7301495854
+  },
+  {
+    "ts": "2026-07-16T16:57:15.191530+00:00",
+    "trader": "0x3e516cf3c9d4f29fae6c1324c2414dc872fc9c09",
+    "type": "NEW",
+    "confluence": 2,
+    "coin": "CASHCAT",
+    "side": "SHORT",
+    "size": 1513718.0,
+    "entry_price": 0.198694,
+    "position_value_usd": 159424.77976,
+    "leverage": 3,
+    "unrealized_pnl": 141342.18554,
+    "liquidation_price": 0.2783882311
+  },
+  {
+    "ts": "2026-07-16T16:57:15.191530+00:00",
+    "trader": "0x8def9f50456c6c4e37fa5d3d57f108ed23992dae",
+    "type": "CLOSED",
+    "coin": "AAVE",
+    "side": "LONG",
+    "size": 4.448252334262351,
+    "entry_price": 92.584,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -2.14405762511445,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (8d open, flat)"
+  },
+  {
+    "ts": "2026-07-16T16:57:15.191530+00:00",
+    "trader": "0x939f95036d2e7b6d7419ec072bf9d967352204d2",
+    "type": "CLOSED",
+    "coin": "BTC",
+    "side": "LONG",
+    "size": 0.007666789111071972,
+    "entry_price": 64427.0,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 0.4945078976641422,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (5d open, flat)"
   }
 ]

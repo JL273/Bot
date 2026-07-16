@@ -1712,6 +1712,19 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-16
 
+### 16:57 UTC — Position poll (Job B)
+- 4 signal(s) acted on, 6 skipped (confluence), 0 paused (daily profit limit):
+- NEW SHORT HYPE (0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0) [3/5 traders]
+- NEW SHORT CASHCAT (0x3e516cf3c9d4f29fae6c1324c2414dc872fc9c09) [2/5 traders]
+- EXIT LONG AAVE [time-stop (8d open, flat)]
+- EXIT LONG BTC [time-stop (5d open, flat)]
+- SKIPPED SHORT LINK (0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0) — only 1/5 traders
+- SKIPPED SHORT VVV (0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0) — only 1/5 traders
+- SKIPPED SHORT PAXG (0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0) — only 1/5 traders
+- SKIPPED SHORT MEGA (0xcafe9392d902f6f517b1573371923ebf7ffa7b3b) — only 1/5 traders
+- SKIPPED LONG HYPE (0x3e516cf3c9d4f29fae6c1324c2414dc872fc9c09) — only 1/5 traders
+- SKIPPED SHORT LIT (0x4f7634c03ec4e87e14725c84913ade523c6fad5a) — only 1/5 traders
+- Portfolio equity: $9,393.01 (-6.07%)
 ### 15:20 UTC — Daily refresh (Job A)
 - Leaderboard: 40623 traders fetched, 5 shortlisted
 - Shortlist change: +5 new, -5 dropped

@@ -1,0 +1,26 @@
+{
+  "account_value": 474638.016784,
+  "positions": [
+    {
+      "coin": "HYPE",
+      "side": "LONG",
+      "size": 10000.0,
+      "entry_price": 65.24,
+      "position_value_usd": 639680.0,
+      "leverage": 5,
+      "unrealized_pnl": -12720.0,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "CASHCAT",
+      "side": "SHORT",
+      "size": 1513718.0,
+      "entry_price": 0.198694,
+      "position_value_usd": 159424.77976,
+      "leverage": 3,
+      "unrealized_pnl": 141342.18554,
+      "liquidation_price": 0.2783882311
+    }
+  ],
+  "timestamp_ms": 1784221035500
+}
