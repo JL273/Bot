@@ -5803,5 +5803,33 @@
     "leverage": 25,
     "unrealized_pnl": 1476382.545719,
     "liquidation_price": 1414.1548958149
+  },
+  {
+    "ts": "2026-07-16T07:36:31.892969+00:00",
+    "trader": "0xbe10fd36393c8b677281d0bc2cf1bb8c98ad4b34",
+    "type": "CLOSED",
+    "coin": "AAVE",
+    "side": "LONG",
+    "size": 6.144243365680383,
+    "entry_price": 95.04514391411816,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -2.682846472485159,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (5d open, flat)"
+  },
+  {
+    "ts": "2026-07-16T07:36:31.892969+00:00",
+    "trader": "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05",
+    "type": "CLOSED",
+    "coin": "AAVE",
+    "side": "LONG",
+    "size": 5.544309521102521,
+    "entry_price": 95.04505127951822,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -2.4203754154823147,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (5d open, flat)"
   }
 ]
