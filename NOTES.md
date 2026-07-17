@@ -1749,3 +1749,10 @@ _Auto-generated. Newest entry at top._
 - EXIT LONG AAVE [time-stop (5d open, flat)]
 - EXIT LONG AAVE [time-stop (5d open, flat)]
 - Portfolio equity: $9,495.67 (-5.04%)
+
+## 2026-07-17
+
+### 00:10 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT LONG ZEC [SL hit (-23.3% of margin)]
+- Portfolio equity: $9,482.76 (-5.17%)
