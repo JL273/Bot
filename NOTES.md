@@ -1752,6 +1752,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-17
 
+### 12:51 UTC — Daily refresh (Job A)
+- Leaderboard: 40397 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+- #1 0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0 acc=$23,099,759 month=$4,176,527 edge=1323bps
+- #2 0xd7b19f8aaf5c9619bd5141945a73d2ca74984451 acc=$5,564,220 month=$1,189,639 edge=632bps
+- #3 0x88560b720239179d7f3f9e49ca934a4861593d7f acc=$22,443,924 month=$2,664,077 edge=766bps
+- #4 0x4fe260d11bf48ba3a94459771259c910a398ac59 acc=$1,470,561 month=$654,924 edge=242bps
+- #5 0xb0fbfefc6c325964d0ffc3f909bdda80b8421326 acc=$1,714,963 month=$409,004 edge=587bps
+- Current positions across the shortlist:
+-   0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0... 4 positions: SHORT LINK x10, SHORT HYPE x10, SHORT VVV x3, SHORT PAXG x10
+-   0xd7b19f8aaf5c9619bd5141945a73d2ca74984451... 1 positions: SHORT HYPE x10
+-   0x88560b720239179d7f3f9e49ca934a4861593d7f... 1 positions: SHORT HYPE x10
+-   0x4fe260d11bf48ba3a94459771259c910a398ac59... 1 positions: SHORT HYPE x10
+-   0xb0fbfefc6c325964d0ffc3f909bdda80b8421326... 12 positions: SHORT ETH x25, SHORT SOL x20, SHORT AAVE x10, SHORT ZRO x5, SHORT NEAR x10, SHORT JTO x5, SHORT ENA x5, SHORT MNT x5, SHORT HYPE x10, SHORT XPL x10, SHORT XMR x5, SHORT GRAM x5
 ### 10:11 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT LONG XMR [time-stop (6d open, flat)]
