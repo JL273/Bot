@@ -1752,6 +1752,19 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-17
 
+### 14:16 UTC — Position poll (Job B)
+- 3 signal(s) acted on, 7 skipped (confluence), 0 paused (daily profit limit):
+- NEW SHORT HYPE (0xd7b19f8aaf5c9619bd5141945a73d2ca74984451) [5/5 traders]
+- NEW SHORT HYPE (0x88560b720239179d7f3f9e49ca934a4861593d7f) [5/5 traders]
+- NEW SHORT HYPE (0x4fe260d11bf48ba3a94459771259c910a398ac59) [5/5 traders]
+- SKIPPED SHORT SOL (0xb0fbfefc6c325964d0ffc3f909bdda80b8421326) — only 1/5 traders
+- SKIPPED SHORT ENA (0xb0fbfefc6c325964d0ffc3f909bdda80b8421326) — only 1/5 traders
+- SKIPPED SHORT ZRO (0xb0fbfefc6c325964d0ffc3f909bdda80b8421326) — only 1/5 traders
+- SKIPPED SHORT JTO (0xb0fbfefc6c325964d0ffc3f909bdda80b8421326) — only 1/5 traders
+- SKIPPED SHORT AAVE (0xb0fbfefc6c325964d0ffc3f909bdda80b8421326) — only 1/5 traders
+- SKIPPED SHORT XMR (0xb0fbfefc6c325964d0ffc3f909bdda80b8421326) — only 1/5 traders
+- SKIPPED SHORT GRAM (0xb0fbfefc6c325964d0ffc3f909bdda80b8421326) — only 1/5 traders
+- Portfolio equity: $9,433.57 (-5.66%)
 ### 12:51 UTC — Daily refresh (Job A)
 - Leaderboard: 40397 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped

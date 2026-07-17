@@ -1,56 +1,126 @@
 {
-  "account_value": 223342.097929,
+  "account_value": 382223.802861,
   "positions": [
     {
       "coin": "ETH",
       "side": "SHORT",
-      "size": 123.09,
-      "entry_price": 1957.85,
-      "position_value_usd": 193534.407,
+      "size": 123.0,
+      "entry_price": 1572.6,
+      "position_value_usd": 225139.2,
       "leverage": 25,
-      "unrealized_pnl": 47457.656794,
-      "liquidation_price": 4958.3707703832
+      "unrealized_pnl": -31709.33939,
+      "liquidation_price": 11022.4846770285
+    },
+    {
+      "coin": "SOL",
+      "side": "SHORT",
+      "size": 2880.0,
+      "entry_price": 80.1037,
+      "position_value_usd": 214793.28,
+      "leverage": 20,
+      "unrealized_pnl": 15905.49915,
+      "liquidation_price": 465.2445987737
+    },
+    {
+      "coin": "AAVE",
+      "side": "SHORT",
+      "size": 550.0,
+      "entry_price": 85.9128,
+      "position_value_usd": 50336.0,
+      "leverage": 10,
+      "unrealized_pnl": -3083.94021,
+      "liquidation_price": 2088.4705516537
+    },
+    {
+      "coin": "ZRO",
+      "side": "SHORT",
+      "size": 138000.0,
+      "entry_price": 0.89951,
+      "position_value_usd": 109606.5,
+      "leverage": 5,
+      "unrealized_pnl": 14527.241621,
+      "liquidation_price": 8.39134449
     },
     {
       "coin": "NEAR",
       "side": "SHORT",
       "size": 100000.0,
-      "entry_price": 1.82848,
-      "position_value_usd": 183160.0,
+      "entry_price": 1.79094,
+      "position_value_usd": 194190.0,
       "leverage": 10,
-      "unrealized_pnl": -311.608516,
-      "liquidation_price": 5.8804312395
+      "unrealized_pnl": -15095.91028,
+      "liquidation_price": 12.9251280341
+    },
+    {
+      "coin": "JTO",
+      "side": "SHORT",
+      "size": 318000.0,
+      "entry_price": 0.727658,
+      "position_value_usd": 175125.78,
+      "leverage": 5,
+      "unrealized_pnl": 56269.77783,
+      "liquidation_price": 3.8475623258
+    },
+    {
+      "coin": "ENA",
+      "side": "SHORT",
+      "size": 1380000.0,
+      "entry_price": 0.071424,
+      "position_value_usd": 111713.76,
+      "leverage": 5,
+      "unrealized_pnl": -13148.353464,
+      "liquidation_price": 0.8768380894
     },
     {
       "coin": "MNT",
       "side": "SHORT",
       "size": 330000.0,
-      "entry_price": 0.6382,
-      "position_value_usd": 139467.9,
+      "entry_price": 0.40377,
+      "position_value_usd": 144480.6,
       "leverage": 5,
-      "unrealized_pnl": 71139.680253,
-      "liquidation_price": 1.5937795321
+      "unrealized_pnl": -11234.849763,
+      "liquidation_price": 3.6147867867
     },
     {
       "coin": "HYPE",
       "side": "SHORT",
-      "size": 16795.6,
-      "entry_price": 52.2554,
-      "position_value_usd": 1072483.038,
+      "size": 21800.0,
+      "entry_price": 65.3282,
+      "position_value_usd": 1322344.4,
       "leverage": 10,
-      "unrealized_pnl": -194821.745247,
-      "liquidation_price": 87.9614995565
+      "unrealized_pnl": 101811.79294,
+      "liquidation_price": 111.0397799729
     },
     {
       "coin": "XPL",
       "side": "SHORT",
       "size": 2000000.0,
-      "entry_price": 0.078595,
-      "position_value_usd": 195476.0,
+      "entry_price": 0.091448,
+      "position_value_usd": 173400.0,
       "leverage": 10,
-      "unrealized_pnl": -38285.281733,
-      "liquidation_price": 0.300179562
+      "unrealized_pnl": 9497.239735,
+      "liquidation_price": 0.6358614017
+    },
+    {
+      "coin": "XMR",
+      "side": "SHORT",
+      "size": 388.0,
+      "entry_price": 314.281,
+      "position_value_usd": 125909.88,
+      "leverage": 5,
+      "unrealized_pnl": -3968.85134,
+      "liquidation_price": 3026.5693804592
+    },
+    {
+      "coin": "GRAM",
+      "side": "SHORT",
+      "size": 168000.0,
+      "entry_price": 1.667168,
+      "position_value_usd": 258451.2,
+      "leverage": 5,
+      "unrealized_pnl": 21633.1195,
+      "liquidation_price": 7.7788704739
     }
   ],
-  "timestamp_ms": 1782743956407
+  "timestamp_ms": 1784297795021
 }
