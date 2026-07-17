@@ -1752,6 +1752,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-17
 
+### 10:11 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT LONG XMR [time-stop (6d open, flat)]
+- Portfolio equity: $9,437.31 (-5.63%)
 ### 00:10 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT LONG ZEC [SL hit (-23.3% of margin)]
