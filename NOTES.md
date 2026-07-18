@@ -1791,3 +1791,10 @@ _Auto-generated. Newest entry at top._
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT LONG ZEC [SL hit (-23.3% of margin)]
 - Portfolio equity: $9,482.76 (-5.17%)
+
+## 2026-07-18
+
+### 00:01 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT LONG AAVE [SL hit (-20.1% of margin)]
+- Portfolio equity: $9,496.71 (-5.03%)

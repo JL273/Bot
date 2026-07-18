@@ -4951,5 +4951,30 @@
     "pnl_pct": 0.5112945342530176,
     "total_slippage_bps": 4.99,
     "exit_reason": "time-stop (6d open, flat)"
+  },
+  {
+    "trader": "0x0748e296e5a350ec36c8487a1cea406e1b57d4b2",
+    "coin": "AAVE",
+    "side": "LONG",
+    "size": 11.726373308082703,
+    "entry_price": 96.45224305096843,
+    "entry_fee": 0.5655175042087908,
+    "entry_slippage_bps": 1.53,
+    "entry_fill_method": "book",
+    "leverage": 3,
+    "margin": 377.0116694725272,
+    "notional": 1131.0350084175816,
+    "opened_at": "2026-07-15T16:52:41.575847+00:00",
+    "exit_price": 89.976,
+    "exit_fee": 0.5275460823840247,
+    "total_fees": 1.0930635865928156,
+    "exit_slippage_bps": 0.06,
+    "exit_fill_method": "book",
+    "closed_at": "2026-07-18T00:01:18.770383+00:00",
+    "gross_pnl": -75.94284364953235,
+    "pnl": -77.03590723612517,
+    "pnl_pct": -20.433295166673553,
+    "total_slippage_bps": 1.59,
+    "exit_reason": "SL hit (-20.1% of margin)"
   }
 ]

@@ -5985,5 +5985,19 @@
     "leverage": 10,
     "unrealized_pnl": 183754.97785,
     "liquidation_price": 133.4847959956
+  },
+  {
+    "ts": "2026-07-18T00:01:18.770383+00:00",
+    "trader": "0x0748e296e5a350ec36c8487a1cea406e1b57d4b2",
+    "type": "CLOSED",
+    "coin": "AAVE",
+    "side": "LONG",
+    "size": 11.726373308082703,
+    "entry_price": 96.45224305096843,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -75.93698046287828,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-20.1% of margin)"
   }
 ]

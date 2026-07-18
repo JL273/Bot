@@ -1,5 +1,5 @@
 {
-  "cash": 6307.783130685726,
+  "cash": 6607.758892922128,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x94dac1facdc4afd2614c3119447187b4143bc449:ASTER:SHORT": {
@@ -82,20 +82,6 @@
       "margin": 156.40458827980927,
       "notional": 469.2137648394278,
       "opened_at": "2026-07-11T14:35:37.365670+00:00"
-    },
-    "0x0748e296e5a350ec36c8487a1cea406e1b57d4b2:AAVE:LONG": {
-      "trader": "0x0748e296e5a350ec36c8487a1cea406e1b57d4b2",
-      "coin": "AAVE",
-      "side": "LONG",
-      "size": 11.726373308082703,
-      "entry_price": 96.45224305096843,
-      "entry_fee": 0.5655175042087908,
-      "entry_slippage_bps": 1.53,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 377.0116694725272,
-      "notional": 1131.0350084175816,
-      "opened_at": "2026-07-15T16:52:41.575847+00:00"
     },
     "0x66466428990e0f42a4c54f64bee0db6bf2336de5:ETH:LONG": {
       "trader": "0x66466428990e0f42a4c54f64bee0db6bf2336de5",
@@ -18673,7 +18659,17 @@
       "ts": "2026-07-17T23:05:07.765691+00:00",
       "equity": 9501.400568555388,
       "cash": 6307.783130685726
+    },
+    {
+      "ts": "2026-07-18T00:01:20.192210+00:00",
+      "equity": 9497.809030876879,
+      "cash": 6307.783130685726
+    },
+    {
+      "ts": "2026-07-18T00:01:20.997451+00:00",
+      "equity": 9496.710104103633,
+      "cash": 6607.758892922128
     }
   ],
-  "last_processed_signal_index": 431
+  "last_processed_signal_index": 432
 }
