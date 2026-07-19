@@ -1819,6 +1819,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-19
 
+### 12:35 UTC — Position poll (Job B)
+- 0 signal(s) acted on, 2 skipped (confluence), 0 paused (daily profit limit):
+- SKIPPED SHORT ONDO (0xb0fbfefc6c325964d0ffc3f909bdda80b8421326) — only 1/5 traders
+- SKIPPED SHORT VVV (0xb0fbfefc6c325964d0ffc3f909bdda80b8421326) — only 1/5 traders
+- Portfolio equity: $9,447.67 (-5.52%)
 ### 10:44 UTC — Position poll (Job B)
 - 0 signal(s) acted on, 3 skipped (confluence), 0 paused (daily profit limit):
 - SKIPPED LONG ETH (0x9eec98d048d06d9cd75318fffa3f3960e081daab) — only 1/5 traders
