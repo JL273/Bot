@@ -1,56 +1,56 @@
 {
-  "account_value": 1030591.378102,
+  "account_value": 1018570.555761,
   "positions": [
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 11.76979,
       "entry_price": 95935.5,
-      "position_value_usd": 762988.40654,
+      "position_value_usd": 762270.44935,
       "leverage": 20,
-      "unrealized_pnl": 366152.471513,
-      "liquidation_price": 172447.919297636
+      "unrealized_pnl": 366870.428703,
+      "liquidation_price": 171300.0714015068
     },
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 1402.9221,
       "entry_price": 2198.3,
-      "position_value_usd": 2612802.11904,
+      "position_value_usd": 2610431.180691,
       "leverage": 20,
-      "unrealized_pnl": 471250.298366,
-      "liquidation_price": 2758.6532642874
+      "unrealized_pnl": 473621.236715,
+      "liquidation_price": 2747.9122179853
     },
     {
       "coin": "AAVE",
       "side": "SHORT",
       "size": 6401.64,
       "entry_price": 81.2821,
-      "position_value_usd": 575737.89504,
+      "position_value_usd": 575821.11636,
       "leverage": 10,
-      "unrealized_pnl": -55399.087018,
-      "liquidation_price": 280.7384434661
+      "unrealized_pnl": -55482.308338,
+      "liquidation_price": 278.8245754488
     },
     {
       "coin": "HYPE",
       "side": "SHORT",
       "size": 73449.88,
       "entry_price": 41.4261,
-      "position_value_usd": 4428440.16496,
+      "position_value_usd": 4449153.03112,
       "leverage": 10,
-      "unrealized_pnl": -1385691.126864,
-      "liquidation_price": 76.9216875392
+      "unrealized_pnl": -1406403.993024,
+      "liquidation_price": 77.0357483217
     },
     {
       "coin": "MON",
       "side": "SHORT",
       "size": 45436036.0,
       "entry_price": 0.018488,
-      "position_value_usd": 980237.040664,
+      "position_value_usd": 974784.716344,
       "leverage": 5,
-      "unrealized_pnl": -140207.94828,
-      "liquidation_price": 0.0472348689
+      "unrealized_pnl": -134755.62396,
+      "liquidation_price": 0.046855726
     }
   ],
-  "timestamp_ms": 1784418929146
+  "timestamp_ms": 1784424401382
 }
