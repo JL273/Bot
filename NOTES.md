@@ -1819,6 +1819,12 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-19
 
+### 10:44 UTC — Position poll (Job B)
+- 0 signal(s) acted on, 3 skipped (confluence), 0 paused (daily profit limit):
+- SKIPPED LONG ETH (0x9eec98d048d06d9cd75318fffa3f3960e081daab) — only 1/5 traders
+- SKIPPED LONG BTC (0x9eec98d048d06d9cd75318fffa3f3960e081daab) — only 1/5 traders
+- SKIPPED LONG FET (0x484bc1608211d0604bf70bae72792a56884562f8) — only 1/5 traders
+- Portfolio equity: $9,444.98 (-5.55%)
 ### 10:41 UTC — Daily refresh (Job A)
 - Leaderboard: 40636 traders fetched, 5 shortlisted
 - Shortlist change: +2 new, -2 dropped
