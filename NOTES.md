@@ -1847,6 +1847,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-20
 
+### 21:30 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT LONG ETH [time-stop (5d open, flat)]
+- Portfolio equity: $9,370.19 (-6.30%)
 ### 11:54 UTC — Daily refresh (Job A)
 - Leaderboard: 40647 traders fetched, 5 shortlisted
 - Shortlist change: +2 new, -2 dropped
