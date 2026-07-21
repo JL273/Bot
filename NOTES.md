@@ -1876,6 +1876,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-21
 
+### 17:40 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- CLOSED LONG HYPE (0x08c14b32c8a48894e4b933090ebcc9ce33b21135)
+- Portfolio equity: $9,562.65 (-4.37%)
 ### 11:19 UTC — Position poll (Job B)
 - 4 signal(s) acted on, 13 skipped (confluence), 0 paused (daily profit limit):
 - NEW LONG BTC (0x15a4f009bb324a3fb9e36137136b201e3fe0dfdb) [2/5 traders]
