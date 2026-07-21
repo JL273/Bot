@@ -1876,6 +1876,26 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-21
 
+### 11:19 UTC — Position poll (Job B)
+- 4 signal(s) acted on, 13 skipped (confluence), 0 paused (daily profit limit):
+- NEW LONG BTC (0x15a4f009bb324a3fb9e36137136b201e3fe0dfdb) [2/5 traders]
+- NEW LONG ETH (0x15a4f009bb324a3fb9e36137136b201e3fe0dfdb) [2/5 traders]
+- NEW LONG XMR (0x08c14b32c8a48894e4b933090ebcc9ce33b21135) [2/5 traders]
+- NEW LONG XMR (0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9) [2/5 traders]
+- SKIPPED LONG VVV (0x5ad79acbe4a9961ca921e5f28687119913e3e9ba) — only 1/5 traders
+- SKIPPED SHORT BTC (0x08c14b32c8a48894e4b933090ebcc9ce33b21135) — only 1/5 traders
+- SKIPPED LONG AAVE (0x08c14b32c8a48894e4b933090ebcc9ce33b21135) — only 1/5 traders
+- SKIPPED LONG PUMP (0x08c14b32c8a48894e4b933090ebcc9ce33b21135) — only 1/5 traders
+- SKIPPED LONG ZRO (0x08c14b32c8a48894e4b933090ebcc9ce33b21135) — only 1/5 traders
+- SKIPPED LONG ETHFI (0x08c14b32c8a48894e4b933090ebcc9ce33b21135) — only 1/5 traders
+- SKIPPED LONG EIGEN (0x08c14b32c8a48894e4b933090ebcc9ce33b21135) — only 1/5 traders
+- SKIPPED LONG MEGA (0x08c14b32c8a48894e4b933090ebcc9ce33b21135) — only 1/5 traders
+- SKIPPED SHORT WLFI (0x08c14b32c8a48894e4b933090ebcc9ce33b21135) — only 1/5 traders
+- SKIPPED LONG LDO (0x08c14b32c8a48894e4b933090ebcc9ce33b21135) — only 1/5 traders
+- SKIPPED LONG ARB (0x08c14b32c8a48894e4b933090ebcc9ce33b21135) — only 1/5 traders
+- SKIPPED LONG HYPE (0x08c14b32c8a48894e4b933090ebcc9ce33b21135) — only 1/5 traders
+- SKIPPED LONG ENA (0x08c14b32c8a48894e4b933090ebcc9ce33b21135) — only 1/5 traders
+- Portfolio equity: $9,380.71 (-6.19%)
 ### 11:17 UTC — Daily refresh (Job A)
 - Leaderboard: 40849 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped
