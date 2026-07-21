@@ -1876,6 +1876,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-21
 
+### 11:17 UTC — Daily refresh (Job A)
+- Leaderboard: 40849 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+- #1 0x15a4f009bb324a3fb9e36137136b201e3fe0dfdb acc=$10,476,094 month=$5,476,094 edge=672bps
+- #2 0x9eec98d048d06d9cd75318fffa3f3960e081daab acc=$7,635,978 month=$2,631,471 edge=3661bps
+- #3 0x5ad79acbe4a9961ca921e5f28687119913e3e9ba acc=$119,490 month=$68,283 edge=33bps
+- #4 0x08c14b32c8a48894e4b933090ebcc9ce33b21135 acc=$3,567,751 month=$1,036,749 edge=1244bps
+- #5 0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9 acc=$18,318,676 month=$1,163,394 edge=661bps
+- Current positions across the shortlist:
+-   0x15a4f009bb324a3fb9e36137136b201e3fe0dfdb... 2 positions: LONG BTC x40, LONG ETH x20
+-   0x9eec98d048d06d9cd75318fffa3f3960e081daab... 2 positions: LONG BTC x20, LONG ETH x15
+-   0x5ad79acbe4a9961ca921e5f28687119913e3e9ba... 1 positions: LONG VVV x3
+-   0x08c14b32c8a48894e4b933090ebcc9ce33b21135... 13 positions: SHORT BTC x20, LONG ARB x10, LONG LDO x5, LONG AAVE x10, LONG ZRO x5, LONG ETHFI x5, LONG ENA x10, LONG EIGEN x5, LONG HYPE x10, LONG PUMP x5, SHORT WLFI x5, LONG MEGA x3, LONG XMR x5
+-   0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9... 1 positions: LONG XMR x3
 ### 06:42 UTC — Position poll (Job B)
 - 0 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
 - SKIPPED SHORT CASHCAT (0x45d26f28196d226497130c4bac709d808fed4029) — only 1/5 traders
