@@ -1918,3 +1918,20 @@ _Auto-generated. Newest entry at top._
 - 0 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
 - SKIPPED SHORT CASHCAT (0x45d26f28196d226497130c4bac709d808fed4029) — only 1/5 traders
 - Portfolio equity: $9,354.39 (-6.46%)
+
+## 2026-07-22
+
+### 11:16 UTC — Daily refresh (Job A)
+- Leaderboard: 40728 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+- #1 0x88560b720239179d7f3f9e49ca934a4861593d7f acc=$22,470,199 month=$2,729,630 edge=892bps
+- #2 0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0 acc=$20,990,481 month=$2,788,499 edge=1038bps
+- #3 0xdbd1bac81ad581c7198c9d155ca468f32a0c29dd acc=$2,809,490 month=$545,809 edge=1039bps
+- #4 0x36ac01de9bc76c0d744b38c3e13a0538d55c7568 acc=$402,878 month=$68,280 edge=77bps
+- #5 0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9 acc=$18,473,047 month=$1,267,788 edge=711bps
+- Current positions across the shortlist:
+-   0x88560b720239179d7f3f9e49ca934a4861593d7f... 1 positions: SHORT HYPE x10
+-   0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0... 4 positions: SHORT LINK x10, SHORT HYPE x10, SHORT VVV x3, SHORT PAXG x10
+-   0xdbd1bac81ad581c7198c9d155ca468f32a0c29dd... 4 positions: SHORT ETH x6, SHORT LTC x10, SHORT BCH x5, SHORT ZEC x3
+-   0x36ac01de9bc76c0d744b38c3e13a0538d55c7568... 3 positions: SHORT PURR x3, SHORT HYPE x10, SHORT CASHCAT x3
+-   0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9... 1 positions: LONG XMR x3
