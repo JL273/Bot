@@ -1921,6 +1921,17 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-22
 
+### 12:16 UTC — Position poll (Job B)
+- 2 signal(s) acted on, 6 skipped (confluence), 0 paused (daily profit limit):
+- NEW SHORT HYPE (0x36ac01de9bc76c0d744b38c3e13a0538d55c7568) [3/5 traders]
+- EXIT SHORT HYPE [TP hit (+40.9% of margin)]
+- SKIPPED SHORT LTC (0xdbd1bac81ad581c7198c9d155ca468f32a0c29dd) — only 1/5 traders
+- SKIPPED SHORT ZEC (0xdbd1bac81ad581c7198c9d155ca468f32a0c29dd) — only 1/5 traders
+- SKIPPED SHORT BCH (0xdbd1bac81ad581c7198c9d155ca468f32a0c29dd) — only 1/5 traders
+- SKIPPED SHORT ETH (0xdbd1bac81ad581c7198c9d155ca468f32a0c29dd) — only 1/5 traders
+- SKIPPED SHORT CASHCAT (0x36ac01de9bc76c0d744b38c3e13a0538d55c7568) — only 1/5 traders
+- SKIPPED SHORT PURR (0x36ac01de9bc76c0d744b38c3e13a0538d55c7568) — only 1/5 traders
+- Portfolio equity: $9,714.89 (-2.85%)
 ### 11:16 UTC — Daily refresh (Job A)
 - Leaderboard: 40728 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped
