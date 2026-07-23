@@ -1949,6 +1949,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-23
 
+### 11:24 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- NEW LONG ETH (0xf929122994e177079c924631ba13fb280f5cd1f9) [3/5 traders]
+- Portfolio equity: $9,640.19 (-3.60%)
 ### 11:18 UTC — Daily refresh (Job A)
 - Leaderboard: 40824 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
