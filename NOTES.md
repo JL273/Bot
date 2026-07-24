@@ -1970,6 +1970,13 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-24
 
+### 12:05 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 3 skipped (confluence), 0 paused (daily profit limit):
+- NEW SHORT HYPE (0xf17de447fdfa1778db06111e3cbdc878332adab2) [4/5 traders]
+- SKIPPED LONG LIT (0xd21d931890d27b6e7e2e668f27931e17698e90f1) — only 1/5 traders
+- SKIPPED LONG HYPE (0xd21d931890d27b6e7e2e668f27931e17698e90f1) — only 1/5 traders
+- SKIPPED LONG VVV (0xd21d931890d27b6e7e2e668f27931e17698e90f1) — only 1/5 traders
+- Portfolio equity: $9,634.32 (-3.66%)
 ### 11:08 UTC — Daily refresh (Job A)
 - Leaderboard: 40824 traders fetched, 5 shortlisted
 - Shortlist change: +5 new, -5 dropped
