@@ -2008,3 +2008,20 @@ _Auto-generated. Newest entry at top._
 -   0x939f95036d2e7b6d7419ec072bf9d967352204d2... 2 positions: LONG BTC x40, SHORT HYPE x5
 -   0x4f7634c03ec4e87e14725c84913ade523c6fad5a... 3 positions: SHORT NEAR x3, SHORT HYPE x5, SHORT LIT x1
 -   0x1e771e1b95c86491299d6e2a5c3b3842d03b552e... 7 positions: SHORT DOGE x10, LONG TIA x5, LONG kBONK x10, LONG ENA x10, SHORT HYPE x4, LONG XPL x10, SHORT ZEC x10
+
+## 2026-07-26
+
+### 10:50 UTC — Daily refresh (Job A)
+- Leaderboard: 40871 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+- #1 0x1e771e1b95c86491299d6e2a5c3b3842d03b552e acc=$5,626,539 month=$721,316 edge=935bps
+- #2 0xf929122994e177079c924631ba13fb280f5cd1f9 acc=$4,689,998 month=$3,722,231 edge=547bps
+- #3 0x92ea19eceb7a8de0f50978a1583a5d8b018050e9 acc=$65,280,220 month=$3,947,669 edge=2714bps
+- #4 0x874226b22939904f436ff0434e1fd0ab257c8427 acc=$1,734,738 month=$385,054 edge=757bps
+- #5 0xc179e03922afe8fa9533d3f896338b9fb87ce0c8 acc=$6,451,891 month=$1,871,777 edge=1056bps
+- Current positions across the shortlist:
+-   0x1e771e1b95c86491299d6e2a5c3b3842d03b552e... 7 positions: SHORT DOGE x10, LONG TIA x5, LONG kBONK x10, LONG ENA x10, SHORT HYPE x4, LONG XPL x10, SHORT ZEC x10
+-   0xf929122994e177079c924631ba13fb280f5cd1f9... 1 positions: LONG ETH x20
+-   0x92ea19eceb7a8de0f50978a1583a5d8b018050e9... 2 positions: LONG BTC x5, SHORT ZEC x2
+-   0x874226b22939904f436ff0434e1fd0ab257c8427... 1 positions: LONG VVV x3
+-   0xc179e03922afe8fa9533d3f896338b9fb87ce0c8... 3 positions: LONG ETH x5, LONG HYPE x4, LONG XMR x4
