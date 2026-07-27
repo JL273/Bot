@@ -2039,6 +2039,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-27
 
+### 12:34 UTC — Daily refresh (Job A)
+- Leaderboard: 40995 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+- #1 0x66466428990e0f42a4c54f64bee0db6bf2336de5 acc=$5,475,915 month=$4,049,022 edge=2210bps
+- #2 0xec0b9ebf2a304c99cafe85c548c14dd7783cb078 acc=$6,635,233 month=$3,976,317 edge=6020bps
+- #3 0x92ea19eceb7a8de0f50978a1583a5d8b018050e9 acc=$65,847,768 month=$4,288,981 edge=2949bps
+- #4 0x15a4f009bb324a3fb9e36137136b201e3fe0dfdb acc=$9,248,509 month=$4,336,496 edge=514bps
+- #5 0xc26cbb6483229e0d0f9a1cab675271eda535b8f4 acc=$24,240,165 month=$4,165,663 edge=2642bps
+- Current positions across the shortlist:
+-   0x66466428990e0f42a4c54f64bee0db6bf2336de5... 2 positions: LONG BTC x29, LONG ETH x25
+-   0xec0b9ebf2a304c99cafe85c548c14dd7783cb078... 10 positions: LONG BTC x40, LONG ETH x25, LONG DOGE x10, LONG CRV x10, LONG XRP x20, LONG BCH x10, LONG WLD x10, LONG NEAR x10, LONG WIF x5, LONG ENA x10
+-   0x92ea19eceb7a8de0f50978a1583a5d8b018050e9... 2 positions: LONG BTC x5, SHORT ZEC x2
+-   0x15a4f009bb324a3fb9e36137136b201e3fe0dfdb... 2 positions: LONG BTC x40, LONG ETH x20
+-   0xc26cbb6483229e0d0f9a1cab675271eda535b8f4... 4 positions: LONG BTC x2, LONG SOL x2, LONG LINK x2, LONG XRP x1
 ### 04:48 UTC — Position poll (Job B)
 - 3 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT HYPE [time-stop (9d open, flat)]
