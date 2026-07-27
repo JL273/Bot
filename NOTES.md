@@ -2036,3 +2036,12 @@ _Auto-generated. Newest entry at top._
 -   0x92ea19eceb7a8de0f50978a1583a5d8b018050e9... 2 positions: LONG BTC x5, SHORT ZEC x2
 -   0x874226b22939904f436ff0434e1fd0ab257c8427... 1 positions: LONG VVV x3
 -   0xc179e03922afe8fa9533d3f896338b9fb87ce0c8... 3 positions: LONG ETH x5, LONG HYPE x4, LONG XMR x4
+
+## 2026-07-27
+
+### 04:48 UTC — Position poll (Job B)
+- 3 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT HYPE [time-stop (9d open, flat)]
+- EXIT SHORT HYPE [time-stop (9d open, flat)]
+- EXIT SHORT HYPE [time-stop (9d open, flat)]
+- Portfolio equity: $9,585.11 (-4.15%)
