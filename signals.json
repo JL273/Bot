@@ -6304,5 +6304,33 @@
     "leverage": 1,
     "unrealized_pnl": -867037.8643,
     "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-07-27T16:09:32.452032+00:00",
+    "trader": "0x08c14b32c8a48894e4b933090ebcc9ce33b21135",
+    "type": "CLOSED",
+    "coin": "XMR",
+    "side": "LONG",
+    "size": 2.712551476447368,
+    "entry_price": 345.5,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -3.9874506703777053,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (6d open, flat)"
+  },
+  {
+    "ts": "2026-07-27T16:09:32.452032+00:00",
+    "trader": "0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9",
+    "type": "CLOSED",
+    "coin": "XMR",
+    "side": "LONG",
+    "size": 2.5767623425956696,
+    "entry_price": 345.49438442585074,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -3.773370643615837,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (6d open, flat)"
   }
 ]
