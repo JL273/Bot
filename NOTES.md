@@ -2039,6 +2039,23 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-27
 
+### 13:56 UTC — Position poll (Job B)
+- 5 signal(s) acted on, 9 skipped (confluence), 0 paused (daily profit limit):
+- NEW LONG ETH (0xec0b9ebf2a304c99cafe85c548c14dd7783cb078) [3/5 traders]
+- NEW LONG XRP (0xec0b9ebf2a304c99cafe85c548c14dd7783cb078) [2/5 traders]
+- NEW LONG BTC (0xec0b9ebf2a304c99cafe85c548c14dd7783cb078) [5/5 traders]
+- NEW LONG BTC (0xc26cbb6483229e0d0f9a1cab675271eda535b8f4) [5/5 traders]
+- NEW LONG XRP (0xc26cbb6483229e0d0f9a1cab675271eda535b8f4) [2/5 traders]
+- SKIPPED LONG WIF (0xec0b9ebf2a304c99cafe85c548c14dd7783cb078) — only 1/5 traders
+- SKIPPED LONG DOGE (0xec0b9ebf2a304c99cafe85c548c14dd7783cb078) — only 1/5 traders
+- SKIPPED LONG NEAR (0xec0b9ebf2a304c99cafe85c548c14dd7783cb078) — only 1/5 traders
+- SKIPPED LONG ENA (0xec0b9ebf2a304c99cafe85c548c14dd7783cb078) — only 1/5 traders
+- SKIPPED LONG CRV (0xec0b9ebf2a304c99cafe85c548c14dd7783cb078) — only 1/5 traders
+- SKIPPED LONG WLD (0xec0b9ebf2a304c99cafe85c548c14dd7783cb078) — only 1/5 traders
+- SKIPPED LONG BCH (0xec0b9ebf2a304c99cafe85c548c14dd7783cb078) — only 1/5 traders
+- SKIPPED LONG SOL (0xc26cbb6483229e0d0f9a1cab675271eda535b8f4) — only 1/5 traders
+- SKIPPED LONG LINK (0xc26cbb6483229e0d0f9a1cab675271eda535b8f4) — only 1/5 traders
+- Portfolio equity: $9,615.37 (-3.85%)
 ### 12:34 UTC — Daily refresh (Job A)
 - Leaderboard: 40995 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped
