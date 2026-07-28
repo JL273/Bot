@@ -2084,6 +2084,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-28
 
+### 11:25 UTC — Daily refresh (Job A)
+- Leaderboard: 40782 traders fetched, 5 shortlisted
+- Shortlist change: +5 new, -5 dropped
+- #1 0x88560b720239179d7f3f9e49ca934a4861593d7f acc=$20,475,861 month=$3,343,679 edge=1631bps
+- #2 0x3e516cf3c9d4f29fae6c1324c2414dc872fc9c09 acc=$4,192,180 month=$2,154,211 edge=3626bps
+- #3 0x37b81ab9e3ab04b9e3738e4891621205aaa31fd5 acc=$7,665,637 month=$1,924,311 edge=1130bps
+- #4 0x4f7634c03ec4e87e14725c84913ade523c6fad5a acc=$5,037,387 month=$2,092,687 edge=1696bps
+- #5 0x77d0dce4286022ad5ebd171f6e3a5d6ac629f1ab acc=$1,614,835 month=$614,788 edge=715bps
+- Current positions across the shortlist:
+-   0x88560b720239179d7f3f9e49ca934a4861593d7f... 1 positions: SHORT HYPE x10
+-   0x3e516cf3c9d4f29fae6c1324c2414dc872fc9c09... 2 positions: LONG HYPE x5, SHORT CASHCAT x3
+-   0x37b81ab9e3ab04b9e3738e4891621205aaa31fd5... 1 positions: SHORT HYPE x10
+-   0x4f7634c03ec4e87e14725c84913ade523c6fad5a... 3 positions: SHORT NEAR x3, SHORT HYPE x5, SHORT LIT x1
+-   0x77d0dce4286022ad5ebd171f6e3a5d6ac629f1ab... 1 positions: SHORT HYPE x10
 ### 06:41 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT HYPE [TP hit (+40.2% of margin)]
