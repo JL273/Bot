@@ -2081,3 +2081,10 @@ _Auto-generated. Newest entry at top._
 - EXIT SHORT HYPE [time-stop (9d open, flat)]
 - EXIT SHORT HYPE [time-stop (9d open, flat)]
 - Portfolio equity: $9,585.11 (-4.15%)
+
+## 2026-07-28
+
+### 06:41 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT HYPE [TP hit (+40.2% of margin)]
+- Portfolio equity: $9,474.00 (-5.26%)
