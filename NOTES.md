@@ -2111,3 +2111,20 @@ _Auto-generated. Newest entry at top._
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT HYPE [TP hit (+40.2% of margin)]
 - Portfolio equity: $9,474.00 (-5.26%)
+
+## 2026-07-29
+
+### 11:31 UTC — Daily refresh (Job A)
+- Leaderboard: 40872 traders fetched, 5 shortlisted
+- Shortlist change: +3 new, -3 dropped
+- #1 0x88560b720239179d7f3f9e49ca934a4861593d7f acc=$20,486,262 month=$3,218,796 edge=1570bps
+- #2 0x939f95036d2e7b6d7419ec072bf9d967352204d2 acc=$16,767,324 month=$1,858,131 edge=1190bps
+- #3 0x92ea19eceb7a8de0f50978a1583a5d8b018050e9 acc=$66,044,133 month=$5,232,868 edge=5445bps
+- #4 0x4f7634c03ec4e87e14725c84913ade523c6fad5a acc=$5,152,597 month=$1,995,589 edge=1585bps
+- #5 0x9751cec58be43e0e27d57ba49ac3d68ec269a97e acc=$7,568,317 month=$2,305,414 edge=1974bps
+- Current positions across the shortlist:
+-   0x88560b720239179d7f3f9e49ca934a4861593d7f... 1 positions: SHORT HYPE x10
+-   0x939f95036d2e7b6d7419ec072bf9d967352204d2... 2 positions: LONG BTC x40, SHORT HYPE x5
+-   0x92ea19eceb7a8de0f50978a1583a5d8b018050e9... 2 positions: LONG BTC x5, SHORT ZEC x2
+-   0x4f7634c03ec4e87e14725c84913ade523c6fad5a... 3 positions: SHORT NEAR x3, SHORT HYPE x4, SHORT LIT x1
+-   0x9751cec58be43e0e27d57ba49ac3d68ec269a97e... 7 positions: SHORT BTC x2, SHORT ETH x2, SHORT SOL x2, SHORT HYPE x2, SHORT PAXG x2, SHORT PUMP x2, SHORT CASHCAT x3
