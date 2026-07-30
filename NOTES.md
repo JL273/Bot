@@ -2140,6 +2140,16 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-30
 
+### 12:16 UTC — Position poll (Job B)
+- 2 signal(s) acted on, 5 skipped (confluence), 0 paused (daily profit limit):
+- NEW SHORT HYPE (0xe187055ff406f8cdf59fbae53ec20d4ecd9b771d) [3/5 traders]
+- NEW LONG HYPE (0x07295d129f841f2854f9f298f137c2ffc5ccff34) [2/5 traders]
+- SKIPPED SHORT XRP (0xe187055ff406f8cdf59fbae53ec20d4ecd9b771d) — only 1/5 traders
+- SKIPPED SHORT LIT (0xe187055ff406f8cdf59fbae53ec20d4ecd9b771d) — only 1/5 traders
+- SKIPPED SHORT ASTER (0xe187055ff406f8cdf59fbae53ec20d4ecd9b771d) — only 1/5 traders
+- SKIPPED SHORT SPX (0xe187055ff406f8cdf59fbae53ec20d4ecd9b771d) — only 1/5 traders
+- SKIPPED SHORT BTC (0xe187055ff406f8cdf59fbae53ec20d4ecd9b771d) — only 1/5 traders
+- Portfolio equity: $9,756.43 (-2.44%)
 ### 11:17 UTC — Daily refresh (Job A)
 - Leaderboard: 40916 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
