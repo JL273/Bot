@@ -2171,6 +2171,21 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-07-31
 
+### 12:07 UTC — Position poll (Job B)
+- 3 signal(s) acted on, 9 skipped (confluence), 0 paused (daily profit limit):
+- NEW SHORT HYPE (0xc2db8ad66d5956e2889c23fb513b8459a0f206f9) [4/5 traders]
+- NEW SHORT BTC (0xc2db8ad66d5956e2889c23fb513b8459a0f206f9) [2/5 traders]
+- EXIT LONG ETH [time-stop (5d open, flat)]
+- SKIPPED SHORT WLFI (0x77fee2df7bad4f1db93052fa82bf78eaab771a16) — only 1/5 traders
+- SKIPPED SHORT HEMI (0x77fee2df7bad4f1db93052fa82bf78eaab771a16) — only 1/5 traders
+- SKIPPED SHORT XLM (0x77fee2df7bad4f1db93052fa82bf78eaab771a16) — only 1/5 traders
+- SKIPPED SHORT VVV (0x77fee2df7bad4f1db93052fa82bf78eaab771a16) — only 1/5 traders
+- SKIPPED SHORT HBAR (0x77fee2df7bad4f1db93052fa82bf78eaab771a16) — only 1/5 traders
+- SKIPPED SHORT AERO (0x77fee2df7bad4f1db93052fa82bf78eaab771a16) — only 1/5 traders
+- SKIPPED LONG EIGEN (0xc2db8ad66d5956e2889c23fb513b8459a0f206f9) — only 1/5 traders
+- SKIPPED LONG MON (0xc2db8ad66d5956e2889c23fb513b8459a0f206f9) — only 1/5 traders
+- SKIPPED LONG AR (0xc2db8ad66d5956e2889c23fb513b8459a0f206f9) — only 1/5 traders
+- Portfolio equity: $9,518.40 (-4.82%)
 ### 11:33 UTC — Daily refresh (Job A)
 - Leaderboard: 40980 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
