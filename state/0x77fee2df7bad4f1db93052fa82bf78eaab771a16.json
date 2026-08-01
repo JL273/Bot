@@ -1,66 +1,66 @@
 {
-  "account_value": 606602.089497,
+  "account_value": 612747.335623,
   "positions": [
     {
       "coin": "HBAR",
       "side": "SHORT",
       "size": 1582954.0,
       "entry_price": 0.073307,
-      "position_value_usd": 110300.23472,
+      "position_value_usd": 110589.915302,
       "leverage": 5,
-      "unrealized_pnl": 5741.712589,
-      "liquidation_price": 0.3333370937
+      "unrealized_pnl": 5452.032007,
+      "liquidation_price": 0.3370489751
     },
     {
       "coin": "XLM",
       "side": "SHORT",
       "size": 1474564.0,
       "entry_price": 0.206437,
-      "position_value_usd": 253978.90336,
+      "position_value_usd": 253625.008,
       "leverage": 5,
-      "unrealized_pnl": 50426.137887,
-      "liquidation_price": 0.4552775969
+      "unrealized_pnl": 50780.033247,
+      "liquidation_price": 0.458825874
     },
     {
       "coin": "VVV",
       "side": "SHORT",
       "size": 24593.21,
       "entry_price": 11.8789,
-      "position_value_usd": 291823.02986,
+      "position_value_usd": 292339.48727,
       "leverage": 3,
-      "unrealized_pnl": 319.329458,
-      "liquidation_price": 27.8666797293
+      "unrealized_pnl": -197.127952,
+      "liquidation_price": 28.1018385836
     },
     {
       "coin": "WLFI",
       "side": "SHORT",
       "size": 9275746.0,
       "entry_price": 0.058588,
-      "position_value_usd": 508552.050196,
+      "position_value_usd": 505945.56557,
       "leverage": 5,
-      "unrealized_pnl": 34896.323057,
-      "liquidation_price": 0.0998204458
+      "unrealized_pnl": 37502.807683,
+      "liquidation_price": 0.1001416677
     },
     {
       "coin": "HEMI",
       "side": "SHORT",
       "size": 13622301.0,
       "entry_price": 0.004844,
-      "position_value_usd": 63629.767971,
+      "position_value_usd": 64746.796653,
       "leverage": 3,
-      "unrealized_pnl": 2368.453759,
-      "liquidation_price": 0.033558049
+      "unrealized_pnl": 1251.425077,
+      "liquidation_price": 0.0340266837
     },
     {
       "coin": "AERO",
       "side": "SHORT",
       "size": 14064.0,
       "entry_price": 0.466067,
-      "position_value_usd": 5904.48912,
+      "position_value_usd": 5876.92368,
       "leverage": 3,
-      "unrealized_pnl": 650.286316,
-      "liquidation_price": 28.3996420538
+      "unrealized_pnl": 677.851756,
+      "liquidation_price": 28.7721739251
     }
   ],
-  "timestamp_ms": 1785546429147
+  "timestamp_ms": 1785558582100
 }
