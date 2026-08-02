@@ -6485,5 +6485,19 @@
     "unrealized_pnl": -2.899594942997386,
     "liquidation_price": 0,
     "exit_reason": "time-stop (5d open, flat)"
+  },
+  {
+    "ts": "2026-08-02T22:14:35.277583+00:00",
+    "trader": "0xc26cbb6483229e0d0f9a1cab675271eda535b8f4",
+    "type": "CLOSED",
+    "coin": "XRP",
+    "side": "LONG",
+    "size": 226.68100206416077,
+    "entry_price": 1.1077,
+    "position_value_usd": 0,
+    "leverage": 1,
+    "unrealized_pnl": -3.932915385813184,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (6d open, flat)"
   }
 ]
