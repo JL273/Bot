@@ -2220,6 +2220,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-02
 
+### 11:36 UTC — Position poll (Job B)
+- 0 signal(s) acted on, 2 skipped (confluence), 0 paused (daily profit limit):
+- SKIPPED SHORT ENA (0x5b53358eca5790fa4c268ad6813386b3a86549c7) — only 1/5 traders
+- SKIPPED LONG PUMP (0xfb8720d7b7d09b6fd44291a3bf1ed805e50b833b) — only 1/5 traders
+- Portfolio equity: $9,825.23 (-1.75%)
 ### 10:47 UTC — Daily refresh (Job A)
 - Leaderboard: 40964 traders fetched, 5 shortlisted
 - Shortlist change: +2 new, -2 dropped
