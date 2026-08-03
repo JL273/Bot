@@ -2243,3 +2243,20 @@ _Auto-generated. Newest entry at top._
 -   0x939f95036d2e7b6d7419ec072bf9d967352204d2... 2 positions: LONG BTC x40, SHORT HYPE x5
 -   0x5b53358eca5790fa4c268ad6813386b3a86549c7... 1 positions: SHORT ENA x10
 -   0xfb8720d7b7d09b6fd44291a3bf1ed805e50b833b... 1 positions: LONG PUMP x3
+
+## 2026-08-03
+
+### 12:34 UTC — Daily refresh (Job A)
+- Leaderboard: 41013 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+- #1 0x88560b720239179d7f3f9e49ca934a4861593d7f acc=$19,605,370 month=$5,685,618 edge=4427bps
+- #2 0x3e516cf3c9d4f29fae6c1324c2414dc872fc9c09 acc=$4,096,816 month=$1,490,990 edge=2437bps
+- #3 0x9751cec58be43e0e27d57ba49ac3d68ec269a97e acc=$7,710,694 month=$2,082,058 edge=1838bps
+- #4 0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0 acc=$25,578,534 month=$6,211,213 edge=2447bps
+- #5 0x89720b1831fd8457ea9026f5ffb476ed6d35e6bd acc=$3,480,053 month=$754,935 edge=1213bps
+- Current positions across the shortlist:
+-   0x88560b720239179d7f3f9e49ca934a4861593d7f... 1 positions: SHORT HYPE x10
+-   0x3e516cf3c9d4f29fae6c1324c2414dc872fc9c09... 2 positions: LONG HYPE x5, SHORT CASHCAT x3
+-   0x9751cec58be43e0e27d57ba49ac3d68ec269a97e... 7 positions: SHORT BTC x2, SHORT ETH x2, SHORT SOL x2, SHORT HYPE x2, SHORT PAXG x2, SHORT PUMP x2, SHORT CASHCAT x3
+-   0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0... 4 positions: SHORT LINK x10, SHORT HYPE x10, SHORT VVV x3, SHORT PAXG x10
+-   0x89720b1831fd8457ea9026f5ffb476ed6d35e6bd... 1 positions: SHORT HYPE x5
