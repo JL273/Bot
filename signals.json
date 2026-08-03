@@ -6513,5 +6513,47 @@
     "leverage": 5,
     "unrealized_pnl": 691706.481512,
     "liquidation_price": 101.8256714846
+  },
+  {
+    "ts": "2026-08-03T15:58:37.107070+00:00",
+    "trader": "0x37b81ab9e3ab04b9e3738e4891621205aaa31fd5",
+    "type": "CLOSED",
+    "coin": "HYPE",
+    "side": "SHORT",
+    "size": 16.075039840072215,
+    "entry_price": 54.35343732395502,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 1.1001327091249393,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (6d open, flat)"
+  },
+  {
+    "ts": "2026-08-03T15:58:37.107070+00:00",
+    "trader": "0x77d0dce4286022ad5ebd171f6e3a5d6ac629f1ab",
+    "type": "CLOSED",
+    "coin": "HYPE",
+    "side": "SHORT",
+    "size": 15.270075743395779,
+    "entry_price": 54.353460377546135,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 1.0453951505510037,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (6d open, flat)"
+  },
+  {
+    "ts": "2026-08-03T15:58:37.107070+00:00",
+    "trader": "0x9751cec58be43e0e27d57ba49ac3d68ec269a97e",
+    "type": "CLOSED",
+    "coin": "HYPE",
+    "side": "SHORT",
+    "size": 10.119268479568042,
+    "entry_price": 54.685,
+    "position_value_usd": 0,
+    "leverage": 2,
+    "unrealized_pnl": 4.047707391827275,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (5d open, flat)"
   }
 ]
