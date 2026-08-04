@@ -6555,5 +6555,32 @@
     "unrealized_pnl": 4.047707391827275,
     "liquidation_price": 0,
     "exit_reason": "time-stop (5d open, flat)"
+  },
+  {
+    "ts": "2026-08-04T11:48:28.451998+00:00",
+    "trader": "0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9",
+    "type": "CLOSED",
+    "coin": "XMR",
+    "side": "LONG",
+    "size": 2573.434,
+    "entry_price": 340.647,
+    "position_value_usd": 934645.49446,
+    "leverage": 3,
+    "unrealized_pnl": 58012.80409,
+    "liquidation_price": 216.3906504551
+  },
+  {
+    "ts": "2026-08-04T11:48:28.451998+00:00",
+    "trader": "0x8c830d21e41ad688dbf1727ae4425573849daf41",
+    "type": "NEW",
+    "confluence": 3,
+    "coin": "HYPE",
+    "side": "SHORT",
+    "size": 96755.8,
+    "entry_price": 63.6811,
+    "position_value_usd": 5360271.32,
+    "leverage": 10,
+    "unrealized_pnl": 801253.940911,
+    "liquidation_price": 90.3256424132
   }
 ]

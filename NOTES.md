@@ -2273,6 +2273,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-04
 
+### 11:48 UTC — Position poll (Job B)
+- 2 signal(s) acted on, 9 skipped (confluence), 0 paused (daily profit limit):
+- CLOSED LONG XMR (0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9)
+- NEW SHORT HYPE (0x8c830d21e41ad688dbf1727ae4425573849daf41) [3/5 traders]
+- SKIPPED SHORT XMR (0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9) — only 1/5 traders
+- SKIPPED SHORT KAITO (0x8787e15b3bd497ca6008a0bad0a5c9706cb4eeed) — only 1/5 traders
+- SKIPPED SHORT UNI (0x8787e15b3bd497ca6008a0bad0a5c9706cb4eeed) — only 1/5 traders
+- SKIPPED SHORT ETH (0x8787e15b3bd497ca6008a0bad0a5c9706cb4eeed) — only 1/5 traders
+- SKIPPED SHORT ONDO (0x8787e15b3bd497ca6008a0bad0a5c9706cb4eeed) — only 1/5 traders
+- SKIPPED SHORT LDO (0x8787e15b3bd497ca6008a0bad0a5c9706cb4eeed) — only 1/5 traders
+- SKIPPED SHORT XPL (0x8787e15b3bd497ca6008a0bad0a5c9706cb4eeed) — only 1/5 traders
+- SKIPPED SHORT BTC (0x8787e15b3bd497ca6008a0bad0a5c9706cb4eeed) — only 1/5 traders
+- SKIPPED SHORT LIT (0x8787e15b3bd497ca6008a0bad0a5c9706cb4eeed) — only 1/5 traders
+- Portfolio equity: $9,473.52 (-5.26%)
 ### 11:31 UTC — Daily refresh (Job A)
 - Leaderboard: 41187 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped
