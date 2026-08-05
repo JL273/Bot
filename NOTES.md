@@ -2304,6 +2304,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-05
 
+### 11:26 UTC — Daily refresh (Job A)
+- Leaderboard: 41296 traders fetched, 5 shortlisted
+- Shortlist change: +3 new, -3 dropped
+- #1 0xf02d16a272a842f8bac1d9a9e773aba1933454c6 acc=$23,305,592 month=$3,726,088 edge=193bps
+- #2 0xceec48581b3145a575508719f45da07dc57fa7ce acc=$12,911,424 month=$999,939 edge=1317bps
+- #3 0x88560b720239179d7f3f9e49ca934a4861593d7f acc=$19,621,846 month=$4,432,741 edge=4815bps
+- #4 0xf21d494bb47339f399267c5519cbe11da0753b2d acc=$857,198 month=$507,484 edge=266bps
+- #5 0x2462812f20b6e704fa0ac16c6e189103f267bb8f acc=$290,550 month=$130,471 edge=190bps
+- Current positions across the shortlist:
+-   0xf02d16a272a842f8bac1d9a9e773aba1933454c6... no open positions
+-   0xceec48581b3145a575508719f45da07dc57fa7ce... 1 positions: SHORT HYPE x5
+-   0x88560b720239179d7f3f9e49ca934a4861593d7f... 1 positions: SHORT HYPE x10
+-   0xf21d494bb47339f399267c5519cbe11da0753b2d... 4 positions: LONG UNI x10, LONG PUMP x5, LONG LIT x5, LONG CASHCAT x3
+-   0x2462812f20b6e704fa0ac16c6e189103f267bb8f... 6 positions: LONG ETH x20, LONG SOL x20, SHORT HYPE x10, LONG RESOLV x3, LONG PUMP x5, LONG ZEC x10
 ### 09:23 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT HYPE [SL hit (-23.4% of margin)]
