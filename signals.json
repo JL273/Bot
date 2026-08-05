@@ -6652,5 +6652,19 @@
     "leverage": 5,
     "unrealized_pnl": 37784.447294,
     "liquidation_price": 1.5809e-05
+  },
+  {
+    "ts": "2026-08-05T13:13:52.747881+00:00",
+    "trader": "0xc2db8ad66d5956e2889c23fb513b8459a0f206f9",
+    "type": "CLOSED",
+    "coin": "BTC",
+    "side": "SHORT",
+    "size": 0.011218275457338715,
+    "entry_price": 63719.00000000001,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -4.3470817397186705,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (5d open, flat)"
   }
 ]

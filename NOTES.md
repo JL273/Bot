@@ -2304,6 +2304,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-05
 
+### 13:13 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT BTC [time-stop (5d open, flat)]
+- Portfolio equity: $9,348.75 (-6.51%)
 ### 11:33 UTC — Position poll (Job B)
 - 3 signal(s) acted on, 7 skipped (confluence), 0 paused (daily profit limit):
 - NEW LONG PUMP (0xf21d494bb47339f399267c5519cbe11da0753b2d) [2/5 traders]
