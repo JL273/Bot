@@ -6680,5 +6680,19 @@
     "unrealized_pnl": -5.121458915047947,
     "liquidation_price": 0,
     "exit_reason": "time-stop (9d open, flat)"
+  },
+  {
+    "ts": "2026-08-05T19:58:44.233768+00:00",
+    "trader": "0xec0b9ebf2a304c99cafe85c548c14dd7783cb078",
+    "type": "CLOSED",
+    "coin": "BTC",
+    "side": "LONG",
+    "size": 0.012786207757464568,
+    "entry_price": 65287.0,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -5.40217277752878,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (9d open, flat)"
   }
 ]
