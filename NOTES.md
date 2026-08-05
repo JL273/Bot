@@ -2304,6 +2304,19 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-05
 
+### 11:33 UTC — Position poll (Job B)
+- 3 signal(s) acted on, 7 skipped (confluence), 0 paused (daily profit limit):
+- NEW LONG PUMP (0xf21d494bb47339f399267c5519cbe11da0753b2d) [2/5 traders]
+- NEW SHORT HYPE (0x2462812f20b6e704fa0ac16c6e189103f267bb8f) [3/5 traders]
+- NEW LONG PUMP (0x2462812f20b6e704fa0ac16c6e189103f267bb8f) [2/5 traders]
+- SKIPPED LONG UNI (0xf21d494bb47339f399267c5519cbe11da0753b2d) — only 1/5 traders
+- SKIPPED LONG CASHCAT (0xf21d494bb47339f399267c5519cbe11da0753b2d) — only 1/5 traders
+- SKIPPED LONG LIT (0xf21d494bb47339f399267c5519cbe11da0753b2d) — only 1/5 traders
+- SKIPPED LONG RESOLV (0x2462812f20b6e704fa0ac16c6e189103f267bb8f) — only 1/5 traders
+- SKIPPED LONG SOL (0x2462812f20b6e704fa0ac16c6e189103f267bb8f) — only 1/5 traders
+- SKIPPED LONG ZEC (0x2462812f20b6e704fa0ac16c6e189103f267bb8f) — only 1/5 traders
+- SKIPPED LONG ETH (0x2462812f20b6e704fa0ac16c6e189103f267bb8f) — only 1/5 traders
+- Portfolio equity: $9,315.98 (-6.84%)
 ### 11:26 UTC — Daily refresh (Job A)
 - Leaderboard: 41296 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
