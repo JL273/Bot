@@ -2301,3 +2301,10 @@ _Auto-generated. Newest entry at top._
 -   0x8787e15b3bd497ca6008a0bad0a5c9706cb4eeed... 8 positions: SHORT BTC x40, SHORT ETH x25, SHORT LDO x5, SHORT UNI x10, SHORT ONDO x10, SHORT KAITO x5, SHORT XPL x10, SHORT LIT x5
 -   0xceec48581b3145a575508719f45da07dc57fa7ce... 1 positions: SHORT HYPE x5
 -   0x8c830d21e41ad688dbf1727ae4425573849daf41... 1 positions: SHORT HYPE x10
+
+## 2026-08-05
+
+### 06:42 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT HYPE [SL hit (-22.1% of margin)]
+- Portfolio equity: $9,347.01 (-6.53%)

@@ -6582,5 +6582,19 @@
     "leverage": 10,
     "unrealized_pnl": 801253.940911,
     "liquidation_price": 90.3256424132
+  },
+  {
+    "ts": "2026-08-05T06:42:23.984066+00:00",
+    "trader": "0x89720b1831fd8457ea9026f5ffb476ed6d35e6bd",
+    "type": "CLOSED",
+    "coin": "HYPE",
+    "side": "SHORT",
+    "size": 14.19144271354193,
+    "entry_price": 53.07704227899954,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -55.53761105944631,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-22.1% of margin)"
   }
 ]
