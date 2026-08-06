@@ -6694,5 +6694,33 @@
     "unrealized_pnl": -5.40217277752878,
     "liquidation_price": 0,
     "exit_reason": "time-stop (9d open, flat)"
+  },
+  {
+    "ts": "2026-08-06T03:34:05.442972+00:00",
+    "trader": "0xf21d494bb47339f399267c5519cbe11da0753b2d",
+    "type": "CLOSED",
+    "coin": "PUMP",
+    "side": "LONG",
+    "size": 342729.6737480419,
+    "entry_price": 0.002509,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -63.404989643387694,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-22.1% of margin)"
+  },
+  {
+    "ts": "2026-08-06T03:34:05.442972+00:00",
+    "trader": "0x2462812f20b6e704fa0ac16c6e189103f267bb8f",
+    "type": "CLOSED",
+    "coin": "PUMP",
+    "side": "LONG",
+    "size": 309264.69350695313,
+    "entry_price": 0.0025089999999999995,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -57.21396829878614,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-22.1% of margin)"
   }
 ]

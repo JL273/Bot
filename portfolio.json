@@ -1,5 +1,5 @@
 {
-  "cash": 5677.8232903418675,
+  "cash": 6100.261742122078,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x94dac1facdc4afd2614c3119447187b4143bc449:ASTER:SHORT": {
@@ -167,20 +167,6 @@
       "notional": 842.7789024626347,
       "opened_at": "2026-08-04T11:48:28.451998+00:00"
     },
-    "0xf21d494bb47339f399267c5519cbe11da0753b2d:PUMP:LONG": {
-      "trader": "0xf21d494bb47339f399267c5519cbe11da0753b2d",
-      "coin": "PUMP",
-      "side": "LONG",
-      "size": 342729.6737480419,
-      "entry_price": 0.002509,
-      "entry_fee": 0.4299543757169186,
-      "entry_slippage_bps": 3.99,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 286.6362504779457,
-      "notional": 859.9087514338371,
-      "opened_at": "2026-08-05T11:33:11.690144+00:00"
-    },
     "0x2462812f20b6e704fa0ac16c6e189103f267bb8f:HYPE:SHORT": {
       "trader": "0x2462812f20b6e704fa0ac16c6e189103f267bb8f",
       "coin": "HYPE",
@@ -193,20 +179,6 @@
       "leverage": 3,
       "margin": 272.2829402352626,
       "notional": 816.8488207057877,
-      "opened_at": "2026-08-05T11:33:11.690144+00:00"
-    },
-    "0x2462812f20b6e704fa0ac16c6e189103f267bb8f:PUMP:LONG": {
-      "trader": "0x2462812f20b6e704fa0ac16c6e189103f267bb8f",
-      "coin": "PUMP",
-      "side": "LONG",
-      "size": 309264.69350695313,
-      "entry_price": 0.0025089999999999995,
-      "entry_fee": 0.38797255800447267,
-      "entry_slippage_bps": 3.99,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 258.6483720029818,
-      "notional": 775.9451160089453,
       "opened_at": "2026-08-05T11:33:11.690144+00:00"
     }
   },
@@ -20200,7 +20172,17 @@
       "ts": "2026-08-06T00:12:27.633393+00:00",
       "equity": 9326.727120379584,
       "cash": 5677.8232903418675
+    },
+    {
+      "ts": "2026-08-06T03:34:06.426974+00:00",
+      "equity": 9289.205431800912,
+      "cash": 5677.8232903418675
+    },
+    {
+      "ts": "2026-08-06T03:34:07.214963+00:00",
+      "equity": 9286.97821904237,
+      "cash": 6100.261742122078
     }
   ],
-  "last_processed_signal_index": 482
+  "last_processed_signal_index": 484
 }
