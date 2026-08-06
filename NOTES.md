@@ -2354,6 +2354,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-06
 
+### 11:30 UTC — Daily refresh (Job A)
+- Leaderboard: 41263 traders fetched, 5 shortlisted
+- Shortlist change: +3 new, -3 dropped
+- #1 0xf21d494bb47339f399267c5519cbe11da0753b2d acc=$943,010 month=$591,453 edge=310bps
+- #2 0x88560b720239179d7f3f9e49ca934a4861593d7f acc=$19,612,938 month=$5,005,640 edge=5929bps
+- #3 0x939f95036d2e7b6d7419ec072bf9d967352204d2 acc=$16,010,782 month=$3,927,454 edge=3607bps
+- #4 0x8c830d21e41ad688dbf1727ae4425573849daf41 acc=$5,157,890 month=$1,046,430 edge=1694bps
+- #5 0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9 acc=$22,573,768 month=$1,383,234 edge=1168bps
+- Current positions across the shortlist:
+-   0xf21d494bb47339f399267c5519cbe11da0753b2d... 4 positions: LONG UNI x10, LONG PUMP x5, LONG LIT x5, LONG CASHCAT x3
+-   0x88560b720239179d7f3f9e49ca934a4861593d7f... 1 positions: SHORT HYPE x10
+-   0x939f95036d2e7b6d7419ec072bf9d967352204d2... 2 positions: LONG BTC x40, SHORT HYPE x5
+-   0x8c830d21e41ad688dbf1727ae4425573849daf41... 1 positions: SHORT HYPE x10
+-   0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9... 1 positions: SHORT XMR x3
 ### 03:34 UTC — Position poll (Job B)
 - 2 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT LONG PUMP [SL hit (-22.1% of margin)]
