@@ -6750,5 +6750,18 @@
     "unrealized_pnl": -58.667174808569335,
     "liquidation_price": 0,
     "exit_reason": "SL hit (-20.0% of margin)"
+  },
+  {
+    "ts": "2026-08-07T10:29:21.757017+00:00",
+    "trader": "0x3e516cf3c9d4f29fae6c1324c2414dc872fc9c09",
+    "type": "CLOSED",
+    "coin": "CASHCAT",
+    "side": "SHORT",
+    "size": 1513718.0,
+    "entry_price": 0.198694,
+    "position_value_usd": 106197.913726,
+    "leverage": 3,
+    "unrealized_pnl": 194569.051574,
+    "liquidation_price": 0.2809258632
   }
 ]
