@@ -2377,3 +2377,10 @@ _Auto-generated. Newest entry at top._
 - EXIT LONG PUMP [SL hit (-22.1% of margin)]
 - EXIT LONG PUMP [SL hit (-22.1% of margin)]
 - Portfolio equity: $9,286.98 (-7.13%)
+
+## 2026-08-07
+
+### 00:26 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT LONG XRP [SL hit (-20.0% of margin)]
+- Portfolio equity: $9,332.86 (-6.67%)

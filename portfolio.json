@@ -1,5 +1,5 @@
 {
-  "cash": 6349.1352813770845,
+  "cash": 6582.504999185277,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x94dac1facdc4afd2614c3119447187b4143bc449:ASTER:SHORT": {
@@ -123,20 +123,6 @@
       "leverage": 3,
       "margin": 308.36748578321703,
       "notional": 925.1024573496511,
-      "opened_at": "2026-07-27T13:56:37.093794+00:00"
-    },
-    "0xec0b9ebf2a304c99cafe85c548c14dd7783cb078:XRP:LONG": {
-      "trader": "0xec0b9ebf2a304c99cafe85c548c14dd7783cb078",
-      "coin": "XRP",
-      "side": "LONG",
-      "size": 793.3356972085107,
-      "entry_price": 1.1077,
-      "entry_fee": 0.43938897589893366,
-      "entry_slippage_bps": 3.16,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 292.92598393262244,
-      "notional": 878.7779517978673,
       "opened_at": "2026-07-27T13:56:37.093794+00:00"
     },
     "0x8c830d21e41ad688dbf1727ae4425573849daf41:HYPE:SHORT": {
@@ -20198,7 +20184,17 @@
       "ts": "2026-08-06T15:24:08.850910+00:00",
       "equity": 9376.705864015385,
       "cash": 6349.1352813770845
+    },
+    {
+      "ts": "2026-08-07T00:26:30.648631+00:00",
+      "equity": 9333.749079801832,
+      "cash": 6349.1352813770845
+    },
+    {
+      "ts": "2026-08-07T00:26:31.454589+00:00",
+      "equity": 9332.859988485972,
+      "cash": 6582.504999185277
     }
   ],
-  "last_processed_signal_index": 485
+  "last_processed_signal_index": 486
 }
