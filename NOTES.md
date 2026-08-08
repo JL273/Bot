@@ -2405,6 +2405,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-08
 
+### 10:14 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- NEW LONG BTC (0x92b75a5bfb7be7911747276ad335b8f5da3ce0f4) [2/5 traders]
+- Portfolio equity: $9,428.42 (-5.72%)
 ### 09:50 UTC — Daily refresh (Job A)
 - Leaderboard: 41375 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped
