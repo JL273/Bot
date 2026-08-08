@@ -2402,3 +2402,20 @@ _Auto-generated. Newest entry at top._
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT LONG XRP [SL hit (-20.0% of margin)]
 - Portfolio equity: $9,332.86 (-6.67%)
+
+## 2026-08-08
+
+### 09:50 UTC — Daily refresh (Job A)
+- Leaderboard: 41375 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+- #1 0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9 acc=$24,132,817 month=$2,993,468 edge=3461bps
+- #2 0xc179e03922afe8fa9533d3f896338b9fb87ce0c8 acc=$6,392,616 month=$644,197 edge=378bps
+- #3 0x939f95036d2e7b6d7419ec072bf9d967352204d2 acc=$16,076,298 month=$3,506,987 edge=3565bps
+- #4 0x77fee2df7bad4f1db93052fa82bf78eaab771a16 acc=$803,165 month=$99,758 edge=86bps
+- #5 0x92b75a5bfb7be7911747276ad335b8f5da3ce0f4 acc=$2,785,969 month=$844,367 edge=604bps
+- Current positions across the shortlist:
+-   0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9... 1 positions: SHORT XMR x3
+-   0xc179e03922afe8fa9533d3f896338b9fb87ce0c8... 3 positions: LONG ETH x4, LONG HYPE x5, LONG XMR x4
+-   0x939f95036d2e7b6d7419ec072bf9d967352204d2... 2 positions: LONG BTC x40, SHORT HYPE x5
+-   0x77fee2df7bad4f1db93052fa82bf78eaab771a16... 6 positions: SHORT HBAR x5, SHORT XLM x5, SHORT VVV x3, SHORT WLFI x5, SHORT HEMI x3, SHORT AERO x3
+-   0x92b75a5bfb7be7911747276ad335b8f5da3ce0f4... 1 positions: LONG BTC x26
