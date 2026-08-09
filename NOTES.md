@@ -2426,6 +2426,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-09
 
+### 09:52 UTC — Daily refresh (Job A)
+- Leaderboard: 41392 traders fetched, 5 shortlisted
+- Shortlist change: +3 new, -3 dropped
+- #1 0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9 acc=$24,090,459 month=$3,375,548 edge=3935bps
+- #2 0xf02d16a272a842f8bac1d9a9e773aba1933454c6 acc=$21,831,117 month=$2,831,157 edge=171bps
+- #3 0xc179e03922afe8fa9533d3f896338b9fb87ce0c8 acc=$6,388,370 month=$822,989 edge=468bps
+- #4 0xf21d494bb47339f399267c5519cbe11da0753b2d acc=$976,955 month=$619,114 edge=331bps
+- #5 0xbbe9e1588a359337c3235de3b808da991cfc2efe acc=$557,479 month=$71,235 edge=133bps
+- Current positions across the shortlist:
+-   0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9... 1 positions: LONG XMR x3
+-   0xf02d16a272a842f8bac1d9a9e773aba1933454c6... no open positions
+-   0xc179e03922afe8fa9533d3f896338b9fb87ce0c8... 3 positions: LONG ETH x4, LONG HYPE x5, LONG XMR x4
+-   0xf21d494bb47339f399267c5519cbe11da0753b2d... 4 positions: LONG UNI x10, LONG PUMP x5, LONG LIT x5, LONG CASHCAT x3
+-   0xbbe9e1588a359337c3235de3b808da991cfc2efe... 3 positions: SHORT ADA x10, LONG HYPE x10, LONG LIT x5
 ### 06:24 UTC — Position poll (Job B)
 - 2 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - NEW LONG XMR (0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9) [2/5 traders]
