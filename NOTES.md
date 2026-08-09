@@ -2426,6 +2426,12 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-09
 
+### 10:04 UTC — Position poll (Job B)
+- 2 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
+- NEW LONG LIT (0xbbe9e1588a359337c3235de3b808da991cfc2efe) [2/5 traders]
+- NEW LONG HYPE (0xbbe9e1588a359337c3235de3b808da991cfc2efe) [2/5 traders]
+- SKIPPED SHORT ADA (0xbbe9e1588a359337c3235de3b808da991cfc2efe) — only 1/5 traders
+- Portfolio equity: $9,445.78 (-5.54%)
 ### 09:52 UTC — Daily refresh (Job A)
 - Leaderboard: 41392 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped

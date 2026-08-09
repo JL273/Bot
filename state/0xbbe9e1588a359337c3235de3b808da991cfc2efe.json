@@ -1,0 +1,36 @@
+{
+  "account_value": 165407.325069,
+  "positions": [
+    {
+      "coin": "ADA",
+      "side": "SHORT",
+      "size": 500000.0,
+      "entry_price": 0.18696,
+      "position_value_usd": 98195.0,
+      "leverage": 10,
+      "unrealized_pnl": -4715.0,
+      "liquidation_price": 0.2711638949
+    },
+    {
+      "coin": "HYPE",
+      "side": "LONG",
+      "size": 3000.0,
+      "entry_price": 61.6034,
+      "position_value_usd": 163416.0,
+      "leverage": 10,
+      "unrealized_pnl": -21394.48402,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "LIT",
+      "side": "LONG",
+      "size": 100000.0,
+      "entry_price": 2.422409,
+      "position_value_usd": 233930.0,
+      "leverage": 5,
+      "unrealized_pnl": -8310.9656,
+      "liquidation_price": 1.3927440105
+    }
+  ],
+  "timestamp_ms": 1786269896544
+}
