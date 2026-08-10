@@ -2461,3 +2461,20 @@ _Auto-generated. Newest entry at top._
 - NEW LONG XMR (0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9) [2/5 traders]
 - CLOSED SHORT XMR (0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9)
 - Portfolio equity: $9,423.54 (-5.76%)
+
+## 2026-08-10
+
+### 10:33 UTC — Daily refresh (Job A)
+- Leaderboard: 41466 traders fetched, 5 shortlisted
+- Shortlist change: +3 new, -3 dropped
+- #1 0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9 acc=$23,941,973 month=$3,708,306 edge=3954bps
+- #2 0xf21d494bb47339f399267c5519cbe11da0753b2d acc=$1,263,591 month=$813,010 edge=437bps
+- #3 0x939f95036d2e7b6d7419ec072bf9d967352204d2 acc=$16,078,112 month=$3,168,251 edge=3182bps
+- #4 0xcafe9392d902f6f517b1573371923ebf7ffa7b3b acc=$7,382,837 month=$3,549,195 edge=1612bps
+- #5 0x92b75a5bfb7be7911747276ad335b8f5da3ce0f4 acc=$2,820,445 month=$349,319 edge=250bps
+- Current positions across the shortlist:
+-   0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9... 1 positions: LONG XMR x3
+-   0xf21d494bb47339f399267c5519cbe11da0753b2d... 4 positions: LONG UNI x10, LONG PUMP x5, LONG LIT x5, LONG CASHCAT x3
+-   0x939f95036d2e7b6d7419ec072bf9d967352204d2... 2 positions: LONG BTC x40, SHORT HYPE x5
+-   0xcafe9392d902f6f517b1573371923ebf7ffa7b3b... 1 positions: SHORT MEGA x3
+-   0x92b75a5bfb7be7911747276ad335b8f5da3ce0f4... 1 positions: LONG BTC x26
