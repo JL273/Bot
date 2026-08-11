@@ -6886,5 +6886,31 @@
     "unrealized_pnl": 4.381378020815699,
     "liquidation_price": 0,
     "exit_reason": "time-stop (6d open, flat)"
+  },
+  {
+    "ts": "2026-08-11T10:23:42.047033+00:00",
+    "trader": "0x6bb971430554e3af58fbd469bce46ab2359a2d23",
+    "type": "CLOSED",
+    "coin": "HYPE",
+    "side": "SHORT",
+    "size": 35000.12,
+    "entry_price": 65.9737,
+    "position_value_usd": 2234197.66008,
+    "leverage": 10,
+    "unrealized_pnl": 74890.276499,
+    "liquidation_price": 153.917920529
+  },
+  {
+    "ts": "2026-08-11T10:23:42.047033+00:00",
+    "trader": "0x6bb971430554e3af58fbd469bce46ab2359a2d23",
+    "type": "CLOSED",
+    "coin": "ETH",
+    "side": "LONG",
+    "size": 593.5555,
+    "entry_price": 1736.44,
+    "position_value_usd": 1066737.9446,
+    "leverage": 25,
+    "unrealized_pnl": 36063.73845,
+    "liquidation_price": 0.0
   }
 ]
