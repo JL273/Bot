@@ -2507,6 +2507,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-12
 
+### 11:10 UTC — Position poll (Job B)
+- 0 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
+- SKIPPED SHORT ZEC (0xf93f055e03a8ba214eec82ab80b814e40dd93376) — only 1/5 traders
+- Portfolio equity: $9,407.18 (-5.93%)
 ### 10:17 UTC — Daily refresh (Job A)
 - Leaderboard: 41536 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped
