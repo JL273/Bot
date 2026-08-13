@@ -2529,3 +2529,20 @@ _Auto-generated. Newest entry at top._
 -   0x45d26f28196d226497130c4bac709d808fed4029... 45 positions: SHORT BTC x20, SHORT ETH x20, SHORT ATOM x5, SHORT SOL x20, SHORT AVAX x10, SHORT BNB x10, SHORT OP x5, SHORT ARB x10, SHORT DOGE x10, SHORT CRV x10, SHORT STX x5, SHORT XRP x20, SHORT TRX x10, SHORT kSHIB x10, SHORT UNI x10, SHORT SEI x5, SHORT ZRO x5, SHORT TIA x5, SHORT NEAR x10, SHORT FIL x5, SHORT kBONK x10, SHORT ONDO x10, SHORT TAO x5, SHORT kFLOKI x5, SHORT ENA x10, SHORT POL x5, SHORT MOODENG x3, SHORT GRASS x3, SHORT HYPE x10, SHORT VIRTUAL x5, SHORT PENGU x5, SHORT FARTCOIN x10, SHORT SPX x5, SHORT VVV x3, SHORT INIT x3, SHORT SYRUP x3, SHORT PUMP x3, SHORT XPL x5, SHORT ASTER x3, SHORT APEX x3, SHORT 2Z x3, SHORT MON x5, SHORT LIT x3, SHORT CHIP x3, SHORT CASHCAT x3
 -   0xd7b19f8aaf5c9619bd5141945a73d2ca74984451... 1 positions: SHORT HYPE x10
 -   0xf93f055e03a8ba214eec82ab80b814e40dd93376... 1 positions: SHORT ZEC x10
+
+## 2026-08-13
+
+### 10:19 UTC — Daily refresh (Job A)
+- Leaderboard: 41697 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+- #1 0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9 acc=$24,995,539 month=$4,388,515 edge=5229bps
+- #2 0xf21d494bb47339f399267c5519cbe11da0753b2d acc=$1,128,422 month=$772,664 edge=531bps
+- #3 0xbbe9e1588a359337c3235de3b808da991cfc2efe acc=$580,188 month=$117,768 edge=223bps
+- #4 0x95da8596c44dd09f4b8becce87ad3b7894fb2328 acc=$1,155,659 month=$127,692 edge=119bps
+- #5 0xaecfe4eff84a1cd9a24accc1914ac537af7f6e1b acc=$799,546 month=$824,527 edge=1273bps
+- Current positions across the shortlist:
+-   0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9... 1 positions: LONG XMR x3
+-   0xf21d494bb47339f399267c5519cbe11da0753b2d... 4 positions: LONG UNI x10, LONG PUMP x5, LONG LIT x5, LONG CASHCAT x3
+-   0xbbe9e1588a359337c3235de3b808da991cfc2efe... 3 positions: SHORT ADA x10, LONG HYPE x10, LONG LIT x5
+-   0x95da8596c44dd09f4b8becce87ad3b7894fb2328... 2 positions: LONG ETH x5, LONG SOL x5
+-   0xaecfe4eff84a1cd9a24accc1914ac537af7f6e1b... 2 positions: LONG PUMP x10, LONG GRAM x5
