@@ -1,5 +1,5 @@
 {
-  "cash": 6020.333823573991,
+  "cash": 5718.865607358524,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x94dac1facdc4afd2614c3119447187b4143bc449:ASTER:SHORT": {
@@ -180,6 +180,20 @@
       "margin": 287.4438713522124,
       "notional": 862.3316140566371,
       "opened_at": "2026-08-09T20:39:41.829007+00:00"
+    },
+    "0xaecfe4eff84a1cd9a24accc1914ac537af7f6e1b:PUMP:LONG": {
+      "trader": "0xaecfe4eff84a1cd9a24accc1914ac537af7f6e1b",
+      "coin": "PUMP",
+      "side": "LONG",
+      "size": 324604.6274392877,
+      "entry_price": 0.0027820000000000006,
+      "entry_fee": 0.4515250367680493,
+      "entry_slippage_bps": 3.6,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 301.01669117869955,
+      "notional": 903.0500735360986,
+      "opened_at": "2026-08-13T11:12:21.447852+00:00"
     }
   },
   "equity_history": [
@@ -21117,7 +21131,12 @@
       "ts": "2026-08-13T10:18:38.380148+00:00",
       "equity": 9362.932226638946,
       "cash": 6020.333823573991
+    },
+    {
+      "ts": "2026-08-13T11:12:23.252264+00:00",
+      "equity": 9362.867080630807,
+      "cash": 5718.865607358524
     }
   ],
-  "last_processed_signal_index": 499
+  "last_processed_signal_index": 500
 }

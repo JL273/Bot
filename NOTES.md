@@ -2532,6 +2532,13 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-13
 
+### 11:12 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 3 skipped (confluence), 0 paused (daily profit limit):
+- NEW LONG PUMP (0xaecfe4eff84a1cd9a24accc1914ac537af7f6e1b) [2/5 traders]
+- SKIPPED LONG ETH (0x95da8596c44dd09f4b8becce87ad3b7894fb2328) — only 1/5 traders
+- SKIPPED LONG SOL (0x95da8596c44dd09f4b8becce87ad3b7894fb2328) — only 1/5 traders
+- SKIPPED LONG GRAM (0xaecfe4eff84a1cd9a24accc1914ac537af7f6e1b) — only 1/5 traders
+- Portfolio equity: $9,362.87 (-6.37%)
 ### 10:19 UTC — Daily refresh (Job A)
 - Leaderboard: 41697 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped
