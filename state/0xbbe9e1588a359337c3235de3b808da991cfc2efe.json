@@ -1,24 +1,24 @@
 {
-  "account_value": 148558.373943,
+  "account_value": 143105.114931,
   "positions": [
     {
       "coin": "ADA",
       "side": "SHORT",
       "size": 325000.0,
       "entry_price": 0.18696,
-      "position_value_usd": 59296.25,
+      "position_value_usd": 59078.5,
       "leverage": 10,
-      "unrealized_pnl": 1465.75,
-      "liquidation_price": 0.2710532854
+      "unrealized_pnl": 1683.5,
+      "liquidation_price": 0.2710536825
     },
     {
       "coin": "HYPE",
       "side": "LONG",
       "size": 3000.0,
       "entry_price": 61.6034,
-      "position_value_usd": 172638.0,
+      "position_value_usd": 170478.0,
       "leverage": 10,
-      "unrealized_pnl": -12172.48402,
+      "unrealized_pnl": -14332.48402,
       "liquidation_price": 0.0
     },
     {
@@ -26,11 +26,11 @@
       "side": "LONG",
       "size": 100000.0,
       "entry_price": 2.422409,
-      "position_value_usd": 225580.0,
+      "position_value_usd": 222070.0,
       "leverage": 5,
-      "unrealized_pnl": -16660.9656,
-      "liquidation_price": 1.3941027121
+      "unrealized_pnl": -20170.9656,
+      "liquidation_price": 1.3940438313
     }
   ],
-  "timestamp_ms": 1786668075660
+  "timestamp_ms": 1786677058704
 }
