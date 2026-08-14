@@ -2565,6 +2565,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-14
 
+### 21:59 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT LONG XMR [time-stop (5d open, flat)]
+- Portfolio equity: $9,237.51 (-7.62%)
 ### 10:39 UTC — Position poll (Job B)
 - 14 signal(s) acted on, 7 skipped (confluence), 0 paused (daily profit limit):
 - NEW SHORT TAO (0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a) [2/5 traders]
