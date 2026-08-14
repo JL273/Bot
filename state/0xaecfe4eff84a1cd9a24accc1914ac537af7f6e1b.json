@@ -1,26 +1,26 @@
 {
-  "account_value": 750375.986365,
+  "account_value": 749012.351185,
   "positions": [
     {
       "coin": "PUMP",
       "side": "LONG",
       "size": 669702341.0,
       "entry_price": 0.00224,
-      "position_value_usd": 1934770.063149,
+      "position_value_usd": 1933430.658467,
       "leverage": 10,
-      "unrealized_pnl": 434623.062361,
-      "liquidation_price": 0.0018616194
+      "unrealized_pnl": 433283.657679,
+      "liquidation_price": 0.0018616575
     },
     {
       "coin": "GRAM",
       "side": "LONG",
       "size": 1.0,
       "entry_price": 1.362049,
-      "position_value_usd": 1.329,
+      "position_value_usd": 1.325,
       "leverage": 5,
-      "unrealized_pnl": -0.033049,
+      "unrealized_pnl": -0.037049,
       "liquidation_price": 0.0
     }
   ],
-  "timestamp_ms": 1786687946059
+  "timestamp_ms": 1786693693018
 }
