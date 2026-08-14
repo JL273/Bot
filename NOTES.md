@@ -2565,6 +2565,30 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-14
 
+### 10:39 UTC — Position poll (Job B)
+- 14 signal(s) acted on, 7 skipped (confluence), 0 paused (daily profit limit):
+- NEW SHORT TAO (0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a) [2/5 traders]
+- NEW SHORT HYPE (0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a) [4/5 traders]
+- NEW SHORT ZRO (0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a) [2/5 traders]
+- NEW SHORT ARB (0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a) [2/5 traders]
+- NEW SHORT ETH (0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a) [3/5 traders]
+- NEW SHORT XPL (0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a) [2/5 traders]
+- NEW SHORT BTC (0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a) [4/5 traders]
+- NEW SHORT OP (0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a) [2/5 traders]
+- NEW SHORT ENA (0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a) [2/5 traders]
+- NEW SHORT LIT (0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a) [3/5 traders]
+- NEW SHORT SOL (0xa8cde6a19789e4d7964ce0e3da14aa29291d7275) [2/5 traders]
+- NEW SHORT HYPE (0xa8cde6a19789e4d7964ce0e3da14aa29291d7275) [4/5 traders]
+- NEW SHORT BTC (0xa8cde6a19789e4d7964ce0e3da14aa29291d7275) [4/5 traders]
+- NEW SHORT ETH (0xa8cde6a19789e4d7964ce0e3da14aa29291d7275) [3/5 traders]
+- SKIPPED SHORT WLD (0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a) — only 1/5 traders
+- SKIPPED SHORT AZTEC (0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a) — only 1/5 traders
+- SKIPPED LONG LDO (0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a) — only 1/5 traders
+- SKIPPED SHORT STRK (0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a) — only 1/5 traders
+- SKIPPED LONG ZEC (0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a) — only 1/5 traders
+- SKIPPED SHORT TRUMP (0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a) — only 1/5 traders
+- SKIPPED SHORT ZEC (0xa8cde6a19789e4d7964ce0e3da14aa29291d7275) — only 1/5 traders
+- Portfolio equity: $9,237.78 (-7.62%)
 ### 10:13 UTC — Daily refresh (Job A)
 - Leaderboard: 41652 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped
