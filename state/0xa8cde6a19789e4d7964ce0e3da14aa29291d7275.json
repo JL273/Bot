@@ -1,56 +1,56 @@
 {
-  "account_value": 3592205.025325,
+  "account_value": 3605160.297321,
   "positions": [
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 235.82051,
       "entry_price": 63899.6,
-      "position_value_usd": 14837472.758435,
+      "position_value_usd": 14854333.9249,
       "leverage": 40,
-      "unrealized_pnl": 231369.993195,
-      "liquidation_price": 77953.1948743999
+      "unrealized_pnl": 214508.82673,
+      "liquidation_price": 77738.0819993902
     },
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 4998.8543,
       "entry_price": 1730.72,
-      "position_value_usd": 9385348.94825,
+      "position_value_usd": 9400545.465322,
       "leverage": 25,
-      "unrealized_pnl": -733722.96622,
-      "liquidation_price": 2581.5452525052
+      "unrealized_pnl": -748919.483292,
+      "liquidation_price": 2571.163734101
     },
     {
       "coin": "SOL",
       "side": "SHORT",
       "size": 24999.95,
       "entry_price": 74.2824,
-      "position_value_usd": 1872346.2553,
+      "position_value_usd": 1878021.24395,
       "leverage": 20,
-      "unrealized_pnl": -15289.83179,
-      "liquidation_price": 214.984349669
+      "unrealized_pnl": -20964.82044,
+      "liquidation_price": 212.5407468922
     },
     {
       "coin": "HYPE",
       "side": "SHORT",
       "size": 120001.31,
       "entry_price": 56.0168,
-      "position_value_usd": 6679632.91853,
+      "position_value_usd": 6685752.98534,
       "leverage": 10,
-      "unrealized_pnl": 42464.31167,
-      "liquidation_price": 84.1532289074
+      "unrealized_pnl": 36344.24486,
+      "liquidation_price": 83.6611073818
     },
     {
       "coin": "ZEC",
       "side": "SHORT",
       "size": 6615.69,
       "entry_price": 465.7971,
-      "position_value_usd": 3235337.0376,
+      "position_value_usd": 3259021.2078,
       "leverage": 10,
-      "unrealized_pnl": -153767.260317,
-      "liquidation_price": 1005.8212867719
+      "unrealized_pnl": -177451.430517,
+      "liquidation_price": 999.5496621403
     }
   ],
-  "timestamp_ms": 1786736221671
+  "timestamp_ms": 1786737978741
 }
