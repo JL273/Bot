@@ -1,44 +1,44 @@
 {
-  "account_value": 200244.162686,
+  "account_value": 200969.547146,
   "positions": [
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 21.10398,
       "entry_price": 65680.0,
-      "position_value_usd": 1329740.67582,
+      "position_value_usd": 1329297.49224,
       "leverage": 40,
-      "unrealized_pnl": 56369.31998,
-      "liquidation_price": 72224.1523370251
+      "unrealized_pnl": 56812.50356,
+      "liquidation_price": 72236.2674830547
     },
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 183.1181,
       "entry_price": 1922.81,
-      "position_value_usd": 344152.15714,
+      "position_value_usd": 344115.53352,
       "leverage": 25,
-      "unrealized_pnl": 7950.89654,
-      "liquidation_price": 2933.6181092806
+      "unrealized_pnl": 7987.52016,
+      "liquidation_price": 2937.2064988093
     },
     {
       "coin": "UNI",
       "side": "SHORT",
       "size": 7058.9,
       "entry_price": 3.54386,
-      "position_value_usd": 22998.60209,
+      "position_value_usd": 22980.24895,
       "leverage": 10,
-      "unrealized_pnl": 2017.16711,
-      "liquidation_price": 29.8246762709
+      "unrealized_pnl": 2035.52025,
+      "liquidation_price": 29.9175446929
     },
     {
       "coin": "ENA",
       "side": "LONG",
       "size": 1000285.0,
       "entry_price": 0.085821,
-      "position_value_usd": 84771.152895,
+      "position_value_usd": 84923.196215,
       "leverage": 10,
-      "unrealized_pnl": -1075.034606,
+      "unrealized_pnl": -922.991286,
       "liquidation_price": 0.0
     },
     {
@@ -46,11 +46,11 @@
       "side": "SHORT",
       "size": 22112.0,
       "entry_price": 2.272372,
-      "position_value_usd": 49816.1248,
+      "position_value_usd": 49740.944,
       "leverage": 3,
-      "unrealized_pnl": 430.5729,
-      "liquidation_price": 10.3483539494
+      "unrealized_pnl": 505.7537,
+      "liquidation_price": 10.3740453989
     }
   ],
-  "timestamp_ms": 1786793641431
+  "timestamp_ms": 1786794556194
 }
