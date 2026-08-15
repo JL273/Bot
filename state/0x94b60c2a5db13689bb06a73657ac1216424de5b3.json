@@ -1,44 +1,44 @@
 {
-  "account_value": 200100.277709,
+  "account_value": 200244.162686,
   "positions": [
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 21.10398,
       "entry_price": 65680.0,
-      "position_value_usd": 1329677.36388,
+      "position_value_usd": 1329740.67582,
       "leverage": 40,
-      "unrealized_pnl": 56432.63192,
-      "liquidation_price": 72211.3318270701
+      "unrealized_pnl": 56369.31998,
+      "liquidation_price": 72224.1523370251
     },
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 183.1181,
       "entry_price": 1922.81,
-      "position_value_usd": 344316.96343,
+      "position_value_usd": 344152.15714,
       "leverage": 25,
-      "unrealized_pnl": 7786.09025,
-      "liquidation_price": 2933.394637952
+      "unrealized_pnl": 7950.89654,
+      "liquidation_price": 2933.6181092806
     },
     {
       "coin": "UNI",
       "side": "SHORT",
       "size": 7058.9,
       "entry_price": 3.54386,
-      "position_value_usd": 23038.13193,
+      "position_value_usd": 22998.60209,
       "leverage": 10,
-      "unrealized_pnl": 1977.63727,
-      "liquidation_price": 29.8019644951
+      "unrealized_pnl": 2017.16711,
+      "liquidation_price": 29.8246762709
     },
     {
       "coin": "ENA",
       "side": "LONG",
       "size": 1000285.0,
       "entry_price": 0.085821,
-      "position_value_usd": 84820.16686,
+      "position_value_usd": 84771.152895,
       "leverage": 10,
-      "unrealized_pnl": -1026.020641,
+      "unrealized_pnl": -1075.034606,
       "liquidation_price": 0.0
     },
     {
@@ -46,11 +46,11 @@
       "side": "SHORT",
       "size": 22112.0,
       "entry_price": 2.272372,
-      "position_value_usd": 49867.999552,
+      "position_value_usd": 49816.1248,
       "leverage": 3,
-      "unrealized_pnl": 378.698148,
-      "liquidation_price": 10.3420726925
+      "unrealized_pnl": 430.5729,
+      "liquidation_price": 10.3483539494
     }
   ],
-  "timestamp_ms": 1786792498516
+  "timestamp_ms": 1786793641431
 }
