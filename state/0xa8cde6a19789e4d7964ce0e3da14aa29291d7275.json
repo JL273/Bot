@@ -1,56 +1,56 @@
 {
-  "account_value": 3614349.841493,
+  "account_value": 3609770.663634,
   "positions": [
     {
       "coin": "BTC",
       "side": "SHORT",
       "size": 235.82051,
       "entry_price": 63899.6,
-      "position_value_usd": 14855041.38643,
+      "position_value_usd": 14846787.66858,
       "leverage": 40,
-      "unrealized_pnl": 213801.3652,
-      "liquidation_price": 77710.9258025956
+      "unrealized_pnl": 222055.08305,
+      "liquidation_price": 77761.1708802105
     },
     {
       "coin": "ETH",
       "side": "SHORT",
       "size": 4998.8543,
       "entry_price": 1730.72,
-      "position_value_usd": 9390347.80255,
+      "position_value_usd": 9389098.088975,
       "leverage": 25,
-      "unrealized_pnl": -738721.82052,
-      "liquidation_price": 2567.7115785925
+      "unrealized_pnl": -737472.106945,
+      "liquidation_price": 2571.4534382673
     },
     {
       "coin": "SOL",
       "side": "SHORT",
       "size": 24999.95,
       "entry_price": 74.2824,
-      "position_value_usd": 1880196.2396,
+      "position_value_usd": 1880406.23918,
       "leverage": 20,
-      "unrealized_pnl": -23139.81609,
-      "liquidation_price": 212.3467573418
+      "unrealized_pnl": -23349.81567,
+      "liquidation_price": 213.1494543215
     },
     {
       "coin": "HYPE",
       "side": "SHORT",
       "size": 120001.31,
       "entry_price": 56.0168,
-      "position_value_usd": 6721009.370218,
+      "position_value_usd": 6716473.3207,
       "leverage": 10,
-      "unrealized_pnl": 1087.859982,
-      "liquidation_price": 83.8977624276
+      "unrealized_pnl": 5623.9095,
+      "liquidation_price": 84.0214989134
     },
     {
       "coin": "ZEC",
       "side": "SHORT",
       "size": 6615.69,
       "entry_price": 465.7971,
-      "position_value_usd": 3248303.79,
+      "position_value_usd": 3241886.5707,
       "leverage": 10,
-      "unrealized_pnl": -166734.012717,
-      "liquidation_price": 996.8931157844
+      "unrealized_pnl": -160316.793417,
+      "liquidation_price": 998.8532092295
     }
   ],
-  "timestamp_ms": 1786795212763
+  "timestamp_ms": 1786797561721
 }
