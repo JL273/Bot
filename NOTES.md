@@ -2639,6 +2639,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-16
 
+### 11:57 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT LONG LIT [time-stop (7d open, flat)]
+- Portfolio equity: $9,220.39 (-7.80%)
 ### 09:37 UTC — Daily refresh (Job A)
 - Leaderboard: 41797 traders fetched, 5 shortlisted
 - Shortlist change: +1 new, -1 dropped

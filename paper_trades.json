@@ -5751,5 +5751,30 @@
     "pnl_pct": -1.7556790288850068,
     "total_slippage_bps": 2.51,
     "exit_reason": "time-stop (5d open, flat)"
+  },
+  {
+    "trader": "0xbbe9e1588a359337c3235de3b808da991cfc2efe",
+    "coin": "LIT",
+    "side": "LONG",
+    "size": 380.7909481941615,
+    "entry_price": 2.3397770430195295,
+    "entry_fee": 0.445482959387169,
+    "entry_slippage_bps": 0.97,
+    "entry_fill_method": "book",
+    "leverage": 3,
+    "margin": 296.988639591446,
+    "notional": 890.965918774338,
+    "opened_at": "2026-08-09T10:04:55.926287+00:00",
+    "exit_price": 2.3243,
+    "exit_fee": 0.4425362004438448,
+    "total_fees": 0.8880191598310138,
+    "exit_slippage_bps": 0.43,
+    "exit_fill_method": "book",
+    "closed_at": "2026-08-16T11:57:09.947863+00:00",
+    "gross_pnl": -5.893517886648451,
+    "pnl": -6.781537046479465,
+    "pnl_pct": -2.283433149432424,
+    "total_slippage_bps": 1.4,
+    "exit_reason": "time-stop (7d open, flat)"
   }
 ]

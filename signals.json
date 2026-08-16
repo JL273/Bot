@@ -7232,5 +7232,19 @@
     "leverage": 10,
     "unrealized_pnl": 270.670017,
     "liquidation_price": 207.6957138685
+  },
+  {
+    "ts": "2026-08-16T11:57:09.947863+00:00",
+    "trader": "0xbbe9e1588a359337c3235de3b808da991cfc2efe",
+    "type": "CLOSED",
+    "coin": "LIT",
+    "side": "LONG",
+    "size": 380.7909481941615,
+    "entry_price": 2.3397770430195295,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -5.855438791829123,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (7d open, flat)"
   }
 ]
