@@ -2636,3 +2636,20 @@ _Auto-generated. Newest entry at top._
 -   0x07d431758c8bbbc111996d0af6f09c48416d2160... no open positions
 -   0xa8cde6a19789e4d7964ce0e3da14aa29291d7275... 5 positions: SHORT BTC x40, SHORT ETH x25, SHORT SOL x20, SHORT HYPE x10, SHORT ZEC x10
 -   0xceec48581b3145a575508719f45da07dc57fa7ce... 1 positions: SHORT HYPE x5
+
+## 2026-08-16
+
+### 09:37 UTC — Daily refresh (Job A)
+- Leaderboard: 41797 traders fetched, 5 shortlisted
+- Shortlist change: +1 new, -1 dropped
+- #1 0x07d431758c8bbbc111996d0af6f09c48416d2160 acc=$1,412,567 month=$81,289 edge=1bps
+- #2 0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9 acc=$25,468,505 month=$4,280,071 edge=6797bps
+- #3 0xceec48581b3145a575508719f45da07dc57fa7ce acc=$13,280,735 month=$356,341 edge=508bps
+- #4 0x94b60c2a5db13689bb06a73657ac1216424de5b3 acc=$502,834 month=$165,133 edge=200bps
+- #5 0xd7b19f8aaf5c9619bd5141945a73d2ca74984451 acc=$5,616,941 month=$446,616 edge=804bps
+- Current positions across the shortlist:
+-   0x07d431758c8bbbc111996d0af6f09c48416d2160... no open positions
+-   0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9... 1 positions: LONG XMR x3
+-   0xceec48581b3145a575508719f45da07dc57fa7ce... 1 positions: SHORT HYPE x5
+-   0x94b60c2a5db13689bb06a73657ac1216424de5b3... 4 positions: SHORT BTC x40, SHORT ETH x25, LONG ENA x10, SHORT LIT x3
+-   0xd7b19f8aaf5c9619bd5141945a73d2ca74984451... 1 positions: SHORT HYPE x10
