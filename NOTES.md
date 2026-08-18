@@ -2715,6 +2715,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-18
 
+### 14:47 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT LONG BTC [time-stop (10d open, flat)]
+- Portfolio equity: $9,191.49 (-8.09%)
 ### 12:54 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT LIT [SL hit (-21.1% of margin)]
