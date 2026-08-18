@@ -7342,5 +7342,72 @@
     "leverage": 3,
     "unrealized_pnl": 58220.032746,
     "liquidation_price": 8.791560784
+  },
+  {
+    "ts": "2026-08-18T10:02:30.696516+00:00",
+    "trader": "0x265eac78fb57495674227c93065d67abe6f97f70",
+    "type": "CLOSED",
+    "coin": "LDO",
+    "side": "LONG",
+    "size": 31814.6,
+    "entry_price": 0.31449,
+    "position_value_usd": 9833.256568,
+    "leverage": 5,
+    "unrealized_pnl": -172.186663,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-08-18T10:02:30.696516+00:00",
+    "trader": "0x265eac78fb57495674227c93065d67abe6f97f70",
+    "type": "CLOSED",
+    "coin": "HYPE",
+    "side": "LONG",
+    "size": 2999.53,
+    "entry_price": 67.2104,
+    "position_value_usd": 207858.43041,
+    "leverage": 3,
+    "unrealized_pnl": 6258.575043,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-08-18T10:02:30.696516+00:00",
+    "trader": "0x265eac78fb57495674227c93065d67abe6f97f70",
+    "type": "CLOSED",
+    "coin": "AERO",
+    "side": "LONG",
+    "size": 3618.0,
+    "entry_price": 0.552978,
+    "position_value_usd": 1910.08692,
+    "leverage": 3,
+    "unrealized_pnl": -90.58994,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-08-18T10:02:30.696516+00:00",
+    "trader": "0xe6e0e0dd371e4f9bd5218ab4bc0634d59705ae71",
+    "type": "NEW",
+    "confluence": 2,
+    "coin": "HYPE",
+    "side": "LONG",
+    "size": 35257.88,
+    "entry_price": 62.3539,
+    "position_value_usd": 2101228.61648,
+    "leverage": 10,
+    "unrealized_pnl": -97240.594276,
+    "liquidation_price": 35.6750144964
+  },
+  {
+    "ts": "2026-08-18T10:02:30.696516+00:00",
+    "trader": "0x7f47bf4025bd2178741058a10cd829e406ef4d0c",
+    "type": "NEW",
+    "confluence": 2,
+    "coin": "HYPE",
+    "side": "LONG",
+    "size": 9171.9,
+    "entry_price": 56.3778,
+    "position_value_usd": 546608.5524,
+    "leverage": 2,
+    "unrealized_pnl": 29516.41851,
+    "liquidation_price": 1.325126836
   }
 ]
