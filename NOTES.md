@@ -2715,6 +2715,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-18
 
+### 11:21 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT LONG PUMP [time-stop (5d open, flat)]
+- Portfolio equity: $9,207.62 (-7.92%)
 ### 10:02 UTC — Position poll (Job B)
 - 5 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
 - CLOSED LONG LDO (0x265eac78fb57495674227c93065d67abe6f97f70)

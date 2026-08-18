@@ -1,5 +1,5 @@
 {
-  "cash": 2305.276553388326,
+  "cash": 2610.812197380063,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x94dac1facdc4afd2614c3119447187b4143bc449:ASTER:SHORT": {
@@ -124,20 +124,6 @@
       "margin": 282.11693346390433,
       "notional": 846.3508003917129,
       "opened_at": "2026-08-09T10:04:55.926287+00:00"
-    },
-    "0xaecfe4eff84a1cd9a24accc1914ac537af7f6e1b:PUMP:LONG": {
-      "trader": "0xaecfe4eff84a1cd9a24accc1914ac537af7f6e1b",
-      "coin": "PUMP",
-      "side": "LONG",
-      "size": 324604.6274392877,
-      "entry_price": 0.0027820000000000006,
-      "entry_fee": 0.4515250367680493,
-      "entry_slippage_bps": 3.6,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 301.01669117869955,
-      "notional": 903.0500735360986,
-      "opened_at": "2026-08-13T11:12:21.447852+00:00"
     },
     "0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a:TAO:SHORT": {
       "trader": "0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a",
@@ -22582,7 +22568,17 @@
       "ts": "2026-08-18T10:58:15.453141+00:00",
       "equity": 9225.696934650963,
       "cash": 2305.276553388326
+    },
+    {
+      "ts": "2026-08-18T11:21:05.345915+00:00",
+      "equity": 9208.620301743224,
+      "cash": 2305.276553388326
+    },
+    {
+      "ts": "2026-08-18T11:21:06.425632+00:00",
+      "equity": 9207.620975889793,
+      "cash": 2610.812197380063
     }
   ],
-  "last_processed_signal_index": 534
+  "last_processed_signal_index": 535
 }
