@@ -2715,6 +2715,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-18
 
+### 12:54 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT LIT [SL hit (-21.1% of margin)]
+- Portfolio equity: $9,217.50 (-7.83%)
 ### 11:21 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT LONG PUMP [time-stop (5d open, flat)]
