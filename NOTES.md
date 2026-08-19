@@ -2758,6 +2758,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-19
 
+### 17:48 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- CLOSED SHORT BTC (0x4fe260d11bf48ba3a94459771259c910a398ac59)
+- Portfolio equity: $8,947.36 (-10.53%)
 ### 16:39 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT TAO [time-stop (5d open, flat)]
