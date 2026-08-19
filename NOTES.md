@@ -2758,6 +2758,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-19
 
+### 23:50 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- NEW LONG HYPE (0x95da8596c44dd09f4b8becce87ad3b7894fb2328) [2/5 traders]
+- Portfolio equity: $9,168.34 (-8.32%)
 ### 21:48 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT LONG HYPE [TP hit (+41.4% of margin)]
