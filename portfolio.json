@@ -1,5 +1,5 @@
 {
-  "cash": 3310.969711221296,
+  "cash": 3145.17290293189,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x94dac1facdc4afd2614c3119447187b4143bc449:ASTER:SHORT": {
@@ -404,6 +404,20 @@
       "margin": 121.336731058915,
       "notional": 242.67346211783,
       "opened_at": "2026-08-18T10:02:30.696516+00:00"
+    },
+    "0xf00bb08f7d1d04a9415408c939c02410fc6791b1:BTC:LONG": {
+      "trader": "0xf00bb08f7d1d04a9415408c939c02410fc6791b1",
+      "coin": "BTC",
+      "side": "LONG",
+      "size": 0.007714401539060787,
+      "entry_price": 64379.0,
+      "entry_fee": 0.24832272834159722,
+      "entry_slippage_bps": 0.08,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 165.5484855610648,
+      "notional": 496.6454566831944,
+      "opened_at": "2026-08-19T10:03:15.751885+00:00"
     }
   },
   "equity_history": [
@@ -22771,7 +22785,12 @@
       "ts": "2026-08-19T09:42:34.354619+00:00",
       "equity": 9143.27199591082,
       "cash": 3310.969711221296
+    },
+    {
+      "ts": "2026-08-19T10:03:17.586212+00:00",
+      "equity": 9144.096326647194,
+      "cash": 3145.17290293189
     }
   ],
-  "last_processed_signal_index": 539
+  "last_processed_signal_index": 541
 }
