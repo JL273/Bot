@@ -2758,6 +2758,15 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-19
 
+### 15:14 UTC — Position poll (Job B)
+- 6 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT ETH [SL hit (-22.0% of margin)]
+- EXIT SHORT SOL [SL hit (-23.3% of margin)]
+- EXIT SHORT ETH [SL hit (-22.0% of margin)]
+- EXIT SHORT ETH [SL hit (-21.6% of margin)]
+- EXIT SHORT SOL [SL hit (-24.0% of margin)]
+- EXIT SHORT SOL [SL hit (-24.0% of margin)]
+- Portfolio equity: $8,956.68 (-10.43%)
 ### 10:58 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT ENA [time-stop (5d open, flat)]
