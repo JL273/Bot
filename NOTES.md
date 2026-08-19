@@ -2758,6 +2758,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-19
 
+### 10:58 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT ENA [time-stop (5d open, flat)]
+- Portfolio equity: $9,127.90 (-8.72%)
 ### 10:03 UTC — Position poll (Job B)
 - 2 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - CLOSED SHORT HYPE (0x4fe260d11bf48ba3a94459771259c910a398ac59)

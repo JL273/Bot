@@ -1,5 +1,5 @@
 {
-  "cash": 3145.17290293189,
+  "cash": 3352.1525402030406,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x94dac1facdc4afd2614c3119447187b4143bc449:ASTER:SHORT": {
@@ -207,20 +207,6 @@
       "leverage": 3,
       "margin": 218.9419801291474,
       "notional": 656.8259403874422,
-      "opened_at": "2026-08-14T10:39:47.343141+00:00"
-    },
-    "0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a:ENA:SHORT": {
-      "trader": "0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a",
-      "coin": "ENA",
-      "side": "SHORT",
-      "size": 7398.241414169149,
-      "entry_price": 0.08433563417213946,
-      "entry_fee": 0.3119676907112705,
-      "entry_slippage_bps": 0.19,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 207.97846047418034,
-      "notional": 623.935381422541,
       "opened_at": "2026-08-14T10:39:47.343141+00:00"
     },
     "0xa8cde6a19789e4d7964ce0e3da14aa29291d7275:SOL:SHORT": {
@@ -22795,7 +22781,17 @@
       "ts": "2026-08-19T10:37:03.155152+00:00",
       "equity": 9137.449970210493,
       "cash": 3145.17290293189
+    },
+    {
+      "ts": "2026-08-19T10:58:13.470444+00:00",
+      "equity": 9128.575574445815,
+      "cash": 3145.17290293189
+    },
+    {
+      "ts": "2026-08-19T10:58:14.116944+00:00",
+      "equity": 9127.904980347836,
+      "cash": 3352.1525402030406
     }
   ],
-  "last_processed_signal_index": 541
+  "last_processed_signal_index": 542
 }
