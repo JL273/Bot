@@ -1,16 +1,26 @@
 {
-  "account_value": 738368.255702,
+  "account_value": 753631.673842,
   "positions": [
     {
       "coin": "SOL",
       "side": "LONG",
       "size": 15651.79,
       "entry_price": 77.1108,
-      "position_value_usd": 1286952.78096,
+      "position_value_usd": 1287985.7991,
       "leverage": 5,
-      "unrealized_pnl": 80029.599345,
+      "unrealized_pnl": 81062.617485,
       "liquidation_price": 48.148211455
+    },
+    {
+      "coin": "HYPE",
+      "side": "LONG",
+      "size": 1000.0,
+      "entry_price": 69.0,
+      "position_value_usd": 69572.0,
+      "leverage": 5,
+      "unrealized_pnl": 572.0,
+      "liquidation_price": 0.0
     }
   ],
-  "timestamp_ms": 1787166353994
+  "timestamp_ms": 1787168041126
 }

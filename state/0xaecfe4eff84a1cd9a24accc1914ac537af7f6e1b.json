@@ -1,26 +1,26 @@
 {
-  "account_value": 877871.340505,
+  "account_value": 821365.508525,
   "positions": [
+    {
+      "coin": "HYPE",
+      "side": "LONG",
+      "size": 24920.31,
+      "entry_price": 70.777,
+      "position_value_usd": 1733755.80732,
+      "leverage": 10,
+      "unrealized_pnl": -30030.1669,
+      "liquidation_price": 64.8907675834
+    },
     {
       "coin": "PUMP",
       "side": "LONG",
       "size": 669702341.0,
       "entry_price": 0.00224,
-      "position_value_usd": 2075407.554759,
+      "position_value_usd": 2071389.340713,
       "leverage": 10,
-      "unrealized_pnl": 575260.553971,
-      "liquidation_price": 0.0018822761
-    },
-    {
-      "coin": "GRAM",
-      "side": "LONG",
-      "size": 1.0,
-      "entry_price": 1.362049,
-      "position_value_usd": 1.3461,
-      "leverage": 5,
-      "unrealized_pnl": -0.015949,
-      "liquidation_price": 0.0
+      "unrealized_pnl": 571242.339925,
+      "liquidation_price": 0.0022752237
     }
   ],
-  "timestamp_ms": 1787166353726
+  "timestamp_ms": 1787168040925
 }
