@@ -1,5 +1,5 @@
 {
-  "cash": 6845.921644554065,
+  "cash": 7162.106273781863,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x94dac1facdc4afd2614c3119447187b4143bc449:ASTER:SHORT": {
@@ -54,20 +54,6 @@
       "margin": 308.36748578321703,
       "notional": 925.1024573496511,
       "opened_at": "2026-07-27T13:56:37.093794+00:00"
-    },
-    "0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a:TAO:SHORT": {
-      "trader": "0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a",
-      "coin": "TAO",
-      "side": "SHORT",
-      "size": 4.719373340680594,
-      "entry_price": 199.40715561104457,
-      "entry_fee": 0.47053840706585526,
-      "entry_slippage_bps": 0.64,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 313.69227137723686,
-      "notional": 941.0768141317105,
-      "opened_at": "2026-08-14T10:39:47.343141+00:00"
     },
     "0x6859da14835424957a1e6b397d8026b1d9ff7e1e:LIT:SHORT": {
       "trader": "0x6859da14835424957a1e6b397d8026b1d9ff7e1e",
@@ -22576,7 +22562,17 @@
       "ts": "2026-08-19T16:03:18.205920+00:00",
       "equity": 8986.453970417646,
       "cash": 6845.921644554065
+    },
+    {
+      "ts": "2026-08-19T16:39:22.804292+00:00",
+      "equity": 8973.361259685094,
+      "cash": 6845.921644554065
+    },
+    {
+      "ts": "2026-08-19T16:39:23.727374+00:00",
+      "equity": 8972.256720663441,
+      "cash": 7162.106273781863
     }
   ],
-  "last_processed_signal_index": 564
+  "last_processed_signal_index": 565
 }

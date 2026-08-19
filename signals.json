@@ -7825,5 +7825,19 @@
     "unrealized_pnl": 116.02519830234097,
     "liquidation_price": 0,
     "exit_reason": "TP hit (+41.1% of margin)"
+  },
+  {
+    "ts": "2026-08-19T16:39:21.546546+00:00",
+    "trader": "0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a",
+    "type": "CLOSED",
+    "coin": "TAO",
+    "side": "SHORT",
+    "size": 4.719373340680594,
+    "entry_price": 199.40715561104457,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 3.596896872213836,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (5d open, flat)"
   }
 ]
