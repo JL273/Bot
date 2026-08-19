@@ -2758,6 +2758,13 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-19
 
+### 21:27 UTC — Position poll (Job B)
+- 4 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- CLOSED LONG HYPE (0x95da8596c44dd09f4b8becce87ad3b7894fb2328)
+- NEW SHORT HYPE (0x4fe260d11bf48ba3a94459771259c910a398ac59) [2/5 traders]
+- EXIT LONG BTC [TP hit (+41.2% of margin)]
+- EXIT LONG ETH [TP hit (+47.4% of margin)]
+- Portfolio equity: $9,171.03 (-8.29%)
 ### 21:00 UTC — Position poll (Job B)
 - 0 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
 - SKIPPED SHORT BTC (0x4fe260d11bf48ba3a94459771259c910a398ac59) — only 1/5 traders
