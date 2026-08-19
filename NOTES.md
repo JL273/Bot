@@ -2758,6 +2758,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-19
 
+### 21:00 UTC — Position poll (Job B)
+- 0 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
+- SKIPPED SHORT BTC (0x4fe260d11bf48ba3a94459771259c910a398ac59) — only 1/5 traders
+- Portfolio equity: $9,118.49 (-8.82%)
 ### 19:34 UTC — Position poll (Job B)
 - 5 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - NEW LONG HYPE (0xaecfe4eff84a1cd9a24accc1914ac537af7f6e1b) [2/5 traders]
