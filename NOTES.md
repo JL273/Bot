@@ -2758,6 +2758,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-19
 
+### 09:45 UTC — Daily refresh (Job A)
+- Leaderboard: 41972 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+- #1 0xceec48581b3145a575508719f45da07dc57fa7ce acc=$13,425,454 month=$171,334 edge=255bps
+- #2 0xaecfe4eff84a1cd9a24accc1914ac537af7f6e1b acc=$803,424 month=$599,743 edge=1109bps
+- #3 0x95da8596c44dd09f4b8becce87ad3b7894fb2328 acc=$1,171,865 month=$98,158 edge=129bps
+- #4 0x4fe260d11bf48ba3a94459771259c910a398ac59 acc=$1,699,730 month=$162,922 edge=47bps
+- #5 0xf00bb08f7d1d04a9415408c939c02410fc6791b1 acc=$1,838,539 month=$146,382 edge=163bps
+- Current positions across the shortlist:
+-   0xceec48581b3145a575508719f45da07dc57fa7ce... 1 positions: SHORT HYPE x5
+-   0xaecfe4eff84a1cd9a24accc1914ac537af7f6e1b... 2 positions: LONG PUMP x10, LONG GRAM x5
+-   0x95da8596c44dd09f4b8becce87ad3b7894fb2328... 2 positions: LONG ETH x5, LONG SOL x5
+-   0x4fe260d11bf48ba3a94459771259c910a398ac59... 1 positions: LONG BTC x40
+-   0xf00bb08f7d1d04a9415408c939c02410fc6791b1... 1 positions: LONG BTC x20
 ### 07:23 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT ZRO [SL hit (-21.9% of margin)]
