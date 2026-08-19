@@ -1,5 +1,5 @@
 {
-  "cash": 3090.7724974590965,
+  "cash": 3310.969711221296,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x94dac1facdc4afd2614c3119447187b4143bc449:ASTER:SHORT": {
@@ -137,20 +137,6 @@
       "leverage": 3,
       "margin": 297.98413088802175,
       "notional": 893.9523926640652,
-      "opened_at": "2026-08-14T10:39:47.343141+00:00"
-    },
-    "0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a:ZRO:SHORT": {
-      "trader": "0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a",
-      "coin": "ZRO",
-      "side": "SHORT",
-      "size": 1088.4529432292213,
-      "entry_price": 0.7801786304900263,
-      "entry_fee": 0.42459386330070614,
-      "entry_slippage_bps": 2.84,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 283.0625755338041,
-      "notional": 849.1877266014122,
       "opened_at": "2026-08-14T10:39:47.343141+00:00"
     },
     "0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a:ARB:SHORT": {
@@ -22755,7 +22741,17 @@
       "ts": "2026-08-19T06:41:56.281893+00:00",
       "equity": 9186.546162640345,
       "cash": 3090.7724974590965
+    },
+    {
+      "ts": "2026-08-19T07:23:55.902156+00:00",
+      "equity": 9149.296724577916,
+      "cash": 3090.7724974590965
+    },
+    {
+      "ts": "2026-08-19T07:23:56.837621+00:00",
+      "equity": 9148.398479511512,
+      "cash": 3310.969711221296
     }
   ],
-  "last_processed_signal_index": 538
+  "last_processed_signal_index": 539
 }
