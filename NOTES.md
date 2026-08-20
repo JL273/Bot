@@ -2855,6 +2855,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-20
 
+### 23:29 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT LONG BTC [TP hit (+41.3% of margin)]
+- Portfolio equity: $9,266.64 (-7.33%)
 ### 10:01 UTC — Position poll (Job B)
 - 2 signal(s) acted on, 10 skipped (confluence), 0 paused (daily profit limit):
 - NEW LONG XMR (0x563bf0731cf71ad7cea05b9c48a802d8c53e7dc4) [3/5 traders]
