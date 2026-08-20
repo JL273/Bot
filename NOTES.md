@@ -2855,6 +2855,21 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-20
 
+### 10:01 UTC — Position poll (Job B)
+- 2 signal(s) acted on, 10 skipped (confluence), 0 paused (daily profit limit):
+- NEW LONG XMR (0x563bf0731cf71ad7cea05b9c48a802d8c53e7dc4) [3/5 traders]
+- NEW LONG HYPE (0x1b232b41b0e75550c59288b99874e4a8142fbe21) [2/5 traders]
+- SKIPPED LONG LIT (0x563bf0731cf71ad7cea05b9c48a802d8c53e7dc4) — only 1/5 traders
+- SKIPPED LONG MET (0x563bf0731cf71ad7cea05b9c48a802d8c53e7dc4) — only 1/5 traders
+- SKIPPED SHORT SUI (0x563bf0731cf71ad7cea05b9c48a802d8c53e7dc4) — only 1/5 traders
+- SKIPPED LONG JUP (0x563bf0731cf71ad7cea05b9c48a802d8c53e7dc4) — only 1/5 traders
+- SKIPPED LONG BTC (0x563bf0731cf71ad7cea05b9c48a802d8c53e7dc4) — only 1/5 traders
+- SKIPPED LONG JTO (0x563bf0731cf71ad7cea05b9c48a802d8c53e7dc4) — only 1/5 traders
+- SKIPPED LONG BNB (0x563bf0731cf71ad7cea05b9c48a802d8c53e7dc4) — only 1/5 traders
+- SKIPPED LONG ACE (0x563bf0731cf71ad7cea05b9c48a802d8c53e7dc4) — only 1/5 traders
+- SKIPPED LONG SOL (0x563bf0731cf71ad7cea05b9c48a802d8c53e7dc4) — only 1/5 traders
+- SKIPPED SHORT HYPE (0x7ea90af38397575a372e36bdc0f5970fb512fc7f) — only 1/5 traders
+- Portfolio equity: $9,225.93 (-7.74%)
 ### 09:46 UTC — Daily refresh (Job A)
 - Leaderboard: 42779 traders fetched, 5 shortlisted
 - Shortlist change: +5 new, -5 dropped
