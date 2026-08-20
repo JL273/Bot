@@ -2852,3 +2852,10 @@ _Auto-generated. Newest entry at top._
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT ZRO [SL hit (-21.9% of margin)]
 - Portfolio equity: $9,148.40 (-8.52%)
+
+## 2026-08-20
+
+### 04:06 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- CLOSED SHORT BTC (0x4fe260d11bf48ba3a94459771259c910a398ac59)
+- Portfolio equity: $9,170.44 (-8.30%)
