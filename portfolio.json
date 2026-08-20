@@ -1,18 +1,7 @@
 {
-  "cash": 7645.151030420162,
+  "cash": 7830.895327803013,
   "starting_cash": 10000.0,
   "open_positions": {
-    "0x94dac1facdc4afd2614c3119447187b4143bc449:ASTER:SHORT": {
-      "trader": "0x94dac1facdc4afd2614c3119447187b4143bc449",
-      "coin": "ASTER",
-      "side": "SHORT",
-      "size": 844.0284673317578,
-      "entry_price": 0.6706295175000001,
-      "leverage": 3,
-      "margin": 188.6768012676538,
-      "notional": 566.0304038029614,
-      "opened_at": "2026-06-18T08:05:21.071969+00:00"
-    },
     "0x15a4f009bb324a3fb9e36137136b201e3fe0dfdb:BTC:LONG": {
       "trader": "0x15a4f009bb324a3fb9e36137136b201e3fe0dfdb",
       "coin": "BTC",
@@ -22705,7 +22694,17 @@
       "ts": "2026-08-20T08:58:49.847703+00:00",
       "equity": 9234.295743056267,
       "cash": 7645.151030420162
+    },
+    {
+      "ts": "2026-08-20T09:32:01.308865+00:00",
+      "equity": 9232.749581814107,
+      "cash": 7645.151030420162
+    },
+    {
+      "ts": "2026-08-20T09:32:02.118534+00:00",
+      "equity": 9232.193425308578,
+      "cash": 7830.895327803013
     }
   ],
-  "last_processed_signal_index": 579
+  "last_processed_signal_index": 580
 }

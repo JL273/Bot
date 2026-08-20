@@ -2855,6 +2855,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-20
 
+### 09:32 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT ASTER [time-stop (63d open, flat)]
+- Portfolio equity: $9,232.19 (-7.68%)
 ### 08:19 UTC — Position poll (Job B)
 - 0 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
 - SKIPPED SHORT BTC (0x4fe260d11bf48ba3a94459771259c910a398ac59) — only 1/5 traders
