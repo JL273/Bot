@@ -8100,5 +8100,72 @@
     "unrealized_pnl": 140.15031252368337,
     "liquidation_price": 0,
     "exit_reason": "TP hit (+40.5% of margin)"
+  },
+  {
+    "ts": "2026-08-21T10:04:05.029466+00:00",
+    "trader": "0xda744273f80b22412417f7cfe0503f3d721f987d",
+    "type": "CLOSED",
+    "coin": "HYPE",
+    "side": "SHORT",
+    "size": 80000.0,
+    "entry_price": 69.4778,
+    "position_value_usd": 4900560.0,
+    "leverage": 10,
+    "unrealized_pnl": 657670.46127,
+    "liquidation_price": 105.7195320017
+  },
+  {
+    "ts": "2026-08-21T10:04:05.029466+00:00",
+    "trader": "0x8f78cb4c11dd66b99b2172b4c1ae05843bde87e7",
+    "type": "NEW",
+    "confluence": 3,
+    "coin": "BTC",
+    "side": "LONG",
+    "size": 126.36012,
+    "entry_price": 63683.6,
+    "position_value_usd": 9824372.96988,
+    "leverage": 20,
+    "unrealized_pnl": 1777296.54122,
+    "liquidation_price": 29932.1801235422
+  },
+  {
+    "ts": "2026-08-21T10:04:05.029466+00:00",
+    "trader": "0x8f78cb4c11dd66b99b2172b4c1ae05843bde87e7",
+    "type": "NEW",
+    "confluence": 2,
+    "coin": "SOL",
+    "side": "LONG",
+    "size": 157377.27,
+    "entry_price": 73.3127,
+    "position_value_usd": 14370275.90097,
+    "leverage": 20,
+    "unrealized_pnl": 2832519.46656,
+    "liquidation_price": 52.426080854
+  },
+  {
+    "ts": "2026-08-21T10:04:05.029466+00:00",
+    "trader": "0xea0027b6ea9b6d7d401b5266979cc3b3ca87a918",
+    "type": "CLOSED",
+    "coin": "LTC",
+    "side": "LONG",
+    "size": 15516.16,
+    "entry_price": 44.2456,
+    "position_value_usd": 690524.978176,
+    "leverage": 10,
+    "unrealized_pnl": 4002.643296,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-08-21T10:04:05.029466+00:00",
+    "trader": "0xea0027b6ea9b6d7d401b5266979cc3b3ca87a918",
+    "type": "CLOSED",
+    "coin": "SUI",
+    "side": "LONG",
+    "size": 1916331.0,
+    "entry_price": 0.72482,
+    "position_value_usd": 1419847.96452,
+    "leverage": 10,
+    "unrealized_pnl": 30843.489157,
+    "liquidation_price": 0.0
   }
 ]
