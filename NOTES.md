@@ -2907,6 +2907,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-21
 
+### 16:38 UTC — Position poll (Job B)
+- 0 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
+- SKIPPED SHORT ZEC (0x66466428990e0f42a4c54f64bee0db6bf2336de5) — only 1/5 traders
+- Portfolio equity: $9,314.27 (-6.86%)
 ### 13:12 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT HYPE [SL hit (-20.7% of margin)]
