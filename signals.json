@@ -8086,5 +8086,19 @@
     "unrealized_pnl": 68.4537420568559,
     "liquidation_price": 0,
     "exit_reason": "TP hit (+41.3% of margin)"
+  },
+  {
+    "ts": "2026-08-21T05:06:27.145270+00:00",
+    "trader": "0x15a4f009bb324a3fb9e36137136b201e3fe0dfdb",
+    "type": "CLOSED",
+    "coin": "BTC",
+    "side": "LONG",
+    "size": 0.015686419220290265,
+    "entry_price": 66210.0,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 140.15031252368337,
+    "liquidation_price": 0,
+    "exit_reason": "TP hit (+40.5% of margin)"
   }
 ]
