@@ -1,26 +1,26 @@
 {
-  "account_value": 1225850.008499,
+  "account_value": 1213902.327197,
   "positions": [
     {
       "coin": "BTC",
       "side": "LONG",
       "size": 70.0,
       "entry_price": 64968.1,
-      "position_value_usd": 5413940.0,
+      "position_value_usd": 5400990.0,
       "leverage": 20,
-      "unrealized_pnl": 866170.46695,
-      "liquidation_price": 3180.1785141844
+      "unrealized_pnl": 853220.46695,
+      "liquidation_price": 3146.4547795009
     },
     {
       "coin": "CASHCAT",
       "side": "SHORT",
       "size": 1000090.0,
       "entry_price": 0.198989,
-      "position_value_usd": 142122.7899,
+      "position_value_usd": 141112.699,
       "leverage": 3,
-      "unrealized_pnl": 56884.99345,
-      "liquidation_price": 0.5606820735
+      "unrealized_pnl": 57895.08435,
+      "liquidation_price": 0.5607333849
     }
   ],
-  "timestamp_ms": 1787320595659
+  "timestamp_ms": 1787322341657
 }
