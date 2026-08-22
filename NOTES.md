@@ -2946,6 +2946,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-22
 
+### 09:40 UTC — Position poll (Job B)
+- 0 signal(s) acted on, 2 skipped (confluence), 0 paused (daily profit limit):
+- SKIPPED LONG HYPE (0x0512aabfd51746c64202b3bd73a61af3a15c35e9) — only 1/5 traders
+- SKIPPED LONG XMR (0x55b80f17dba49f3803d16136e82d2adc5cdd2a10) — only 1/5 traders
+- Portfolio equity: $9,459.58 (-5.40%)
 ### 09:37 UTC — Daily refresh (Job A)
 - Leaderboard: 43277 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
