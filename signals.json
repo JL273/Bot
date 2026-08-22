@@ -8195,5 +8195,44 @@
     "unrealized_pnl": 161.3919009699152,
     "liquidation_price": 0,
     "exit_reason": "TP hit (+45.1% of margin)"
+  },
+  {
+    "ts": "2026-08-22T05:33:17.632632+00:00",
+    "trader": "0x8f78cb4c11dd66b99b2172b4c1ae05843bde87e7",
+    "type": "CLOSED",
+    "coin": "XRP",
+    "side": "LONG",
+    "size": 5537448.0,
+    "entry_price": 1.018568,
+    "position_value_usd": 9327831.156,
+    "leverage": 20,
+    "unrealized_pnl": 3687561.44301,
+    "liquidation_price": 0.1932285023
+  },
+  {
+    "ts": "2026-08-22T05:33:17.632632+00:00",
+    "trader": "0x8f78cb4c11dd66b99b2172b4c1ae05843bde87e7",
+    "type": "CLOSED",
+    "coin": "BTC",
+    "side": "LONG",
+    "size": 126.36012,
+    "entry_price": 63683.6,
+    "position_value_usd": 9932158.15224,
+    "leverage": 20,
+    "unrealized_pnl": 1885081.72358,
+    "liquidation_price": 14077.6170464085
+  },
+  {
+    "ts": "2026-08-22T05:33:17.632632+00:00",
+    "trader": "0x8f78cb4c11dd66b99b2172b4c1ae05843bde87e7",
+    "type": "CLOSED",
+    "coin": "SOL",
+    "side": "LONG",
+    "size": 157377.27,
+    "entry_price": 73.3127,
+    "position_value_usd": 15707982.69597,
+    "leverage": 20,
+    "unrealized_pnl": 4170226.26156,
+    "liquidation_price": 47.3393922984
   }
 ]
