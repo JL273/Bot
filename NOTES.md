@@ -2943,3 +2943,10 @@ _Auto-generated. Newest entry at top._
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT LONG BTC [TP hit (+40.5% of margin)]
 - Portfolio equity: $9,285.88 (-7.14%)
+
+## 2026-08-22
+
+### 02:43 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT LONG HYPE [TP hit (+45.1% of margin)]
+- Portfolio equity: $9,556.29 (-4.44%)
