@@ -2975,3 +2975,20 @@ _Auto-generated. Newest entry at top._
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT LONG HYPE [TP hit (+45.1% of margin)]
 - Portfolio equity: $9,556.29 (-4.44%)
+
+## 2026-08-23
+
+### 09:38 UTC — Daily refresh (Job A)
+- Leaderboard: 43417 traders fetched, 5 shortlisted
+- Shortlist change: +2 new, -2 dropped
+- #1 0x0512aabfd51746c64202b3bd73a61af3a15c35e9 acc=$363,236 month=$225,765 edge=432bps
+- #2 0x8f8d2d2565bfb10608a7ce64b48e2aea7875a344 acc=$6,951,002 month=$1,852,972 edge=2484bps
+- #3 0xc36af149b64a41aab6c26ea6b71c37082d9e105b acc=$7,107,630 month=$3,933,818 edge=6078bps
+- #4 0x55b80f17dba49f3803d16136e82d2adc5cdd2a10 acc=$8,575,594 month=$2,977,516 edge=1978bps
+- #5 0x265eac78fb57495674227c93065d67abe6f97f70 acc=$12,198,993 month=$2,863,186 edge=4454bps
+- Current positions across the shortlist:
+-   0x0512aabfd51746c64202b3bd73a61af3a15c35e9... 1 positions: LONG HYPE x10
+-   0x8f8d2d2565bfb10608a7ce64b48e2aea7875a344... no open positions
+-   0xc36af149b64a41aab6c26ea6b71c37082d9e105b... 1 positions: LONG PUMP x10
+-   0x55b80f17dba49f3803d16136e82d2adc5cdd2a10... 1 positions: LONG XMR x5
+-   0x265eac78fb57495674227c93065d67abe6f97f70... no open positions
