@@ -2978,6 +2978,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-23
 
+### 09:53 UTC — Position poll (Job B)
+- 0 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
+- SKIPPED LONG PUMP (0xc36af149b64a41aab6c26ea6b71c37082d9e105b) — only 1/5 traders
+- Portfolio equity: $9,518.55 (-4.81%)
 ### 09:38 UTC — Daily refresh (Job A)
 - Leaderboard: 43417 traders fetched, 5 shortlisted
 - Shortlist change: +2 new, -2 dropped
