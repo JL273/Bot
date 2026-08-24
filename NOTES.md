@@ -3003,6 +3003,13 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-24
 
+### 10:10 UTC — Position poll (Job B)
+- 2 signal(s) acted on, 2 skipped (confluence), 0 paused (daily profit limit):
+- CLOSED LONG XMR (0x08c14b32c8a48894e4b933090ebcc9ce33b21135)
+- CLOSED LONG PUMP (0x08c14b32c8a48894e4b933090ebcc9ce33b21135)
+- SKIPPED LONG ETH (0xbbcb0c0aef0b28125af2f719f81d6a5b76f56f30) — only 1/2 traders
+- SKIPPED SHORT HYPE (0xbbcb0c0aef0b28125af2f719f81d6a5b76f56f30) — only 1/2 traders
+- Portfolio equity: $9,523.81 (-4.76%)
 ### 09:58 UTC — Daily refresh (Job A)
 - Leaderboard: 43445 traders fetched, 2 shortlisted
 - Shortlist change: +2 new, -5 dropped
