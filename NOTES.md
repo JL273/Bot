@@ -3000,3 +3000,10 @@ _Auto-generated. Newest entry at top._
 -   0xc36af149b64a41aab6c26ea6b71c37082d9e105b... 1 positions: LONG PUMP x10
 -   0x55b80f17dba49f3803d16136e82d2adc5cdd2a10... 1 positions: LONG XMR x5
 -   0x265eac78fb57495674227c93065d67abe6f97f70... no open positions
+
+## 2026-08-24
+
+### 02:02 UTC — Position poll (Job B)
+- 0 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
+- SKIPPED SHORT BTC (0x8f8d2d2565bfb10608a7ce64b48e2aea7875a344) — only 1/5 traders
+- Portfolio equity: $9,508.39 (-4.92%)
