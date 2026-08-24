@@ -3003,6 +3003,14 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-24
 
+### 09:58 UTC — Daily refresh (Job A)
+- Leaderboard: 43445 traders fetched, 2 shortlisted
+- Shortlist change: +2 new, -5 dropped
+- #1 0x08c14b32c8a48894e4b933090ebcc9ce33b21135 acc=$6,394,735 month=$3,450,021 edge=6530bps
+- #2 0xbbcb0c0aef0b28125af2f719f81d6a5b76f56f30 acc=$7,103,015 month=$1,576,027 edge=2180bps
+- Current positions across the shortlist:
+-   0x08c14b32c8a48894e4b933090ebcc9ce33b21135... failed to fetch positions
+-   0xbbcb0c0aef0b28125af2f719f81d6a5b76f56f30... failed to fetch positions
 ### 04:02 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - CLOSED SHORT BTC (0x8f8d2d2565bfb10608a7ce64b48e2aea7875a344)
