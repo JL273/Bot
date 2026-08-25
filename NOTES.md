@@ -3026,3 +3026,20 @@ _Auto-generated. Newest entry at top._
 - 0 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
 - SKIPPED SHORT BTC (0x8f8d2d2565bfb10608a7ce64b48e2aea7875a344) — only 1/5 traders
 - Portfolio equity: $9,508.39 (-4.92%)
+
+## 2026-08-25
+
+### 09:48 UTC — Daily refresh (Job A)
+- Leaderboard: 43743 traders fetched, 5 shortlisted
+- Shortlist change: +5 new, -2 dropped
+- #1 0x55b80f17dba49f3803d16136e82d2adc5cdd2a10 acc=$8,887,930 month=$3,251,932 edge=2148bps
+- #2 0xa906355beaf1d69a5fe73ce55899c49c6e67916c acc=$22,122,263 month=$6,294,741 edge=11587bps
+- #3 0x8f8d2d2565bfb10608a7ce64b48e2aea7875a344 acc=$7,112,470 month=$1,997,152 edge=2427bps
+- #4 0xc46e57114835d392ce1aef7b3c884d953bffc761 acc=$807,248 month=$539,518 edge=478bps
+- #5 0xa2ce501d9c0c5e23d34272f84402cfb7835b3126 acc=$18,823,450 month=$15,218,260 edge=8149bps
+- Current positions across the shortlist:
+-   0x55b80f17dba49f3803d16136e82d2adc5cdd2a10... 1 positions: LONG XMR x5
+-   0xa906355beaf1d69a5fe73ce55899c49c6e67916c... 3 positions: LONG HYPE x2, LONG PUMP x2, LONG CASHCAT x3
+-   0x8f8d2d2565bfb10608a7ce64b48e2aea7875a344... no open positions
+-   0xc46e57114835d392ce1aef7b3c884d953bffc761... 1 positions: LONG HYPE x10
+-   0xa2ce501d9c0c5e23d34272f84402cfb7835b3126... 6 positions: LONG BTC x20, LONG ETH x10, LONG SOL x5, LONG SUI x10, LONG HYPE x5, LONG ZEC x10
