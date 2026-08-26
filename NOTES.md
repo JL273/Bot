@@ -3073,3 +3073,20 @@ _Auto-generated. Newest entry at top._
 -   0x8f8d2d2565bfb10608a7ce64b48e2aea7875a344... no open positions
 -   0xc46e57114835d392ce1aef7b3c884d953bffc761... 1 positions: LONG HYPE x10
 -   0xa2ce501d9c0c5e23d34272f84402cfb7835b3126... 6 positions: LONG BTC x20, LONG ETH x10, LONG SOL x5, LONG SUI x10, LONG HYPE x5, LONG ZEC x10
+
+## 2026-08-26
+
+### 09:53 UTC — Daily refresh (Job A)
+- Leaderboard: 43830 traders fetched, 5 shortlisted
+- Shortlist change: +3 new, -3 dropped
+- #1 0x55b80f17dba49f3803d16136e82d2adc5cdd2a10 acc=$8,867,142 month=$3,108,862 edge=2054bps
+- #2 0xa906355beaf1d69a5fe73ce55899c49c6e67916c acc=$22,353,062 month=$6,154,843 edge=10483bps
+- #3 0x08c14b32c8a48894e4b933090ebcc9ce33b21135 acc=$6,344,963 month=$2,974,705 edge=5630bps
+- #4 0x0512aabfd51746c64202b3bd73a61af3a15c35e9 acc=$390,675 month=$240,543 edge=478bps
+- #5 0x8a3cf3c4b300be69429cce5beb2ef14d7200b6b7 acc=$3,203,424 month=$1,860,339 edge=873bps
+- Current positions across the shortlist:
+-   0x55b80f17dba49f3803d16136e82d2adc5cdd2a10... 1 positions: LONG XMR x5
+-   0xa906355beaf1d69a5fe73ce55899c49c6e67916c... 1 positions: LONG CASHCAT x3
+-   0x08c14b32c8a48894e4b933090ebcc9ce33b21135... 10 positions: SHORT BTC x20, LONG ARB x10, LONG LDO x5, LONG AAVE x10, LONG ZRO x5, LONG ETHFI x5, LONG ENA x10, LONG EIGEN x5, SHORT WLFI x5, LONG MEGA x3
+-   0x0512aabfd51746c64202b3bd73a61af3a15c35e9... 1 positions: LONG HYPE x10
+-   0x8a3cf3c4b300be69429cce5beb2ef14d7200b6b7... 1 positions: LONG HYPE x10
