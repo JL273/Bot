@@ -3094,3 +3094,20 @@ _Auto-generated. Newest entry at top._
 -   0x08c14b32c8a48894e4b933090ebcc9ce33b21135... 10 positions: SHORT BTC x20, LONG ARB x10, LONG LDO x5, LONG AAVE x10, LONG ZRO x5, LONG ETHFI x5, LONG ENA x10, LONG EIGEN x5, SHORT WLFI x5, LONG MEGA x3
 -   0x0512aabfd51746c64202b3bd73a61af3a15c35e9... 1 positions: LONG HYPE x10
 -   0x8a3cf3c4b300be69429cce5beb2ef14d7200b6b7... 1 positions: LONG HYPE x10
+
+## 2026-08-27
+
+### 19:48 UTC — Daily refresh (Job A)
+- Leaderboard: 44143 traders fetched, 5 shortlisted
+- Shortlist change: +3 new, -3 dropped
+- #1 0xb14d1598dbfeaec11bae2a382b29adfcab9e8560 acc=$1,204,107 month=$974,907 edge=251bps
+- #2 0x563bf0731cf71ad7cea05b9c48a802d8c53e7dc4 acc=$3,496,101 month=$1,671,509 edge=203bps
+- #3 0xa906355beaf1d69a5fe73ce55899c49c6e67916c acc=$23,201,802 month=$7,820,633 edge=13320bps
+- #4 0x55b80f17dba49f3803d16136e82d2adc5cdd2a10 acc=$9,373,740 month=$3,877,084 edge=2561bps
+- #5 0x051c2e6d49cf82ebc47f08f9b85800f94fc9693c acc=$10,477,135 month=$4,258,502 edge=2419bps
+- Current positions across the shortlist:
+-   0xb14d1598dbfeaec11bae2a382b29adfcab9e8560... 3 positions: LONG BTC x40, LONG ETH x25, LONG PUMP x4
+-   0x563bf0731cf71ad7cea05b9c48a802d8c53e7dc4... 10 positions: LONG BTC x3, LONG SOL x7, LONG BNB x10, SHORT SUI x10, LONG JUP x10, LONG JTO x5, LONG ACE x3, LONG MET x3, LONG LIT x5, LONG XMR x5
+-   0xa906355beaf1d69a5fe73ce55899c49c6e67916c... 1 positions: LONG CASHCAT x3
+-   0x55b80f17dba49f3803d16136e82d2adc5cdd2a10... 1 positions: LONG XMR x5
+-   0x051c2e6d49cf82ebc47f08f9b85800f94fc9693c... 7 positions: LONG BTC x21, LONG ETH x8, LONG SOL x5, LONG AAVE x10, LONG NEAR x10, LONG ENA x6, LONG XPL x5
