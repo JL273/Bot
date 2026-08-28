@@ -6823,5 +6823,30 @@
     "pnl_pct": -0.22224324023589714,
     "total_slippage_bps": 1.18,
     "exit_reason": "trader"
+  },
+  {
+    "trader": "0x563bf0731cf71ad7cea05b9c48a802d8c53e7dc4",
+    "coin": "XMR",
+    "side": "LONG",
+    "size": 2.8031096985334734,
+    "entry_price": 419.04685349452984,
+    "entry_fee": 0.5873171495852261,
+    "entry_slippage_bps": 1.48,
+    "entry_fill_method": "book",
+    "leverage": 3,
+    "margin": 391.5447663901507,
+    "notional": 1174.634299170452,
+    "opened_at": "2026-08-20T10:01:38.365011+00:00",
+    "exit_price": 476.0406154243954,
+    "exit_fee": 0.667197032995983,
+    "total_fees": 1.2545141825812092,
+    "exit_slippage_bps": 1.35,
+    "exit_fill_method": "book",
+    "closed_at": "2026-08-28T15:37:45.623484+00:00",
+    "gross_pnl": 159.75976682151403,
+    "pnl": 158.50525263893283,
+    "pnl_pct": 40.482025618749276,
+    "total_slippage_bps": 2.83,
+    "exit_reason": "TP hit (+40.8% of margin)"
   }
 ]
