@@ -3111,3 +3111,16 @@ _Auto-generated. Newest entry at top._
 -   0xa906355beaf1d69a5fe73ce55899c49c6e67916c... 1 positions: LONG CASHCAT x3
 -   0x55b80f17dba49f3803d16136e82d2adc5cdd2a10... 1 positions: LONG XMR x5
 -   0x051c2e6d49cf82ebc47f08f9b85800f94fc9693c... 7 positions: LONG BTC x21, LONG ETH x8, LONG SOL x5, LONG AAVE x10, LONG NEAR x10, LONG ENA x6, LONG XPL x5
+
+## 2026-08-28
+
+### 03:35 UTC — Position poll (Job B)
+- 5 signal(s) acted on, 2 skipped (confluence), 0 paused (daily profit limit):
+- NEW LONG ETH (0xb14d1598dbfeaec11bae2a382b29adfcab9e8560) [2/5 traders]
+- NEW LONG BTC (0xb14d1598dbfeaec11bae2a382b29adfcab9e8560) [3/5 traders]
+- NEW LONG BTC (0x051c2e6d49cf82ebc47f08f9b85800f94fc9693c) [3/5 traders]
+- NEW LONG SOL (0x051c2e6d49cf82ebc47f08f9b85800f94fc9693c) [2/5 traders]
+- NEW LONG JTO (0x051c2e6d49cf82ebc47f08f9b85800f94fc9693c) [2/5 traders]
+- SKIPPED LONG PUMP (0xb14d1598dbfeaec11bae2a382b29adfcab9e8560) — only 1/5 traders
+- SKIPPED LONG ENA (0x051c2e6d49cf82ebc47f08f9b85800f94fc9693c) — only 1/5 traders
+- Portfolio equity: $9,753.17 (-2.47%)
