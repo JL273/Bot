@@ -3145,6 +3145,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-29
 
+### 14:25 UTC — Daily refresh (Job A)
+- Leaderboard: 44056 traders fetched, 5 shortlisted
+- Shortlist change: +3 new, -3 dropped
+- #1 0xd6e56265890b76413d1d527eb9b75e334c0c5b42 acc=$9,961,616 month=$245,764 edge=151bps
+- #2 0x265eac78fb57495674227c93065d67abe6f97f70 acc=$9,556,427 month=$3,998,423 edge=4953bps
+- #3 0xe867fbdad3291530e41530301ecb77693850c78e acc=$87,891,744 month=$28,431,772 edge=4593bps
+- #4 0x5f94a51948d2376ad34a6fadfa2544e651b74b96 acc=$15,103,828 month=$4,214,595 edge=4108bps
+- #5 0x0048d42f232164a85a41f15ccf26cf859e58b108 acc=$8,048,702 month=$3,313,764 edge=4840bps
+- Current positions across the shortlist:
+-   0xd6e56265890b76413d1d527eb9b75e334c0c5b42... 37 positions: SHORT ATOM x5, SHORT AVAX x10, SHORT OP x5, SHORT SUI x10, SHORT CRV x10, SHORT XRP x20, SHORT APT x10, SHORT WLD x10, SHORT SEI x5, SHORT ZRO x5, SHORT BLUR x3, SHORT TIA x5, SHORT ADA x10, SHORT MINA x3, SHORT NEAR x10, SHORT PYTH x5, SHORT XAI x3, SHORT ONDO x10, SHORT ZETA x3, SHORT W x5, SHORT TAO x5, SHORT MERL x3, SHORT GRASS x3, LONG HYPE x10, SHORT MORPHO x5, SHORT TRUMP x10, SHORT BERA x5, SHORT LAYER x3, SHORT KAITO x5, SHORT ZORA x3, SHORT ASTER x3, SHORT AVNT x5, SHORT STBL x3, SHORT HEMI x3, SHORT ICP x5, SHORT AERO x3, SHORT STABLE x3
+-   0x265eac78fb57495674227c93065d67abe6f97f70... 1 positions: SHORT BTC x20
+-   0xe867fbdad3291530e41530301ecb77693850c78e... no open positions
+-   0x5f94a51948d2376ad34a6fadfa2544e651b74b96... 18 positions: SHORT OP x5, SHORT SUI x10, LONG AAVE x10, SHORT DOT x10, SHORT ADA x10, LONG NEAR x10, LONG JTO x5, SHORT STRK x5, LONG ETHFI x5, LONG GRASS x3, SHORT HYPE x10, SHORT MORPHO x5, SHORT TRUMP x8, LONG PUMP x10, SHORT XPL x10, SHORT WLFI x5, LONG ZEC x10, LONG LIT x5
+-   0x0048d42f232164a85a41f15ccf26cf859e58b108... 2 positions: LONG ALGO x5, LONG ZEC x4
 ### 12:55 UTC — Position poll (Job B)
 - 2 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - NEW LONG XMR (0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9) [2/5 traders]
