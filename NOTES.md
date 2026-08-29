@@ -3142,3 +3142,12 @@ _Auto-generated. Newest entry at top._
 - SKIPPED LONG PUMP (0xb14d1598dbfeaec11bae2a382b29adfcab9e8560) — only 1/5 traders
 - SKIPPED LONG ENA (0x051c2e6d49cf82ebc47f08f9b85800f94fc9693c) — only 1/5 traders
 - Portfolio equity: $9,753.17 (-2.47%)
+
+## 2026-08-29
+
+### 00:05 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 2 skipped (confluence), 0 paused (daily profit limit):
+- CLOSED LONG XMR (0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9)
+- SKIPPED SHORT BTC (0x265eac78fb57495674227c93065d67abe6f97f70) — only 1/5 traders
+- SKIPPED SHORT XMR (0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9) — only 1/5 traders
+- Portfolio equity: $9,528.07 (-4.72%)

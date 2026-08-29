@@ -1,5 +1,16 @@
 {
-  "account_value": 0.0,
-  "positions": [],
-  "timestamp_ms": 1787563792628
+  "account_value": 29324.005622,
+  "positions": [
+    {
+      "coin": "BTC",
+      "side": "SHORT",
+      "size": 3.76678,
+      "entry_price": 79637.5,
+      "position_value_usd": 292950.01416,
+      "leverage": 20,
+      "unrealized_pnl": 7027.16518,
+      "liquidation_price": 347058.14435213
+    }
+  ],
+  "timestamp_ms": 1787961929609
 }
