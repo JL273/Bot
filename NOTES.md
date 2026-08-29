@@ -3145,6 +3145,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-29
 
+### 12:55 UTC — Position poll (Job B)
+- 2 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- NEW LONG XMR (0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9) [2/5 traders]
+- CLOSED SHORT XMR (0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9)
+- Portfolio equity: $9,546.30 (-4.54%)
 ### 00:05 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 2 skipped (confluence), 0 paused (daily profit limit):
 - CLOSED LONG XMR (0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9)

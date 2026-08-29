@@ -1,5 +1,5 @@
 {
-  "cash": 6629.128663821993,
+  "cash": 6297.175045981106,
   "starting_cash": 10000.0,
   "open_positions": {
     "0xc46e57114835d392ce1aef7b3c884d953bffc761:HYPE:LONG": {
@@ -113,6 +113,20 @@
       "margin": 319.9767689445435,
       "notional": 959.9303068336305,
       "opened_at": "2026-08-28T03:35:38.109388+00:00"
+    },
+    "0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9:XMR:LONG": {
+      "trader": "0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9",
+      "coin": "XMR",
+      "side": "LONG",
+      "size": 2.1284982438745215,
+      "entry_price": 467.1694244686061,
+      "entry_fee": 0.4971846497866495,
+      "entry_slippage_bps": 2.79,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 331.4564331910997,
+      "notional": 994.369299573299,
+      "opened_at": "2026-08-29T12:55:33.236216+00:00"
     }
   },
   "equity_history": [
@@ -24315,7 +24329,12 @@
       "ts": "2026-08-29T06:57:43.188209+00:00",
       "equity": 9527.410131621242,
       "cash": 6629.128663821993
+    },
+    {
+      "ts": "2026-08-29T12:55:34.679525+00:00",
+      "equity": 9546.296542347955,
+      "cash": 6297.175045981106
     }
   ],
-  "last_processed_signal_index": 612
+  "last_processed_signal_index": 614
 }
