@@ -3226,6 +3226,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-08-30
 
+### 22:07 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- CLOSED LONG ZEC (0xa2ce501d9c0c5e23d34272f84402cfb7835b3126)
+- Portfolio equity: $9,712.31 (-2.88%)
 ### 17:12 UTC — Position poll (Job B)
 - 3 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - NEW LONG SOL (0x9c6a5b4662c722d2c47f43d6c9813cb080ffa4ed) [3/5 traders]
