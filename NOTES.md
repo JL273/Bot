@@ -3223,3 +3223,20 @@ _Auto-generated. Newest entry at top._
 - SKIPPED SHORT BTC (0x265eac78fb57495674227c93065d67abe6f97f70) — only 1/5 traders
 - SKIPPED SHORT XMR (0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9) — only 1/5 traders
 - Portfolio equity: $9,528.07 (-4.72%)
+
+## 2026-08-30
+
+### 14:23 UTC — Daily refresh (Job A)
+- Leaderboard: 44223 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+- #1 0x55b80f17dba49f3803d16136e82d2adc5cdd2a10 acc=$9,085,565 month=$3,396,812 edge=2843bps
+- #2 0x9c6a5b4662c722d2c47f43d6c9813cb080ffa4ed acc=$22,478,305 month=$14,046,981 edge=1700bps
+- #3 0x5986347c1d0133d02d307f08bb1efd44c2eb89d9 acc=$4,597,106 month=$2,151,113 edge=41bps
+- #4 0x5f94a51948d2376ad34a6fadfa2544e651b74b96 acc=$15,420,073 month=$4,353,371 edge=4243bps
+- #5 0xa2ce501d9c0c5e23d34272f84402cfb7835b3126 acc=$15,454,998 month=$15,185,203 edge=6569bps
+- Current positions across the shortlist:
+-   0x55b80f17dba49f3803d16136e82d2adc5cdd2a10... 1 positions: LONG XMR x5
+-   0x9c6a5b4662c722d2c47f43d6c9813cb080ffa4ed... 1 positions: LONG SOL x20
+-   0x5986347c1d0133d02d307f08bb1efd44c2eb89d9... 2 positions: LONG ETH x25, LONG SOL x20
+-   0x5f94a51948d2376ad34a6fadfa2544e651b74b96... 18 positions: SHORT OP x5, SHORT SUI x10, LONG AAVE x10, SHORT DOT x10, SHORT ADA x10, LONG NEAR x10, LONG JTO x5, SHORT STRK x5, LONG ETHFI x5, LONG GRASS x3, SHORT HYPE x10, SHORT MORPHO x5, SHORT TRUMP x8, LONG PUMP x10, SHORT XPL x10, SHORT WLFI x5, LONG ZEC x10, LONG LIT x5
+-   0xa2ce501d9c0c5e23d34272f84402cfb7835b3126... 6 positions: LONG BTC x20, LONG ETH x10, LONG SOL x5, LONG SUI x10, LONG HYPE x5, LONG ZEC x10
