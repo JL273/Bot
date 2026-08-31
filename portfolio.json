@@ -1,5 +1,5 @@
 {
-  "cash": 4657.788815371195,
+  "cash": 5544.031706732424,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x8a3cf3c4b300be69429cce5beb2ef14d7200b6b7:HYPE:LONG": {
@@ -72,20 +72,6 @@
       "notional": 1010.5327334617266,
       "opened_at": "2026-08-28T03:35:38.109388+00:00"
     },
-    "0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9:XMR:LONG": {
-      "trader": "0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9",
-      "coin": "XMR",
-      "side": "LONG",
-      "size": 2.1284982438745215,
-      "entry_price": 467.1694244686061,
-      "entry_fee": 0.4971846497866495,
-      "entry_slippage_bps": 2.79,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 331.4564331910997,
-      "notional": 994.369299573299,
-      "opened_at": "2026-08-29T12:55:33.236216+00:00"
-    },
     "0xd6e56265890b76413d1d527eb9b75e334c0c5b42:ADA:SHORT": {
       "trader": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
       "coin": "ADA",
@@ -98,20 +84,6 @@
       "leverage": 3,
       "margin": 314.85875229905537,
       "notional": 944.5762568971661,
-      "opened_at": "2026-08-29T16:54:39.113555+00:00"
-    },
-    "0xd6e56265890b76413d1d527eb9b75e334c0c5b42:MORPHO:SHORT": {
-      "trader": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
-      "coin": "MORPHO",
-      "side": "SHORT",
-      "size": 373.8665253294329,
-      "entry_price": 2.3999918153742277,
-      "entry_fee": 0.44863830041652014,
-      "entry_slippage_bps": 9.61,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 299.0922002776801,
-      "notional": 897.2766008330402,
       "opened_at": "2026-08-29T16:54:39.113555+00:00"
     },
     "0xd6e56265890b76413d1d527eb9b75e334c0c5b42:SUI:SHORT": {
@@ -168,20 +140,6 @@
       "leverage": 3,
       "margin": 243.53554530954025,
       "notional": 730.6066359286208,
-      "opened_at": "2026-08-29T16:54:39.113555+00:00"
-    },
-    "0x5f94a51948d2376ad34a6fadfa2544e651b74b96:MORPHO:SHORT": {
-      "trader": "0x5f94a51948d2376ad34a6fadfa2544e651b74b96",
-      "coin": "MORPHO",
-      "side": "SHORT",
-      "size": 289.13247443103967,
-      "entry_price": 2.4003582095031137,
-      "entry_fee": 0.3470107543172476,
-      "entry_slippage_bps": 8.08,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 231.34050287816504,
-      "notional": 694.0215086344951,
       "opened_at": "2026-08-29T16:54:39.113555+00:00"
     },
     "0x0048d42f232164a85a41f15ccf26cf859e58b108:ZEC:LONG": {
@@ -24511,7 +24469,17 @@
       "ts": "2026-08-31T05:54:35.711932+00:00",
       "equity": 9549.886903123544,
       "cash": 4657.788815371195
+    },
+    {
+      "ts": "2026-08-31T11:54:06.381056+00:00",
+      "equity": 9577.988287042366,
+      "cash": 4657.788815371195
+    },
+    {
+      "ts": "2026-08-31T11:54:08.040319+00:00",
+      "equity": 9574.207258661594,
+      "cash": 5544.031706732424
     }
   ],
-  "last_processed_signal_index": 632
+  "last_processed_signal_index": 635
 }

@@ -8754,5 +8754,47 @@
     "unrealized_pnl": -88.19499213294803,
     "liquidation_price": 0,
     "exit_reason": "SL hit (-27.6% of margin)"
+  },
+  {
+    "ts": "2026-08-31T11:54:04.985742+00:00",
+    "trader": "0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9",
+    "type": "CLOSED",
+    "coin": "XMR",
+    "side": "LONG",
+    "size": 2.1284982438745215,
+    "entry_price": 467.1694244686061,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 151.81636226191145,
+    "liquidation_price": 0,
+    "exit_reason": "TP hit (+45.8% of margin)"
+  },
+  {
+    "ts": "2026-08-31T11:54:04.985742+00:00",
+    "trader": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
+    "type": "CLOSED",
+    "coin": "MORPHO",
+    "side": "SHORT",
+    "size": 373.8665253294329,
+    "entry_price": 2.3999918153742277,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -70.0469534780678,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-23.4% of margin)"
+  },
+  {
+    "ts": "2026-08-31T11:54:04.985742+00:00",
+    "trader": "0x5f94a51948d2376ad34a6fadfa2544e651b74b96",
+    "type": "CLOSED",
+    "coin": "MORPHO",
+    "side": "SHORT",
+    "size": 289.13247443103967,
+    "entry_price": 2.4003582095031137,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -54.06539908465524,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-23.4% of margin)"
   }
 ]
