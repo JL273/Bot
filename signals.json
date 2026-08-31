@@ -8712,5 +8712,47 @@
     "leverage": 10,
     "unrealized_pnl": 428722.558631,
     "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-08-31T05:54:32.275093+00:00",
+    "trader": "0xc46e57114835d392ce1aef7b3c884d953bffc761",
+    "type": "CLOSED",
+    "coin": "HYPE",
+    "side": "LONG",
+    "size": 16.06902020536569,
+    "entry_price": 80.883,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 3.2298730612786257,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (5d open, flat)"
+  },
+  {
+    "ts": "2026-08-31T05:54:32.275093+00:00",
+    "trader": "0xa2ce501d9c0c5e23d34272f84402cfb7835b3126",
+    "type": "CLOSED",
+    "coin": "HYPE",
+    "side": "LONG",
+    "size": 15.264364018582004,
+    "entry_price": 80.883,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 3.0681371677350993,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (5d open, flat)"
+  },
+  {
+    "ts": "2026-08-31T05:54:32.275093+00:00",
+    "trader": "0x051c2e6d49cf82ebc47f08f9b85800f94fc9693c",
+    "type": "CLOSED",
+    "coin": "JTO",
+    "side": "LONG",
+    "size": 1979.529525292495,
+    "entry_price": 0.484928511835049,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -88.19499213294803,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-27.6% of margin)"
   }
 ]

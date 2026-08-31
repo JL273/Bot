@@ -3250,3 +3250,12 @@ _Auto-generated. Newest entry at top._
 -   0x5986347c1d0133d02d307f08bb1efd44c2eb89d9... 2 positions: LONG ETH x25, LONG SOL x20
 -   0x5f94a51948d2376ad34a6fadfa2544e651b74b96... 18 positions: SHORT OP x5, SHORT SUI x10, LONG AAVE x10, SHORT DOT x10, SHORT ADA x10, LONG NEAR x10, LONG JTO x5, SHORT STRK x5, LONG ETHFI x5, LONG GRASS x3, SHORT HYPE x10, SHORT MORPHO x5, SHORT TRUMP x8, LONG PUMP x10, SHORT XPL x10, SHORT WLFI x5, LONG ZEC x10, LONG LIT x5
 -   0xa2ce501d9c0c5e23d34272f84402cfb7835b3126... 6 positions: LONG BTC x20, LONG ETH x10, LONG SOL x5, LONG SUI x10, LONG HYPE x5, LONG ZEC x10
+
+## 2026-08-31
+
+### 05:54 UTC — Position poll (Job B)
+- 3 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT LONG HYPE [time-stop (5d open, flat)]
+- EXIT LONG HYPE [time-stop (5d open, flat)]
+- EXIT LONG JTO [SL hit (-27.6% of margin)]
+- Portfolio equity: $9,549.89 (-4.50%)
