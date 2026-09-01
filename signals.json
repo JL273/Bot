@@ -8823,5 +8823,31 @@
     "unrealized_pnl": -64.70693677044582,
     "liquidation_price": 0,
     "exit_reason": "SL hit (-25.2% of margin)"
+  },
+  {
+    "ts": "2026-09-01T06:20:02.915816+00:00",
+    "trader": "0x265eac78fb57495674227c93065d67abe6f97f70",
+    "type": "CLOSED",
+    "coin": "PONS",
+    "side": "LONG",
+    "size": 19540.0,
+    "entry_price": 0.38009,
+    "position_value_usd": 8077.28888,
+    "leverage": 2,
+    "unrealized_pnl": 650.312808,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-09-01T06:20:02.915816+00:00",
+    "trader": "0x265eac78fb57495674227c93065d67abe6f97f70",
+    "type": "CLOSED",
+    "coin": "BTC",
+    "side": "SHORT",
+    "size": 1e-05,
+    "entry_price": 79637.5,
+    "position_value_usd": 0.78573,
+    "leverage": 3,
+    "unrealized_pnl": 0.010645,
+    "liquidation_price": 106498130835.7531
   }
 ]
