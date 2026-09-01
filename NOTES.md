@@ -3288,6 +3288,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-01
 
+### 14:06 UTC — Daily refresh (Job A)
+- Leaderboard: 44599 traders fetched, 5 shortlisted
+- Shortlist change: +0 new, -0 dropped
+- #1 0x77746ff04a7014752ab12d81d531aa5e50775343 acc=$8,681,045 month=$3,097,119 edge=5814bps
+- #2 0x265eac78fb57495674227c93065d67abe6f97f70 acc=$9,913,449 month=$4,432,247 edge=5459bps
+- #3 0xe867fbdad3291530e41530301ecb77693850c78e acc=$89,629,332 month=$31,857,456 edge=5113bps
+- #4 0x5f94a51948d2376ad34a6fadfa2544e651b74b96 acc=$15,531,553 month=$5,031,803 edge=4334bps
+- #5 0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9 acc=$27,999,336 month=$8,897,356 edge=3532bps
+- Current positions across the shortlist:
+-   0x77746ff04a7014752ab12d81d531aa5e50775343... 1 positions: SHORT HYPE x10
+-   0x265eac78fb57495674227c93065d67abe6f97f70... no open positions
+-   0xe867fbdad3291530e41530301ecb77693850c78e... 1 positions: LONG XMR x5
+-   0x5f94a51948d2376ad34a6fadfa2544e651b74b96... 18 positions: SHORT OP x5, SHORT SUI x10, LONG AAVE x10, SHORT DOT x10, SHORT ADA x10, LONG NEAR x10, LONG JTO x5, SHORT STRK x5, LONG ETHFI x5, LONG GRASS x3, SHORT HYPE x10, SHORT MORPHO x5, SHORT TRUMP x8, LONG PUMP x10, SHORT XPL x10, SHORT WLFI x5, LONG ZEC x10, LONG LIT x5
+-   0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9... 1 positions: SHORT XMR x3
 ### 06:20 UTC — Position poll (Job B)
 - 2 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - CLOSED LONG PONS (0x265eac78fb57495674227c93065d67abe6f97f70)
