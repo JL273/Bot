@@ -3285,3 +3285,10 @@ _Auto-generated. Newest entry at top._
 - EXIT LONG HYPE [time-stop (5d open, flat)]
 - EXIT LONG JTO [SL hit (-27.6% of margin)]
 - Portfolio equity: $9,549.89 (-4.50%)
+
+## 2026-09-01
+
+### 01:25 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT OP [SL hit (-25.2% of margin)]
+- Portfolio equity: $9,546.35 (-4.54%)
