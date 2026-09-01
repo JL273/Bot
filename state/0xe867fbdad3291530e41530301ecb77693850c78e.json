@@ -1,5 +1,16 @@
 {
-  "account_value": 0.0,
-  "positions": [],
-  "timestamp_ms": 1788263210207
+  "account_value": 1020.929392,
+  "positions": [
+    {
+      "coin": "XMR",
+      "side": "LONG",
+      "size": 10.0,
+      "entry_price": 509.95,
+      "position_value_usd": 5101.7,
+      "leverage": 5,
+      "unrealized_pnl": 2.2,
+      "liquidation_price": 0.0
+    }
+  ],
+  "timestamp_ms": 1788276821294
 }
