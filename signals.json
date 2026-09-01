@@ -8849,5 +8849,61 @@
     "leverage": 3,
     "unrealized_pnl": 0.010645,
     "liquidation_price": 106498130835.7531
+  },
+  {
+    "ts": "2026-09-01T18:45:50.351174+00:00",
+    "trader": "0x051c2e6d49cf82ebc47f08f9b85800f94fc9693c",
+    "type": "CLOSED",
+    "coin": "SOL",
+    "side": "LONG",
+    "size": 9.439820022996045,
+    "entry_price": 107.05,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -81.41844769834088,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-24.2% of margin)"
+  },
+  {
+    "ts": "2026-09-01T18:45:50.351174+00:00",
+    "trader": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
+    "type": "CLOSED",
+    "coin": "TRUMP",
+    "side": "SHORT",
+    "size": 305.15368612044665,
+    "entry_price": 2.6533,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 115.76005082979145,
+    "liquidation_price": 0,
+    "exit_reason": "TP hit (+42.9% of margin)"
+  },
+  {
+    "ts": "2026-09-01T18:45:50.351174+00:00",
+    "trader": "0x9c6a5b4662c722d2c47f43d6c9813cb080ffa4ed",
+    "type": "CLOSED",
+    "coin": "SOL",
+    "side": "LONG",
+    "size": 5.879229415898634,
+    "entry_price": 106.52,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -47.59236212169944,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-22.8% of margin)"
+  },
+  {
+    "ts": "2026-09-01T18:45:50.351174+00:00",
+    "trader": "0x5986347c1d0133d02d307f08bb1efd44c2eb89d9",
+    "type": "CLOSED",
+    "coin": "SOL",
+    "side": "LONG",
+    "size": 5.58482700289751,
+    "entry_price": 106.52,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -45.20917458845534,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-22.8% of margin)"
   }
 ]

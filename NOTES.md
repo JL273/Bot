@@ -3288,6 +3288,13 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-01
 
+### 18:45 UTC — Position poll (Job B)
+- 4 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT LONG SOL [SL hit (-24.2% of margin)]
+- EXIT SHORT TRUMP [TP hit (+42.9% of margin)]
+- EXIT LONG SOL [SL hit (-22.8% of margin)]
+- EXIT LONG SOL [SL hit (-22.8% of margin)]
+- Portfolio equity: $9,303.23 (-6.97%)
 ### 15:33 UTC — Position poll (Job B)
 - 0 signal(s) acted on, 2 skipped (confluence), 0 paused (daily profit limit):
 - SKIPPED LONG PONS (0x265eac78fb57495674227c93065d67abe6f97f70) — only 1/5 traders
