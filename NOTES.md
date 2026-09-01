@@ -3288,6 +3288,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-01
 
+### 23:23 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT LONG HYPE [time-stop (6d open, flat)]
+- Portfolio equity: $9,368.78 (-6.31%)
 ### 21:21 UTC — Position poll (Job B)
 - 2 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
 - CLOSED LONG XMR (0xe867fbdad3291530e41530301ecb77693850c78e)

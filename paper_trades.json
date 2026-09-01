@@ -7123,5 +7123,30 @@
     "pnl_pct": -23.18565996995868,
     "total_slippage_bps": 6.84,
     "exit_reason": "SL hit (-22.8% of margin)"
+  },
+  {
+    "trader": "0x8a3cf3c4b300be69429cce5beb2ef14d7200b6b7",
+    "coin": "HYPE",
+    "side": "LONG",
+    "size": 15.0018852889874,
+    "entry_price": 82.727,
+    "entry_fee": 0.6205304821510303,
+    "entry_slippage_bps": 0.24,
+    "entry_fill_method": "book",
+    "leverage": 3,
+    "margin": 413.6869881006869,
+    "notional": 1241.0609643020607,
+    "opened_at": "2026-08-26T10:19:59.075976+00:00",
+    "exit_price": 82.508,
+    "exit_fee": 0.6188877757118862,
+    "total_fees": 1.2394182578629165,
+    "exit_slippage_bps": 0.06,
+    "exit_fill_method": "book",
+    "closed_at": "2026-09-01T23:23:03.263714+00:00",
+    "gross_pnl": -3.285412878288365,
+    "pnl": -4.524831136151281,
+    "pnl_pct": -1.0937813531253697,
+    "total_slippage_bps": 0.3,
+    "exit_reason": "time-stop (6d open, flat)"
   }
 ]
