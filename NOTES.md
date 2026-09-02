@@ -3336,6 +3336,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-02
 
+### 13:34 UTC — Daily refresh (Job A)
+- Leaderboard: 44520 traders fetched, 5 shortlisted
+- Shortlist change: +3 new, -3 dropped
+- #1 0x77746ff04a7014752ab12d81d531aa5e50775343 acc=$8,503,319 month=$2,866,127 edge=5380bps
+- #2 0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9 acc=$26,893,356 month=$8,249,094 edge=3122bps
+- #3 0x03ef8f736498047c3349bb2c18311d1bb4a79054 acc=$7,220,803 month=$1,996,842 edge=475bps
+- #4 0x7facb3ec0415d6605e0cf5dff744f1108224ff4d acc=$1,845,485 month=$461,660 edge=669bps
+- #5 0xfce053a5e461683454bf37ad66d20344c0e3f4c0 acc=$4,709,552 month=$1,131,330 edge=1928bps
+- Current positions across the shortlist:
+-   0x77746ff04a7014752ab12d81d531aa5e50775343... 1 positions: SHORT HYPE x10
+-   0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9... 1 positions: SHORT XMR x3
+-   0x03ef8f736498047c3349bb2c18311d1bb4a79054... 2 positions: SHORT HYPE x10, SHORT PONS x3
+-   0x7facb3ec0415d6605e0cf5dff744f1108224ff4d... 3 positions: SHORT PENDLE x5, SHORT ETHFI x5, SHORT HYPE x10
+-   0xfce053a5e461683454bf37ad66d20344c0e3f4c0... 2 positions: SHORT BTC x20, SHORT ETH x20
 ### 05:42 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
 - CLOSED LONG XMR (0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9)
