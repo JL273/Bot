@@ -3336,6 +3336,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-02
 
+### 19:55 UTC — Position poll (Job B)
+- 0 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
+- SKIPPED SHORT PONS (0x03ef8f736498047c3349bb2c18311d1bb4a79054) — only 1/5 traders
+- Portfolio equity: $9,316.83 (-6.83%)
 ### 17:26 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - CLOSED SHORT PONS (0x03ef8f736498047c3349bb2c18311d1bb4a79054)
