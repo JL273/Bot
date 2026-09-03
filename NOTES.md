@@ -3377,6 +3377,14 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-03
 
+### 17:00 UTC — Position poll (Job B)
+- 3 signal(s) acted on, 2 skipped (confluence), 0 paused (daily profit limit):
+- NEW SHORT HYPE (0xb829fd12a23c88e0f1eb85238799f8fd400a3a81) [3/5 traders]
+- EXIT LONG ETH [time-stop (6d open, flat)]
+- EXIT SHORT ADA [SL hit (-32.0% of margin)]
+- SKIPPED LONG MON (0x265eac78fb57495674227c93065d67abe6f97f70) — only 1/5 traders
+- SKIPPED LONG TRX (0x265eac78fb57495674227c93065d67abe6f97f70) — only 1/5 traders
+- Portfolio equity: $9,440.13 (-5.60%)
 ### 13:31 UTC — Daily refresh (Job A)
 - Leaderboard: 44650 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped

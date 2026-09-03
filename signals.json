@@ -9012,5 +9012,47 @@
     "leverage": 3,
     "unrealized_pnl": 473.188,
     "liquidation_price": 83.4780258363
+  },
+  {
+    "ts": "2026-09-03T17:00:18.190289+00:00",
+    "trader": "0xb829fd12a23c88e0f1eb85238799f8fd400a3a81",
+    "type": "NEW",
+    "confluence": 3,
+    "coin": "HYPE",
+    "side": "SHORT",
+    "size": 103800.0,
+    "entry_price": 79.0027,
+    "position_value_usd": 8718888.6,
+    "leverage": 10,
+    "unrealized_pnl": -518402.95346,
+    "liquidation_price": 106.3643689025
+  },
+  {
+    "ts": "2026-09-03T17:00:18.190289+00:00",
+    "trader": "0xb14d1598dbfeaec11bae2a382b29adfcab9e8560",
+    "type": "CLOSED",
+    "coin": "ETH",
+    "side": "LONG",
+    "size": 0.4731177608614796,
+    "entry_price": 2491.8,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 1.017203185852009,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (6d open, flat)"
+  },
+  {
+    "ts": "2026-09-03T17:00:18.190289+00:00",
+    "trader": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
+    "type": "CLOSED",
+    "coin": "ADA",
+    "side": "SHORT",
+    "size": 4710.114176210063,
+    "entry_price": 0.20054211459842106,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -100.6687305164901,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-32.0% of margin)"
   }
 ]
