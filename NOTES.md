@@ -3413,3 +3413,11 @@ _Auto-generated. Newest entry at top._
 -   0x265eac78fb57495674227c93065d67abe6f97f70... 3 positions: LONG TRX x10, LONG MON x5, LONG PONS x2
 -   0xb829fd12a23c88e0f1eb85238799f8fd400a3a81... 1 positions: SHORT HYPE x10
 -   0x55b80f17dba49f3803d16136e82d2adc5cdd2a10... 1 positions: LONG XMR x5
+
+## 2026-09-04
+
+### 05:55 UTC — Position poll (Job B)
+- 2 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- NEW LONG ZEC (0x265eac78fb57495674227c93065d67abe6f97f70) [2/5 traders]
+- CLOSED LONG MON (0x265eac78fb57495674227c93065d67abe6f97f70)
+- Portfolio equity: $9,427.42 (-5.73%)
