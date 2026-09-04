@@ -1,36 +1,16 @@
 {
-  "account_value": 3164914.083116,
+  "account_value": 4959861.870289,
   "positions": [
-    {
-      "coin": "BTC",
-      "side": "SHORT",
-      "size": 100.0,
-      "entry_price": 72401.0,
-      "position_value_usd": 5863100.0,
-      "leverage": 20,
-      "unrealized_pnl": 1377007.815336,
-      "liquidation_price": 163288.6152142617
-    },
-    {
-      "coin": "ETH",
-      "side": "SHORT",
-      "size": 3000.0,
-      "entry_price": 2314.09,
-      "position_value_usd": 4720500.0,
-      "leverage": 20,
-      "unrealized_pnl": 2221778.61679,
-      "liquidation_price": 5036.4357975307
-    },
     {
       "coin": "HYPE",
       "side": "LONG",
-      "size": 493000.0,
+      "size": 250000.0,
       "entry_price": 39.6337,
-      "position_value_usd": 30790808.0,
+      "position_value_usd": 21210500.0,
       "leverage": 10,
-      "unrealized_pnl": 11251391.064605,
-      "liquidation_price": 38.6786455846
+      "unrealized_pnl": 11302073.563858,
+      "liquidation_price": 35.6477567397
     }
   ],
-  "timestamp_ms": 1782903375365
+  "timestamp_ms": 1788531427860
 }
