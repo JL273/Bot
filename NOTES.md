@@ -3416,6 +3416,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-04
 
+### 13:27 UTC — Daily refresh (Job A)
+- Leaderboard: 45017 traders fetched, 5 shortlisted
+- Shortlist change: +5 new, -5 dropped
+- #1 0xa9b95f2a2e7ef219021efc5c04c32761b8553bbd acc=$39,343,618 month=$15,618,707 edge=1156bps
+- #2 0x807a2e2e469df84b299da5f90f15dda4380daca1 acc=$15,951,519 month=$6,110,020 edge=11531bps
+- #3 0x563bf0731cf71ad7cea05b9c48a802d8c53e7dc4 acc=$3,460,712 month=$1,071,715 edge=430bps
+- #4 0xbbcb0c0aef0b28125af2f719f81d6a5b76f56f30 acc=$7,699,407 month=$2,207,675 edge=3970bps
+- #5 0x9b864dde6ed1c21608b1665a0ac0faa4f7e36e6e acc=$2,302,981 month=$1,341,798 edge=823bps
+- Current positions across the shortlist:
+-   0xa9b95f2a2e7ef219021efc5c04c32761b8553bbd... 1 positions: LONG HYPE x10
+-   0x807a2e2e469df84b299da5f90f15dda4380daca1... 1 positions: SHORT LIT x1
+-   0x563bf0731cf71ad7cea05b9c48a802d8c53e7dc4... 10 positions: LONG BTC x3, LONG SOL x7, LONG BNB x10, SHORT SUI x10, LONG JUP x10, LONG JTO x5, LONG ACE x3, LONG MET x3, LONG LIT x5, LONG XMR x5
+-   0xbbcb0c0aef0b28125af2f719f81d6a5b76f56f30... 2 positions: LONG ETH x20, SHORT HYPE x10
+-   0x9b864dde6ed1c21608b1665a0ac0faa4f7e36e6e... 4 positions: LONG UNI x5, LONG HYPE x4, LONG ZEC x3, LONG LIT x5
 ### 05:55 UTC — Position poll (Job B)
 - 2 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - NEW LONG ZEC (0x265eac78fb57495674227c93065d67abe6f97f70) [2/5 traders]
