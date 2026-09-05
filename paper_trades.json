@@ -7348,5 +7348,30 @@
     "pnl_pct": -1.9220430473911705,
     "total_slippage_bps": 3.79,
     "exit_reason": "time-stop (7d open, flat)"
+  },
+  {
+    "trader": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
+    "coin": "SUI",
+    "side": "SHORT",
+    "size": 1142.6389696843257,
+    "entry_price": 0.7459446926458332,
+    "entry_fee": 0.4261727375231629,
+    "entry_slippage_bps": 0.07,
+    "entry_fill_method": "book",
+    "leverage": 3,
+    "margin": 284.1151583487753,
+    "notional": 852.3454750463259,
+    "opened_at": "2026-08-29T16:54:39.113555+00:00",
+    "exit_price": 0.8033253067587691,
+    "exit_fee": 0.45895540041809246,
+    "total_fees": 0.8851281379412554,
+    "exit_slippage_bps": 0.81,
+    "exit_fill_method": "book",
+    "closed_at": "2026-09-05T12:46:16.590766+00:00",
+    "gross_pnl": -65.565325789859,
+    "pnl": -66.45045392780025,
+    "pnl_pct": -23.388563395912414,
+    "total_slippage_bps": 0.88,
+    "exit_reason": "SL hit (-23.1% of margin)"
   }
 ]

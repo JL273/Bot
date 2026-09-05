@@ -3453,6 +3453,44 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-05
 
+### 12:46 UTC — Position poll (Job B)
+- 4 signal(s) acted on, 31 skipped (confluence), 0 paused (daily profit limit):
+- NEW LONG AAVE (0xeadc152ac1014ace57c6b353f89adf5faffe9d55) [2/5 traders]
+- NEW LONG NEAR (0xeadc152ac1014ace57c6b353f89adf5faffe9d55) [2/5 traders]
+- NEW LONG PUMP (0xeadc152ac1014ace57c6b353f89adf5faffe9d55) [2/5 traders]
+- EXIT SHORT SUI [SL hit (-23.1% of margin)]
+- SKIPPED LONG ENS (0xeadc152ac1014ace57c6b353f89adf5faffe9d55) — only 1/5 traders
+- SKIPPED LONG WLD (0xeadc152ac1014ace57c6b353f89adf5faffe9d55) — only 1/5 traders
+- SKIPPED LONG XRP (0xeadc152ac1014ace57c6b353f89adf5faffe9d55) — only 1/5 traders
+- SKIPPED LONG W (0xeadc152ac1014ace57c6b353f89adf5faffe9d55) — only 1/5 traders
+- SKIPPED LONG FARTCOIN (0xeadc152ac1014ace57c6b353f89adf5faffe9d55) — only 1/5 traders
+- SKIPPED LONG XPL (0xeadc152ac1014ace57c6b353f89adf5faffe9d55) — only 1/5 traders
+- SKIPPED LONG GRAM (0xeadc152ac1014ace57c6b353f89adf5faffe9d55) — only 1/5 traders
+- SKIPPED LONG ENA (0xeadc152ac1014ace57c6b353f89adf5faffe9d55) — only 1/5 traders
+- SKIPPED LONG IMX (0xeadc152ac1014ace57c6b353f89adf5faffe9d55) — only 1/5 traders
+- SKIPPED LONG kBONK (0xeadc152ac1014ace57c6b353f89adf5faffe9d55) — only 1/5 traders
+- SKIPPED LONG DOGE (0xeadc152ac1014ace57c6b353f89adf5faffe9d55) — only 1/5 traders
+- SKIPPED LONG TRX (0xeadc152ac1014ace57c6b353f89adf5faffe9d55) — only 1/5 traders
+- SKIPPED LONG CASHCAT (0xeadc152ac1014ace57c6b353f89adf5faffe9d55) — only 1/5 traders
+- SKIPPED LONG SUI (0xeadc152ac1014ace57c6b353f89adf5faffe9d55) — only 1/5 traders
+- SKIPPED LONG LINK (0xeadc152ac1014ace57c6b353f89adf5faffe9d55) — only 1/5 traders
+- SKIPPED LONG FET (0xeadc152ac1014ace57c6b353f89adf5faffe9d55) — only 1/5 traders
+- SKIPPED LONG AVAX (0xeadc152ac1014ace57c6b353f89adf5faffe9d55) — only 1/5 traders
+- SKIPPED LONG LINEA (0xeadc152ac1014ace57c6b353f89adf5faffe9d55) — only 1/5 traders
+- SKIPPED LONG TAO (0xeadc152ac1014ace57c6b353f89adf5faffe9d55) — only 1/5 traders
+- SKIPPED LONG HBAR (0xeadc152ac1014ace57c6b353f89adf5faffe9d55) — only 1/5 traders
+- SKIPPED LONG WIF (0xeadc152ac1014ace57c6b353f89adf5faffe9d55) — only 1/5 traders
+- SKIPPED LONG APEX (0xeadc152ac1014ace57c6b353f89adf5faffe9d55) — only 1/5 traders
+- SKIPPED LONG ASTER (0xeadc152ac1014ace57c6b353f89adf5faffe9d55) — only 1/5 traders
+- SKIPPED LONG POPCAT (0xeadc152ac1014ace57c6b353f89adf5faffe9d55) — only 1/5 traders
+- SKIPPED LONG STRK (0xeadc152ac1014ace57c6b353f89adf5faffe9d55) — only 1/5 traders
+- SKIPPED LONG kPEPE (0xeadc152ac1014ace57c6b353f89adf5faffe9d55) — only 1/5 traders
+- SKIPPED LONG ADA (0xeadc152ac1014ace57c6b353f89adf5faffe9d55) — only 1/5 traders
+- SKIPPED LONG CFX (0xeadc152ac1014ace57c6b353f89adf5faffe9d55) — only 1/5 traders
+- SKIPPED LONG LTC (0xeadc152ac1014ace57c6b353f89adf5faffe9d55) — only 1/5 traders
+- SKIPPED LONG MNT (0xeadc152ac1014ace57c6b353f89adf5faffe9d55) — only 1/5 traders
+- SKIPPED LONG ZRO (0xeadc152ac1014ace57c6b353f89adf5faffe9d55) — only 1/5 traders
+- Portfolio equity: $9,411.28 (-5.89%)
 ### 12:38 UTC — Daily refresh (Job A)
 - Leaderboard: 45018 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped

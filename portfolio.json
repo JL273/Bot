@@ -1,21 +1,7 @@
 {
-  "cash": 7511.773977511334,
+  "cash": 6656.546679206404,
   "starting_cash": 10000.0,
   "open_positions": {
-    "0xd6e56265890b76413d1d527eb9b75e334c0c5b42:SUI:SHORT": {
-      "trader": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
-      "coin": "SUI",
-      "side": "SHORT",
-      "size": 1142.6389696843257,
-      "entry_price": 0.7459446926458332,
-      "entry_fee": 0.4261727375231629,
-      "entry_slippage_bps": 0.07,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 284.1151583487753,
-      "notional": 852.3454750463259,
-      "opened_at": "2026-08-29T16:54:39.113555+00:00"
-    },
     "0x5986347c1d0133d02d307f08bb1efd44c2eb89d9:ETH:LONG": {
       "trader": "0x5986347c1d0133d02d307f08bb1efd44c2eb89d9",
       "coin": "ETH",
@@ -85,6 +71,48 @@
       "margin": 357.81094404740725,
       "notional": 1073.4328321422217,
       "opened_at": "2026-09-04T14:17:08.069154+00:00"
+    },
+    "0xeadc152ac1014ace57c6b353f89adf5faffe9d55:AAVE:LONG": {
+      "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
+      "coin": "AAVE",
+      "side": "LONG",
+      "size": 8.62311521752908,
+      "entry_price": 130.66810174775452,
+      "entry_fee": 0.5633830483133501,
+      "entry_slippage_bps": 1.0,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 375.5886988755667,
+      "notional": 1126.7660966267001,
+      "opened_at": "2026-09-05T12:46:16.590766+00:00"
+    },
+    "0xeadc152ac1014ace57c6b353f89adf5faffe9d55:NEAR:LONG": {
+      "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
+      "coin": "NEAR",
+      "side": "LONG",
+      "size": 477.4853835652043,
+      "entry_price": 2.2416252333134605,
+      "entry_fee": 0.5351716421690592,
+      "entry_slippage_bps": 1.23,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 356.7810947793728,
+      "notional": 1070.3432843381183,
+      "opened_at": "2026-09-05T12:46:16.590766+00:00"
+    },
+    "0xeadc152ac1014ace57c6b353f89adf5faffe9d55:PUMP:LONG": {
+      "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
+      "coin": "PUMP",
+      "side": "LONG",
+      "size": 245709.48389919937,
+      "entry_price": 0.004138,
+      "entry_fee": 0.5083729221874436,
+      "entry_slippage_bps": 4.84,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 338.9152814582957,
+      "notional": 1016.745844374887,
+      "opened_at": "2026-09-05T12:46:16.590766+00:00"
     }
   },
   "equity_history": [
@@ -24577,7 +24605,17 @@
       "ts": "2026-09-05T09:19:05.895272+00:00",
       "equity": 9423.408996536904,
       "cash": 7511.773977511334
+    },
+    {
+      "ts": "2026-09-05T12:46:19.126258+00:00",
+      "equity": 9412.088960461911,
+      "cash": 6438.8819747854295
+    },
+    {
+      "ts": "2026-09-05T12:46:20.100274+00:00",
+      "equity": 9411.277753342474,
+      "cash": 6656.546679206404
     }
   ],
-  "last_processed_signal_index": 667
+  "last_processed_signal_index": 671
 }

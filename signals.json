@@ -9232,5 +9232,61 @@
     "unrealized_pnl": -6.014282018585366,
     "liquidation_price": 0,
     "exit_reason": "time-stop (7d open, flat)"
+  },
+  {
+    "ts": "2026-09-05T12:46:16.590766+00:00",
+    "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
+    "type": "NEW",
+    "confluence": 2,
+    "coin": "AAVE",
+    "side": "LONG",
+    "size": 20360.0,
+    "entry_price": 89.9326,
+    "position_value_usd": 2660034.0,
+    "leverage": 10,
+    "unrealized_pnl": 829005.32718,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-09-05T12:46:16.590766+00:00",
+    "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
+    "type": "NEW",
+    "confluence": 2,
+    "coin": "NEAR",
+    "side": "LONG",
+    "size": 1024133.6,
+    "entry_price": 1.86781,
+    "position_value_usd": 2295493.05104,
+    "leverage": 10,
+    "unrealized_pnl": 382604.144465,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-09-05T12:46:16.590766+00:00",
+    "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
+    "type": "NEW",
+    "confluence": 2,
+    "coin": "PUMP",
+    "side": "LONG",
+    "size": 700393814.0,
+    "entry_price": 0.003051,
+    "position_value_usd": 2898229.602332,
+    "leverage": 5,
+    "unrealized_pnl": 761276.381925,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-09-05T12:46:16.590766+00:00",
+    "trader": "0xd6e56265890b76413d1d527eb9b75e334c0c5b42",
+    "type": "CLOSED",
+    "coin": "SUI",
+    "side": "SHORT",
+    "size": 1142.6389696843257,
+    "entry_price": 0.7459446926458332,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -65.63924680836465,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-23.1% of margin)"
   }
 ]
