@@ -3508,6 +3508,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-06
 
+### 09:11 UTC — Position poll (Job B)
+- 0 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
+- SKIPPED LONG DASH (0x9b864dde6ed1c21608b1665a0ac0faa4f7e36e6e) — only 1/5 traders
+- Portfolio equity: $9,584.05 (-4.16%)
 ### 05:00 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT LONG ZEC [TP hit (+59.3% of margin)]
