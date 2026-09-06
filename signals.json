@@ -9529,5 +9529,19 @@
     "leverage": 10,
     "unrealized_pnl": 1103025.080268,
     "liquidation_price": 610.6178657925
+  },
+  {
+    "ts": "2026-09-06T19:32:07.035428+00:00",
+    "trader": "0xb2662fca65f6446b8b1898340118d44d680a4449",
+    "type": "CLOSED",
+    "coin": "CASHCAT",
+    "side": "LONG",
+    "size": 4148.345488038676,
+    "entry_price": 0.23420748592041152,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -100.21359772029702,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-30.9% of margin)"
   }
 ]
