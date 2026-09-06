@@ -1,21 +1,7 @@
 {
-  "cash": 6067.421093213218,
+  "cash": 6251.733650259871,
   "starting_cash": 10000.0,
   "open_positions": {
-    "0x5986347c1d0133d02d307f08bb1efd44c2eb89d9:ETH:LONG": {
-      "trader": "0x5986347c1d0133d02d307f08bb1efd44c2eb89d9",
-      "coin": "ETH",
-      "side": "LONG",
-      "size": 0.22390204308739822,
-      "entry_price": 2523.9,
-      "entry_fee": 0.2825531832741422,
-      "entry_slippage_bps": 0.2,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 188.36878884942814,
-      "notional": 565.1063665482844,
-      "opened_at": "2026-08-30T17:12:00.053722+00:00"
-    },
     "0xb829fd12a23c88e0f1eb85238799f8fd400a3a81:HYPE:SHORT": {
       "trader": "0xb829fd12a23c88e0f1eb85238799f8fd400a3a81",
       "coin": "HYPE",
@@ -24718,7 +24704,17 @@
       "ts": "2026-09-06T19:32:09.047991+00:00",
       "equity": 9473.647077390719,
       "cash": 6067.421093213218
+    },
+    {
+      "ts": "2026-09-06T21:36:02.288511+00:00",
+      "equity": 9535.555287331228,
+      "cash": 6067.421093213218
+    },
+    {
+      "ts": "2026-09-06T21:36:03.233345+00:00",
+      "equity": 9535.070293115696,
+      "cash": 6251.733650259871
     }
   ],
-  "last_processed_signal_index": 690
+  "last_processed_signal_index": 691
 }
