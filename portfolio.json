@@ -1,5 +1,5 @@
 {
-  "cash": 6656.546679206404,
+  "cash": 6925.680958656295,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x5986347c1d0133d02d307f08bb1efd44c2eb89d9:ETH:LONG": {
@@ -98,20 +98,6 @@
       "leverage": 3,
       "margin": 356.7810947793728,
       "notional": 1070.3432843381183,
-      "opened_at": "2026-09-05T12:46:16.590766+00:00"
-    },
-    "0xeadc152ac1014ace57c6b353f89adf5faffe9d55:PUMP:LONG": {
-      "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
-      "coin": "PUMP",
-      "side": "LONG",
-      "size": 245709.48389919937,
-      "entry_price": 0.004138,
-      "entry_fee": 0.5083729221874436,
-      "entry_slippage_bps": 4.84,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 338.9152814582957,
-      "notional": 1016.745844374887,
       "opened_at": "2026-09-05T12:46:16.590766+00:00"
     }
   },
@@ -24640,7 +24626,17 @@
       "ts": "2026-09-05T22:58:50.397205+00:00",
       "equity": 9420.430003519865,
       "cash": 6656.546679206404
+    },
+    {
+      "ts": "2026-09-06T00:33:34.313992+00:00",
+      "equity": 9406.19889396952,
+      "cash": 6656.546679206404
+    },
+    {
+      "ts": "2026-09-06T00:33:35.129070+00:00",
+      "equity": 9405.216547452892,
+      "cash": 6925.680958656295
     }
   ],
-  "last_processed_signal_index": 671
+  "last_processed_signal_index": 672
 }

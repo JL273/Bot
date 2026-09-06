@@ -9288,5 +9288,19 @@
     "unrealized_pnl": -65.63924680836465,
     "liquidation_price": 0,
     "exit_reason": "SL hit (-23.1% of margin)"
+  },
+  {
+    "ts": "2026-09-06T00:33:32.918944+00:00",
+    "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
+    "type": "CLOSED",
+    "coin": "PUMP",
+    "side": "LONG",
+    "size": 245709.48389919937,
+    "entry_price": 0.004138,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -68.7986554917759,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-20.3% of margin)"
   }
 ]

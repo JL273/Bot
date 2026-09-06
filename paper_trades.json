@@ -7373,5 +7373,30 @@
     "pnl_pct": -23.388563395912414,
     "total_slippage_bps": 0.88,
     "exit_reason": "SL hit (-23.1% of margin)"
+  },
+  {
+    "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
+    "coin": "PUMP",
+    "side": "LONG",
+    "size": 245709.48389919937,
+    "entry_price": 0.004138,
+    "entry_fee": 0.5083729221874436,
+    "entry_slippage_bps": 4.84,
+    "entry_fill_method": "book",
+    "leverage": 3,
+    "margin": 338.9152814582957,
+    "notional": 1016.745844374887,
+    "opened_at": "2026-09-05T12:46:16.590766+00:00",
+    "exit_price": 0.003858,
+    "exit_fee": 0.47397359444155557,
+    "total_fees": 0.9823465166289991,
+    "exit_slippage_bps": 0.0,
+    "exit_fill_method": "book",
+    "closed_at": "2026-09-06T00:33:32.918944+00:00",
+    "gross_pnl": -68.7986554917759,
+    "pnl": -69.7810020084049,
+    "pnl_pct": -20.589511841469328,
+    "total_slippage_bps": 4.84,
+    "exit_reason": "SL hit (-20.3% of margin)"
   }
 ]
