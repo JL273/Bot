@@ -1,5 +1,5 @@
 {
-  "cash": 7556.426793797551,
+  "cash": 5844.711339233206,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x5986347c1d0133d02d307f08bb1efd44c2eb89d9:ETH:LONG": {
@@ -85,6 +85,76 @@
       "margin": 356.7810947793728,
       "notional": 1070.3432843381183,
       "opened_at": "2026-09-05T12:46:16.590766+00:00"
+    },
+    "0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a:HYPE:LONG": {
+      "trader": "0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a",
+      "coin": "HYPE",
+      "side": "LONG",
+      "size": 12.709987991227,
+      "entry_price": 89.179,
+      "entry_fee": 0.5667320095348164,
+      "entry_slippage_bps": 1.51,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 377.82133968987756,
+      "notional": 1133.4640190696327,
+      "opened_at": "2026-09-06T12:52:15.908355+00:00"
+    },
+    "0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a:BTC:LONG": {
+      "trader": "0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a",
+      "coin": "BTC",
+      "side": "LONG",
+      "size": 0.01346858732974808,
+      "entry_price": 79942.0,
+      "entry_fee": 0.5383529041573605,
+      "entry_slippage_bps": 0.06,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 358.901936104907,
+      "notional": 1076.705808314721,
+      "opened_at": "2026-09-06T12:52:15.908355+00:00"
+    },
+    "0xb2662fca65f6446b8b1898340118d44d680a4449:HYPE:LONG": {
+      "trader": "0xb2662fca65f6446b8b1898340118d44d680a4449",
+      "coin": "HYPE",
+      "side": "LONG",
+      "size": 11.468953060287301,
+      "entry_price": 89.179,
+      "entry_fee": 0.5113948824816806,
+      "entry_slippage_bps": 1.51,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 340.9299216544538,
+      "notional": 1022.7897649633613,
+      "opened_at": "2026-09-06T12:52:15.908355+00:00"
+    },
+    "0xb2662fca65f6446b8b1898340118d44d680a4449:CASHCAT:LONG": {
+      "trader": "0xb2662fca65f6446b8b1898340118d44d680a4449",
+      "coin": "CASHCAT",
+      "side": "LONG",
+      "size": 4148.345488038676,
+      "entry_price": 0.23420748592041152,
+      "entry_fee": 0.48578678374141043,
+      "entry_slippage_bps": 10.79,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 323.85785582760695,
+      "notional": 971.5735674828209,
+      "opened_at": "2026-09-06T12:52:15.908355+00:00"
+    },
+    "0xb2662fca65f6446b8b1898340118d44d680a4449:ZEC:LONG": {
+      "trader": "0xb2662fca65f6446b8b1898340118d44d680a4449",
+      "coin": "ZEC",
+      "side": "LONG",
+      "size": 0.7880140207403677,
+      "entry_price": 1171.2,
+      "entry_fee": 0.4614610105455594,
+      "entry_slippage_bps": 7.25,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 307.6406736970396,
+      "notional": 922.9220210911187,
+      "opened_at": "2026-09-06T12:52:15.908355+00:00"
     }
   },
   "equity_history": [
@@ -24637,7 +24707,12 @@
       "ts": "2026-09-06T09:11:39.208962+00:00",
       "equity": 9584.045251167123,
       "cash": 7556.426793797551
+    },
+    {
+      "ts": "2026-09-06T12:52:18.070457+00:00",
+      "equity": 9591.775991776622,
+      "cash": 5844.711339233206
     }
   ],
-  "last_processed_signal_index": 673
+  "last_processed_signal_index": 689
 }

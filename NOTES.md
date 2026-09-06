@@ -3508,6 +3508,27 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-06
 
+### 12:52 UTC — Position poll (Job B)
+- 16 signal(s) acted on, 2 skipped (confluence), 0 paused (daily profit limit):
+- NEW LONG HYPE (0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a) [3/5 traders]
+- NEW LONG BTC (0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a) [2/5 traders]
+- CLOSED SHORT STRK (0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a)
+- CLOSED SHORT WLD (0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a)
+- CLOSED SHORT XPL (0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a)
+- CLOSED SHORT BTC (0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a)
+- CLOSED SHORT ZRO (0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a)
+- CLOSED SHORT TAO (0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a)
+- CLOSED SHORT HYPE (0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a)
+- CLOSED SHORT ETH (0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a)
+- CLOSED SHORT ARB (0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a)
+- CLOSED SHORT AZTEC (0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a)
+- CLOSED SHORT ENA (0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a)
+- NEW LONG HYPE (0xb2662fca65f6446b8b1898340118d44d680a4449) [3/5 traders]
+- NEW LONG CASHCAT (0xb2662fca65f6446b8b1898340118d44d680a4449) [2/5 traders]
+- NEW LONG ZEC (0xb2662fca65f6446b8b1898340118d44d680a4449) [2/5 traders]
+- SKIPPED LONG ETH (0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a) — only 1/5 traders
+- SKIPPED LONG PUMP (0xa906355beaf1d69a5fe73ce55899c49c6e67916c) — only 1/5 traders
+- Portfolio equity: $9,591.78 (-4.08%)
 ### 12:51 UTC — Daily refresh (Job A)
 - Leaderboard: 45202 traders fetched, 5 shortlisted
 - Shortlist change: +5 new, -5 dropped
