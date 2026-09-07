@@ -3563,3 +3563,10 @@ _Auto-generated. Newest entry at top._
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT LONG PUMP [SL hit (-20.3% of margin)]
 - Portfolio equity: $9,405.22 (-5.95%)
+
+## 2026-09-07
+
+### 05:18 UTC — Position poll (Job B)
+- 0 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
+- SKIPPED SHORT WLD (0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a) — only 1/5 traders
+- Portfolio equity: $9,468.92 (-5.31%)
