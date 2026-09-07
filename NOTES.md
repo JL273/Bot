@@ -3566,6 +3566,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-07
 
+### 19:29 UTC — Position poll (Job B)
+- 0 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
+- SKIPPED LONG PONS (0xeadc152ac1014ace57c6b353f89adf5faffe9d55) — only 1/5 traders
+- Portfolio equity: $9,345.26 (-6.55%)
 ### 15:56 UTC — Position poll (Job B)
 - 2 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
 - CLOSED LONG LIT (0x3ee505ba316879d246a8fd2b3d7ee63b51b44fab)
