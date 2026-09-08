@@ -3594,3 +3594,20 @@ _Auto-generated. Newest entry at top._
 - 0 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
 - SKIPPED SHORT WLD (0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a) — only 1/5 traders
 - Portfolio equity: $9,468.92 (-5.31%)
+
+## 2026-09-08
+
+### 13:32 UTC — Daily refresh (Job A)
+- Leaderboard: 45006 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+- #1 0xe71cbf47fff309813bcea54f3ecf49a5f129264d acc=$3,507,982 month=$361,446 edge=535bps
+- #2 0xf21d494bb47339f399267c5519cbe11da0753b2d acc=$1,555,818 month=$906,717 edge=351bps
+- #3 0x9a80d88c21be60e870d07d852390e92d09223cf2 acc=$26,987,760 month=$3,841,111 edge=4790bps
+- #4 0x77746ff04a7014752ab12d81d531aa5e50775343 acc=$8,660,247 month=$2,782,983 edge=5141bps
+- #5 0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05 acc=$33,819,393 month=$6,429,758 edge=1709bps
+- Current positions across the shortlist:
+-   0xe71cbf47fff309813bcea54f3ecf49a5f129264d... 1 positions: SHORT MEGA x3
+-   0xf21d494bb47339f399267c5519cbe11da0753b2d... 2 positions: LONG UNI x10, LONG LIT x3
+-   0x9a80d88c21be60e870d07d852390e92d09223cf2... no open positions
+-   0x77746ff04a7014752ab12d81d531aa5e50775343... 1 positions: SHORT HYPE x10
+-   0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05... 18 positions: LONG BTC x40, LONG ETH x25, SHORT AVAX x10, SHORT SUI x10, SHORT kPEPE x10, SHORT CRV x10, SHORT LINK x10, SHORT XRP x20, SHORT AAVE x10, SHORT kSHIB x10, SHORT ADA x10, SHORT PENDLE x5, SHORT NEAR x10, SHORT FIL x5, SHORT STRK x5, SHORT GRASS x3, SHORT HYPE x3, LONG ZEC x5
