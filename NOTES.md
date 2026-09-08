@@ -3597,6 +3597,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-08
 
+### 17:24 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT HYPE [time-stop (5d open, flat)]
+- Portfolio equity: $9,306.24 (-6.94%)
 ### 13:33 UTC — Position poll (Job B)
 - 10 signal(s) acted on, 3 skipped (confluence), 0 paused (daily profit limit):
 - CLOSED LONG PUMP (0xf21d494bb47339f399267c5519cbe11da0753b2d)

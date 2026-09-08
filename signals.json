@@ -9716,5 +9716,19 @@
     "unrealized_pnl": -76.91079922228668,
     "liquidation_price": 0,
     "exit_reason": "SL hit (-22.6% of margin)"
+  },
+  {
+    "ts": "2026-09-08T17:24:11.522502+00:00",
+    "trader": "0xb829fd12a23c88e0f1eb85238799f8fd400a3a81",
+    "type": "CLOSED",
+    "coin": "HYPE",
+    "side": "SHORT",
+    "size": 11.436754563088261,
+    "entry_price": 83.988,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 0.4288782961157448,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (5d open, flat)"
   }
 ]
