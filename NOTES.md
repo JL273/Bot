@@ -3597,6 +3597,22 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-08
 
+### 13:33 UTC — Position poll (Job B)
+- 10 signal(s) acted on, 3 skipped (confluence), 0 paused (daily profit limit):
+- CLOSED LONG PUMP (0xf21d494bb47339f399267c5519cbe11da0753b2d)
+- CLOSED LONG CASHCAT (0xf21d494bb47339f399267c5519cbe11da0753b2d)
+- NEW SHORT HYPE (0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05) [2/5 traders]
+- CLOSED SHORT APT (0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05)
+- CLOSED LONG PUMP (0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05)
+- CLOSED SHORT DOT (0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05)
+- CLOSED LONG HYPE (0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05)
+- CLOSED LONG AAVE (0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05)
+- EXIT LONG HYPE [SL hit (-22.6% of margin)]
+- EXIT LONG HYPE [SL hit (-22.6% of margin)]
+- SKIPPED SHORT MEGA (0xe71cbf47fff309813bcea54f3ecf49a5f129264d) — only 1/5 traders
+- SKIPPED LONG LIT (0xf21d494bb47339f399267c5519cbe11da0753b2d) — only 1/5 traders
+- SKIPPED SHORT AAVE (0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05) — only 1/5 traders
+- Portfolio equity: $9,241.15 (-7.59%)
 ### 13:32 UTC — Daily refresh (Job A)
 - Leaderboard: 45006 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped
