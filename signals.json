@@ -9772,5 +9772,19 @@
     "unrealized_pnl": 160.68565730051316,
     "liquidation_price": 0,
     "exit_reason": "TP hit (+45.0% of margin)"
+  },
+  {
+    "ts": "2026-09-09T19:47:33.272642+00:00",
+    "trader": "0x9b864dde6ed1c21608b1665a0ac0faa4f7e36e6e",
+    "type": "CLOSED",
+    "coin": "HYPE",
+    "side": "LONG",
+    "size": 13.321661153176661,
+    "entry_price": 84.82564568983209,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 5.3933319364601155,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (5d open, flat)"
   }
 ]

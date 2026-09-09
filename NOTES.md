@@ -3634,6 +3634,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-09
 
+### 19:47 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT LONG HYPE [time-stop (5d open, flat)]
+- Portfolio equity: $9,523.48 (-4.77%)
 ### 13:42 UTC — Position poll (Job B)
 - 2 signal(s) acted on, 9 skipped (confluence), 0 paused (daily profit limit):
 - NEW LONG NEAR (0x153c8444380512cabdc34f6cea09c322e14e319a) [2/5 traders]
