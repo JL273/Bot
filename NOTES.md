@@ -3634,6 +3634,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-09
 
+### 13:42 UTC — Position poll (Job B)
+- 2 signal(s) acted on, 9 skipped (confluence), 0 paused (daily profit limit):
+- NEW LONG NEAR (0x153c8444380512cabdc34f6cea09c322e14e319a) [2/5 traders]
+- EXIT LONG NEAR [TP hit (+45.0% of margin)]
+- SKIPPED LONG IMX (0x153c8444380512cabdc34f6cea09c322e14e319a) — only 1/5 traders
+- SKIPPED LONG PNUT (0x153c8444380512cabdc34f6cea09c322e14e319a) — only 1/5 traders
+- SKIPPED LONG kBONK (0x153c8444380512cabdc34f6cea09c322e14e319a) — only 1/5 traders
+- SKIPPED LONG CFX (0x153c8444380512cabdc34f6cea09c322e14e319a) — only 1/5 traders
+- SKIPPED LONG kSHIB (0x153c8444380512cabdc34f6cea09c322e14e319a) — only 1/5 traders
+- SKIPPED LONG GRAM (0x153c8444380512cabdc34f6cea09c322e14e319a) — only 1/5 traders
+- SKIPPED LONG WLD (0x153c8444380512cabdc34f6cea09c322e14e319a) — only 1/5 traders
+- SKIPPED LONG FET (0x153c8444380512cabdc34f6cea09c322e14e319a) — only 1/5 traders
+- SKIPPED LONG kPEPE (0x153c8444380512cabdc34f6cea09c322e14e319a) — only 1/5 traders
+- Portfolio equity: $9,595.54 (-4.04%)
 ### 13:40 UTC — Daily refresh (Job A)
 - Leaderboard: 44982 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped

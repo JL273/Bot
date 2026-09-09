@@ -1,5 +1,5 @@
 {
-  "cash": 7314.4226592801415,
+  "cash": 7464.281847839279,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x9b864dde6ed1c21608b1665a0ac0faa4f7e36e6e:HYPE:LONG": {
@@ -28,20 +28,6 @@
       "leverage": 3,
       "margin": 375.5886988755667,
       "notional": 1126.7660966267001,
-      "opened_at": "2026-09-05T12:46:16.590766+00:00"
-    },
-    "0xeadc152ac1014ace57c6b353f89adf5faffe9d55:NEAR:LONG": {
-      "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
-      "coin": "NEAR",
-      "side": "LONG",
-      "size": 477.4853835652043,
-      "entry_price": 2.2416252333134605,
-      "entry_fee": 0.5351716421690592,
-      "entry_slippage_bps": 1.23,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 356.7810947793728,
-      "notional": 1070.3432843381183,
       "opened_at": "2026-09-05T12:46:16.590766+00:00"
     },
     "0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a:BTC:LONG": {
@@ -85,6 +71,20 @@
       "margin": 312.58668251299355,
       "notional": 937.7600475389806,
       "opened_at": "2026-09-08T13:33:27.185193+00:00"
+    },
+    "0x153c8444380512cabdc34f6cea09c322e14e319a:NEAR:LONG": {
+      "trader": "0x153c8444380512cabdc34f6cea09c322e14e319a",
+      "coin": "NEAR",
+      "side": "LONG",
+      "size": 425.3890349302191,
+      "entry_price": 2.5792,
+      "entry_fee": 0.5485816994460107,
+      "entry_slippage_bps": 4.07,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 365.72113296400704,
+      "notional": 1097.1633988920212,
+      "opened_at": "2026-09-09T13:42:31.904739+00:00"
     }
   },
   "equity_history": [
@@ -24772,7 +24772,17 @@
       "ts": "2026-09-09T09:14:16.131373+00:00",
       "equity": 9541.598374397205,
       "cash": 7314.4226592801415
+    },
+    {
+      "ts": "2026-09-09T13:42:33.596750+00:00",
+      "equity": 9595.206827010396,
+      "cash": 6948.152944616689
+    },
+    {
+      "ts": "2026-09-09T13:42:34.904767+00:00",
+      "equity": 9595.535346752531,
+      "cash": 7464.281847839279
     }
   ],
-  "last_processed_signal_index": 705
+  "last_processed_signal_index": 707
 }
