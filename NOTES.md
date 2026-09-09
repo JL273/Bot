@@ -3634,6 +3634,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-09
 
+### 23:49 UTC — Position poll (Job B)
+- 0 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
+- SKIPPED LONG ENA (0x5f94a51948d2376ad34a6fadfa2544e651b74b96) — only 1/5 traders
+- Portfolio equity: $9,508.50 (-4.91%)
 ### 19:47 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT LONG HYPE [time-stop (5d open, flat)]
