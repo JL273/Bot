@@ -9786,5 +9786,33 @@
     "unrealized_pnl": 5.3933319364601155,
     "liquidation_price": 0,
     "exit_reason": "time-stop (5d open, flat)"
+  },
+  {
+    "ts": "2026-09-10T15:07:28.975659+00:00",
+    "trader": "0xacb66d1996501bcc82a0e7819c9e041599f5efbd",
+    "type": "NEW",
+    "confluence": 2,
+    "coin": "XRP",
+    "side": "SHORT",
+    "size": 1095271.0,
+    "entry_price": 1.273988,
+    "position_value_usd": 1487761.36285,
+    "leverage": 20,
+    "unrealized_pnl": -92399.197705,
+    "liquidation_price": 7.7298466302
+  },
+  {
+    "ts": "2026-09-10T15:07:28.975659+00:00",
+    "trader": "0xde8a6d588f8067e761bac811a102e0146c721e41",
+    "type": "NEW",
+    "confluence": 3,
+    "coin": "HYPE",
+    "side": "SHORT",
+    "size": 248.95,
+    "entry_price": 69.8227,
+    "position_value_usd": 20163.70525,
+    "leverage": 5,
+    "unrealized_pnl": -2781.333843,
+    "liquidation_price": 1645.0826831052
   }
 ]
