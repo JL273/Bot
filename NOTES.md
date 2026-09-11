@@ -3704,6 +3704,12 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-11
 
+### 21:58 UTC — Position poll (Job B)
+- 3 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- CLOSED SHORT PENDLE (0x7facb3ec0415d6605e0cf5dff744f1108224ff4d)
+- CLOSED SHORT ETHFI (0x7facb3ec0415d6605e0cf5dff744f1108224ff4d)
+- EXIT LONG NEAR [SL hit (-21.0% of margin)]
+- Portfolio equity: $9,366.45 (-6.34%)
 ### 13:47 UTC — Position poll (Job B)
 - 4 signal(s) acted on, 8 skipped (confluence), 0 paused (daily profit limit):
 - NEW SHORT OP (0x77eeda199553e33b246e4b4666849b9ad0972902) [2/5 traders]
