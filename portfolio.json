@@ -1,5 +1,5 @@
 {
-  "cash": 6471.2302408306505,
+  "cash": 6747.935717511099,
   "starting_cash": 10000.0,
   "open_positions": {
     "0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a:BTC:LONG": {
@@ -29,20 +29,6 @@
       "margin": 312.58668251299355,
       "notional": 937.7600475389806,
       "opened_at": "2026-09-08T13:33:27.185193+00:00"
-    },
-    "0x153c8444380512cabdc34f6cea09c322e14e319a:NEAR:LONG": {
-      "trader": "0x153c8444380512cabdc34f6cea09c322e14e319a",
-      "coin": "NEAR",
-      "side": "LONG",
-      "size": 425.3890349302191,
-      "entry_price": 2.5792,
-      "entry_fee": 0.5485816994460107,
-      "entry_slippage_bps": 4.07,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 365.72113296400704,
-      "notional": 1097.1633988920212,
-      "opened_at": "2026-09-09T13:42:31.904739+00:00"
     },
     "0xacb66d1996501bcc82a0e7819c9e041599f5efbd:XRP:SHORT": {
       "trader": "0xacb66d1996501bcc82a0e7819c9e041599f5efbd",
@@ -24915,7 +24901,17 @@
       "ts": "2026-09-11T21:58:27.464628+00:00",
       "equity": 9366.450171869823,
       "cash": 6471.2302408306505
+    },
+    {
+      "ts": "2026-09-11T23:51:45.060270+00:00",
+      "equity": 9332.130780937918,
+      "cash": 6471.2302408306505
+    },
+    {
+      "ts": "2026-09-11T23:51:45.791563+00:00",
+      "equity": 9331.021768722689,
+      "cash": 6747.935717511099
     }
   ],
-  "last_processed_signal_index": 719
+  "last_processed_signal_index": 720
 }
