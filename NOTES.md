@@ -3704,6 +3704,21 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-11
 
+### 13:47 UTC — Position poll (Job B)
+- 4 signal(s) acted on, 8 skipped (confluence), 0 paused (daily profit limit):
+- NEW SHORT OP (0x77eeda199553e33b246e4b4666849b9ad0972902) [2/5 traders]
+- NEW SHORT ADA (0x77eeda199553e33b246e4b4666849b9ad0972902) [2/5 traders]
+- NEW LONG NEAR (0x77eeda199553e33b246e4b4666849b9ad0972902) [2/5 traders]
+- NEW SHORT HYPE (0x8cf051405995581de2cbbdc9a3e9951325607e18) [4/5 traders]
+- SKIPPED LONG WLD (0x77eeda199553e33b246e4b4666849b9ad0972902) — only 1/5 traders
+- SKIPPED LONG ETH (0x77eeda199553e33b246e4b4666849b9ad0972902) — only 1/5 traders
+- SKIPPED LONG ICP (0x77eeda199553e33b246e4b4666849b9ad0972902) — only 1/5 traders
+- SKIPPED SHORT BTC (0x77eeda199553e33b246e4b4666849b9ad0972902) — only 1/5 traders
+- SKIPPED SHORT SOL (0x77eeda199553e33b246e4b4666849b9ad0972902) — only 1/5 traders
+- SKIPPED SHORT PUMP (0x77eeda199553e33b246e4b4666849b9ad0972902) — only 1/5 traders
+- SKIPPED SHORT VVV (0x77eeda199553e33b246e4b4666849b9ad0972902) — only 1/5 traders
+- SKIPPED SHORT ZEC (0x77eeda199553e33b246e4b4666849b9ad0972902) — only 1/5 traders
+- Portfolio equity: $9,393.05 (-6.07%)
 ### 13:29 UTC — Daily refresh (Job A)
 - Leaderboard: 44982 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped
