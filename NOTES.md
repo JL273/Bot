@@ -3701,3 +3701,11 @@ _Auto-generated. Newest entry at top._
 -   0x80fb5880f38185661962e475ac1557817dc9faea... 1 positions: LONG XPL x4
 -   0xacb66d1996501bcc82a0e7819c9e041599f5efbd... 5 positions: SHORT ETH x10, SHORT SOL x20, SHORT XRP x20, LONG HYPE x5, LONG ASTER x5
 -   0xde8a6d588f8067e761bac811a102e0146c721e41... 1 positions: SHORT HYPE x5
+
+## 2026-09-11
+
+### 00:37 UTC — Position poll (Job B)
+- 2 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT LONG AAVE [SL hit (-21.2% of margin)]
+- EXIT LONG ZEC [SL hit (-21.3% of margin)]
+- Portfolio equity: $9,411.94 (-5.88%)

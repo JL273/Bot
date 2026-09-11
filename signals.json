@@ -9814,5 +9814,33 @@
     "leverage": 5,
     "unrealized_pnl": -2781.333843,
     "liquidation_price": 1645.0826831052
+  },
+  {
+    "ts": "2026-09-11T00:37:02.292338+00:00",
+    "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
+    "type": "CLOSED",
+    "coin": "AAVE",
+    "side": "LONG",
+    "size": 8.62311521752908,
+    "entry_price": 130.66810174775452,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -79.57498460996871,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-21.2% of margin)"
+  },
+  {
+    "ts": "2026-09-11T00:37:02.292338+00:00",
+    "trader": "0xb2662fca65f6446b8b1898340118d44d680a4449",
+    "type": "CLOSED",
+    "coin": "ZEC",
+    "side": "LONG",
+    "size": 0.7880140207403677,
+    "entry_price": 1171.2,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -65.52336582456165,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-21.3% of margin)"
   }
 ]
