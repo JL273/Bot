@@ -3748,3 +3748,20 @@ _Auto-generated. Newest entry at top._
 - EXIT LONG AAVE [SL hit (-21.2% of margin)]
 - EXIT LONG ZEC [SL hit (-21.3% of margin)]
 - Portfolio equity: $9,411.94 (-5.88%)
+
+## 2026-09-12
+
+### 12:49 UTC — Daily refresh (Job A)
+- Leaderboard: 45152 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+- #1 0xf78c5d8d4b604a140d43a46209fade655536c581 acc=$4,164,722 month=$2,846,979 edge=1818bps
+- #2 0x2ab7c8c121bba1b6b744664237ae00ded55ec2f8 acc=$1,053,523 month=$564,578 edge=805bps
+- #3 0x77746ff04a7014752ab12d81d531aa5e50775343 acc=$8,430,513 month=$2,443,260 edge=4436bps
+- #4 0xea0027b6ea9b6d7d401b5266979cc3b3ca87a918 acc=$19,160,645 month=$18,066,282 edge=4727bps
+- #5 0x8607a7d180de23645db594d90621d837749408d5 acc=$18,881,982 month=$5,156,747 edge=5288bps
+- Current positions across the shortlist:
+-   0xf78c5d8d4b604a140d43a46209fade655536c581... 1 positions: LONG ETH x20
+-   0x2ab7c8c121bba1b6b744664237ae00ded55ec2f8... 2 positions: LONG ZEC x3, LONG LIT x3
+-   0x77746ff04a7014752ab12d81d531aa5e50775343... 1 positions: SHORT HYPE x10
+-   0xea0027b6ea9b6d7d401b5266979cc3b3ca87a918... 7 positions: LONG ETH x5, LONG SOL x20, LONG PURR x3, LONG HYPE x10, LONG VVV x3, LONG ZEC x5, LONG LIT x5
+-   0x8607a7d180de23645db594d90621d837749408d5... 21 positions: LONG BTC x29, LONG SOL x20, SHORT AVAX x10, SHORT LTC x10, SHORT XRP x20, LONG SEI x5, SHORT RUNE x5, SHORT NEAR x10, SHORT kBONK x10, SHORT TAO x5, SHORT RENDER x5, SHORT kNEIRO x3, SHORT GRASS x3, SHORT PURR x3, LONG VIRTUAL x5, SHORT PENGU x5, LONG USUAL x3, SHORT FARTCOIN x3, SHORT AIXBT x3, LONG BERA x5, SHORT PONS x3
