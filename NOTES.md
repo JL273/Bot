@@ -3795,6 +3795,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-13
 
+### 23:27 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT LONG ZEC [SL hit (-22.7% of margin)]
+- Portfolio equity: $9,258.34 (-7.42%)
 ### 14:17 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
 - CLOSED SHORT PONS (0x03ef8f736498047c3349bb2c18311d1bb4a79054)
