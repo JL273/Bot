@@ -3818,3 +3818,20 @@ _Auto-generated. Newest entry at top._
 -   0x7facb3ec0415d6605e0cf5dff744f1108224ff4d... 1 positions: SHORT HYPE x10
 -   0x03ef8f736498047c3349bb2c18311d1bb4a79054... 1 positions: SHORT HYPE x10
 -   0x6ad04649246c78a43d16597ccab67c5e3f785af1... 1 positions: SHORT ETH x10
+
+## 2026-09-14
+
+### 15:51 UTC — Daily refresh (Job A)
+- Leaderboard: 45145 traders fetched, 5 shortlisted
+- Shortlist change: +2 new, -2 dropped
+- #1 0xde8a6d588f8067e761bac811a102e0146c721e41 acc=$618,225 month=$556,363 edge=638bps
+- #2 0x7facb3ec0415d6605e0cf5dff744f1108224ff4d acc=$1,845,602 month=$437,361 edge=618bps
+- #3 0xf02d028ffeddc120a3ec59602a6617303ca55eb3 acc=$13,765,346 month=$934,310 edge=229bps
+- #4 0x03ef8f736498047c3349bb2c18311d1bb4a79054 acc=$7,602,898 month=$1,570,032 edge=778bps
+- #5 0x77746ff04a7014752ab12d81d531aa5e50775343 acc=$8,387,292 month=$2,431,780 edge=4017bps
+- Current positions across the shortlist:
+-   0xde8a6d588f8067e761bac811a102e0146c721e41... 1 positions: SHORT HYPE x5
+-   0x7facb3ec0415d6605e0cf5dff744f1108224ff4d... 1 positions: SHORT HYPE x10
+-   0xf02d028ffeddc120a3ec59602a6617303ca55eb3... 2 positions: SHORT ETH x20, SHORT HYPE x10
+-   0x03ef8f736498047c3349bb2c18311d1bb4a79054... 1 positions: SHORT HYPE x10
+-   0x77746ff04a7014752ab12d81d531aa5e50775343... 1 positions: SHORT HYPE x10
