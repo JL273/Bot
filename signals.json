@@ -10035,5 +10035,47 @@
     "unrealized_pnl": -69.00963989144492,
     "liquidation_price": 0,
     "exit_reason": "SL hit (-22.7% of margin)"
+  },
+  {
+    "ts": "2026-09-14T18:30:57.273156+00:00",
+    "trader": "0xf02d028ffeddc120a3ec59602a6617303ca55eb3",
+    "type": "NEW",
+    "confluence": 5,
+    "coin": "HYPE",
+    "side": "SHORT",
+    "size": 248410.5,
+    "entry_price": 74.3688,
+    "position_value_usd": 20292156.924,
+    "leverage": 10,
+    "unrealized_pnl": -1818160.07017,
+    "liquidation_price": 108.7295379969
+  },
+  {
+    "ts": "2026-09-14T18:30:57.273156+00:00",
+    "trader": "0xacb66d1996501bcc82a0e7819c9e041599f5efbd",
+    "type": "CLOSED",
+    "coin": "XRP",
+    "side": "SHORT",
+    "size": 866.3633192329108,
+    "entry_price": 1.3583,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -85.55337777424985,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-21.8% of margin)"
+  },
+  {
+    "ts": "2026-09-14T18:30:57.273156+00:00",
+    "trader": "0x77eeda199553e33b246e4b4666849b9ad0972902",
+    "type": "CLOSED",
+    "coin": "OP",
+    "side": "SHORT",
+    "size": 11833.83179080345,
+    "entry_price": 0.09652777874536424,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -98.24708981739286,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-25.8% of margin)"
   }
 ]

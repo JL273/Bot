@@ -3821,6 +3821,14 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-14
 
+### 18:31 UTC — Position poll (Job B)
+- 3 signal(s) acted on, 2 skipped (confluence), 0 paused (daily profit limit):
+- NEW SHORT HYPE (0xf02d028ffeddc120a3ec59602a6617303ca55eb3) [5/5 traders]
+- EXIT SHORT XRP [SL hit (-21.8% of margin)]
+- EXIT SHORT OP [SL hit (-25.8% of margin)]
+- SKIPPED SHORT ETH (0xf02d028ffeddc120a3ec59602a6617303ca55eb3) — only 1/5 traders
+- SKIPPED SHORT PONS (0x03ef8f736498047c3349bb2c18311d1bb4a79054) — only 1/5 traders
+- Portfolio equity: $8,983.32 (-10.17%)
 ### 15:51 UTC — Daily refresh (Job A)
 - Leaderboard: 45145 traders fetched, 5 shortlisted
 - Shortlist change: +2 new, -2 dropped
