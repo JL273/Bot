@@ -3846,6 +3846,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-15
 
+### 14:18 UTC — Daily refresh (Job A)
+- Leaderboard: 45183 traders fetched, 5 shortlisted
+- Shortlist change: +2 new, -2 dropped
+- #1 0x7facb3ec0415d6605e0cf5dff744f1108224ff4d acc=$1,844,833 month=$431,475 edge=610bps
+- #2 0x77746ff04a7014752ab12d81d531aa5e50775343 acc=$8,399,618 month=$2,313,186 edge=3821bps
+- #3 0x31b1ecf848443472e34d204a134812d86ab01434 acc=$17,352,129 month=$9,882,424 edge=4098bps
+- #4 0x03ef8f736498047c3349bb2c18311d1bb4a79054 acc=$7,519,105 month=$1,445,679 edge=796bps
+- #5 0x615a2071e01b28093e65d81be32cea6e173d69d5 acc=$2,625,616 month=$2,715,277 edge=2789bps
+- Current positions across the shortlist:
+-   0x7facb3ec0415d6605e0cf5dff744f1108224ff4d... 1 positions: SHORT HYPE x10
+-   0x77746ff04a7014752ab12d81d531aa5e50775343... 1 positions: SHORT HYPE x10
+-   0x31b1ecf848443472e34d204a134812d86ab01434... 1 positions: LONG XRP x10
+-   0x03ef8f736498047c3349bb2c18311d1bb4a79054... 1 positions: SHORT HYPE x10
+-   0x615a2071e01b28093e65d81be32cea6e173d69d5... 1 positions: LONG XMR x4
 ### 00:09 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - CLOSED SHORT PONS (0x03ef8f736498047c3349bb2c18311d1bb4a79054)
