@@ -3843,3 +3843,10 @@ _Auto-generated. Newest entry at top._
 -   0xf02d028ffeddc120a3ec59602a6617303ca55eb3... 2 positions: SHORT ETH x20, SHORT HYPE x10
 -   0x03ef8f736498047c3349bb2c18311d1bb4a79054... 1 positions: SHORT HYPE x10
 -   0x77746ff04a7014752ab12d81d531aa5e50775343... 1 positions: SHORT HYPE x10
+
+## 2026-09-15
+
+### 00:09 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- CLOSED SHORT PONS (0x03ef8f736498047c3349bb2c18311d1bb4a79054)
+- Portfolio equity: $9,057.64 (-9.42%)
