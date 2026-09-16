@@ -3869,3 +3869,20 @@ _Auto-generated. Newest entry at top._
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - CLOSED SHORT PONS (0x03ef8f736498047c3349bb2c18311d1bb4a79054)
 - Portfolio equity: $9,057.64 (-9.42%)
+
+## 2026-09-16
+
+### 14:10 UTC — Daily refresh (Job A)
+- Leaderboard: 45008 traders fetched, 5 shortlisted
+- Shortlist change: +3 new, -3 dropped
+- #1 0xe71cbf47fff309813bcea54f3ecf49a5f129264d acc=$3,357,276 month=$145,580 edge=206bps
+- #2 0x03ef8f736498047c3349bb2c18311d1bb4a79054 acc=$7,441,315 month=$1,317,792 edge=784bps
+- #3 0xb0026ca48937bd18c5941c05decab68b0fcced8a acc=$5,292,088 month=$994,603 edge=721bps
+- #4 0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05 acc=$34,044,870 month=$6,539,682 edge=1872bps
+- #5 0x7facb3ec0415d6605e0cf5dff744f1108224ff4d acc=$1,844,922 month=$430,130 edge=668bps
+- Current positions across the shortlist:
+-   0xe71cbf47fff309813bcea54f3ecf49a5f129264d... 1 positions: SHORT MEGA x3
+-   0x03ef8f736498047c3349bb2c18311d1bb4a79054... 1 positions: SHORT HYPE x10
+-   0xb0026ca48937bd18c5941c05decab68b0fcced8a... 1 positions: SHORT ETH x25
+-   0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05... 18 positions: LONG BTC x40, LONG ETH x25, SHORT AVAX x10, SHORT SUI x10, SHORT kPEPE x10, SHORT CRV x10, SHORT LINK x10, SHORT XRP x20, SHORT AAVE x10, SHORT kSHIB x10, SHORT ADA x10, SHORT PENDLE x5, SHORT NEAR x10, SHORT FIL x5, SHORT STRK x5, SHORT GRASS x3, SHORT HYPE x3, LONG ZEC x5
+-   0x7facb3ec0415d6605e0cf5dff744f1108224ff4d... 1 positions: SHORT HYPE x10
