@@ -3872,6 +3872,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-16
 
+### 16:20 UTC — Position poll (Job B)
+- 0 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
+- SKIPPED SHORT ETH (0xb0026ca48937bd18c5941c05decab68b0fcced8a) — only 1/5 traders
+- Portfolio equity: $9,055.51 (-9.44%)
 ### 14:10 UTC — Daily refresh (Job A)
 - Leaderboard: 45008 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
