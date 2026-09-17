@@ -10239,5 +10239,19 @@
     "unrealized_pnl": -3.519258099372075,
     "liquidation_price": 0,
     "exit_reason": "time-stop (9d open, flat)"
+  },
+  {
+    "ts": "2026-09-17T21:39:53.719593+00:00",
+    "trader": "0x8607a7d180de23645db594d90621d837749408d5",
+    "type": "CLOSED",
+    "coin": "SOL",
+    "side": "LONG",
+    "size": 8.511096588109828,
+    "entry_price": 101.93999999999998,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -4.808769572281912,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (5d open, flat)"
   }
 ]

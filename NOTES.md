@@ -3893,6 +3893,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-17
 
+### 21:39 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT LONG SOL [time-stop (5d open, flat)]
+- Portfolio equity: $9,084.93 (-9.15%)
 ### 14:43 UTC — Position poll (Job B)
 - 11 signal(s) acted on, 10 skipped (confluence), 0 paused (daily profit limit):
 - NEW LONG ETH (0xd142479997958a4fefd1f8d5373b31ce36987d73) [2/5 traders]
