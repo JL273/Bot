@@ -3893,6 +3893,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-17
 
+### 14:15 UTC — Daily refresh (Job A)
+- Leaderboard: 45389 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+- #1 0xd142479997958a4fefd1f8d5373b31ce36987d73 acc=$1,675,800 month=$839,101 edge=256bps
+- #2 0x30afce2f6842bf183c7e3fe7162e279ff0b6393e acc=$7,895,433 month=$3,052,880 edge=211bps
+- #3 0xfdf891f2b214a4c9374d26595ec6d4080262e381 acc=$1,771,779 month=$611,653 edge=536bps
+- #4 0x4cae5bed586f6e73ae54ebd40a4ac4ed2c477c34 acc=$2,773,800 month=$2,607,066 edge=2863bps
+- #5 0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05 acc=$34,741,873 month=$6,902,390 edge=1976bps
+- Current positions across the shortlist:
+-   0xd142479997958a4fefd1f8d5373b31ce36987d73... 5 positions: LONG ETH x3, LONG ARB x10, LONG UNI x3, LONG ONDO x5, LONG BOME x2
+-   0x30afce2f6842bf183c7e3fe7162e279ff0b6393e... 2 positions: LONG INJ x5, LONG NEAR x10
+-   0xfdf891f2b214a4c9374d26595ec6d4080262e381... 3 positions: LONG GRASS x3, LONG HYPE x10, LONG AERO x3
+-   0x4cae5bed586f6e73ae54ebd40a4ac4ed2c477c34... 8 positions: LONG NEAR x10, LONG TAO x5, LONG ENA x5, LONG HYPE x10, LONG SYRUP x3, LONG PUMP x10, LONG ZEC x10, LONG LIT x5
+-   0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05... 18 positions: LONG BTC x40, LONG ETH x25, SHORT AVAX x10, SHORT SUI x10, SHORT kPEPE x10, SHORT CRV x10, SHORT LINK x10, SHORT XRP x20, SHORT AAVE x10, SHORT kSHIB x10, SHORT ADA x10, SHORT PENDLE x5, SHORT NEAR x10, SHORT FIL x5, SHORT STRK x5, SHORT GRASS x3, SHORT HYPE x3, LONG ZEC x5
 ### 09:59 UTC — Position poll (Job B)
 - 0 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
 - SKIPPED SHORT CASHCAT (0x03ef8f736498047c3349bb2c18311d1bb4a79054) — only 1/5 traders
