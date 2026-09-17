@@ -3893,6 +3893,30 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-17
 
+### 14:43 UTC — Position poll (Job B)
+- 11 signal(s) acted on, 10 skipped (confluence), 0 paused (daily profit limit):
+- NEW LONG ETH (0xd142479997958a4fefd1f8d5373b31ce36987d73) [2/5 traders]
+- NEW LONG NEAR (0x30afce2f6842bf183c7e3fe7162e279ff0b6393e) [2/5 traders]
+- CLOSED LONG LIT (0xfdf891f2b214a4c9374d26595ec6d4080262e381)
+- CLOSED LONG NEAR (0xfdf891f2b214a4c9374d26595ec6d4080262e381)
+- CLOSED LONG VVV (0xfdf891f2b214a4c9374d26595ec6d4080262e381)
+- CLOSED LONG ENA (0xfdf891f2b214a4c9374d26595ec6d4080262e381)
+- CLOSED SHORT ETH (0xfdf891f2b214a4c9374d26595ec6d4080262e381)
+- NEW LONG ZEC (0x4cae5bed586f6e73ae54ebd40a4ac4ed2c477c34) [2/5 traders]
+- NEW LONG NEAR (0x4cae5bed586f6e73ae54ebd40a4ac4ed2c477c34) [2/5 traders]
+- NEW LONG HYPE (0x4cae5bed586f6e73ae54ebd40a4ac4ed2c477c34) [2/5 traders]
+- EXIT SHORT HYPE [time-stop (9d open, flat)]
+- SKIPPED LONG UNI (0xd142479997958a4fefd1f8d5373b31ce36987d73) — only 1/5 traders
+- SKIPPED LONG ONDO (0xd142479997958a4fefd1f8d5373b31ce36987d73) — only 1/5 traders
+- SKIPPED LONG BOME (0xd142479997958a4fefd1f8d5373b31ce36987d73) — only 1/5 traders
+- SKIPPED LONG ARB (0xd142479997958a4fefd1f8d5373b31ce36987d73) — only 1/5 traders
+- SKIPPED LONG INJ (0x30afce2f6842bf183c7e3fe7162e279ff0b6393e) — only 1/5 traders
+- SKIPPED LONG PUMP (0x4cae5bed586f6e73ae54ebd40a4ac4ed2c477c34) — only 1/5 traders
+- SKIPPED LONG LIT (0x4cae5bed586f6e73ae54ebd40a4ac4ed2c477c34) — only 1/5 traders
+- SKIPPED LONG SYRUP (0x4cae5bed586f6e73ae54ebd40a4ac4ed2c477c34) — only 1/5 traders
+- SKIPPED LONG ENA (0x4cae5bed586f6e73ae54ebd40a4ac4ed2c477c34) — only 1/5 traders
+- SKIPPED LONG TAO (0x4cae5bed586f6e73ae54ebd40a4ac4ed2c477c34) — only 1/5 traders
+- Portfolio equity: $9,005.61 (-9.94%)
 ### 14:15 UTC — Daily refresh (Job A)
 - Leaderboard: 45389 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped
