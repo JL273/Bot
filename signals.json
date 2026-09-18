@@ -10253,5 +10253,32 @@
     "unrealized_pnl": -4.808769572281912,
     "liquidation_price": 0,
     "exit_reason": "time-stop (5d open, flat)"
+  },
+  {
+    "ts": "2026-09-18T01:26:59.677870+00:00",
+    "trader": "0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05",
+    "type": "CLOSED",
+    "coin": "ZEC",
+    "side": "LONG",
+    "size": 163.52,
+    "entry_price": 759.9555,
+    "position_value_usd": 240308.992,
+    "leverage": 5,
+    "unrealized_pnl": 116041.066803,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-09-18T01:26:59.677870+00:00",
+    "trader": "0xde8a6d588f8067e761bac811a102e0146c721e41",
+    "type": "CLOSED",
+    "coin": "HYPE",
+    "side": "SHORT",
+    "size": 13.801177489180107,
+    "entry_price": 80.997,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -80.49536770564292,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-21.6% of margin)"
   }
 ]

@@ -3939,3 +3939,12 @@ _Auto-generated. Newest entry at top._
 - 0 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
 - SKIPPED SHORT CASHCAT (0x03ef8f736498047c3349bb2c18311d1bb4a79054) — only 1/5 traders
 - Portfolio equity: $9,151.26 (-8.49%)
+
+## 2026-09-18
+
+### 01:27 UTC — Position poll (Job B)
+- 2 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
+- CLOSED LONG ZEC (0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05)
+- EXIT SHORT HYPE [SL hit (-21.6% of margin)]
+- SKIPPED SHORT ZEC (0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05) — only 1/5 traders
+- Portfolio equity: $9,088.85 (-9.11%)
