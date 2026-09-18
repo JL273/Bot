@@ -3942,6 +3942,16 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-18
 
+### 06:11 UTC — Position poll (Job B)
+- 5 signal(s) acted on, 2 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT HYPE [SL hit (-22.0% of margin)]
+- EXIT LONG LIT [TP hit (+53.9% of margin)]
+- EXIT SHORT HYPE [SL hit (-21.5% of margin)]
+- EXIT LONG NEAR [TP hit (+67.8% of margin)]
+- EXIT LONG NEAR [TP hit (+67.8% of margin)]
+- SKIPPED LONG SOL (0xd142479997958a4fefd1f8d5373b31ce36987d73) — only 1/5 traders
+- SKIPPED LONG PONS (0xd142479997958a4fefd1f8d5373b31ce36987d73) — only 1/5 traders
+- Portfolio equity: $9,321.80 (-6.78%)
 ### 01:27 UTC — Position poll (Job B)
 - 2 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
 - CLOSED LONG ZEC (0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05)
