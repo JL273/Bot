@@ -10350,5 +10350,19 @@
     "unrealized_pnl": 175.19672398700297,
     "liquidation_price": 0,
     "exit_reason": "TP hit (+67.8% of margin)"
+  },
+  {
+    "ts": "2026-09-18T20:25:31.921393+00:00",
+    "trader": "0x77eeda199553e33b246e4b4666849b9ad0972902",
+    "type": "CLOSED",
+    "coin": "ADA",
+    "side": "SHORT",
+    "size": 5205.848150264574,
+    "entry_price": 0.2084373417431505,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -74.9520226045614,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-20.7% of margin)"
   }
 ]
