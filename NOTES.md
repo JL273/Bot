@@ -3942,6 +3942,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-18
 
+### 13:33 UTC — Daily refresh (Job A)
+- Leaderboard: 45948 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+- #1 0xead5b7d86c681c036c59cd00a0390541061c69f2 acc=$10,655,127 month=$2,814,574 edge=4529bps
+- #2 0xa9b95f2a2e7ef219021efc5c04c32761b8553bbd acc=$39,813,748 month=$14,998,892 edge=1117bps
+- #3 0x025c62433ecf89ed45edf7f41bf05318204d0b2b acc=$3,256,825 month=$1,434,269 edge=2081bps
+- #4 0x30afce2f6842bf183c7e3fe7162e279ff0b6393e acc=$12,679,227 month=$8,492,500 edge=681bps
+- #5 0xe867fbdad3291530e41530301ecb77693850c78e acc=$96,585,513 month=$32,178,703 edge=5017bps
+- Current positions across the shortlist:
+-   0xead5b7d86c681c036c59cd00a0390541061c69f2... 3 positions: SHORT HYPE x8, SHORT VVV x3, SHORT ZEC x5
+-   0xa9b95f2a2e7ef219021efc5c04c32761b8553bbd... 1 positions: LONG HYPE x10
+-   0x025c62433ecf89ed45edf7f41bf05318204d0b2b... 1 positions: LONG PONS x2
+-   0x30afce2f6842bf183c7e3fe7162e279ff0b6393e... 2 positions: LONG INJ x5, LONG NEAR x10
+-   0xe867fbdad3291530e41530301ecb77693850c78e... 1 positions: LONG XMR x5
 ### 06:11 UTC — Position poll (Job B)
 - 5 signal(s) acted on, 2 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT HYPE [SL hit (-22.0% of margin)]
