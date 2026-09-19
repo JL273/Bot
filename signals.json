@@ -10364,5 +10364,18 @@
     "unrealized_pnl": -74.9520226045614,
     "liquidation_price": 0,
     "exit_reason": "SL hit (-20.7% of margin)"
+  },
+  {
+    "ts": "2026-09-19T18:39:04.757543+00:00",
+    "trader": "0x08c14b32c8a48894e4b933090ebcc9ce33b21135",
+    "type": "CLOSED",
+    "coin": "ENA",
+    "side": "LONG",
+    "size": 1093558.0,
+    "entry_price": 0.071549,
+    "position_value_usd": 218777.21348,
+    "leverage": 10,
+    "unrealized_pnl": 140533.430367,
+    "liquidation_price": 0.0
   }
 ]
