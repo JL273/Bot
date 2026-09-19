@@ -3984,3 +3984,20 @@ _Auto-generated. Newest entry at top._
 - EXIT SHORT HYPE [SL hit (-21.6% of margin)]
 - SKIPPED SHORT ZEC (0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05) — only 1/5 traders
 - Portfolio equity: $9,088.85 (-9.11%)
+
+## 2026-09-19
+
+### 13:05 UTC — Daily refresh (Job A)
+- Leaderboard: 46302 traders fetched, 5 shortlisted
+- Shortlist change: +2 new, -2 dropped
+- #1 0xa9b95f2a2e7ef219021efc5c04c32761b8553bbd acc=$41,187,427 month=$13,681,581 edge=3477bps
+- #2 0x30afce2f6842bf183c7e3fe7162e279ff0b6393e acc=$15,121,531 month=$10,919,054 edge=875bps
+- #3 0xe867fbdad3291530e41530301ecb77693850c78e acc=$99,132,972 month=$22,846,673 edge=3790bps
+- #4 0x08c14b32c8a48894e4b933090ebcc9ce33b21135 acc=$6,770,723 month=$3,495,373 edge=6894bps
+- #5 0x1338a67b37aeaf796357d78501a0c3695c51c48e acc=$2,540,757 month=$2,015,613 edge=2650bps
+- Current positions across the shortlist:
+-   0xa9b95f2a2e7ef219021efc5c04c32761b8553bbd... 1 positions: LONG HYPE x10
+-   0x30afce2f6842bf183c7e3fe7162e279ff0b6393e... 2 positions: LONG INJ x5, LONG NEAR x10
+-   0xe867fbdad3291530e41530301ecb77693850c78e... 1 positions: LONG XMR x5
+-   0x08c14b32c8a48894e4b933090ebcc9ce33b21135... 10 positions: SHORT BTC x20, LONG ARB x10, LONG LDO x5, LONG AAVE x10, LONG ZRO x5, LONG ETHFI x5, LONG ENA x10, LONG EIGEN x5, SHORT WLFI x5, LONG MEGA x3
+-   0x1338a67b37aeaf796357d78501a0c3695c51c48e... 1 positions: LONG ZEC x4
