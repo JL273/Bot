@@ -4012,6 +4012,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-20
 
+### 13:33 UTC — Daily refresh (Job A)
+- Leaderboard: 46106 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+- #1 0x30afce2f6842bf183c7e3fe7162e279ff0b6393e acc=$14,933,589 month=$10,792,466 edge=865bps
+- #2 0xe7795fce474d1eafd645a29e799a64f85dc26ba7 acc=$319,395 month=$403,601 edge=348bps
+- #3 0xb0026ca48937bd18c5941c05decab68b0fcced8a acc=$5,735,010 month=$778,643 edge=748bps
+- #4 0xceec48581b3145a575508719f45da07dc57fa7ce acc=$17,221,386 month=$2,701,328 edge=1101bps
+- #5 0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a acc=$1,383,046 month=$476,679 edge=497bps
+- Current positions across the shortlist:
+-   0x30afce2f6842bf183c7e3fe7162e279ff0b6393e... 2 positions: LONG INJ x5, LONG NEAR x10
+-   0xe7795fce474d1eafd645a29e799a64f85dc26ba7... 1 positions: LONG ARB x10
+-   0xb0026ca48937bd18c5941c05decab68b0fcced8a... 2 positions: SHORT ETH x25, SHORT CASHCAT x3
+-   0xceec48581b3145a575508719f45da07dc57fa7ce... 1 positions: SHORT HYPE x5
+-   0xfd81b27d9796a1ba7d7171ea70010c9befb2a62a... 1 positions: SHORT LIT x5
 ### 05:02 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT LONG BTC [time-stop (13d open, flat)]
