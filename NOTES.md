@@ -4009,3 +4009,10 @@ _Auto-generated. Newest entry at top._
 -   0xe867fbdad3291530e41530301ecb77693850c78e... 1 positions: LONG XMR x5
 -   0x08c14b32c8a48894e4b933090ebcc9ce33b21135... 10 positions: SHORT BTC x20, LONG ARB x10, LONG LDO x5, LONG AAVE x10, LONG ZRO x5, LONG ETHFI x5, LONG ENA x10, LONG EIGEN x5, SHORT WLFI x5, LONG MEGA x3
 -   0x1338a67b37aeaf796357d78501a0c3695c51c48e... 1 positions: LONG ZEC x4
+
+## 2026-09-20
+
+### 05:02 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT LONG BTC [time-stop (13d open, flat)]
+- Portfolio equity: $9,381.87 (-6.18%)
