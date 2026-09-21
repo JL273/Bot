@@ -1,5 +1,5 @@
 {
-  "cash": 7999.026382648931,
+  "cash": 8223.026668737997,
   "starting_cash": 10000.0,
   "open_positions": {
     "0xf78c5d8d4b604a140d43a46209fade655536c581:ETH:LONG": {
@@ -44,19 +44,19 @@
       "notional": 815.960449922328,
       "opened_at": "2026-09-17T14:43:36.438462+00:00"
     },
-    "0xeadc152ac1014ace57c6b353f89adf5faffe9d55:GRASS:LONG": {
-      "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
-      "coin": "GRASS",
+    "0xe867fbdad3291530e41530301ecb77693850c78e:XRP:LONG": {
+      "trader": "0xe867fbdad3291530e41530301ecb77693850c78e",
+      "coin": "XRP",
       "side": "LONG",
-      "size": 3429.160029884435,
-      "entry_price": 0.3683420643543702,
-      "entry_fee": 0.6315519422045633,
-      "entry_slippage_bps": 4.67,
+      "size": 769.038557490924,
+      "entry_price": 1.5602,
+      "entry_fee": 0.5999269786986698,
+      "entry_slippage_bps": 0.32,
       "entry_fill_method": "book",
       "leverage": 3,
-      "margin": 421.0346281363756,
-      "notional": 1263.1038844091267,
-      "opened_at": "2026-09-21T18:36:52.429559+00:00"
+      "margin": 399.95131913244654,
+      "notional": 1199.8539573973396,
+      "opened_at": "2026-09-21T22:10:07.318561+00:00"
     }
   },
   "equity_history": [
@@ -25254,7 +25254,17 @@
       "ts": "2026-09-21T18:36:53.834743+00:00",
       "equity": 9553.021882620089,
       "cash": 7999.026382648931
+    },
+    {
+      "ts": "2026-09-21T22:10:09.162687+00:00",
+      "equity": 9766.301041914508,
+      "cash": 7598.475136537785
+    },
+    {
+      "ts": "2026-09-21T22:10:10.042426+00:00",
+      "equity": 9763.595340782591,
+      "cash": 8223.026668737997
     }
   ],
-  "last_processed_signal_index": 763
+  "last_processed_signal_index": 765
 }

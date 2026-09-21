@@ -4050,6 +4050,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-21
 
+### 22:10 UTC — Position poll (Job B)
+- 2 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- NEW LONG XRP (0xe867fbdad3291530e41530301ecb77693850c78e) [2/5 traders]
+- EXIT LONG GRASS [TP hit (+49.0% of margin)]
+- Portfolio equity: $9,763.60 (-2.36%)
 ### 18:36 UTC — Position poll (Job B)
 - 2 signal(s) acted on, 2 skipped (confluence), 0 paused (daily profit limit):
 - NEW LONG GRASS (0xeadc152ac1014ace57c6b353f89adf5faffe9d55) [2/5 traders]

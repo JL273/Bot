@@ -8073,5 +8073,30 @@
     "pnl_pct": 39.786103520820234,
     "total_slippage_bps": 10.31,
     "exit_reason": "TP hit (+40.1% of margin)"
+  },
+  {
+    "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
+    "coin": "GRASS",
+    "side": "LONG",
+    "size": 3429.160029884435,
+    "entry_price": 0.3683420643543702,
+    "entry_fee": 0.6315519422045633,
+    "entry_slippage_bps": 4.67,
+    "entry_fill_method": "book",
+    "leverage": 3,
+    "margin": 421.0346281363756,
+    "notional": 1263.1038844091267,
+    "opened_at": "2026-09-21T18:36:52.429559+00:00",
+    "exit_price": 0.4280891882527369,
+    "exit_fee": 0.7339931667909795,
+    "total_fees": 1.3655451089955428,
+    "exit_slippage_bps": 9.12,
+    "exit_fill_method": "book",
+    "closed_at": "2026-09-21T22:10:07.318561+00:00",
+    "gross_pnl": 204.8824491728321,
+    "pnl": 203.51690406383656,
+    "pnl_pct": 48.33733153129538,
+    "total_slippage_bps": 13.79,
+    "exit_reason": "TP hit (+49.0% of margin)"
   }
 ]
