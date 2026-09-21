@@ -10509,5 +10509,32 @@
     "unrealized_pnl": 98.30319486178045,
     "liquidation_price": 0,
     "exit_reason": "TP hit (+40.1% of margin)"
+  },
+  {
+    "ts": "2026-09-21T18:36:52.429559+00:00",
+    "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
+    "type": "NEW",
+    "confluence": 2,
+    "coin": "GRASS",
+    "side": "LONG",
+    "size": 3000000.0,
+    "entry_price": 0.37002,
+    "position_value_usd": 1104330.0,
+    "leverage": 3,
+    "unrealized_pnl": -5731.286676,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-09-21T18:36:52.429559+00:00",
+    "trader": "0x8607a7d180de23645db594d90621d837749408d5",
+    "type": "CLOSED",
+    "coin": "PURR",
+    "side": "SHORT",
+    "size": 358744.0,
+    "entry_price": 0.111528,
+    "position_value_usd": 39590.98784,
+    "leverage": 3,
+    "unrealized_pnl": 419.0698,
+    "liquidation_price": 16.4564681814
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "cash": 8420.69256272751,
+  "cash": 7999.026382648931,
   "starting_cash": 10000.0,
   "open_positions": {
     "0xf78c5d8d4b604a140d43a46209fade655536c581:ETH:LONG": {
@@ -43,6 +43,20 @@
       "margin": 271.986816640776,
       "notional": 815.960449922328,
       "opened_at": "2026-09-17T14:43:36.438462+00:00"
+    },
+    "0xeadc152ac1014ace57c6b353f89adf5faffe9d55:GRASS:LONG": {
+      "trader": "0xeadc152ac1014ace57c6b353f89adf5faffe9d55",
+      "coin": "GRASS",
+      "side": "LONG",
+      "size": 3429.160029884435,
+      "entry_price": 0.3683420643543702,
+      "entry_fee": 0.6315519422045633,
+      "entry_slippage_bps": 4.67,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 421.0346281363756,
+      "notional": 1263.1038844091267,
+      "opened_at": "2026-09-21T18:36:52.429559+00:00"
     }
   },
   "equity_history": [
@@ -25235,7 +25249,12 @@
       "ts": "2026-09-21T13:04:46.985906+00:00",
       "equity": 9580.90399901496,
       "cash": 8420.69256272751
+    },
+    {
+      "ts": "2026-09-21T18:36:53.834743+00:00",
+      "equity": 9553.021882620089,
+      "cash": 7999.026382648931
     }
   ],
-  "last_processed_signal_index": 761
+  "last_processed_signal_index": 763
 }
