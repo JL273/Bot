@@ -4047,3 +4047,20 @@ _Auto-generated. Newest entry at top._
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT LONG BTC [time-stop (13d open, flat)]
 - Portfolio equity: $9,381.87 (-6.18%)
+
+## 2026-09-21
+
+### 15:51 UTC — Daily refresh (Job A)
+- Leaderboard: 46587 traders fetched, 5 shortlisted
+- Shortlist change: +5 new, -5 dropped
+- #1 0xe867fbdad3291530e41530301ecb77693850c78e acc=$100,741,090 month=$18,644,721 edge=3330bps
+- #2 0xfdf891f2b214a4c9374d26595ec6d4080262e381 acc=$2,405,990 month=$1,515,109 edge=2268bps
+- #3 0xeadc152ac1014ace57c6b353f89adf5faffe9d55 acc=$20,921,662 month=$8,870,836 edge=3930bps
+- #4 0xaeb0791ac2f5fa62891babf69d1445ef094fc176 acc=$1,351,807 month=$101,440 edge=179bps
+- #5 0x8607a7d180de23645db594d90621d837749408d5 acc=$21,474,661 month=$3,160,734 edge=5403bps
+- Current positions across the shortlist:
+-   0xe867fbdad3291530e41530301ecb77693850c78e... 1 positions: LONG XMR x5
+-   0xfdf891f2b214a4c9374d26595ec6d4080262e381... 3 positions: LONG GRASS x3, LONG HYPE x10, LONG AERO x3
+-   0xeadc152ac1014ace57c6b353f89adf5faffe9d55... 38 positions: LONG AVAX x10, LONG LTC x10, LONG DOGE x10, LONG SUI x10, LONG kPEPE x10, LONG LINK x10, LONG CFX x5, LONG XRP x20, LONG AAVE x10, LONG WLD x10, LONG TRX x10, LONG ZRO x5, LONG ADA x10, LONG FET x5, LONG NEAR x10, LONG FIL x5, LONG IMX x5, LONG kBONK x10, LONG WIF x5, LONG ENS x5, LONG W x5, LONG STRK x5, LONG TAO x5, LONG ENA x10, LONG MNT x5, LONG HBAR x5, LONG POPCAT x3, LONG GRASS x3, LONG FARTCOIN x10, LONG PUMP x5, LONG XPL x10, LONG LINEA x3, LONG ASTER x5, LONG APEX x3, LONG GRAM x5, LONG CASHCAT x3, LONG PONS x3, LONG USELESS x3
+-   0xaeb0791ac2f5fa62891babf69d1445ef094fc176... no open positions
+-   0x8607a7d180de23645db594d90621d837749408d5... 20 positions: LONG BTC x29, LONG SOL x20, SHORT AVAX x10, SHORT LTC x10, SHORT XRP x20, LONG SEI x5, SHORT RUNE x5, SHORT NEAR x10, SHORT kBONK x10, SHORT TAO x5, SHORT RENDER x5, SHORT kNEIRO x3, SHORT GRASS x3, LONG VIRTUAL x5, SHORT PENGU x5, LONG USUAL x3, SHORT FARTCOIN x3, SHORT AIXBT x3, LONG BERA x5, SHORT PONS x3
