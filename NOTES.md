@@ -4079,6 +4079,12 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-22
 
+### 14:46 UTC — Position poll (Job B)
+- 2 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
+- NEW LONG HYPE (0xbd334a55db91617545e8d1b09941e036ad8e4200) [2/5 traders]
+- NEW LONG SOL (0x13da9d69a9b8a28495ade07d3ff1c61d024808be) [2/5 traders]
+- SKIPPED LONG AVAX (0x13da9d69a9b8a28495ade07d3ff1c61d024808be) — only 1/5 traders
+- Portfolio equity: $9,752.15 (-2.48%)
 ### 14:00 UTC — Daily refresh (Job A)
 - Leaderboard: 46778 traders fetched, 5 shortlisted
 - Shortlist change: +2 new, -2 dropped
