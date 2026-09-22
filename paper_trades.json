@@ -8098,5 +8098,30 @@
     "pnl_pct": 48.33733153129538,
     "total_slippage_bps": 13.79,
     "exit_reason": "TP hit (+49.0% of margin)"
+  },
+  {
+    "trader": "0xe867fbdad3291530e41530301ecb77693850c78e",
+    "coin": "XRP",
+    "side": "LONG",
+    "size": 769.038557490924,
+    "entry_price": 1.5602,
+    "entry_fee": 0.5999269786986698,
+    "entry_slippage_bps": 0.32,
+    "entry_fill_method": "book",
+    "leverage": 3,
+    "margin": 399.95131913244654,
+    "notional": 1199.8539573973396,
+    "opened_at": "2026-09-21T22:10:07.318561+00:00",
+    "exit_price": 1.5735,
+    "exit_fee": 0.6050410851059844,
+    "total_fees": 1.2049680638046543,
+    "exit_slippage_bps": 0.32,
+    "exit_fill_method": "book",
+    "closed_at": "2026-09-22T21:24:03.403668+00:00",
+    "gross_pnl": 10.228212814629186,
+    "pnl": 9.023244750824531,
+    "pnl_pct": 2.2560857582360976,
+    "total_slippage_bps": 0.64,
+    "exit_reason": "trader"
   }
 ]
