@@ -10564,5 +10564,18 @@
     "unrealized_pnl": 206.22260519575613,
     "liquidation_price": 0,
     "exit_reason": "TP hit (+49.0% of margin)"
+  },
+  {
+    "ts": "2026-09-22T00:47:20.838253+00:00",
+    "trader": "0xe867fbdad3291530e41530301ecb77693850c78e",
+    "type": "CLOSED",
+    "coin": "XMR",
+    "side": "LONG",
+    "size": 750.0,
+    "entry_price": 502.651,
+    "position_value_usd": 448395.0,
+    "leverage": 5,
+    "unrealized_pnl": 71406.65837,
+    "liquidation_price": 0.0
   }
 ]
