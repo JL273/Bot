@@ -4079,6 +4079,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-22
 
+### 14:00 UTC — Daily refresh (Job A)
+- Leaderboard: 46778 traders fetched, 5 shortlisted
+- Shortlist change: +2 new, -2 dropped
+- #1 0xbd334a55db91617545e8d1b09941e036ad8e4200 acc=$8,148,452 month=$2,080,646 edge=2542bps
+- #2 0xfdf891f2b214a4c9374d26595ec6d4080262e381 acc=$2,741,929 month=$1,779,914 edge=2664bps
+- #3 0x8607a7d180de23645db594d90621d837749408d5 acc=$21,677,281 month=$3,473,233 edge=5978bps
+- #4 0xe867fbdad3291530e41530301ecb77693850c78e acc=$102,575,033 month=$17,449,457 edge=4222bps
+- #5 0x13da9d69a9b8a28495ade07d3ff1c61d024808be acc=$13,765,443 month=$2,923,687 edge=119bps
+- Current positions across the shortlist:
+-   0xbd334a55db91617545e8d1b09941e036ad8e4200... 1 positions: LONG HYPE x10
+-   0xfdf891f2b214a4c9374d26595ec6d4080262e381... 3 positions: LONG GRASS x3, LONG HYPE x10, LONG AERO x3
+-   0x8607a7d180de23645db594d90621d837749408d5... 20 positions: LONG BTC x29, LONG SOL x20, SHORT AVAX x10, SHORT LTC x10, SHORT XRP x20, LONG SEI x5, SHORT RUNE x5, SHORT NEAR x10, SHORT kBONK x10, SHORT TAO x5, SHORT RENDER x5, SHORT kNEIRO x3, SHORT GRASS x3, LONG VIRTUAL x5, SHORT PENGU x5, LONG USUAL x3, SHORT FARTCOIN x3, SHORT AIXBT x3, LONG BERA x5, SHORT PONS x3
+-   0xe867fbdad3291530e41530301ecb77693850c78e... 2 positions: LONG XRP x20, LONG XMR x5
+-   0x13da9d69a9b8a28495ade07d3ff1c61d024808be... 2 positions: LONG SOL x3, LONG AVAX x3
 ### 05:26 UTC — Position poll (Job B)
 - 0 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
 - SKIPPED LONG XMR (0xe867fbdad3291530e41530301ecb77693850c78e) — only 1/5 traders
