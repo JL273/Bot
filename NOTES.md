@@ -4079,6 +4079,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-22
 
+### 18:18 UTC — Position poll (Job B)
+- 0 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
+- SKIPPED SHORT HYPE (0xe867fbdad3291530e41530301ecb77693850c78e) — only 1/5 traders
+- Portfolio equity: $9,860.95 (-1.39%)
 ### 14:46 UTC — Position poll (Job B)
 - 2 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
 - NEW LONG HYPE (0xbd334a55db91617545e8d1b09941e036ad8e4200) [2/5 traders]
