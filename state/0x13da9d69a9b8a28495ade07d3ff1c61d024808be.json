@@ -1,26 +1,26 @@
 {
-  "account_value": 13818434.150511,
+  "account_value": 13188399.05227,
   "positions": [
     {
       "coin": "SOL",
       "side": "LONG",
       "size": 282675.31,
       "entry_price": 104.794,
-      "position_value_usd": 33694896.952,
+      "position_value_usd": 33067357.7638,
       "leverage": 3,
-      "unrealized_pnl": 4072219.2838,
-      "liquidation_price": 72.1184872998
+      "unrealized_pnl": 3444680.0956,
+      "liquidation_price": 72.1275432883
     },
     {
       "coin": "AVAX",
       "side": "LONG",
       "size": 0.01,
       "entry_price": 7.9406,
-      "position_value_usd": 0.11215,
+      "position_value_usd": 0.10885,
       "leverage": 3,
-      "unrealized_pnl": 0.032744,
-      "liquidation_price": 5.6088421053
+      "unrealized_pnl": 0.029444,
+      "liquidation_price": 5.6094736842
     }
   ],
-  "timestamp_ms": 1790145700487
+  "timestamp_ms": 1790165316235
 }
