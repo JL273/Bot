@@ -10672,5 +10672,44 @@
     "leverage": 10,
     "unrealized_pnl": -6854.03061,
     "liquidation_price": 590.4058363426
+  },
+  {
+    "ts": "2026-09-23T16:50:32.316587+00:00",
+    "trader": "0x051c2e6d49cf82ebc47f08f9b85800f94fc9693c",
+    "type": "CLOSED",
+    "coin": "BTC",
+    "side": "LONG",
+    "size": 12.87329,
+    "entry_price": 77671.0,
+    "position_value_usd": 1018792.1706,
+    "leverage": 21,
+    "unrealized_pnl": 18910.54349,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-09-23T16:50:32.316587+00:00",
+    "trader": "0x051c2e6d49cf82ebc47f08f9b85800f94fc9693c",
+    "type": "CLOSED",
+    "coin": "JTO",
+    "side": "LONG",
+    "size": 385463.0,
+    "entry_price": 0.52002,
+    "position_value_usd": 190233.69976,
+    "leverage": 3,
+    "unrealized_pnl": -10215.05018,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-09-23T16:50:32.316587+00:00",
+    "trader": "0x051c2e6d49cf82ebc47f08f9b85800f94fc9693c",
+    "type": "CLOSED",
+    "coin": "ENA",
+    "side": "LONG",
+    "size": 700045.0,
+    "entry_price": 0.142966,
+    "position_value_usd": 120904.071905,
+    "leverage": 6,
+    "unrealized_pnl": 20820.990985,
+    "liquidation_price": 0.0
   }
 ]
