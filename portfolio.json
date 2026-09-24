@@ -1,5 +1,5 @@
 {
-  "cash": 8703.599849920254,
+  "cash": 8267.767087435497,
   "starting_cash": 10000.0,
   "open_positions": {
     "0xf78c5d8d4b604a140d43a46209fade655536c581:ETH:LONG": {
@@ -43,6 +43,20 @@
       "margin": 390.5629304150471,
       "notional": 1171.6887912451414,
       "opened_at": "2026-09-22T14:46:14.811112+00:00"
+    },
+    "0x4cae5bed586f6e73ae54ebd40a4ac4ed2c477c34:XPL:LONG": {
+      "trader": "0x4cae5bed586f6e73ae54ebd40a4ac4ed2c477c34",
+      "coin": "XPL",
+      "side": "LONG",
+      "size": 14490.445583157107,
+      "entry_price": 0.09009660676035565,
+      "entry_fee": 0.6527699887440191,
+      "entry_slippage_bps": 1.07,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 435.17999249601274,
+      "notional": 1305.5399774880382,
+      "opened_at": "2026-09-24T05:26:09.679827+00:00"
     }
   },
   "equity_history": [
@@ -25325,7 +25339,12 @@
       "ts": "2026-09-24T00:42:58.086736+00:00",
       "equity": 9857.47913057662,
       "cash": 8703.599849920254
+    },
+    {
+      "ts": "2026-09-24T05:26:11.654517+00:00",
+      "equity": 9866.271833758256,
+      "cash": 8267.767087435497
     }
   ],
-  "last_processed_signal_index": 776
+  "last_processed_signal_index": 777
 }
