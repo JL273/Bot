@@ -4154,6 +4154,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-24
 
+### 10:16 UTC — Position poll (Job B)
+- 0 signal(s) acted on, 2 skipped (confluence), 0 paused (daily profit limit):
+- SKIPPED SHORT ETH (0xfdf891f2b214a4c9374d26595ec6d4080262e381) — only 1/5 traders
+- SKIPPED LONG BTC (0x051c2e6d49cf82ebc47f08f9b85800f94fc9693c) — only 1/5 traders
+- Portfolio equity: $9,772.13 (-2.28%)
 ### 05:26 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - NEW LONG XPL (0x4cae5bed586f6e73ae54ebd40a4ac4ed2c477c34) [2/5 traders]
