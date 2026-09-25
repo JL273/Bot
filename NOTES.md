@@ -4188,6 +4188,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-25
 
+### 14:34 UTC — Daily refresh (Job A)
+- Leaderboard: 46869 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+- #1 0x5371c4517b448006941ae335e5cafd54af573c11 acc=$2,440,405 month=$1,387,833 edge=1187bps
+- #2 0x13da9d69a9b8a28495ade07d3ff1c61d024808be acc=$14,614,661 month=$3,386,087 edge=219bps
+- #3 0x4cae5bed586f6e73ae54ebd40a4ac4ed2c477c34 acc=$5,561,287 month=$4,383,177 edge=5749bps
+- #4 0xeadc152ac1014ace57c6b353f89adf5faffe9d55 acc=$23,792,354 month=$12,339,665 edge=8173bps
+- #5 0x77eeda199553e33b246e4b4666849b9ad0972902 acc=$8,469,846 month=$3,084,801 edge=1349bps
+- Current positions across the shortlist:
+-   0x5371c4517b448006941ae335e5cafd54af573c11... 5 positions: LONG TAO x5, LONG ENA x10, LONG PUMP x10, LONG AERO x3, LONG LIT x5
+-   0x13da9d69a9b8a28495ade07d3ff1c61d024808be... 1 positions: LONG SOL x3
+-   0x4cae5bed586f6e73ae54ebd40a4ac4ed2c477c34... 9 positions: LONG NEAR x10, LONG TAO x5, LONG ENA x5, LONG HYPE x10, LONG SYRUP x3, LONG PUMP x10, LONG XPL x10, LONG ZEC x10, LONG LIT x5
+-   0xeadc152ac1014ace57c6b353f89adf5faffe9d55... 37 positions: LONG AVAX x10, LONG LTC x10, LONG DOGE x10, LONG kPEPE x10, LONG LINK x10, LONG CFX x5, LONG XRP x20, LONG AAVE x10, LONG WLD x10, LONG TRX x10, LONG ZRO x5, LONG ADA x10, LONG FET x5, LONG NEAR x10, LONG FIL x5, LONG IMX x5, LONG kBONK x10, LONG WIF x5, LONG ENS x5, LONG W x5, LONG STRK x5, LONG TAO x5, LONG ENA x10, LONG MNT x5, LONG HBAR x5, LONG POPCAT x3, LONG GRASS x3, LONG FARTCOIN x10, LONG PUMP x5, LONG XPL x10, LONG LINEA x3, LONG ASTER x5, LONG APEX x3, LONG GRAM x5, LONG CASHCAT x3, LONG PONS x3, LONG USELESS x3
+-   0x77eeda199553e33b246e4b4666849b9ad0972902... 11 positions: SHORT BTC x40, LONG ETH x25, SHORT SOL x20, SHORT OP x5, LONG WLD x10, SHORT ADA x10, LONG NEAR x10, SHORT VVV x3, SHORT PUMP x10, SHORT ZEC x10, LONG ICP x5
 ### 05:16 UTC — Position poll (Job B)
 - 0 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
 - SKIPPED LONG BTC (0x8f8d2d2565bfb10608a7ce64b48e2aea7875a344) — only 1/5 traders
