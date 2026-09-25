@@ -4188,6 +4188,16 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-25
 
+### 15:15 UTC — Position poll (Job B)
+- 6 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
+- NEW LONG LIT (0x5371c4517b448006941ae335e5cafd54af573c11) [2/5 traders]
+- NEW LONG TAO (0x5371c4517b448006941ae335e5cafd54af573c11) [3/5 traders]
+- NEW LONG PUMP (0x5371c4517b448006941ae335e5cafd54af573c11) [3/5 traders]
+- NEW LONG ENA (0x5371c4517b448006941ae335e5cafd54af573c11) [3/5 traders]
+- CLOSED LONG AVAX (0x13da9d69a9b8a28495ade07d3ff1c61d024808be)
+- CLOSED LONG SUI (0xeadc152ac1014ace57c6b353f89adf5faffe9d55)
+- SKIPPED LONG AERO (0x5371c4517b448006941ae335e5cafd54af573c11) — only 1/5 traders
+- Portfolio equity: $10,117.18 (+1.17%)
 ### 14:34 UTC — Daily refresh (Job A)
 - Leaderboard: 46869 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped
