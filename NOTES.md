@@ -4185,3 +4185,10 @@ _Auto-generated. Newest entry at top._
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - NEW LONG XPL (0x4cae5bed586f6e73ae54ebd40a4ac4ed2c477c34) [2/5 traders]
 - Portfolio equity: $9,866.27 (-1.34%)
+
+## 2026-09-25
+
+### 05:16 UTC — Position poll (Job B)
+- 0 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
+- SKIPPED LONG BTC (0x8f8d2d2565bfb10608a7ce64b48e2aea7875a344) — only 1/5 traders
+- Portfolio equity: $10,059.57 (+0.60%)
