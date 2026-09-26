@@ -1,5 +1,5 @@
 {
-  "cash": 7243.691039062863,
+  "cash": 7674.415325869589,
   "starting_cash": 10000.0,
   "open_positions": {
     "0xf78c5d8d4b604a140d43a46209fade655536c581:ETH:LONG": {
@@ -29,20 +29,6 @@
       "margin": 301.41802439199495,
       "notional": 904.2540731759848,
       "opened_at": "2026-09-17T14:43:36.438462+00:00"
-    },
-    "0x13da9d69a9b8a28495ade07d3ff1c61d024808be:SOL:LONG": {
-      "trader": "0x13da9d69a9b8a28495ade07d3ff1c61d024808be",
-      "coin": "SOL",
-      "side": "LONG",
-      "size": 10.061732857407826,
-      "entry_price": 116.45,
-      "entry_fee": 0.5858443956225707,
-      "entry_slippage_bps": 3.86,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 390.5629304150471,
-      "notional": 1171.6887912451414,
-      "opened_at": "2026-09-22T14:46:14.811112+00:00"
     },
     "0x5371c4517b448006941ae335e5cafd54af573c11:LIT:LONG": {
       "trader": "0x5371c4517b448006941ae335e5cafd54af573c11",
@@ -25446,7 +25432,12 @@
       "ts": "2026-09-26T00:40:42.085247+00:00",
       "equity": 10222.47195595743,
       "cash": 7243.691039062863
+    },
+    {
+      "ts": "2026-09-26T05:26:44.399047+00:00",
+      "equity": 10362.284934678231,
+      "cash": 7674.415325869589
     }
   ],
-  "last_processed_signal_index": 785
+  "last_processed_signal_index": 786
 }

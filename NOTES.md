@@ -4216,3 +4216,10 @@ _Auto-generated. Newest entry at top._
 - 0 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
 - SKIPPED LONG BTC (0x8f8d2d2565bfb10608a7ce64b48e2aea7875a344) — only 1/5 traders
 - Portfolio equity: $10,059.57 (+0.60%)
+
+## 2026-09-26
+
+### 05:26 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- CLOSED LONG SOL (0x13da9d69a9b8a28495ade07d3ff1c61d024808be)
+- Portfolio equity: $10,362.28 (+3.62%)
