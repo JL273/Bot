@@ -4219,6 +4219,19 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-26
 
+### 14:13 UTC — Position poll (Job B)
+- 3 signal(s) acted on, 7 skipped (confluence), 0 paused (daily profit limit):
+- NEW LONG kPEPE (0x266b5569ed3017e74dd48059c6db804e016eefcb) [2/5 traders]
+- NEW LONG TAO (0x266b5569ed3017e74dd48059c6db804e016eefcb) [3/5 traders]
+- NEW LONG HYPE (0x266b5569ed3017e74dd48059c6db804e016eefcb) [2/5 traders]
+- SKIPPED SHORT LIT (0x50f49b9ff9e376d8090ac799ccafdd750e40b920) — only 1/5 traders
+- SKIPPED SHORT SEI (0x50f49b9ff9e376d8090ac799ccafdd750e40b920) — only 1/5 traders
+- SKIPPED SHORT ETHFI (0x50f49b9ff9e376d8090ac799ccafdd750e40b920) — only 1/5 traders
+- SKIPPED SHORT XRP (0x50f49b9ff9e376d8090ac799ccafdd750e40b920) — only 1/5 traders
+- SKIPPED SHORT SUI (0x50f49b9ff9e376d8090ac799ccafdd750e40b920) — only 1/5 traders
+- SKIPPED LONG ZEC (0x266b5569ed3017e74dd48059c6db804e016eefcb) — only 1/5 traders
+- SKIPPED LONG VIRTUAL (0x266b5569ed3017e74dd48059c6db804e016eefcb) — only 1/5 traders
+- Portfolio equity: $10,380.60 (+3.81%)
 ### 13:43 UTC — Daily refresh (Job A)
 - Leaderboard: 46876 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped

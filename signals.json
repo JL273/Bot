@@ -10847,5 +10847,47 @@
     "leverage": 3,
     "unrealized_pnl": 4702585.2251,
     "liquidation_price": 72.2123638577
+  },
+  {
+    "ts": "2026-09-26T14:13:40.645185+00:00",
+    "trader": "0x266b5569ed3017e74dd48059c6db804e016eefcb",
+    "type": "NEW",
+    "confluence": 2,
+    "coin": "kPEPE",
+    "side": "LONG",
+    "size": 50000000.0,
+    "entry_price": 0.003879,
+    "position_value_usd": 219700.0,
+    "leverage": 10,
+    "unrealized_pnl": 25703.483854,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-09-26T14:13:40.645185+00:00",
+    "trader": "0x266b5569ed3017e74dd48059c6db804e016eefcb",
+    "type": "NEW",
+    "confluence": 3,
+    "coin": "TAO",
+    "side": "LONG",
+    "size": 4000.0,
+    "entry_price": 207.631,
+    "position_value_usd": 1303840.0,
+    "leverage": 5,
+    "unrealized_pnl": 473313.858134,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-09-26T14:13:40.645185+00:00",
+    "trader": "0x266b5569ed3017e74dd48059c6db804e016eefcb",
+    "type": "NEW",
+    "confluence": 2,
+    "coin": "HYPE",
+    "side": "LONG",
+    "size": 31250.0,
+    "entry_price": 63.0522,
+    "position_value_usd": 2882975.0,
+    "leverage": 10,
+    "unrealized_pnl": 912593.594769,
+    "liquidation_price": 21.704933674
   }
 ]
