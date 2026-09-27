@@ -4253,6 +4253,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-27
 
+### 14:40 UTC — Daily refresh (Job A)
+- Leaderboard: 46957 traders fetched, 5 shortlisted
+- Shortlist change: +3 new, -3 dropped
+- #1 0x4cae5bed586f6e73ae54ebd40a4ac4ed2c477c34 acc=$5,854,095 month=$4,346,509 edge=7071bps
+- #2 0xff2fed9cb48196ec35fd97b290c583e7a63b17b7 acc=$491,112 month=$76,776 edge=119bps
+- #3 0x77eeda199553e33b246e4b4666849b9ad0972902 acc=$9,319,806 month=$4,007,361 edge=1743bps
+- #4 0xfdf891f2b214a4c9374d26595ec6d4080262e381 acc=$4,245,684 month=$3,082,164 edge=3902bps
+- #5 0xeadc152ac1014ace57c6b353f89adf5faffe9d55 acc=$26,825,697 month=$13,770,631 edge=5620bps
+- Current positions across the shortlist:
+-   0x4cae5bed586f6e73ae54ebd40a4ac4ed2c477c34... 9 positions: LONG NEAR x10, LONG TAO x5, LONG ENA x5, LONG HYPE x10, LONG SYRUP x3, LONG PUMP x10, LONG XPL x10, LONG ZEC x10, LONG LIT x5
+-   0xff2fed9cb48196ec35fd97b290c583e7a63b17b7... 3 positions: LONG ZRO x5, LONG HYPE x3, LONG PONS x3
+-   0x77eeda199553e33b246e4b4666849b9ad0972902... 11 positions: SHORT BTC x40, LONG ETH x25, SHORT SOL x20, SHORT OP x5, LONG WLD x10, SHORT ADA x10, LONG NEAR x10, SHORT VVV x3, SHORT PUMP x10, SHORT ZEC x10, LONG ICP x5
+-   0xfdf891f2b214a4c9374d26595ec6d4080262e381... 4 positions: SHORT ETH x20, LONG GRASS x3, LONG HYPE x10, LONG AERO x3
+-   0xeadc152ac1014ace57c6b353f89adf5faffe9d55... 37 positions: LONG AVAX x10, LONG LTC x10, LONG DOGE x10, LONG kPEPE x10, LONG LINK x10, LONG CFX x5, LONG XRP x20, LONG AAVE x10, LONG WLD x10, LONG TRX x10, LONG ZRO x5, LONG ADA x10, LONG FET x5, LONG NEAR x10, LONG FIL x5, LONG IMX x5, LONG kBONK x10, LONG WIF x5, LONG ENS x5, LONG W x5, LONG STRK x5, LONG TAO x5, LONG ENA x10, LONG MNT x5, LONG HBAR x5, LONG POPCAT x3, LONG GRASS x3, LONG FARTCOIN x10, LONG PUMP x5, LONG XPL x10, LONG LINEA x3, LONG ASTER x5, LONG APEX x3, LONG GRAM x5, LONG CASHCAT x3, LONG PONS x3, LONG USELESS x3
 ### 05:52 UTC — Position poll (Job B)
 - 2 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - CLOSED SHORT XRP (0x50f49b9ff9e376d8090ac799ccafdd750e40b920)
