@@ -4253,6 +4253,13 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-27
 
+### 15:21 UTC — Position poll (Job B)
+- 4 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- NEW LONG PONS (0xff2fed9cb48196ec35fd97b290c583e7a63b17b7) [2/5 traders]
+- NEW LONG HYPE (0xff2fed9cb48196ec35fd97b290c583e7a63b17b7) [3/5 traders]
+- NEW LONG ZRO (0xff2fed9cb48196ec35fd97b290c583e7a63b17b7) [2/5 traders]
+- EXIT LONG PUMP [TP hit (+46.4% of margin)]
+- Portfolio equity: $10,351.88 (+3.52%)
 ### 14:40 UTC — Daily refresh (Job A)
 - Leaderboard: 46957 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped

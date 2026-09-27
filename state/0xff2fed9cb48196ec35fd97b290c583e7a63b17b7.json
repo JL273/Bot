@@ -1,0 +1,36 @@
+{
+  "account_value": 355200.963293,
+  "positions": [
+    {
+      "coin": "ZRO",
+      "side": "LONG",
+      "size": 100000.0,
+      "entry_price": 1.05417,
+      "position_value_usd": 160070.0,
+      "leverage": 5,
+      "unrealized_pnl": 54652.31795,
+      "liquidation_price": 0.0
+    },
+    {
+      "coin": "HYPE",
+      "side": "LONG",
+      "size": 9000.0,
+      "entry_price": 82.1674,
+      "position_value_usd": 822582.0,
+      "leverage": 3,
+      "unrealized_pnl": 83074.56866,
+      "liquidation_price": 44.3564133801
+    },
+    {
+      "coin": "PONS",
+      "side": "LONG",
+      "size": 160000.0,
+      "entry_price": 0.670395,
+      "position_value_usd": 93996.8,
+      "leverage": 3,
+      "unrealized_pnl": -13266.42268,
+      "liquidation_price": 0.0
+    }
+  ],
+  "timestamp_ms": 1790522486495
+}
