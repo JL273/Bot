@@ -8273,5 +8273,30 @@
     "pnl_pct": 45.8733506341835,
     "total_slippage_bps": 13.34,
     "exit_reason": "TP hit (+46.4% of margin)"
+  },
+  {
+    "trader": "0x5371c4517b448006941ae335e5cafd54af573c11",
+    "coin": "ENA",
+    "side": "LONG",
+    "size": 4484.380730094283,
+    "entry_price": 0.25507,
+    "entry_fee": 0.5719154964125744,
+    "entry_slippage_bps": 5.1,
+    "entry_fill_method": "book",
+    "leverage": 3,
+    "margin": 381.27699760838294,
+    "notional": 1143.8309928251488,
+    "opened_at": "2026-09-25T15:15:22.495009+00:00",
+    "exit_price": 0.292244468472605,
+    "exit_fee": 0.655267731447598,
+    "total_fees": 1.2271832278601724,
+    "exit_slippage_bps": 5.83,
+    "exit_fill_method": "book",
+    "closed_at": "2026-09-27T19:02:52.129433+00:00",
+    "gross_pnl": 166.70447007004717,
+    "pnl": 165.477286842187,
+    "pnl_pct": 43.40080515744933,
+    "total_slippage_bps": 10.93,
+    "exit_reason": "TP hit (+43.9% of margin)"
   }
 ]
