@@ -10999,5 +10999,44 @@
     "unrealized_pnl": -91.68473693590256,
     "liquidation_price": 0,
     "exit_reason": "SL hit (-20.6% of margin)"
+  },
+  {
+    "ts": "2026-09-28T11:54:17.304773+00:00",
+    "trader": "0xff2fed9cb48196ec35fd97b290c583e7a63b17b7",
+    "type": "CLOSED",
+    "coin": "ZRO",
+    "side": "LONG",
+    "size": 100000.0,
+    "entry_price": 1.05417,
+    "position_value_usd": 157130.0,
+    "leverage": 5,
+    "unrealized_pnl": 51712.31795,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-09-28T11:54:17.304773+00:00",
+    "trader": "0xff2fed9cb48196ec35fd97b290c583e7a63b17b7",
+    "type": "CLOSED",
+    "coin": "PONS",
+    "side": "LONG",
+    "size": 160000.0,
+    "entry_price": 0.670395,
+    "position_value_usd": 87862.4,
+    "leverage": 3,
+    "unrealized_pnl": -19400.82268,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-09-28T11:54:17.304773+00:00",
+    "trader": "0xff2fed9cb48196ec35fd97b290c583e7a63b17b7",
+    "type": "CLOSED",
+    "coin": "HYPE",
+    "side": "LONG",
+    "size": 9000.0,
+    "entry_price": 82.1674,
+    "position_value_usd": 805023.0,
+    "leverage": 3,
+    "unrealized_pnl": 65515.56866,
+    "liquidation_price": 45.284920264
   }
 ]
