@@ -4286,6 +4286,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-28
 
+### 17:36 UTC — Daily refresh (Job A)
+- Leaderboard: 46797 traders fetched, 5 shortlisted
+- Shortlist change: +5 new, -5 dropped
+- #1 0xf02d028ffeddc120a3ec59602a6617303ca55eb3 acc=$15,267,926 month=$1,314,932 edge=686bps
+- #2 0x73ce82fb75868af2a687e9889fcf058dd1cf8ce9 acc=$2,752,830 month=$1,276,842 edge=2152bps
+- #3 0xc26cbb6483229e0d0f9a1cab675271eda535b8f4 acc=$28,339,558 month=$144,254 edge=99bps
+- #4 0x50f49b9ff9e376d8090ac799ccafdd750e40b920 acc=$1,980,017 month=$81,458 edge=104bps
+- #5 0xbbf7fbc7fa97a88c83c1b8a825692f84ef9d4b13 acc=$1,636,320 month=$447,152 edge=493bps
+- Current positions across the shortlist:
+-   0xf02d028ffeddc120a3ec59602a6617303ca55eb3... 3 positions: SHORT BTC x10, SHORT ETH x20, SHORT HYPE x10
+-   0x73ce82fb75868af2a687e9889fcf058dd1cf8ce9... 3 positions: LONG LINK x5, SHORT XRP x5, LONG NEAR x5
+-   0xc26cbb6483229e0d0f9a1cab675271eda535b8f4... 2 positions: LONG WLD x1, SHORT HYPE x2
+-   0x50f49b9ff9e376d8090ac799ccafdd750e40b920... 3 positions: SHORT SEI x5, SHORT ETHFI x5, SHORT LIT x3
+-   0xbbf7fbc7fa97a88c83c1b8a825692f84ef9d4b13... 2 positions: SHORT ZEC x5, SHORT PONS x3
 ### 11:54 UTC — Position poll (Job B)
 - 3 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - CLOSED LONG ZRO (0xff2fed9cb48196ec35fd97b290c583e7a63b17b7)
