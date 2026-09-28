@@ -4283,3 +4283,10 @@ _Auto-generated. Newest entry at top._
 - CLOSED SHORT XRP (0x50f49b9ff9e376d8090ac799ccafdd750e40b920)
 - CLOSED SHORT SUI (0x50f49b9ff9e376d8090ac799ccafdd750e40b920)
 - Portfolio equity: $10,328.93 (+3.29%)
+
+## 2026-09-28
+
+### 05:31 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT LONG LIT [SL hit (-20.6% of margin)]
+- Portfolio equity: $10,079.51 (+0.80%)
