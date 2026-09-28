@@ -4286,6 +4286,21 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-28
 
+### 18:46 UTC — Position poll (Job B)
+- 5 signal(s) acted on, 7 skipped (confluence), 0 paused (daily profit limit):
+- NEW SHORT HYPE (0xc26cbb6483229e0d0f9a1cab675271eda535b8f4) [2/5 traders]
+- CLOSED LONG BTC (0xc26cbb6483229e0d0f9a1cab675271eda535b8f4)
+- CLOSED LONG LINK (0xc26cbb6483229e0d0f9a1cab675271eda535b8f4)
+- CLOSED LONG XRP (0xc26cbb6483229e0d0f9a1cab675271eda535b8f4)
+- CLOSED LONG SOL (0xc26cbb6483229e0d0f9a1cab675271eda535b8f4)
+- SKIPPED SHORT BTC (0xf02d028ffeddc120a3ec59602a6617303ca55eb3) — only 1/5 traders
+- SKIPPED SHORT XRP (0x73ce82fb75868af2a687e9889fcf058dd1cf8ce9) — only 1/5 traders
+- SKIPPED LONG LINK (0x73ce82fb75868af2a687e9889fcf058dd1cf8ce9) — only 1/5 traders
+- SKIPPED LONG NEAR (0x73ce82fb75868af2a687e9889fcf058dd1cf8ce9) — only 1/5 traders
+- SKIPPED LONG WLD (0xc26cbb6483229e0d0f9a1cab675271eda535b8f4) — only 1/5 traders
+- SKIPPED SHORT ZEC (0xbbf7fbc7fa97a88c83c1b8a825692f84ef9d4b13) — only 1/5 traders
+- SKIPPED SHORT PONS (0xbbf7fbc7fa97a88c83c1b8a825692f84ef9d4b13) — only 1/5 traders
+- Portfolio equity: $10,088.99 (+0.89%)
 ### 17:36 UTC — Daily refresh (Job A)
 - Leaderboard: 46797 traders fetched, 5 shortlisted
 - Shortlist change: +5 new, -5 dropped

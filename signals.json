@@ -11038,5 +11038,71 @@
     "leverage": 3,
     "unrealized_pnl": 65515.56866,
     "liquidation_price": 45.284920264
+  },
+  {
+    "ts": "2026-09-28T18:46:37.100411+00:00",
+    "trader": "0xc26cbb6483229e0d0f9a1cab675271eda535b8f4",
+    "type": "NEW",
+    "confluence": 2,
+    "coin": "HYPE",
+    "side": "SHORT",
+    "size": 18101.31,
+    "entry_price": 72.1133,
+    "position_value_usd": 1600807.45116,
+    "leverage": 2,
+    "unrealized_pnl": -295461.89188,
+    "liquidation_price": 1553.092899853
+  },
+  {
+    "ts": "2026-09-28T18:46:37.100411+00:00",
+    "trader": "0xc26cbb6483229e0d0f9a1cab675271eda535b8f4",
+    "type": "CLOSED",
+    "coin": "BTC",
+    "side": "LONG",
+    "size": 79.65619,
+    "entry_price": 67243.1,
+    "position_value_usd": 5054424.22407,
+    "leverage": 2,
+    "unrealized_pnl": -301910.18239,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-09-28T18:46:37.100411+00:00",
+    "trader": "0xc26cbb6483229e0d0f9a1cab675271eda535b8f4",
+    "type": "CLOSED",
+    "coin": "LINK",
+    "side": "LONG",
+    "size": 407024.0,
+    "entry_price": 8.92104,
+    "position_value_usd": 3383794.024,
+    "leverage": 2,
+    "unrealized_pnl": -247286.64681,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-09-28T18:46:37.100411+00:00",
+    "trader": "0xc26cbb6483229e0d0f9a1cab675271eda535b8f4",
+    "type": "CLOSED",
+    "coin": "XRP",
+    "side": "LONG",
+    "size": 4014025.0,
+    "entry_price": 1.324002,
+    "position_value_usd": 4239211.8025,
+    "leverage": 1,
+    "unrealized_pnl": -1075365.7618,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-09-28T18:46:37.100411+00:00",
+    "trader": "0xc26cbb6483229e0d0f9a1cab675271eda535b8f4",
+    "type": "CLOSED",
+    "coin": "SOL",
+    "side": "LONG",
+    "size": 91276.13,
+    "entry_price": 131.022,
+    "position_value_usd": 6704688.12915,
+    "leverage": 2,
+    "unrealized_pnl": -5254501.467169,
+    "liquidation_price": 0.0
   }
 ]
