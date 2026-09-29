@@ -11118,5 +11118,18 @@
     "unrealized_pnl": -95.61279169966512,
     "liquidation_price": 0,
     "exit_reason": "SL hit (-26.2% of margin)"
+  },
+  {
+    "ts": "2026-09-29T09:01:21.972445+00:00",
+    "trader": "0x50f49b9ff9e376d8090ac799ccafdd750e40b920",
+    "type": "CLOSED",
+    "coin": "SEI",
+    "side": "SHORT",
+    "size": 309524.0,
+    "entry_price": 0.071794,
+    "position_value_usd": 22771.68068,
+    "leverage": 5,
+    "unrealized_pnl": -549.714624,
+    "liquidation_price": 2.5470089527
   }
 ]
