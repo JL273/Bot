@@ -1,5 +1,5 @@
 {
-  "cash": 7546.934569235981,
+  "cash": 7814.795417476026,
   "starting_cash": 10000.0,
   "open_positions": {
     "0xf78c5d8d4b604a140d43a46209fade655536c581:ETH:LONG": {
@@ -56,20 +56,6 @@
       "leverage": 3,
       "margin": 383.72076629347947,
       "notional": 1151.1622988804384,
-      "opened_at": "2026-09-26T14:13:40.645185+00:00"
-    },
-    "0x266b5569ed3017e74dd48059c6db804e016eefcb:TAO:LONG": {
-      "trader": "0x266b5569ed3017e74dd48059c6db804e016eefcb",
-      "coin": "TAO",
-      "side": "LONG",
-      "size": 3.3542463322106695,
-      "entry_price": 326.01,
-      "entry_fee": 0.5467589233820002,
-      "entry_slippage_bps": 0.46,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 364.5059489213334,
-      "notional": 1093.5178467640003,
       "opened_at": "2026-09-26T14:13:40.645185+00:00"
     },
     "0x266b5569ed3017e74dd48059c6db804e016eefcb:HYPE:LONG": {
@@ -25546,7 +25532,17 @@
       "ts": "2026-09-28T23:32:10.398176+00:00",
       "equity": 10090.756671842839,
       "cash": 7546.934569235981
+    },
+    {
+      "ts": "2026-09-29T02:40:54.714522+00:00",
+      "equity": 9968.686327414236,
+      "cash": 7546.934569235981
+    },
+    {
+      "ts": "2026-09-29T02:40:55.377861+00:00",
+      "equity": 9967.654018432613,
+      "cash": 7814.795417476026
     }
   ],
-  "last_processed_signal_index": 805
+  "last_processed_signal_index": 806
 }

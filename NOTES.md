@@ -4325,3 +4325,10 @@ _Auto-generated. Newest entry at top._
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT LONG LIT [SL hit (-20.6% of margin)]
 - Portfolio equity: $10,079.51 (+0.80%)
+
+## 2026-09-29
+
+### 02:40 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT LONG TAO [SL hit (-26.2% of margin)]
+- Portfolio equity: $9,967.65 (-0.32%)
