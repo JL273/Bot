@@ -4358,6 +4358,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-30
 
+### 15:52 UTC — Daily refresh (Job A)
+- Leaderboard: 46810 traders fetched, 5 shortlisted
+- Shortlist change: +3 new, -3 dropped
+- #1 0xfdf891f2b214a4c9374d26595ec6d4080262e381 acc=$4,488,909 month=$3,733,441 edge=5049bps
+- #2 0x45f717946a3fb49054ebebecbb1ab8ce9325f166 acc=$2,972,923 month=$363,947 edge=337bps
+- #3 0x880ac484a1743862989a441d6d867238c7aa311c acc=$22,162,622 month=$2,537,099 edge=613bps
+- #4 0xc26cbb6483229e0d0f9a1cab675271eda535b8f4 acc=$28,403,125 month=$230,503 edge=157bps
+- #5 0x28cee4465f95720cb8464d56faea656751119040 acc=$1,391,827 month=$330,409 edge=384bps
+- Current positions across the shortlist:
+-   0xfdf891f2b214a4c9374d26595ec6d4080262e381... 4 positions: SHORT ETH x20, LONG GRASS x3, LONG HYPE x10, LONG AERO x3
+-   0x45f717946a3fb49054ebebecbb1ab8ce9325f166... 1 positions: SHORT ZEC x2
+-   0x880ac484a1743862989a441d6d867238c7aa311c... 6 positions: SHORT BTC x11, LONG HYPE x8, SHORT FARTCOIN x3, SHORT PUMP x5, SHORT ZEC x10, SHORT XMR x5
+-   0xc26cbb6483229e0d0f9a1cab675271eda535b8f4... 1 positions: SHORT HYPE x2
+-   0x28cee4465f95720cb8464d56faea656751119040... 2 positions: SHORT ENA x10, SHORT HYPE x10
 ### 15:17 UTC — Position poll (Job B)
 - 2 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - CLOSED LONG WLD (0xc26cbb6483229e0d0f9a1cab675271eda535b8f4)
