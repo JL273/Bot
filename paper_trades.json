@@ -8448,5 +8448,30 @@
     "pnl_pct": -23.81707360686649,
     "total_slippage_bps": 1.09,
     "exit_reason": "SL hit (-23.5% of margin)"
+  },
+  {
+    "trader": "0x5371c4517b448006941ae335e5cafd54af573c11",
+    "coin": "TAO",
+    "side": "LONG",
+    "size": 4.159601542340774,
+    "entry_price": 304.7414251476277,
+    "entry_fee": 0.6338014510295988,
+    "entry_slippage_bps": 1.85,
+    "entry_fill_method": "book",
+    "leverage": 3,
+    "margin": 422.53430068639926,
+    "notional": 1267.6029020591977,
+    "opened_at": "2026-09-25T15:15:22.495009+00:00",
+    "exit_price": 303.2308244654131,
+    "exit_fee": 0.6306597025657985,
+    "total_fees": 1.2644611535953973,
+    "exit_slippage_bps": 4.09,
+    "exit_fill_method": "book",
+    "closed_at": "2026-09-30T15:17:45.181279+00:00",
+    "gross_pnl": -6.283496927600882,
+    "pnl": -7.547958081196279,
+    "pnl_pct": -1.7863539288845331,
+    "total_slippage_bps": 5.94,
+    "exit_reason": "time-stop (5d open, flat)"
   }
 ]

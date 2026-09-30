@@ -11145,5 +11145,32 @@
     "unrealized_pnl": -81.40183724978553,
     "liquidation_price": 0,
     "exit_reason": "SL hit (-23.5% of margin)"
+  },
+  {
+    "ts": "2026-09-30T15:17:45.181279+00:00",
+    "trader": "0xc26cbb6483229e0d0f9a1cab675271eda535b8f4",
+    "type": "CLOSED",
+    "coin": "WLD",
+    "side": "LONG",
+    "size": 394298.4,
+    "entry_price": 0.50723,
+    "position_value_usd": 197212.287744,
+    "leverage": 1,
+    "unrealized_pnl": -2787.689688,
+    "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-09-30T15:17:45.181279+00:00",
+    "trader": "0x5371c4517b448006941ae335e5cafd54af573c11",
+    "type": "CLOSED",
+    "coin": "TAO",
+    "side": "LONG",
+    "size": 4.159601542340774,
+    "entry_price": 304.7414251476277,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -5.766976182412118,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (5d open, flat)"
   }
 ]

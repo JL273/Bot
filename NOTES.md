@@ -4355,3 +4355,11 @@ _Auto-generated. Newest entry at top._
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT LONG TAO [SL hit (-26.2% of margin)]
 - Portfolio equity: $9,967.65 (-0.32%)
+
+## 2026-09-30
+
+### 15:17 UTC — Position poll (Job B)
+- 2 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- CLOSED LONG WLD (0xc26cbb6483229e0d0f9a1cab675271eda535b8f4)
+- EXIT LONG TAO [time-stop (5d open, flat)]
+- Portfolio equity: $10,046.84 (+0.47%)
