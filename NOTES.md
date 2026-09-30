@@ -4358,6 +4358,18 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-09-30
 
+### 20:04 UTC — Position poll (Job B)
+- 4 signal(s) acted on, 5 skipped (confluence), 0 paused (daily profit limit):
+- NEW SHORT ZEC (0x45f717946a3fb49054ebebecbb1ab8ce9325f166) [2/5 traders]
+- NEW SHORT ZEC (0x880ac484a1743862989a441d6d867238c7aa311c) [2/5 traders]
+- NEW LONG HYPE (0x880ac484a1743862989a441d6d867238c7aa311c) [2/5 traders]
+- NEW SHORT HYPE (0x28cee4465f95720cb8464d56faea656751119040) [2/5 traders]
+- SKIPPED SHORT BTC (0x880ac484a1743862989a441d6d867238c7aa311c) — only 1/5 traders
+- SKIPPED SHORT FARTCOIN (0x880ac484a1743862989a441d6d867238c7aa311c) — only 1/5 traders
+- SKIPPED SHORT XMR (0x880ac484a1743862989a441d6d867238c7aa311c) — only 1/5 traders
+- SKIPPED SHORT PUMP (0x880ac484a1743862989a441d6d867238c7aa311c) — only 1/5 traders
+- SKIPPED SHORT ENA (0x28cee4465f95720cb8464d56faea656751119040) — only 1/5 traders
+- Portfolio equity: $9,998.48 (-0.02%)
 ### 15:52 UTC — Daily refresh (Job A)
 - Leaderboard: 46810 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
