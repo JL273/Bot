@@ -1,5 +1,5 @@
 {
-  "cash": 7298.443403981312,
+  "cash": 7681.013007975911,
   "starting_cash": 10000.0,
   "open_positions": {
     "0xf78c5d8d4b604a140d43a46209fade655536c581:ETH:LONG": {
@@ -29,20 +29,6 @@
       "margin": 301.41802439199495,
       "notional": 904.2540731759848,
       "opened_at": "2026-09-17T14:43:36.438462+00:00"
-    },
-    "0x266b5569ed3017e74dd48059c6db804e016eefcb:kPEPE:LONG": {
-      "trader": "0x266b5569ed3017e74dd48059c6db804e016eefcb",
-      "coin": "kPEPE",
-      "side": "LONG",
-      "size": 261925.43774298942,
-      "entry_price": 0.004395,
-      "entry_fee": 0.5755811494402192,
-      "entry_slippage_bps": 2.28,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 383.72076629347947,
-      "notional": 1151.1622988804384,
-      "opened_at": "2026-09-26T14:13:40.645185+00:00"
     },
     "0xc26cbb6483229e0d0f9a1cab675271eda535b8f4:HYPE:SHORT": {
       "trader": "0xc26cbb6483229e0d0f9a1cab675271eda535b8f4",
@@ -25621,7 +25607,17 @@
       "ts": "2026-10-01T09:06:44.429416+00:00",
       "equity": 10035.030607687973,
       "cash": 7298.443403981312
+    },
+    {
+      "ts": "2026-10-01T16:20:14.068529+00:00",
+      "equity": 10152.30742280468,
+      "cash": 7298.443403981312
+    },
+    {
+      "ts": "2026-10-01T16:20:15.053697+00:00",
+      "equity": 10150.894335068058,
+      "cash": 7681.013007975911
     }
   ],
-  "last_processed_signal_index": 815
+  "last_processed_signal_index": 816
 }

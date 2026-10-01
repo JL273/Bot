@@ -11241,5 +11241,19 @@
     "leverage": 8,
     "unrealized_pnl": 20.29832,
     "liquidation_price": 0.0
+  },
+  {
+    "ts": "2026-10-01T16:20:12.519194+00:00",
+    "trader": "0x266b5569ed3017e74dd48059c6db804e016eefcb",
+    "type": "CLOSED",
+    "coin": "kPEPE",
+    "side": "LONG",
+    "size": 261925.43774298942,
+    "entry_price": 0.004395,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 0.2619254377430242,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (5d open, flat)"
   }
 ]
