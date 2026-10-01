@@ -4392,6 +4392,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-01
 
+### 21:05 UTC — Position poll (Job B)
+- 2 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- NEW SHORT ETH (0xb829fd12a23c88e0f1eb85238799f8fd400a3a81) [2/5 traders]
+- NEW SHORT BTC (0xb829fd12a23c88e0f1eb85238799f8fd400a3a81) [4/5 traders]
+- Portfolio equity: $10,204.81 (+2.05%)
 ### 16:21 UTC — Daily refresh (Job A)
 - Leaderboard: 46924 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
