@@ -4392,6 +4392,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-01
 
+### 16:21 UTC — Daily refresh (Job A)
+- Leaderboard: 46924 traders fetched, 5 shortlisted
+- Shortlist change: +3 new, -3 dropped
+- #1 0xf02d028ffeddc120a3ec59602a6617303ca55eb3 acc=$15,076,784 month=$692,462 edge=362bps
+- #2 0xb829fd12a23c88e0f1eb85238799f8fd400a3a81 acc=$5,952,214 month=$306,040 edge=121bps
+- #3 0x880ac484a1743862989a441d6d867238c7aa311c acc=$22,940,546 month=$3,210,803 edge=781bps
+- #4 0x08c14b32c8a48894e4b933090ebcc9ce33b21135 acc=$7,367,271 month=$4,249,878 edge=3287bps
+- #5 0x45f717946a3fb49054ebebecbb1ab8ce9325f166 acc=$3,087,505 month=$478,529 edge=443bps
+- Current positions across the shortlist:
+-   0xf02d028ffeddc120a3ec59602a6617303ca55eb3... 3 positions: SHORT BTC x10, SHORT ETH x20, SHORT HYPE x10
+-   0xb829fd12a23c88e0f1eb85238799f8fd400a3a81... 3 positions: SHORT BTC x20, SHORT ETH x20, SHORT HYPE x10
+-   0x880ac484a1743862989a441d6d867238c7aa311c... 5 positions: SHORT BTC x11, SHORT FARTCOIN x3, SHORT PUMP x5, SHORT ZEC x10, SHORT XMR x5
+-   0x08c14b32c8a48894e4b933090ebcc9ce33b21135... 10 positions: SHORT BTC x20, LONG ARB x10, LONG LDO x5, LONG AAVE x10, LONG ZRO x5, LONG ETHFI x5, SHORT ENA x10, LONG EIGEN x5, SHORT WLFI x5, LONG MEGA x3
+-   0x45f717946a3fb49054ebebecbb1ab8ce9325f166... 1 positions: SHORT ZEC x2
 ### 16:20 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT LONG kPEPE [time-stop (5d open, flat)]
