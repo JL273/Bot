@@ -11283,5 +11283,46 @@
     "leverage": 20,
     "unrealized_pnl": 24597.29025,
     "liquidation_price": 136844.8071658075
+  },
+  {
+    "ts": "2026-10-02T17:56:33.727901+00:00",
+    "trader": "0xfb41fac71418974b3093b111dcd6f05fe7e1c361",
+    "type": "NEW",
+    "confluence": 2,
+    "coin": "ZRO",
+    "side": "LONG",
+    "size": 358530.1,
+    "entry_price": 1.49199,
+    "position_value_usd": 651413.33869,
+    "leverage": 3,
+    "unrealized_pnl": 116487.092861,
+    "liquidation_price": 1.1131506232
+  },
+  {
+    "ts": "2026-10-02T17:56:33.727901+00:00",
+    "trader": "0x7c9063122c01837fe83da2521056e10c9b6dd129",
+    "type": "NEW",
+    "confluence": 2,
+    "coin": "WLD",
+    "side": "LONG",
+    "size": 821755.9,
+    "entry_price": 0.32408,
+    "position_value_usd": 459640.945106,
+    "leverage": 10,
+    "unrealized_pnl": 193320.880241,
+    "liquidation_price": 0.0761893458
+  },
+  {
+    "ts": "2026-10-02T17:56:33.727901+00:00",
+    "trader": "0xa2ce501d9c0c5e23d34272f84402cfb7835b3126",
+    "type": "CLOSED",
+    "coin": "SOL",
+    "side": "LONG",
+    "size": 19600.0,
+    "entry_price": 77.7668,
+    "position_value_usd": 2026248.0,
+    "leverage": 5,
+    "unrealized_pnl": 502017.925386,
+    "liquidation_price": 0.0
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "cash": 6931.019738550322,
+  "cash": 6254.257682715908,
   "starting_cash": 10000.0,
   "open_positions": {
     "0xf78c5d8d4b604a140d43a46209fade655536c581:ETH:LONG": {
@@ -113,6 +113,34 @@
       "margin": 364.81931408007586,
       "notional": 1094.4579422402276,
       "opened_at": "2026-10-01T21:05:07.682247+00:00"
+    },
+    "0xfb41fac71418974b3093b111dcd6f05fe7e1c361:ZRO:LONG": {
+      "trader": "0xfb41fac71418974b3093b111dcd6f05fe7e1c361",
+      "coin": "ZRO",
+      "side": "LONG",
+      "size": 571.8499894305072,
+      "entry_price": 1.8180519017197425,
+      "entry_fee": 0.5198264803912741,
+      "entry_slippage_bps": 12.95,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 346.5509869275161,
+      "notional": 1039.6529607825482,
+      "opened_at": "2026-10-02T17:56:33.727901+00:00"
+    },
+    "0x7c9063122c01837fe83da2521056e10c9b6dd129:WLD:LONG": {
+      "trader": "0x7c9063122c01837fe83da2521056e10c9b6dd129",
+      "coin": "WLD",
+      "side": "LONG",
+      "size": 1764.6734312005046,
+      "entry_price": 0.5596459499588571,
+      "entry_fee": 0.49379616938568116,
+      "entry_slippage_bps": 5.65,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 329.19744625712076,
+      "notional": 987.5923387713623,
+      "opened_at": "2026-10-02T17:56:33.727901+00:00"
     }
   },
   "equity_history": [
@@ -25665,7 +25693,12 @@
       "ts": "2026-10-02T12:26:27.883937+00:00",
       "equity": 10054.120110904485,
       "cash": 6931.019738550322
+    },
+    {
+      "ts": "2026-10-02T17:56:35.217494+00:00",
+      "equity": 10125.357324724337,
+      "cash": 6254.257682715908
     }
   ],
-  "last_processed_signal_index": 818
+  "last_processed_signal_index": 821
 }
