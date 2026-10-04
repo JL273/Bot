@@ -4463,3 +4463,20 @@ _Auto-generated. Newest entry at top._
 -   0xf02d028ffeddc120a3ec59602a6617303ca55eb3... 3 positions: SHORT BTC x10, SHORT ETH x20, SHORT HYPE x10
 -   0xfb41fac71418974b3093b111dcd6f05fe7e1c361... 1 positions: LONG ZRO x3
 -   0x45f717946a3fb49054ebebecbb1ab8ce9325f166... 1 positions: SHORT ZEC x2
+
+## 2026-10-04
+
+### 14:45 UTC — Daily refresh (Job A)
+- Leaderboard: 47195 traders fetched, 5 shortlisted
+- Shortlist change: +3 new, -3 dropped
+- #1 0x19f5c3bc2e0978d9a1da389d7d4cfe33cd770fe9 acc=$1,222,740 month=$492,589 edge=339bps
+- #2 0xf02d028ffeddc120a3ec59602a6617303ca55eb3 acc=$15,236,953 month=$461,987 edge=240bps
+- #3 0xfb41fac71418974b3093b111dcd6f05fe7e1c361 acc=$390,668 month=$244,781 edge=141bps
+- #4 0x45ab58a2034f03aa446baf3bb1d236706f866cbc acc=$7,240,229 month=$994,251 edge=504bps
+- #5 0xeadc152ac1014ace57c6b353f89adf5faffe9d55 acc=$21,577,032 month=$15,126,326 edge=4833bps
+- Current positions across the shortlist:
+-   0x19f5c3bc2e0978d9a1da389d7d4cfe33cd770fe9... 1 positions: LONG PUMP x10
+-   0xf02d028ffeddc120a3ec59602a6617303ca55eb3... 3 positions: SHORT BTC x10, SHORT ETH x20, SHORT HYPE x10
+-   0xfb41fac71418974b3093b111dcd6f05fe7e1c361... 1 positions: LONG ZRO x3
+-   0x45ab58a2034f03aa446baf3bb1d236706f866cbc... 3 positions: LONG ETH x7, SHORT HYPE x10, LONG MON x5
+-   0xeadc152ac1014ace57c6b353f89adf5faffe9d55... 38 positions: LONG AVAX x10, LONG LTC x10, LONG DOGE x10, LONG kPEPE x10, LONG LINK x10, LONG CFX x5, LONG XRP x20, LONG AAVE x10, LONG WLD x10, LONG TRX x10, LONG ZRO x5, LONG ADA x10, LONG FET x5, LONG NEAR x10, LONG FIL x5, LONG IMX x5, LONG kBONK x10, LONG WIF x5, LONG ENS x5, LONG W x5, LONG STRK x5, LONG TAO x5, LONG ENA x10, LONG MNT x5, LONG HBAR x5, LONG POPCAT x3, LONG GRASS x3, LONG IOTA x3, LONG FARTCOIN x10, LONG PUMP x5, LONG XPL x10, LONG LINEA x3, LONG ASTER x5, LONG APEX x3, LONG GRAM x5, LONG CASHCAT x3, LONG PONS x3, LONG USELESS x3
