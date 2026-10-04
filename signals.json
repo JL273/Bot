@@ -11338,5 +11338,33 @@
     "unrealized_pnl": 140.27371490888865,
     "liquidation_price": 0,
     "exit_reason": "TP hit (+40.5% of margin)"
+  },
+  {
+    "ts": "2026-10-04T15:16:44.593287+00:00",
+    "trader": "0x19f5c3bc2e0978d9a1da389d7d4cfe33cd770fe9",
+    "type": "NEW",
+    "confluence": 2,
+    "coin": "PUMP",
+    "side": "LONG",
+    "size": 211585940.0,
+    "entry_price": 0.004149,
+    "position_value_usd": 1332991.422,
+    "leverage": 10,
+    "unrealized_pnl": 455098.271567,
+    "liquidation_price": 0.0007273813
+  },
+  {
+    "ts": "2026-10-04T15:16:44.593287+00:00",
+    "trader": "0x45ab58a2034f03aa446baf3bb1d236706f866cbc",
+    "type": "NEW",
+    "confluence": 2,
+    "coin": "HYPE",
+    "side": "SHORT",
+    "size": 2688.09,
+    "entry_price": 53.8456,
+    "position_value_usd": 241946.91663,
+    "leverage": 10,
+    "unrealized_pnl": -97205.025005,
+    "liquidation_price": 2413.4180414995
   }
 ]

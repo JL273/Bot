@@ -4466,6 +4466,14 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-04
 
+### 15:16 UTC — Position poll (Job B)
+- 2 signal(s) acted on, 3 skipped (confluence), 0 paused (daily profit limit):
+- NEW LONG PUMP (0x19f5c3bc2e0978d9a1da389d7d4cfe33cd770fe9) [2/5 traders]
+- NEW SHORT HYPE (0x45ab58a2034f03aa446baf3bb1d236706f866cbc) [2/5 traders]
+- SKIPPED LONG MON (0x45ab58a2034f03aa446baf3bb1d236706f866cbc) — only 1/5 traders
+- SKIPPED LONG ETH (0x45ab58a2034f03aa446baf3bb1d236706f866cbc) — only 1/5 traders
+- SKIPPED LONG IOTA (0xeadc152ac1014ace57c6b353f89adf5faffe9d55) — only 1/5 traders
+- Portfolio equity: $10,333.20 (+3.33%)
 ### 14:45 UTC — Daily refresh (Job A)
 - Leaderboard: 47195 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
