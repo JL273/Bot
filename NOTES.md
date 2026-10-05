@@ -4488,3 +4488,20 @@ _Auto-generated. Newest entry at top._
 -   0xfb41fac71418974b3093b111dcd6f05fe7e1c361... 1 positions: LONG ZRO x3
 -   0x45ab58a2034f03aa446baf3bb1d236706f866cbc... 3 positions: LONG ETH x7, SHORT HYPE x10, LONG MON x5
 -   0xeadc152ac1014ace57c6b353f89adf5faffe9d55... 38 positions: LONG AVAX x10, LONG LTC x10, LONG DOGE x10, LONG kPEPE x10, LONG LINK x10, LONG CFX x5, LONG XRP x20, LONG AAVE x10, LONG WLD x10, LONG TRX x10, LONG ZRO x5, LONG ADA x10, LONG FET x5, LONG NEAR x10, LONG FIL x5, LONG IMX x5, LONG kBONK x10, LONG WIF x5, LONG ENS x5, LONG W x5, LONG STRK x5, LONG TAO x5, LONG ENA x10, LONG MNT x5, LONG HBAR x5, LONG POPCAT x3, LONG GRASS x3, LONG IOTA x3, LONG FARTCOIN x10, LONG PUMP x5, LONG XPL x10, LONG LINEA x3, LONG ASTER x5, LONG APEX x3, LONG GRAM x5, LONG CASHCAT x3, LONG PONS x3, LONG USELESS x3
+
+## 2026-10-05
+
+### 18:21 UTC — Daily refresh (Job A)
+- Leaderboard: 47404 traders fetched, 5 shortlisted
+- Shortlist change: +3 new, -3 dropped
+- #1 0x92ae4209e3a5760903aff0c423312392eb3f86a8 acc=$6,772,721 month=$759,499 edge=528bps
+- #2 0x19f5c3bc2e0978d9a1da389d7d4cfe33cd770fe9 acc=$1,222,838 month=$511,343 edge=352bps
+- #3 0x482b0f4dad512fe086e121882a81e34c374acae4 acc=$3,145,665 month=$1,240,631 edge=100bps
+- #4 0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66 acc=$51,101,515 month=$16,948,355 edge=3363bps
+- #5 0xf02d028ffeddc120a3ec59602a6617303ca55eb3 acc=$15,775,163 month=$1,331,230 edge=692bps
+- Current positions across the shortlist:
+-   0x92ae4209e3a5760903aff0c423312392eb3f86a8... 1 positions: LONG PURR x3
+-   0x19f5c3bc2e0978d9a1da389d7d4cfe33cd770fe9... 1 positions: LONG PUMP x10
+-   0x482b0f4dad512fe086e121882a81e34c374acae4... 4 positions: LONG BTC x40, SHORT SOL x20, LONG PURR x3, LONG HYPE x10
+-   0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66... 8 positions: SHORT BTC x15, SHORT ETH x15, SHORT SOL x10, SHORT AVAX x10, SHORT BNB x10, SHORT XRP x10, SHORT ADA x10, LONG NEAR x10
+-   0xf02d028ffeddc120a3ec59602a6617303ca55eb3... 3 positions: SHORT BTC x10, SHORT ETH x20, SHORT HYPE x10
