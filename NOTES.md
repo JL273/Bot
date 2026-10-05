@@ -4491,6 +4491,22 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-05
 
+### 20:48 UTC — Position poll (Job B)
+- 6 signal(s) acted on, 7 skipped (confluence), 0 paused (daily profit limit):
+- NEW LONG PURR (0x92ae4209e3a5760903aff0c423312392eb3f86a8) [2/5 traders]
+- NEW SHORT SOL (0x482b0f4dad512fe086e121882a81e34c374acae4) [2/5 traders]
+- NEW LONG PURR (0x482b0f4dad512fe086e121882a81e34c374acae4) [2/5 traders]
+- NEW SHORT SOL (0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66) [2/5 traders]
+- NEW SHORT BTC (0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66) [2/5 traders]
+- NEW SHORT ETH (0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66) [2/5 traders]
+- SKIPPED LONG HYPE (0x482b0f4dad512fe086e121882a81e34c374acae4) — only 1/5 traders
+- SKIPPED LONG BTC (0x482b0f4dad512fe086e121882a81e34c374acae4) — only 1/5 traders
+- SKIPPED SHORT AVAX (0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66) — only 1/5 traders
+- SKIPPED SHORT ADA (0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66) — only 1/5 traders
+- SKIPPED SHORT XRP (0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66) — only 1/5 traders
+- SKIPPED LONG NEAR (0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66) — only 1/5 traders
+- SKIPPED SHORT BNB (0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66) — only 1/5 traders
+- Portfolio equity: $10,145.41 (+1.45%)
 ### 18:21 UTC — Daily refresh (Job A)
 - Leaderboard: 47404 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
