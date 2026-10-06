@@ -4521,3 +4521,20 @@ _Auto-generated. Newest entry at top._
 -   0x482b0f4dad512fe086e121882a81e34c374acae4... 4 positions: LONG BTC x40, SHORT SOL x20, LONG PURR x3, LONG HYPE x10
 -   0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66... 8 positions: SHORT BTC x15, SHORT ETH x15, SHORT SOL x10, SHORT AVAX x10, SHORT BNB x10, SHORT XRP x10, SHORT ADA x10, LONG NEAR x10
 -   0xf02d028ffeddc120a3ec59602a6617303ca55eb3... 3 positions: SHORT BTC x10, SHORT ETH x20, SHORT HYPE x10
+
+## 2026-10-06
+
+### 15:53 UTC — Daily refresh (Job A)
+- Leaderboard: 47450 traders fetched, 5 shortlisted
+- Shortlist change: +2 new, -2 dropped
+- #1 0x92ae4209e3a5760903aff0c423312392eb3f86a8 acc=$6,704,571 month=$586,856 edge=412bps
+- #2 0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05 acc=$34,693,717 month=$1,531,933 edge=1117bps
+- #3 0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66 acc=$51,071,367 month=$16,615,891 edge=3697bps
+- #4 0xf02d028ffeddc120a3ec59602a6617303ca55eb3 acc=$15,573,298 month=$982,629 edge=510bps
+- #5 0xe867fbdad3291530e41530301ecb77693850c78e acc=$99,705,049 month=$7,725,724 edge=2498bps
+- Current positions across the shortlist:
+-   0x92ae4209e3a5760903aff0c423312392eb3f86a8... 1 positions: LONG PURR x3
+-   0x8af700ba841f30e0a3fcb0ee4c4a9d223e1efa05... 19 positions: LONG BTC x40, LONG ETH x25, SHORT AVAX x10, SHORT SUI x10, SHORT kPEPE x10, SHORT CRV x10, SHORT LINK x10, SHORT XRP x20, SHORT AAVE x10, SHORT kSHIB x10, SHORT UNI x10, SHORT ADA x10, SHORT PENDLE x5, SHORT NEAR x10, SHORT FIL x5, SHORT STRK x5, SHORT GRASS x3, SHORT HYPE x3, SHORT ZEC x5
+-   0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66... 8 positions: SHORT BTC x15, SHORT ETH x15, SHORT SOL x10, SHORT AVAX x10, SHORT BNB x10, SHORT XRP x10, SHORT ADA x10, LONG NEAR x10
+-   0xf02d028ffeddc120a3ec59602a6617303ca55eb3... 3 positions: SHORT BTC x10, SHORT ETH x20, SHORT HYPE x10
+-   0xe867fbdad3291530e41530301ecb77693850c78e... 1 positions: LONG ZEC x10
