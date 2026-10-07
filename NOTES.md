@@ -4554,6 +4554,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-07
 
+### 16:23 UTC — Daily refresh (Job A)
+- Leaderboard: 47194 traders fetched, 5 shortlisted
+- Shortlist change: +5 new, -5 dropped
+- #1 0xcd0673721a489b1cea0e2580fa304bcb6cca3186 acc=$4,496,688 month=$696,596 edge=1097bps
+- #2 0x880ac484a1743862989a441d6d867238c7aa311c acc=$19,404,897 month=$3,647,608 edge=895bps
+- #3 0x015354106478dda69c4aae3c0cf801290b738052 acc=$11,933,129 month=$1,800,130 edge=1634bps
+- #4 0xe0ffc829349c88c159462942ad885f12130e7610 acc=$8,740,140 month=$3,645,216 edge=4736bps
+- #5 0x99967871e6c4f9a5185abc57edede9e9540191f6 acc=$7,769,483 month=$2,231,495 edge=3627bps
+- Current positions across the shortlist:
+-   0xcd0673721a489b1cea0e2580fa304bcb6cca3186... 4 positions: SHORT HYPE x3, SHORT CASHCAT x3, SHORT PONS x2, SHORT USELESS x3
+-   0x880ac484a1743862989a441d6d867238c7aa311c... 9 positions: SHORT BTC x11, SHORT ETH x12, SHORT ZRO x5, SHORT FARTCOIN x3, SHORT VVV x3, SHORT PUMP x5, SHORT ZEC x10, SHORT MON x5, SHORT XMR x5
+-   0x015354106478dda69c4aae3c0cf801290b738052... 2 positions: SHORT ZEC x1, SHORT PONS x1
+-   0xe0ffc829349c88c159462942ad885f12130e7610... 1 positions: SHORT LIT x4
+-   0x99967871e6c4f9a5185abc57edede9e9540191f6... 1 positions: SHORT LIT x4
 ### 15:51 UTC — Position poll (Job B)
 - 4 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - CLOSED SHORT ETH (0xf02d028ffeddc120a3ec59602a6617303ca55eb3)
