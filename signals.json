@@ -11518,5 +11518,60 @@
     "unrealized_pnl": -60.85650425297701,
     "liquidation_price": 0,
     "exit_reason": "SL hit (-22.2% of margin)"
+  },
+  {
+    "ts": "2026-10-07T15:51:05.939677+00:00",
+    "trader": "0xf02d028ffeddc120a3ec59602a6617303ca55eb3",
+    "type": "CLOSED",
+    "coin": "ETH",
+    "side": "SHORT",
+    "size": 342.0067,
+    "entry_price": 2730.77,
+    "position_value_usd": 892432.28298,
+    "leverage": 20,
+    "unrealized_pnl": 41512.618986,
+    "liquidation_price": 25455.03679348
+  },
+  {
+    "ts": "2026-10-07T15:51:05.939677+00:00",
+    "trader": "0xc26cbb6483229e0d0f9a1cab675271eda535b8f4",
+    "type": "CLOSED",
+    "coin": "HYPE",
+    "side": "SHORT",
+    "size": 8.983400183808582,
+    "entry_price": 88.436,
+    "position_value_usd": 0,
+    "leverage": 2,
+    "unrealized_pnl": -1.5137029309716972,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (8d open, flat)"
+  },
+  {
+    "ts": "2026-10-07T15:51:05.939677+00:00",
+    "trader": "0x28cee4465f95720cb8464d56faea656751119040",
+    "type": "CLOSED",
+    "coin": "HYPE",
+    "side": "SHORT",
+    "size": 12.263851087283896,
+    "entry_price": 89.05,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 5.463545659384922,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (6d open, flat)"
+  },
+  {
+    "ts": "2026-10-07T15:51:05.939677+00:00",
+    "trader": "0x7c9063122c01837fe83da2521056e10c9b6dd129",
+    "type": "CLOSED",
+    "coin": "WLD",
+    "side": "LONG",
+    "size": 1764.6734312005046,
+    "entry_price": 0.5596459499588571,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -74.99147382602128,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-22.8% of margin)"
   }
 ]
