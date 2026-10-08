@@ -8773,5 +8773,30 @@
     "pnl_pct": -28.32914616727504,
     "total_slippage_bps": 5.09,
     "exit_reason": "SL hit (-28.1% of margin)"
+  },
+  {
+    "trader": "0xd142479997958a4fefd1f8d5373b31ce36987d73",
+    "coin": "ETH",
+    "side": "LONG",
+    "size": 0.36682247096506626,
+    "entry_price": 2465.1,
+    "entry_fee": 0.4521270365879924,
+    "entry_slippage_bps": 0.61,
+    "entry_fill_method": "book",
+    "leverage": 3,
+    "margin": 301.41802439199495,
+    "notional": 904.2540731759848,
+    "opened_at": "2026-09-17T14:43:36.438462+00:00",
+    "exit_price": 2457.2,
+    "exit_fee": 0.4506780878276804,
+    "total_fees": 0.9028051244156727,
+    "exit_slippage_bps": 0.2,
+    "exit_fill_method": "book",
+    "closed_at": "2026-10-08T19:27:25.122517+00:00",
+    "gross_pnl": -2.8978975206240567,
+    "pnl": -3.8007026450397294,
+    "pnl_pct": -1.2609407326274906,
+    "total_slippage_bps": 0.81,
+    "exit_reason": "time-stop (21d open, flat)"
   }
 ]

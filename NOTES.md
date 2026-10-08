@@ -4593,6 +4593,38 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-08
 
+### 19:27 UTC — Position poll (Job B)
+- 5 signal(s) acted on, 24 skipped (confluence), 0 paused (daily profit limit):
+- NEW SHORT ETH (0x21590e71c8d4a44ce618ff31390d7066ba0840f9) [2/5 traders]
+- NEW SHORT ETH (0x08bf75d17046412ae08c95b6106993f714487872) [2/5 traders]
+- NEW SHORT CASHCAT (0x675462411d40a169c3397ac1dc00786dc9c7d3a1) [2/5 traders]
+- NEW SHORT USELESS (0x675462411d40a169c3397ac1dc00786dc9c7d3a1) [2/5 traders]
+- EXIT LONG ETH [time-stop (21d open, flat)]
+- SKIPPED SHORT XMR (0x675462411d40a169c3397ac1dc00786dc9c7d3a1) — only 1/5 traders
+- SKIPPED SHORT AAVE (0x675462411d40a169c3397ac1dc00786dc9c7d3a1) — only 1/5 traders
+- SKIPPED SHORT BCH (0x675462411d40a169c3397ac1dc00786dc9c7d3a1) — only 1/5 traders
+- SKIPPED SHORT ONDO (0x675462411d40a169c3397ac1dc00786dc9c7d3a1) — only 1/5 traders
+- SKIPPED SHORT SKY (0x675462411d40a169c3397ac1dc00786dc9c7d3a1) — only 1/5 traders
+- SKIPPED SHORT PURR (0x675462411d40a169c3397ac1dc00786dc9c7d3a1) — only 1/5 traders
+- SKIPPED SHORT TAO (0x675462411d40a169c3397ac1dc00786dc9c7d3a1) — only 1/5 traders
+- SKIPPED SHORT DASH (0x675462411d40a169c3397ac1dc00786dc9c7d3a1) — only 1/5 traders
+- SKIPPED SHORT JUP (0x675462411d40a169c3397ac1dc00786dc9c7d3a1) — only 1/5 traders
+- SKIPPED SHORT NIL (0x675462411d40a169c3397ac1dc00786dc9c7d3a1) — only 1/5 traders
+- SKIPPED SHORT PUMP (0x675462411d40a169c3397ac1dc00786dc9c7d3a1) — only 1/5 traders
+- SKIPPED SHORT ETC (0x675462411d40a169c3397ac1dc00786dc9c7d3a1) — only 1/5 traders
+- SKIPPED SHORT CC (0x675462411d40a169c3397ac1dc00786dc9c7d3a1) — only 1/5 traders
+- SKIPPED SHORT ENA (0x675462411d40a169c3397ac1dc00786dc9c7d3a1) — only 1/5 traders
+- SKIPPED SHORT MON (0x675462411d40a169c3397ac1dc00786dc9c7d3a1) — only 1/5 traders
+- SKIPPED SHORT AERO (0x675462411d40a169c3397ac1dc00786dc9c7d3a1) — only 1/5 traders
+- SKIPPED SHORT STABLE (0x675462411d40a169c3397ac1dc00786dc9c7d3a1) — only 1/5 traders
+- SKIPPED SHORT SPX (0x675462411d40a169c3397ac1dc00786dc9c7d3a1) — only 1/5 traders
+- SKIPPED SHORT MET (0x675462411d40a169c3397ac1dc00786dc9c7d3a1) — only 1/5 traders
+- SKIPPED SHORT UNI (0x675462411d40a169c3397ac1dc00786dc9c7d3a1) — only 1/5 traders
+- SKIPPED SHORT NEAR (0x675462411d40a169c3397ac1dc00786dc9c7d3a1) — only 1/5 traders
+- SKIPPED SHORT CAKE (0x675462411d40a169c3397ac1dc00786dc9c7d3a1) — only 1/5 traders
+- SKIPPED SHORT BSV (0x675462411d40a169c3397ac1dc00786dc9c7d3a1) — only 1/5 traders
+- SKIPPED SHORT LINK (0x675462411d40a169c3397ac1dc00786dc9c7d3a1) — only 1/5 traders
+- Portfolio equity: $10,424.60 (+4.25%)
 ### 16:25 UTC — Daily refresh (Job A)
 - Leaderboard: 47102 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
