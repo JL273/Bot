@@ -11670,5 +11670,46 @@
     "unrealized_pnl": -69.91725120998444,
     "liquidation_price": 0,
     "exit_reason": "SL hit (-22.1% of margin)"
+  },
+  {
+    "ts": "2026-10-08T13:45:16.259924+00:00",
+    "trader": "0x880ac484a1743862989a441d6d867238c7aa311c",
+    "type": "CLOSED",
+    "coin": "ZRO",
+    "side": "SHORT",
+    "size": 11071.2,
+    "entry_price": 1.96469,
+    "position_value_usd": 23613.76248,
+    "leverage": 5,
+    "unrealized_pnl": -1862.205078,
+    "liquidation_price": 1094.7375719721
+  },
+  {
+    "ts": "2026-10-08T13:45:16.259924+00:00",
+    "trader": "0x880ac484a1743862989a441d6d867238c7aa311c",
+    "type": "CLOSED",
+    "coin": "ZEC",
+    "side": "SHORT",
+    "size": 0.8521037113073326,
+    "entry_price": 1420.3314393993521,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 179.2668053023666,
+    "liquidation_price": 0,
+    "exit_reason": "TP hit (+44.4% of margin)"
+  },
+  {
+    "ts": "2026-10-08T13:45:16.259924+00:00",
+    "trader": "0x19f5c3bc2e0978d9a1da389d7d4cfe33cd770fe9",
+    "type": "CLOSED",
+    "coin": "PUMP",
+    "side": "LONG",
+    "size": 160445.79075565573,
+    "entry_price": 0.006301,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -94.8234623365926,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-28.1% of margin)"
   }
 ]
