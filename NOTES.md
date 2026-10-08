@@ -4593,6 +4593,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-08
 
+### 16:25 UTC — Daily refresh (Job A)
+- Leaderboard: 47102 traders fetched, 5 shortlisted
+- Shortlist change: +3 new, -3 dropped
+- #1 0x21590e71c8d4a44ce618ff31390d7066ba0840f9 acc=$843,198 month=$431,721 edge=314bps
+- #2 0x08bf75d17046412ae08c95b6106993f714487872 acc=$3,122,058 month=$205,275 edge=309bps
+- #3 0xcd0673721a489b1cea0e2580fa304bcb6cca3186 acc=$4,646,703 month=$822,460 edge=1277bps
+- #4 0x675462411d40a169c3397ac1dc00786dc9c7d3a1 acc=$783,362 month=$74,553 edge=66bps
+- #5 0x015354106478dda69c4aae3c0cf801290b738052 acc=$12,460,963 month=$1,925,613 edge=1886bps
+- Current positions across the shortlist:
+-   0x21590e71c8d4a44ce618ff31390d7066ba0840f9... 1 positions: SHORT ETH x20
+-   0x08bf75d17046412ae08c95b6106993f714487872... 1 positions: SHORT ETH x20
+-   0xcd0673721a489b1cea0e2580fa304bcb6cca3186... 4 positions: SHORT HYPE x3, SHORT CASHCAT x3, SHORT PONS x2, SHORT USELESS x3
+-   0x675462411d40a169c3397ac1dc00786dc9c7d3a1... 26 positions: SHORT LINK x10, SHORT BCH x10, SHORT AAVE x10, SHORT UNI x10, SHORT BSV x3, SHORT NEAR x10, SHORT JUP x10, SHORT CAKE x3, SHORT ETC x5, SHORT ONDO x10, SHORT TAO x5, SHORT ENA x10, SHORT PURR x3, SHORT SPX x5, SHORT NIL x3, SHORT PUMP x10, SHORT SKY x3, SHORT MON x5, SHORT MET x3, SHORT CC x3, SHORT AERO x3, SHORT STABLE x3, SHORT XMR x5, SHORT DASH x5, SHORT CASHCAT x3, SHORT USELESS x3
+-   0x015354106478dda69c4aae3c0cf801290b738052... 2 positions: SHORT ZEC x1, SHORT PONS x1
 ### 13:45 UTC — Position poll (Job B)
 - 3 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - CLOSED SHORT ZRO (0x880ac484a1743862989a441d6d867238c7aa311c)
