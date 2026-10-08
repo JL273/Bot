@@ -11643,5 +11643,32 @@
     "leverage": 4,
     "unrealized_pnl": 632149.684068,
     "liquidation_price": 6.2549684578
+  },
+  {
+    "ts": "2026-10-08T06:24:23.512675+00:00",
+    "trader": "0x880ac484a1743862989a441d6d867238c7aa311c",
+    "type": "CLOSED",
+    "coin": "VVV",
+    "side": "SHORT",
+    "size": 191.58,
+    "entry_price": 29.4515,
+    "position_value_usd": 4910.00382,
+    "leverage": 3,
+    "unrealized_pnl": 732.3253,
+    "liquidation_price": 63404.9636874323
+  },
+  {
+    "ts": "2026-10-08T06:24:23.512675+00:00",
+    "trader": "0xcd0673721a489b1cea0e2580fa304bcb6cca3186",
+    "type": "CLOSED",
+    "coin": "PONS",
+    "side": "SHORT",
+    "size": 1649.3420810647929,
+    "entry_price": 0.3828640054254562,
+    "position_value_usd": 0,
+    "leverage": 2,
+    "unrealized_pnl": -69.91725120998444,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-22.1% of margin)"
   }
 ]
