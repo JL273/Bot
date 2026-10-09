@@ -11781,5 +11781,73 @@
     "unrealized_pnl": -2.8795563970757367,
     "liquidation_price": 0,
     "exit_reason": "time-stop (21d open, flat)"
+  },
+  {
+    "ts": "2026-10-09T17:05:18.075850+00:00",
+    "trader": "0xf02d16a272a842f8bac1d9a9e773aba1933454c6",
+    "type": "NEW",
+    "confluence": 3,
+    "coin": "HYPE",
+    "side": "SHORT",
+    "size": 647817.55,
+    "entry_price": 84.6132,
+    "position_value_usd": 55060604.8447,
+    "leverage": 5,
+    "unrealized_pnl": -246668.338519,
+    "liquidation_price": 109.4617907856
+  },
+  {
+    "ts": "2026-10-09T17:05:18.075850+00:00",
+    "trader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
+    "type": "NEW",
+    "confluence": 2,
+    "coin": "ENA",
+    "side": "SHORT",
+    "size": 46663640.0,
+    "entry_price": 0.238249,
+    "position_value_usd": 10012617.2348,
+    "leverage": 10,
+    "unrealized_pnl": 1104964.76959,
+    "liquidation_price": 3.3588040622
+  },
+  {
+    "ts": "2026-10-09T17:05:18.075850+00:00",
+    "trader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
+    "type": "NEW",
+    "confluence": 2,
+    "coin": "LINK",
+    "side": "SHORT",
+    "size": 502552.6,
+    "entry_price": 13.60843,
+    "position_value_usd": 6445237.095,
+    "leverage": 3,
+    "unrealized_pnl": 393715.942163,
+    "liquidation_price": 305.0999976727
+  },
+  {
+    "ts": "2026-10-09T17:05:18.075850+00:00",
+    "trader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
+    "type": "CLOSED",
+    "coin": "AVAX",
+    "side": "SHORT",
+    "size": 17654.0,
+    "entry_price": 9.5279,
+    "position_value_usd": 109800.8184,
+    "leverage": 5,
+    "unrealized_pnl": 58405.716659,
+    "liquidation_price": 662.2679621347
+  },
+  {
+    "ts": "2026-10-09T17:05:18.075850+00:00",
+    "trader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
+    "type": "CLOSED",
+    "coin": "BTC",
+    "side": "LONG",
+    "size": 13.19702,
+    "entry_price": 62230.5,
+    "position_value_usd": 792626.21822,
+    "leverage": 10,
+    "unrealized_pnl": -28632.233283,
+    "liquidation_price": 0.0
   }
 ]

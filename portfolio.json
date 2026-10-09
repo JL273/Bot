@@ -1,5 +1,5 @@
 {
-  "cash": 5145.227633893574,
+  "cash": 4410.344822305355,
   "starting_cash": 10000.0,
   "open_positions": {
     "0xf78c5d8d4b604a140d43a46209fade655536c581:ETH:LONG": {
@@ -225,6 +225,48 @@
       "margin": 255.1575288652588,
       "notional": 765.4725865957764,
       "opened_at": "2026-10-08T19:27:25.122517+00:00"
+    },
+    "0xf02d16a272a842f8bac1d9a9e773aba1933454c6:HYPE:SHORT": {
+      "trader": "0xf02d16a272a842f8bac1d9a9e773aba1933454c6",
+      "coin": "HYPE",
+      "side": "SHORT",
+      "size": 9.08137562905565,
+      "entry_price": 84.98537849428129,
+      "entry_fee": 0.3858920725420181,
+      "entry_slippage_bps": 0.37,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 257.26138169467873,
+      "notional": 771.7841450840363,
+      "opened_at": "2026-10-09T17:05:18.075850+00:00"
+    },
+    "0x5b5d51203a0f9079f8aeb098a6523a13f298c060:ENA:SHORT": {
+      "trader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
+      "coin": "ENA",
+      "side": "SHORT",
+      "size": 3416.454886150114,
+      "entry_price": 0.21459,
+      "entry_fee": 0.3665685270094765,
+      "entry_slippage_bps": 0.93,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 244.37901800631766,
+      "notional": 733.137054018953,
+      "opened_at": "2026-10-09T17:05:18.075850+00:00"
+    },
+    "0x5b5d51203a0f9079f8aeb098a6523a13f298c060:LINK:SHORT": {
+      "trader": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
+      "coin": "LINK",
+      "side": "SHORT",
+      "size": 54.306395511459286,
+      "entry_price": 12.824,
+      "entry_fee": 0.34821260801947695,
+      "entry_slippage_bps": 0.39,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 232.1417386796513,
+      "notional": 696.4252160389539,
+      "opened_at": "2026-10-09T17:05:18.075850+00:00"
     }
   },
   "equity_history": [
@@ -25977,7 +26019,12 @@
       "ts": "2026-10-09T10:25:34.293713+00:00",
       "equity": 10237.026793857014,
       "cash": 5145.227633893574
+    },
+    {
+      "ts": "2026-10-09T17:05:20.464708+00:00",
+      "equity": 10291.244680011538,
+      "cash": 4410.344822305355
     }
   ],
-  "last_processed_signal_index": 854
+  "last_processed_signal_index": 859
 }

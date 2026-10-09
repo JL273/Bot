@@ -4653,6 +4653,22 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-09
 
+### 17:05 UTC — Position poll (Job B)
+- 5 signal(s) acted on, 8 skipped (confluence), 0 paused (daily profit limit):
+- NEW SHORT HYPE (0xf02d16a272a842f8bac1d9a9e773aba1933454c6) [3/5 traders]
+- NEW SHORT ENA (0x5b5d51203a0f9079f8aeb098a6523a13f298c060) [2/5 traders]
+- NEW SHORT LINK (0x5b5d51203a0f9079f8aeb098a6523a13f298c060) [2/5 traders]
+- CLOSED SHORT AVAX (0x5b5d51203a0f9079f8aeb098a6523a13f298c060)
+- CLOSED LONG BTC (0x5b5d51203a0f9079f8aeb098a6523a13f298c060)
+- SKIPPED SHORT BTC (0x5b5d51203a0f9079f8aeb098a6523a13f298c060) — only 1/5 traders
+- SKIPPED SHORT ZEC (0x5b5d51203a0f9079f8aeb098a6523a13f298c060) — only 1/5 traders
+- SKIPPED SHORT WLD (0x5b5d51203a0f9079f8aeb098a6523a13f298c060) — only 1/5 traders
+- SKIPPED SHORT BNB (0x5b5d51203a0f9079f8aeb098a6523a13f298c060) — only 1/5 traders
+- SKIPPED SHORT DOGE (0x5b5d51203a0f9079f8aeb098a6523a13f298c060) — only 1/5 traders
+- SKIPPED SHORT LIT (0x5b5d51203a0f9079f8aeb098a6523a13f298c060) — only 1/5 traders
+- SKIPPED SHORT XPL (0x5b5d51203a0f9079f8aeb098a6523a13f298c060) — only 1/5 traders
+- SKIPPED SHORT INJ (0x5b5d51203a0f9079f8aeb098a6523a13f298c060) — only 1/5 traders
+- Portfolio equity: $10,291.24 (+2.91%)
 ### 16:08 UTC — Daily refresh (Job A)
 - Leaderboard: 47190 traders fetched, 5 shortlisted
 - Shortlist change: +2 new, -2 dropped
