@@ -4686,6 +4686,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-10
 
+### 15:18 UTC — Daily refresh (Job A)
+- Leaderboard: 47135 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+- #1 0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66 acc=$50,810,284 month=$15,653,767 edge=9204bps
+- #2 0xcd0673721a489b1cea0e2580fa304bcb6cca3186 acc=$4,760,062 month=$832,465 edge=1243bps
+- #3 0x2cff40d1fccf6779a1a6f40ba7aa57e3d967d2a0 acc=$863,591 month=$125,121 edge=65bps
+- #4 0x02745fb27d7cee999fccf295f9d4a897fd22a7f7 acc=$1,407,069 month=$86,479 edge=168bps
+- #5 0xcafe9392d902f6f517b1573371923ebf7ffa7b3b acc=$5,974,469 month=$1,919,813 edge=2355bps
+- Current positions across the shortlist:
+-   0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66... 8 positions: SHORT BTC x15, SHORT ETH x15, SHORT SOL x10, SHORT AVAX x10, SHORT BNB x10, SHORT XRP x10, SHORT ADA x10, LONG NEAR x10
+-   0xcd0673721a489b1cea0e2580fa304bcb6cca3186... 4 positions: SHORT HYPE x3, SHORT CASHCAT x3, SHORT PONS x2, SHORT USELESS x3
+-   0x2cff40d1fccf6779a1a6f40ba7aa57e3d967d2a0... 2 positions: SHORT VVV x3, SHORT ZEC x10
+-   0x02745fb27d7cee999fccf295f9d4a897fd22a7f7... 2 positions: SHORT HYPE x2, SHORT XMR x2
+-   0xcafe9392d902f6f517b1573371923ebf7ffa7b3b... 2 positions: LONG BTC x10, SHORT MEGA x3
 ### 07:01 UTC — Position poll (Job B)
 - 0 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
 - SKIPPED SHORT VVV (0x5b5d51203a0f9079f8aeb098a6523a13f298c060) — only 1/5 traders
