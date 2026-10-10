@@ -4686,6 +4686,14 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-10
 
+### 17:55 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 4 skipped (confluence), 0 paused (daily profit limit):
+- NEW SHORT HYPE (0x02745fb27d7cee999fccf295f9d4a897fd22a7f7) [2/5 traders]
+- SKIPPED SHORT VVV (0x2cff40d1fccf6779a1a6f40ba7aa57e3d967d2a0) — only 1/5 traders
+- SKIPPED SHORT ZEC (0x2cff40d1fccf6779a1a6f40ba7aa57e3d967d2a0) — only 1/5 traders
+- SKIPPED SHORT XMR (0x02745fb27d7cee999fccf295f9d4a897fd22a7f7) — only 1/5 traders
+- SKIPPED LONG BTC (0xcafe9392d902f6f517b1573371923ebf7ffa7b3b) — only 1/5 traders
+- Portfolio equity: $10,206.49 (+2.06%)
 ### 15:18 UTC — Daily refresh (Job A)
 - Leaderboard: 47135 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped
