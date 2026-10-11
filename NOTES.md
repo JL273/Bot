@@ -4719,6 +4719,17 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-11
 
+### 19:39 UTC — Position poll (Job B)
+- 6 signal(s) acted on, 2 skipped (confluence), 0 paused (daily profit limit):
+- NEW SHORT SOL (0xd260b2216b735277da6771564a01c04856e78321) [2/5 traders]
+- NEW LONG ZEC (0xfdf891f2b214a4c9374d26595ec6d4080262e381) [2/5 traders]
+- CLOSED SHORT ETH (0xfdf891f2b214a4c9374d26595ec6d4080262e381)
+- NEW LONG ZEC (0x866d4903b256ce7e7caac46a91e83128bb0fd6e1) [2/5 traders]
+- EXIT LONG ETH [time-stop (29d open, flat)]
+- EXIT SHORT ENA [SL hit (-33.4% of margin)]
+- SKIPPED LONG CHIP (0x866d4903b256ce7e7caac46a91e83128bb0fd6e1) — only 1/5 traders
+- SKIPPED LONG ZRO (0x866d4903b256ce7e7caac46a91e83128bb0fd6e1) — only 1/5 traders
+- Portfolio equity: $9,842.71 (-1.57%)
 ### 15:35 UTC — Daily refresh (Job A)
 - Leaderboard: 47251 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped

@@ -1,46 +1,46 @@
 {
-  "account_value": 2780548.233333,
+  "account_value": 3612460.006662,
   "positions": [
-    {
-      "coin": "ETH",
-      "side": "SHORT",
-      "size": 600.0,
-      "entry_price": 2641.64,
-      "position_value_usd": 1610670.0,
-      "leverage": 20,
-      "unrealized_pnl": -25680.48758,
-      "liquidation_price": 6886.7355101536
-    },
     {
       "coin": "GRASS",
       "side": "LONG",
-      "size": 5150000.0,
-      "entry_price": 0.38256,
-      "position_value_usd": 3480730.5,
+      "size": 5285000.0,
+      "entry_price": 0.38844,
+      "position_value_usd": 4143334.3,
       "leverage": 3,
-      "unrealized_pnl": 1510518.636417,
-      "liquidation_price": 0.0766159265
+      "unrealized_pnl": 2090409.239558,
+      "liquidation_price": 0.1099706452
     },
     {
       "coin": "HYPE",
       "side": "LONG",
       "size": 6000.0,
       "entry_price": 48.0945,
-      "position_value_usd": 522882.0,
+      "position_value_usd": 518802.0,
       "leverage": 10,
-      "unrealized_pnl": 234314.980798,
+      "unrealized_pnl": 230234.980798,
       "liquidation_price": 0.0
+    },
+    {
+      "coin": "ZEC",
+      "side": "LONG",
+      "size": 2900.0,
+      "entry_price": 1355.7212,
+      "position_value_usd": 3680390.0,
+      "leverage": 10,
+      "unrealized_pnl": -251201.538,
+      "liquidation_price": 191.622855384
     },
     {
       "coin": "AERO",
       "side": "LONG",
       "size": 5460000.0,
       "entry_price": 0.459278,
-      "position_value_usd": 4271794.8,
+      "position_value_usd": 5160955.8,
       "leverage": 3,
-      "unrealized_pnl": 1764135.026258,
-      "liquidation_price": 0.2171495094
+      "unrealized_pnl": 2653296.026258,
+      "liquidation_price": 0.2928235091
     }
   ],
-  "timestamp_ms": 1790871612448
+  "timestamp_ms": 1791747591959
 }
