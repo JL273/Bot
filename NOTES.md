@@ -4753,3 +4753,20 @@ _Auto-generated. Newest entry at top._
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - CLOSED LONG NEAR (0x2cff40d1fccf6779a1a6f40ba7aa57e3d967d2a0)
 - Portfolio equity: $10,251.39 (+2.51%)
+
+## 2026-10-12
+
+### 18:57 UTC — Daily refresh (Job A)
+- Leaderboard: 47213 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+- #1 0x08bf75d17046412ae08c95b6106993f714487872 acc=$1,784,402 month=$399,732 edge=733bps
+- #2 0xcd0673721a489b1cea0e2580fa304bcb6cca3186 acc=$4,485,563 month=$895,513 edge=1292bps
+- #3 0xcafe9392d902f6f517b1573371923ebf7ffa7b3b acc=$6,436,059 month=$1,848,275 edge=2224bps
+- #4 0x015354106478dda69c4aae3c0cf801290b738052 acc=$11,672,671 month=$1,516,902 edge=2469bps
+- #5 0x4ba3979955f52158c0e4e3378b18985475182ce2 acc=$10,287,352 month=$2,343,134 edge=821bps
+- Current positions across the shortlist:
+-   0x08bf75d17046412ae08c95b6106993f714487872... 1 positions: SHORT ETH x20
+-   0xcd0673721a489b1cea0e2580fa304bcb6cca3186... 4 positions: SHORT HYPE x3, SHORT CASHCAT x3, SHORT PONS x2, SHORT USELESS x3
+-   0xcafe9392d902f6f517b1573371923ebf7ffa7b3b... 2 positions: LONG BTC x10, SHORT MEGA x3
+-   0x015354106478dda69c4aae3c0cf801290b738052... 1 positions: SHORT ZEC x1
+-   0x4ba3979955f52158c0e4e3378b18985475182ce2... 2 positions: SHORT ETH x20, SHORT PONS x3
