@@ -12001,5 +12001,46 @@
     "unrealized_pnl": -60.79536908939535,
     "liquidation_price": 0,
     "exit_reason": "SL hit (-23.8% of margin)"
+  },
+  {
+    "ts": "2026-10-12T19:07:53.338816+00:00",
+    "trader": "0x015354106478dda69c4aae3c0cf801290b738052",
+    "type": "CLOSED",
+    "coin": "PONS",
+    "side": "SHORT",
+    "size": 4584974.0,
+    "entry_price": 0.768769,
+    "position_value_usd": 1600751.97262,
+    "leverage": 1,
+    "unrealized_pnl": 1924035.75088,
+    "liquidation_price": 1.4270361316
+  },
+  {
+    "ts": "2026-10-12T19:07:53.338816+00:00",
+    "trader": "0x4ba3979955f52158c0e4e3378b18985475182ce2",
+    "type": "NEW",
+    "confluence": 2,
+    "coin": "PONS",
+    "side": "SHORT",
+    "size": 404545.0,
+    "entry_price": 0.687189,
+    "position_value_usd": 119721.0473,
+    "leverage": 3,
+    "unrealized_pnl": 158278.14681,
+    "liquidation_price": 4.7327773137
+  },
+  {
+    "ts": "2026-10-12T19:07:53.338816+00:00",
+    "trader": "0x4ba3979955f52158c0e4e3378b18985475182ce2",
+    "type": "NEW",
+    "confluence": 2,
+    "coin": "ETH",
+    "side": "SHORT",
+    "size": 2414.62,
+    "entry_price": 2719.44,
+    "position_value_usd": 6068712.7384,
+    "leverage": 20,
+    "unrealized_pnl": 497705.64814,
+    "liquidation_price": 3363.5534104835
   }
 ]

@@ -8923,5 +8923,30 @@
     "pnl_pct": -24.07916093079122,
     "total_slippage_bps": 13.32,
     "exit_reason": "SL hit (-23.8% of margin)"
+  },
+  {
+    "trader": "0x015354106478dda69c4aae3c0cf801290b738052",
+    "coin": "PONS",
+    "side": "SHORT",
+    "size": 783.3372809374287,
+    "entry_price": 0.38289282957139464,
+    "entry_fee": 0.14996711400344728,
+    "entry_slippage_bps": 0.97,
+    "entry_fill_method": "book",
+    "leverage": 1,
+    "margin": 299.93422800689456,
+    "notional": 299.93422800689456,
+    "opened_at": "2026-10-07T20:49:13.988451+00:00",
+    "exit_price": 0.296,
+    "exit_fee": 0.11593391757873944,
+    "total_fees": 0.2659010315821867,
+    "exit_slippage_bps": 0.34,
+    "exit_fill_method": "book",
+    "closed_at": "2026-10-12T19:07:53.338816+00:00",
+    "gross_pnl": 68.06639284941569,
+    "pnl": 67.8004918178335,
+    "pnl_pct": 22.60511988524197,
+    "total_slippage_bps": 1.31,
+    "exit_reason": "trader"
   }
 ]

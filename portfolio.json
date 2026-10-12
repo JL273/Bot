@@ -1,5 +1,5 @@
 {
-  "cash": 4466.731128370367,
+  "cash": 4362.416543806577,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x45f717946a3fb49054ebebecbb1ab8ce9325f166:ZEC:SHORT": {
@@ -99,20 +99,6 @@
       "margin": 235.20241442922475,
       "notional": 705.6072432876742,
       "opened_at": "2026-10-05T20:48:03.406989+00:00"
-    },
-    "0x015354106478dda69c4aae3c0cf801290b738052:PONS:SHORT": {
-      "trader": "0x015354106478dda69c4aae3c0cf801290b738052",
-      "coin": "PONS",
-      "side": "SHORT",
-      "size": 783.3372809374287,
-      "entry_price": 0.38289282957139464,
-      "entry_fee": 0.14996711400344728,
-      "entry_slippage_bps": 0.97,
-      "entry_fill_method": "book",
-      "leverage": 1,
-      "margin": 299.93422800689456,
-      "notional": 299.93422800689456,
-      "opened_at": "2026-10-07T20:49:13.988451+00:00"
     },
     "0x015354106478dda69c4aae3c0cf801290b738052:ZEC:SHORT": {
       "trader": "0x015354106478dda69c4aae3c0cf801290b738052",
@@ -267,6 +253,34 @@
       "margin": 188.3104365475772,
       "notional": 564.9313096427317,
       "opened_at": "2026-10-11T19:39:51.453323+00:00"
+    },
+    "0x4ba3979955f52158c0e4e3378b18985475182ce2:PONS:SHORT": {
+      "trader": "0x4ba3979955f52158c0e4e3378b18985475182ce2",
+      "coin": "PONS",
+      "side": "SHORT",
+      "size": 2451.092685268464,
+      "entry_price": 0.29585575510370293,
+      "entry_fee": 0.3625849386146321,
+      "entry_slippage_bps": 4.54,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 241.72329240975475,
+      "notional": 725.1698772292642,
+      "opened_at": "2026-10-12T19:07:53.338816+00:00"
+    },
+    "0x4ba3979955f52158c0e4e3378b18985475182ce2:ETH:SHORT": {
+      "trader": "0x4ba3979955f52158c0e4e3378b18985475182ce2",
+      "coin": "ETH",
+      "side": "SHORT",
+      "size": 0.2740846678180117,
+      "entry_price": 2513.3,
+      "entry_fee": 0.3444284978135045,
+      "entry_slippage_bps": 0.2,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 229.6189985423363,
+      "notional": 688.8569956270089,
+      "opened_at": "2026-10-12T19:07:53.338816+00:00"
     }
   },
   "equity_history": [
@@ -26104,7 +26118,12 @@
       "ts": "2026-10-12T09:20:13.610133+00:00",
       "equity": 9751.019091567548,
       "cash": 4466.731128370367
+    },
+    {
+      "ts": "2026-10-12T19:07:55.453473+00:00",
+      "equity": 10119.617221945278,
+      "cash": 4362.416543806577
     }
   ],
-  "last_processed_signal_index": 870
+  "last_processed_signal_index": 873
 }
