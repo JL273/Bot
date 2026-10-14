@@ -4809,6 +4809,37 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-14
 
+### 17:55 UTC — Position poll (Job B)
+- 10 signal(s) acted on, 18 skipped (confluence), 0 paused (daily profit limit):
+- CLOSED SHORT BTC (0x9751cec58be43e0e27d57ba49ac3d68ec269a97e)
+- CLOSED SHORT ETH (0x9751cec58be43e0e27d57ba49ac3d68ec269a97e)
+- CLOSED SHORT PUMP (0x9751cec58be43e0e27d57ba49ac3d68ec269a97e)
+- CLOSED SHORT HYPE (0x9751cec58be43e0e27d57ba49ac3d68ec269a97e)
+- CLOSED SHORT SOL (0x9751cec58be43e0e27d57ba49ac3d68ec269a97e)
+- NEW SHORT ZEC (0xc435249d0e837efa5eb431ad74c9fa8889f2c905) [2/5 traders]
+- NEW SHORT HYPE (0xc435249d0e837efa5eb431ad74c9fa8889f2c905) [3/5 traders]
+- NEW SHORT ETH (0xc435249d0e837efa5eb431ad74c9fa8889f2c905) [3/5 traders]
+- NEW SHORT NEAR (0xc435249d0e837efa5eb431ad74c9fa8889f2c905) [2/5 traders]
+- NEW SHORT GRASS (0xc435249d0e837efa5eb431ad74c9fa8889f2c905) [2/5 traders]
+- SKIPPED SHORT BTC (0xc435249d0e837efa5eb431ad74c9fa8889f2c905) — only 1/5 traders
+- SKIPPED SHORT LIT (0xc435249d0e837efa5eb431ad74c9fa8889f2c905) — only 1/5 traders
+- SKIPPED SHORT ASTER (0xc435249d0e837efa5eb431ad74c9fa8889f2c905) — only 1/5 traders
+- SKIPPED SHORT TRX (0xc435249d0e837efa5eb431ad74c9fa8889f2c905) — only 1/5 traders
+- SKIPPED SHORT HBAR (0xc435249d0e837efa5eb431ad74c9fa8889f2c905) — only 1/5 traders
+- SKIPPED SHORT WLD (0xc435249d0e837efa5eb431ad74c9fa8889f2c905) — only 1/5 traders
+- SKIPPED SHORT USELESS (0xc435249d0e837efa5eb431ad74c9fa8889f2c905) — only 1/5 traders
+- SKIPPED SHORT ZRO (0xc435249d0e837efa5eb431ad74c9fa8889f2c905) — only 1/5 traders
+- SKIPPED SHORT TAO (0xc435249d0e837efa5eb431ad74c9fa8889f2c905) — only 1/5 traders
+- SKIPPED SHORT GRAM (0xc435249d0e837efa5eb431ad74c9fa8889f2c905) — only 1/5 traders
+- SKIPPED SHORT VVV (0xc435249d0e837efa5eb431ad74c9fa8889f2c905) — only 1/5 traders
+- SKIPPED SHORT PUMP (0xc435249d0e837efa5eb431ad74c9fa8889f2c905) — only 1/5 traders
+- SKIPPED SHORT XPL (0xc435249d0e837efa5eb431ad74c9fa8889f2c905) — only 1/5 traders
+- SKIPPED SHORT MON (0xc435249d0e837efa5eb431ad74c9fa8889f2c905) — only 1/5 traders
+- SKIPPED SHORT ONDO (0xc435249d0e837efa5eb431ad74c9fa8889f2c905) — only 1/5 traders
+- SKIPPED SHORT AERO (0xc435249d0e837efa5eb431ad74c9fa8889f2c905) — only 1/5 traders
+- SKIPPED SHORT XMR (0xc435249d0e837efa5eb431ad74c9fa8889f2c905) — only 1/5 traders
+- SKIPPED SHORT CHIP (0xc435249d0e837efa5eb431ad74c9fa8889f2c905) — only 1/5 traders
+- Portfolio equity: $10,566.06 (+5.66%)
 ### 14:28 UTC — Daily refresh (Job A)
 - Leaderboard: 47153 traders fetched, 5 shortlisted
 - Shortlist change: +2 new, -2 dropped
