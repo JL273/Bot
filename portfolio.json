@@ -1,21 +1,7 @@
 {
-  "cash": 4669.484211690746,
+  "cash": 5292.531034798818,
   "starting_cash": 10000.0,
   "open_positions": {
-    "0x45f717946a3fb49054ebebecbb1ab8ce9325f166:ZEC:SHORT": {
-      "trader": "0x45f717946a3fb49054ebebecbb1ab8ce9325f166",
-      "coin": "ZEC",
-      "side": "SHORT",
-      "size": 0.597975472965842,
-      "entry_price": 1420.387298651974,
-      "entry_fee": 0.4246783833530444,
-      "entry_slippage_bps": 3.26,
-      "entry_fill_method": "book",
-      "leverage": 2,
-      "margin": 424.6783833530444,
-      "notional": 849.3567667060888,
-      "opened_at": "2026-09-30T20:04:54.791035+00:00"
-    },
     "0xb829fd12a23c88e0f1eb85238799f8fd400a3a81:BTC:SHORT": {
       "trader": "0xb829fd12a23c88e0f1eb85238799f8fd400a3a81",
       "coin": "BTC",
@@ -26198,7 +26184,17 @@
       "ts": "2026-10-15T01:54:06.129142+00:00",
       "equity": 10704.538739571295,
       "cash": 4669.484211690746
+    },
+    {
+      "ts": "2026-10-15T06:33:47.649353+00:00",
+      "equity": 10929.549105917718,
+      "cash": 4669.484211690746
+    },
+    {
+      "ts": "2026-10-15T06:33:48.639588+00:00",
+      "equity": 10928.470421759583,
+      "cash": 5292.531034798818
     }
   ],
-  "last_processed_signal_index": 893
+  "last_processed_signal_index": 894
 }
