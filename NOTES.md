@@ -4866,6 +4866,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-15
 
+### 16:21 UTC — Position poll (Job B)
+- 0 signal(s) acted on, 2 skipped (confluence), 0 paused (daily profit limit):
+- SKIPPED SHORT NEAR (0x5b5d51203a0f9079f8aeb098a6523a13f298c060) — only 1/5 traders
+- SKIPPED SHORT ONDO (0x5b5d51203a0f9079f8aeb098a6523a13f298c060) — only 1/5 traders
+- Portfolio equity: $10,470.81 (+4.71%)
 ### 14:07 UTC — Daily refresh (Job A)
 - Leaderboard: 46987 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
