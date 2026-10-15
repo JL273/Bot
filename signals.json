@@ -12330,5 +12330,47 @@
     "unrealized_pnl": 199.44712391316355,
     "liquidation_price": 0,
     "exit_reason": "TP hit (+47.0% of margin)"
+  },
+  {
+    "ts": "2026-10-15T19:55:33.405063+00:00",
+    "trader": "0x21590e71c8d4a44ce618ff31390d7066ba0840f9",
+    "type": "CLOSED",
+    "coin": "ETH",
+    "side": "SHORT",
+    "size": 0.3634291985704988,
+    "entry_price": 2457.2077319048963,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 1.2566407350680933,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (7d open, flat)"
+  },
+  {
+    "ts": "2026-10-15T19:55:33.405063+00:00",
+    "trader": "0x08bf75d17046412ae08c95b6106993f714487872",
+    "type": "CLOSED",
+    "coin": "ETH",
+    "side": "SHORT",
+    "size": 0.34523042418741007,
+    "entry_price": 2457.2081394912007,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 1.1938549634464364,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (7d open, flat)"
+  },
+  {
+    "ts": "2026-10-15T19:55:33.405063+00:00",
+    "trader": "0xc435249d0e837efa5eb431ad74c9fa8889f2c905",
+    "type": "CLOSED",
+    "coin": "NEAR",
+    "side": "SHORT",
+    "size": 134.93504921784017,
+    "entry_price": 4.836393659438462,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -78.75569703997556,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-36.2% of margin)"
   }
 ]
