@@ -4866,6 +4866,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-15
 
+### 14:07 UTC — Daily refresh (Job A)
+- Leaderboard: 46987 traders fetched, 5 shortlisted
+- Shortlist change: +3 new, -3 dropped
+- #1 0x91a9cadcd7e36cbe8ff604cb634307d7b7643f70 acc=$4,673,106 month=$868,523 edge=1180bps
+- #2 0x4ba3979955f52158c0e4e3378b18985475182ce2 acc=$11,630,376 month=$3,977,783 edge=1394bps
+- #3 0x5b5d51203a0f9079f8aeb098a6523a13f298c060 acc=$296,221,721 month=$57,690,194 edge=1742bps
+- #4 0x015354106478dda69c4aae3c0cf801290b738052 acc=$12,093,887 month=$2,260,655 edge=3679bps
+- #5 0xcafe9392d902f6f517b1573371923ebf7ffa7b3b acc=$8,228,288 month=$2,639,558 edge=3085bps
+- Current positions across the shortlist:
+-   0x91a9cadcd7e36cbe8ff604cb634307d7b7643f70... 2 positions: SHORT ETH x20, SHORT HYPE x10
+-   0x4ba3979955f52158c0e4e3378b18985475182ce2... 2 positions: SHORT ETH x20, SHORT PONS x3
+-   0x5b5d51203a0f9079f8aeb098a6523a13f298c060... 20 positions: SHORT BTC x5, SHORT ETH x5, SHORT SOL x7, SHORT BNB x3, SHORT DOGE x3, SHORT INJ x3, SHORT SUI x3, SHORT LINK x3, SHORT XRP x5, SHORT WLD x2, SHORT NEAR x3, SHORT ONDO x3, SHORT ENA x3, SHORT HYPE x5, SHORT FARTCOIN x3, SHORT VVV x3, SHORT PUMP x5, SHORT XPL x3, SHORT ZEC x3, SHORT LIT x3
+-   0x015354106478dda69c4aae3c0cf801290b738052... 1 positions: SHORT ZEC x1
+-   0xcafe9392d902f6f517b1573371923ebf7ffa7b3b... 2 positions: LONG BTC x10, SHORT MEGA x3
 ### 06:33 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT ZEC [TP hit (+47.0% of margin)]
