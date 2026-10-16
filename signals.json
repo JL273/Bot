@@ -12372,5 +12372,19 @@
     "unrealized_pnl": -78.75569703997556,
     "liquidation_price": 0,
     "exit_reason": "SL hit (-36.2% of margin)"
+  },
+  {
+    "ts": "2026-10-16T09:40:59.967332+00:00",
+    "trader": "0xc435249d0e837efa5eb431ad74c9fa8889f2c905",
+    "type": "CLOSED",
+    "coin": "GRASS",
+    "side": "SHORT",
+    "size": 977.0363574688868,
+    "entry_price": 0.6344903298473471,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -48.78310305557101,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-23.6% of margin)"
   }
 ]
