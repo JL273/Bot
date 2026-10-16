@@ -4898,6 +4898,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-16
 
+### 13:54 UTC — Daily refresh (Job A)
+- Leaderboard: 47334 traders fetched, 5 shortlisted
+- Shortlist change: +5 new, -5 dropped
+- #1 0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66 acc=$49,483,523 month=$16,530,117 edge=18925bps
+- #2 0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9 acc=$21,492,480 month=$3,651,611 edge=1763bps
+- #3 0xfdf891f2b214a4c9374d26595ec6d4080262e381 acc=$3,893,694 month=$3,355,459 edge=3770bps
+- #4 0x08c14b32c8a48894e4b933090ebcc9ce33b21135 acc=$3,085,051 month=$5,110,241 edge=3868bps
+- #5 0xceec48581b3145a575508719f45da07dc57fa7ce acc=$14,594,344 month=$955,586 edge=309bps
+- Current positions across the shortlist:
+-   0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66... 8 positions: SHORT BTC x15, SHORT ETH x15, SHORT SOL x10, SHORT AVAX x10, SHORT BNB x10, SHORT XRP x10, SHORT ADA x10, LONG NEAR x10
+-   0x4c6d679eac539bf7c5a0b7ebd8949ae93b1e5ee9... 1 positions: SHORT XMR x3
+-   0xfdf891f2b214a4c9374d26595ec6d4080262e381... 7 positions: LONG WLD x10, LONG GRASS x3, LONG HYPE x10, LONG ZEC x10, LONG AERO x3, LONG CASHCAT x3, LONG PONS x3
+-   0x08c14b32c8a48894e4b933090ebcc9ce33b21135... 10 positions: SHORT BTC x20, LONG ARB x10, LONG LDO x5, LONG AAVE x10, LONG ZRO x5, LONG ETHFI x5, SHORT ENA x10, LONG EIGEN x5, SHORT WLFI x5, LONG MEGA x3
+-   0xceec48581b3145a575508719f45da07dc57fa7ce... 1 positions: SHORT HYPE x10
 ### 09:41 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT GRASS [SL hit (-23.6% of margin)]
