@@ -4898,6 +4898,12 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-16
 
+### 14:14 UTC — Position poll (Job B)
+- 0 signal(s) acted on, 3 skipped (confluence), 0 paused (daily profit limit):
+- SKIPPED LONG CASHCAT (0xfdf891f2b214a4c9374d26595ec6d4080262e381) — only 1/5 traders
+- SKIPPED LONG WLD (0xfdf891f2b214a4c9374d26595ec6d4080262e381) — only 1/5 traders
+- SKIPPED LONG PONS (0xfdf891f2b214a4c9374d26595ec6d4080262e381) — only 1/5 traders
+- Portfolio equity: $10,355.39 (+3.55%)
 ### 13:54 UTC — Daily refresh (Job A)
 - Leaderboard: 47334 traders fetched, 5 shortlisted
 - Shortlist change: +5 new, -5 dropped
