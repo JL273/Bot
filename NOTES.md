@@ -4922,3 +4922,20 @@ _Auto-generated. Newest entry at top._
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT GRASS [SL hit (-23.6% of margin)]
 - Portfolio equity: $10,327.14 (+3.27%)
+
+## 2026-10-17
+
+### 12:54 UTC — Daily refresh (Job A)
+- Leaderboard: 47200 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+- #1 0x6859da14835424957a1e6b397d8026b1d9ff7e1e acc=$7,775,720 month=$582,985 edge=307bps
+- #2 0x4fe260d11bf48ba3a94459771259c910a398ac59 acc=$1,916,334 month=$683,440 edge=505bps
+- #3 0xcafe9392d902f6f517b1573371923ebf7ffa7b3b acc=$8,426,639 month=$3,043,179 edge=3916bps
+- #4 0x6f97d329b072e0f7b74575565d806a4351b8f824 acc=$3,445,487 month=$271,850 edge=145bps
+- #5 0xceec48581b3145a575508719f45da07dc57fa7ce acc=$14,276,254 month=$1,517,763 edge=497bps
+- Current positions across the shortlist:
+-   0x6859da14835424957a1e6b397d8026b1d9ff7e1e... 22 positions: SHORT BTC x35, SHORT ETH x25, SHORT SOL x20, SHORT AVAX x10, SHORT SUI x10, SHORT AAVE x10, SHORT WLD x10, SHORT JUP x10, SHORT TAO x5, SHORT MNT x5, SHORT PURR x3, SHORT HYPE x10, SHORT FARTCOIN x10, SHORT SPX x5, SHORT VVV x3, SHORT PUMP x9, SHORT XPL x10, LONG MON x5, SHORT AERO x3, SHORT LIT x5, SHORT CASHCAT x3, SHORT PONS x3
+-   0x4fe260d11bf48ba3a94459771259c910a398ac59... 3 positions: SHORT BTC x40, SHORT HYPE x10, SHORT ZEC x10
+-   0xcafe9392d902f6f517b1573371923ebf7ffa7b3b... 2 positions: LONG BTC x10, SHORT MEGA x3
+-   0x6f97d329b072e0f7b74575565d806a4351b8f824... 9 positions: SHORT XRP x20, SHORT SEI x5, SHORT NEAR x10, SHORT kBONK x10, SHORT TAO x5, SHORT HYPE x10, SHORT PENGU x5, SHORT ZEC x10, SHORT XMR x5
+-   0xceec48581b3145a575508719f45da07dc57fa7ce... 1 positions: SHORT HYPE x10
