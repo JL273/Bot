@@ -4969,6 +4969,18 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-18
 
+### 16:30 UTC — Position poll (Job B)
+- 4 signal(s) acted on, 5 skipped (confluence), 0 paused (daily profit limit):
+- NEW SHORT AAVE (0x45d26f28196d226497130c4bac709d808fed4029) [2/5 traders]
+- NEW SHORT ZEC (0x45d26f28196d226497130c4bac709d808fed4029) [2/5 traders]
+- NEW SHORT UNI (0xd47587702a91731dc1089b5db0932cf820151a91) [2/5 traders]
+- NEW SHORT HYPE (0xd47587702a91731dc1089b5db0932cf820151a91) [4/5 traders]
+- SKIPPED SHORT GRAM (0x45d26f28196d226497130c4bac709d808fed4029) — only 1/5 traders
+- SKIPPED SHORT LINK (0x45d26f28196d226497130c4bac709d808fed4029) — only 1/5 traders
+- SKIPPED SHORT ADA (0x45d26f28196d226497130c4bac709d808fed4029) — only 1/5 traders
+- SKIPPED SHORT kPEPE (0x45d26f28196d226497130c4bac709d808fed4029) — only 1/5 traders
+- SKIPPED SHORT ETHFI (0x45d26f28196d226497130c4bac709d808fed4029) — only 1/5 traders
+- Portfolio equity: $10,986.63 (+9.87%)
 ### 13:12 UTC — Daily refresh (Job A)
 - Leaderboard: 47309 traders fetched, 5 shortlisted
 - Shortlist change: +2 new, -2 dropped
