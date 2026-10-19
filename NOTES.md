@@ -5002,6 +5002,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-19
 
+### 16:25 UTC — Daily refresh (Job A)
+- Leaderboard: 47435 traders fetched, 5 shortlisted
+- Shortlist change: +5 new, -5 dropped
+- #1 0xceec48581b3145a575508719f45da07dc57fa7ce acc=$14,249,248 month=$2,230,784 edge=748bps
+- #2 0xf02d028ffeddc120a3ec59602a6617303ca55eb3 acc=$13,694,503 month=$3,081,313 edge=1108bps
+- #3 0x28cee4465f95720cb8464d56faea656751119040 acc=$2,456,829 month=$882,449 edge=1063bps
+- #4 0xcf5343ba750a6e30afbb1dadda08bc78f8c8ee11 acc=$13,296,636 month=$2,070,004 edge=1836bps
+- #5 0xf02d16a272a842f8bac1d9a9e773aba1933454c6 acc=$31,918,656 month=$7,967,123 edge=1264bps
+- Current positions across the shortlist:
+-   0xceec48581b3145a575508719f45da07dc57fa7ce... 1 positions: SHORT HYPE x10
+-   0xf02d028ffeddc120a3ec59602a6617303ca55eb3... 3 positions: SHORT BTC x10, LONG ETH x20, SHORT HYPE x10
+-   0x28cee4465f95720cb8464d56faea656751119040... 2 positions: SHORT ENA x10, SHORT HYPE x10
+-   0xcf5343ba750a6e30afbb1dadda08bc78f8c8ee11... 4 positions: SHORT BTC x5, SHORT ETH x7, SHORT NEAR x10, SHORT HYPE x5
+-   0xf02d16a272a842f8bac1d9a9e773aba1933454c6... 1 positions: SHORT HYPE x5
 ### 05:23 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT ZEC [SL hit (-21.7% of margin)]
