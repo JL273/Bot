@@ -5002,6 +5002,14 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-19
 
+### 17:18 UTC — Position poll (Job B)
+- 2 signal(s) acted on, 3 skipped (confluence), 0 paused (daily profit limit):
+- NEW SHORT HYPE (0xcf5343ba750a6e30afbb1dadda08bc78f8c8ee11) [5/5 traders]
+- NEW SHORT BTC (0xcf5343ba750a6e30afbb1dadda08bc78f8c8ee11) [2/5 traders]
+- SKIPPED LONG ETH (0xf02d028ffeddc120a3ec59602a6617303ca55eb3) — only 1/5 traders
+- SKIPPED SHORT ETH (0xcf5343ba750a6e30afbb1dadda08bc78f8c8ee11) — only 1/5 traders
+- SKIPPED SHORT NEAR (0xcf5343ba750a6e30afbb1dadda08bc78f8c8ee11) — only 1/5 traders
+- Portfolio equity: $10,575.70 (+5.76%)
 ### 16:25 UTC — Daily refresh (Job A)
 - Leaderboard: 47435 traders fetched, 5 shortlisted
 - Shortlist change: +5 new, -5 dropped
