@@ -1,5 +1,5 @@
 {
-  "cash": 4378.152838452449,
+  "cash": 4801.590366547596,
   "starting_cash": 10000.0,
   "open_positions": {
     "0xb829fd12a23c88e0f1eb85238799f8fd400a3a81:BTC:SHORT": {
@@ -142,20 +142,6 @@
       "notional": 772.4372213931714,
       "opened_at": "2026-10-13T20:42:15.246390+00:00"
     },
-    "0x4fe260d11bf48ba3a94459771259c910a398ac59:ZEC:SHORT": {
-      "trader": "0x4fe260d11bf48ba3a94459771259c910a398ac59",
-      "coin": "ZEC",
-      "side": "SHORT",
-      "size": 0.8019801813592524,
-      "entry_price": 1153.8,
-      "entry_fee": 0.46266236662615273,
-      "entry_slippage_bps": 2.17,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 308.4415777507685,
-      "notional": 925.3247332523055,
-      "opened_at": "2026-10-17T13:09:19.655609+00:00"
-    },
     "0x6f97d329b072e0f7b74575565d806a4351b8f824:TAO:SHORT": {
       "trader": "0x6f97d329b072e0f7b74575565d806a4351b8f824",
       "coin": "TAO",
@@ -182,20 +168,6 @@
       "leverage": 3,
       "margin": 278.32457273022294,
       "notional": 834.9737181906688,
-      "opened_at": "2026-10-17T13:09:19.655609+00:00"
-    },
-    "0x6f97d329b072e0f7b74575565d806a4351b8f824:ZEC:SHORT": {
-      "trader": "0x6f97d329b072e0f7b74575565d806a4351b8f824",
-      "coin": "ZEC",
-      "side": "SHORT",
-      "size": 0.6875523658566847,
-      "entry_price": 1153.6029088693444,
-      "entry_fee": 0.39658120462613555,
-      "entry_slippage_bps": 0.46,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 264.387469750757,
-      "notional": 793.1624092522711,
       "opened_at": "2026-10-17T13:09:19.655609+00:00"
     },
     "0x45d26f28196d226497130c4bac709d808fed4029:AAVE:SHORT": {
@@ -26470,7 +26442,17 @@
       "ts": "2026-10-20T18:44:13.648177+00:00",
       "equity": 10296.042685212802,
       "cash": 4378.152838452449
+    },
+    {
+      "ts": "2026-10-20T21:53:15.942933+00:00",
+      "equity": 10048.319501404492,
+      "cash": 4378.152838452449
+    },
+    {
+      "ts": "2026-10-20T21:53:16.760814+00:00",
+      "equity": 10046.452738018303,
+      "cash": 4801.590366547596
     }
   ],
-  "last_processed_signal_index": 933
+  "last_processed_signal_index": 935
 }
