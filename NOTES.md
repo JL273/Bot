@@ -5031,6 +5031,22 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-20
 
+### 14:42 UTC — Position poll (Job B)
+- 8 signal(s) acted on, 5 skipped (confluence), 0 paused (daily profit limit):
+- CLOSED LONG MON (0x6859da14835424957a1e6b397d8026b1d9ff7e1e)
+- NEW SHORT BTC (0x6041f881358c71d64bc9253c9ba0391df69f7d98) [2/5 traders]
+- NEW SHORT HYPE (0xc4643e390f49d1616b5108bf0eac309f7c0eb868) [3/5 traders]
+- NEW SHORT XPL (0xc4643e390f49d1616b5108bf0eac309f7c0eb868) [2/5 traders]
+- NEW SHORT UNI (0xc4643e390f49d1616b5108bf0eac309f7c0eb868) [2/5 traders]
+- NEW SHORT AVAX (0xc4643e390f49d1616b5108bf0eac309f7c0eb868) [2/5 traders]
+- EXIT SHORT HYPE [time-stop (6d open, flat)]
+- EXIT SHORT UNI [SL hit (-24.1% of margin)]
+- SKIPPED SHORT MON (0x6859da14835424957a1e6b397d8026b1d9ff7e1e) — only 1/5 traders
+- SKIPPED SHORT CRV (0xc4643e390f49d1616b5108bf0eac309f7c0eb868) — only 1/5 traders
+- SKIPPED SHORT ICP (0xc4643e390f49d1616b5108bf0eac309f7c0eb868) — only 1/5 traders
+- SKIPPED SHORT LTC (0xc4643e390f49d1616b5108bf0eac309f7c0eb868) — only 1/5 traders
+- SKIPPED SHORT VIRTUAL (0xc4643e390f49d1616b5108bf0eac309f7c0eb868) — only 1/5 traders
+- Portfolio equity: $9,958.10 (-0.42%)
 ### 14:15 UTC — Daily refresh (Job A)
 - Leaderboard: 47445 traders fetched, 5 shortlisted
 - Shortlist change: +5 new, -5 dropped
