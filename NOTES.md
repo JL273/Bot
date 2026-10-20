@@ -5028,3 +5028,10 @@ _Auto-generated. Newest entry at top._
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT ZEC [SL hit (-21.7% of margin)]
 - Portfolio equity: $10,357.86 (+3.58%)
+
+## 2026-10-20
+
+### 05:11 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT ZEC [time-stop (5d open, flat)]
+- Portfolio equity: $10,450.22 (+4.50%)
