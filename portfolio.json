@@ -1,21 +1,7 @@
 {
-  "cash": 4801.590366547596,
+  "cash": 5456.1261343730475,
   "starting_cash": 10000.0,
   "open_positions": {
-    "0xb829fd12a23c88e0f1eb85238799f8fd400a3a81:BTC:SHORT": {
-      "trader": "0xb829fd12a23c88e0f1eb85238799f8fd400a3a81",
-      "coin": "BTC",
-      "side": "SHORT",
-      "size": 0.01294037317758052,
-      "entry_price": 84577.0,
-      "entry_fee": 0.5472289711201138,
-      "entry_slippage_bps": 0.06,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 364.81931408007586,
-      "notional": 1094.4579422402276,
-      "opened_at": "2026-10-01T21:05:07.682247+00:00"
-    },
     "0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66:BTC:SHORT": {
       "trader": "0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66",
       "coin": "BTC",
@@ -43,20 +29,6 @@
       "margin": 235.20241442922475,
       "notional": 705.6072432876742,
       "opened_at": "2026-10-05T20:48:03.406989+00:00"
-    },
-    "0x015354106478dda69c4aae3c0cf801290b738052:ZEC:SHORT": {
-      "trader": "0x015354106478dda69c4aae3c0cf801290b738052",
-      "coin": "ZEC",
-      "side": "SHORT",
-      "size": 0.2153828847613951,
-      "entry_price": 1322.9,
-      "entry_fee": 0.1424650091254248,
-      "entry_slippage_bps": 0.38,
-      "entry_fill_method": "book",
-      "leverage": 1,
-      "margin": 284.9300182508496,
-      "notional": 284.9300182508496,
-      "opened_at": "2026-10-07T20:49:13.988451+00:00"
     },
     "0xf02d16a272a842f8bac1d9a9e773aba1933454c6:HYPE:SHORT": {
       "trader": "0xf02d16a272a842f8bac1d9a9e773aba1933454c6",
@@ -26467,7 +26439,17 @@
       "ts": "2026-10-21T09:36:26.381508+00:00",
       "equity": 9964.37553349827,
       "cash": 4801.590366547596
+    },
+    {
+      "ts": "2026-10-21T14:37:38.052284+00:00",
+      "equity": 9953.056358053322,
+      "cash": 4801.590366547596
+    },
+    {
+      "ts": "2026-10-21T14:37:38.745970+00:00",
+      "equity": 9956.171084132719,
+      "cash": 5456.1261343730475
     }
   ],
-  "last_processed_signal_index": 935
+  "last_processed_signal_index": 937
 }

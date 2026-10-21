@@ -5078,6 +5078,14 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-21
 
+### 14:37 UTC — Position poll (Job B)
+- 2 signal(s) acted on, 3 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT BTC [time-stop (19d open, flat)]
+- EXIT SHORT ZEC [time-stop (13d open, flat)]
+- SKIPPED LONG GRASS (0x153c8444380512cabdc34f6cea09c322e14e319a) — only 1/5 traders
+- SKIPPED LONG OP (0x153c8444380512cabdc34f6cea09c322e14e319a) — only 1/5 traders
+- SKIPPED LONG TIA (0x153c8444380512cabdc34f6cea09c322e14e319a) — only 1/5 traders
+- Portfolio equity: $9,956.17 (-0.44%)
 ### 14:27 UTC — Daily refresh (Job A)
 - Leaderboard: 47733 traders fetched, 5 shortlisted
 - Shortlist change: +5 new, -5 dropped
