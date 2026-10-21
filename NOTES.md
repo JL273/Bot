@@ -5075,3 +5075,20 @@ _Auto-generated. Newest entry at top._
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT ZEC [time-stop (5d open, flat)]
 - Portfolio equity: $10,450.22 (+4.50%)
+
+## 2026-10-21
+
+### 14:27 UTC — Daily refresh (Job A)
+- Leaderboard: 47733 traders fetched, 5 shortlisted
+- Shortlist change: +5 new, -5 dropped
+- #1 0x03ef8f736498047c3349bb2c18311d1bb4a79054 acc=$12,824,953 month=$1,108,193 edge=1616bps
+- #2 0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66 acc=$49,090,946 month=$6,086,985 edge=3199bps
+- #3 0x153c8444380512cabdc34f6cea09c322e14e319a acc=$6,399,103 month=$1,584,140 edge=2211bps
+- #4 0xf02d028ffeddc120a3ec59602a6617303ca55eb3 acc=$14,046,477 month=$3,260,023 edge=1172bps
+- #5 0xf02d16a272a842f8bac1d9a9e773aba1933454c6 acc=$32,165,119 month=$7,511,536 edge=1161bps
+- Current positions across the shortlist:
+-   0x03ef8f736498047c3349bb2c18311d1bb4a79054... 1 positions: SHORT HYPE x10
+-   0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66... 8 positions: SHORT BTC x15, SHORT ETH x15, SHORT SOL x10, SHORT AVAX x10, SHORT BNB x10, SHORT XRP x10, SHORT ADA x10, LONG NEAR x10
+-   0x153c8444380512cabdc34f6cea09c322e14e319a... 13 positions: LONG OP x5, LONG kPEPE x10, LONG CFX x5, LONG WLD x10, LONG kSHIB x10, LONG TIA x5, LONG FET x5, LONG NEAR x10, LONG IMX x5, LONG kBONK x10, LONG GRASS x3, LONG PNUT x3, LONG GRAM x5
+-   0xf02d028ffeddc120a3ec59602a6617303ca55eb3... 3 positions: SHORT BTC x10, LONG ETH x20, SHORT HYPE x10
+-   0xf02d16a272a842f8bac1d9a9e773aba1933454c6... 1 positions: SHORT HYPE x5
