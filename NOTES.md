@@ -5078,6 +5078,19 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-21
 
+### 18:52 UTC — Position poll (Job B)
+- 2 signal(s) acted on, 8 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT ETH [time-stop (8d open, flat)]
+- EXIT SHORT ETH [time-stop (7d open, flat)]
+- SKIPPED LONG MNT (0x153c8444380512cabdc34f6cea09c322e14e319a) — only 1/5 traders
+- SKIPPED LONG APEX (0x153c8444380512cabdc34f6cea09c322e14e319a) — only 1/5 traders
+- SKIPPED LONG TRX (0x153c8444380512cabdc34f6cea09c322e14e319a) — only 1/5 traders
+- SKIPPED LONG ASTER (0x153c8444380512cabdc34f6cea09c322e14e319a) — only 1/5 traders
+- SKIPPED LONG STRK (0x153c8444380512cabdc34f6cea09c322e14e319a) — only 1/5 traders
+- SKIPPED LONG AVAX (0x153c8444380512cabdc34f6cea09c322e14e319a) — only 1/5 traders
+- SKIPPED LONG HBAR (0x153c8444380512cabdc34f6cea09c322e14e319a) — only 1/5 traders
+- SKIPPED LONG FIL (0x153c8444380512cabdc34f6cea09c322e14e319a) — only 1/5 traders
+- Portfolio equity: $9,761.15 (-2.39%)
 ### 14:37 UTC — Position poll (Job B)
 - 2 signal(s) acted on, 3 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT BTC [time-stop (19d open, flat)]
