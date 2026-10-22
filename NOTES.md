@@ -5113,3 +5113,20 @@ _Auto-generated. Newest entry at top._
 -   0x153c8444380512cabdc34f6cea09c322e14e319a... 13 positions: LONG OP x5, LONG kPEPE x10, LONG CFX x5, LONG WLD x10, LONG kSHIB x10, LONG TIA x5, LONG FET x5, LONG NEAR x10, LONG IMX x5, LONG kBONK x10, LONG GRASS x3, LONG PNUT x3, LONG GRAM x5
 -   0xf02d028ffeddc120a3ec59602a6617303ca55eb3... 3 positions: SHORT BTC x10, LONG ETH x20, SHORT HYPE x10
 -   0xf02d16a272a842f8bac1d9a9e773aba1933454c6... 1 positions: SHORT HYPE x5
+
+## 2026-10-22
+
+### 14:28 UTC — Daily refresh (Job A)
+- Leaderboard: 47607 traders fetched, 5 shortlisted
+- Shortlist change: +3 new, -3 dropped
+- #1 0x03ef8f736498047c3349bb2c18311d1bb4a79054 acc=$12,639,516 month=$1,591,851 edge=3177bps
+- #2 0xcafe9392d902f6f517b1573371923ebf7ffa7b3b acc=$8,339,781 month=$3,580,233 edge=5043bps
+- #3 0xf02d028ffeddc120a3ec59602a6617303ca55eb3 acc=$13,510,380 month=$3,994,580 edge=2845bps
+- #4 0xacb66d1996501bcc82a0e7819c9e041599f5efbd acc=$10,927,460 month=$2,778,814 edge=2409bps
+- #5 0xd7b19f8aaf5c9619bd5141945a73d2ca74984451 acc=$8,582,659 month=$2,598,320 edge=1357bps
+- Current positions across the shortlist:
+-   0x03ef8f736498047c3349bb2c18311d1bb4a79054... 1 positions: SHORT HYPE x10
+-   0xcafe9392d902f6f517b1573371923ebf7ffa7b3b... 2 positions: LONG BTC x10, SHORT MEGA x3
+-   0xf02d028ffeddc120a3ec59602a6617303ca55eb3... 3 positions: SHORT BTC x10, LONG ETH x20, SHORT HYPE x10
+-   0xacb66d1996501bcc82a0e7819c9e041599f5efbd... 14 positions: SHORT BTC x20, SHORT OP x5, LONG WLD x10, SHORT IMX x5, LONG JUP x10, SHORT WIF x5, SHORT ENS x5, SHORT STRK x5, SHORT HBAR x5, SHORT EIGEN x5, SHORT SAND x5, SHORT PAXG x10, LONG PUMP x10, LONG ASTER x5
+-   0xd7b19f8aaf5c9619bd5141945a73d2ca74984451... no open positions
