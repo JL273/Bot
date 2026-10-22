@@ -5116,6 +5116,27 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-22
 
+### 15:08 UTC — Position poll (Job B)
+- 6 signal(s) acted on, 12 skipped (confluence), 0 paused (daily profit limit):
+- NEW SHORT BTC (0xacb66d1996501bcc82a0e7819c9e041599f5efbd) [2/5 traders]
+- CLOSED SHORT ETH (0xacb66d1996501bcc82a0e7819c9e041599f5efbd)
+- CLOSED SHORT SOL (0xacb66d1996501bcc82a0e7819c9e041599f5efbd)
+- CLOSED LONG HYPE (0xacb66d1996501bcc82a0e7819c9e041599f5efbd)
+- CLOSED SHORT XRP (0xacb66d1996501bcc82a0e7819c9e041599f5efbd)
+- CLOSED SHORT HYPE (0xd7b19f8aaf5c9619bd5141945a73d2ca74984451)
+- SKIPPED SHORT IMX (0xacb66d1996501bcc82a0e7819c9e041599f5efbd) — only 1/5 traders
+- SKIPPED LONG WLD (0xacb66d1996501bcc82a0e7819c9e041599f5efbd) — only 1/5 traders
+- SKIPPED SHORT HBAR (0xacb66d1996501bcc82a0e7819c9e041599f5efbd) — only 1/5 traders
+- SKIPPED SHORT SAND (0xacb66d1996501bcc82a0e7819c9e041599f5efbd) — only 1/5 traders
+- SKIPPED SHORT WIF (0xacb66d1996501bcc82a0e7819c9e041599f5efbd) — only 1/5 traders
+- SKIPPED SHORT OP (0xacb66d1996501bcc82a0e7819c9e041599f5efbd) — only 1/5 traders
+- SKIPPED LONG JUP (0xacb66d1996501bcc82a0e7819c9e041599f5efbd) — only 1/5 traders
+- SKIPPED SHORT ENS (0xacb66d1996501bcc82a0e7819c9e041599f5efbd) — only 1/5 traders
+- SKIPPED LONG PUMP (0xacb66d1996501bcc82a0e7819c9e041599f5efbd) — only 1/5 traders
+- SKIPPED SHORT STRK (0xacb66d1996501bcc82a0e7819c9e041599f5efbd) — only 1/5 traders
+- SKIPPED SHORT EIGEN (0xacb66d1996501bcc82a0e7819c9e041599f5efbd) — only 1/5 traders
+- SKIPPED SHORT PAXG (0xacb66d1996501bcc82a0e7819c9e041599f5efbd) — only 1/5 traders
+- Portfolio equity: $10,371.63 (+3.72%)
 ### 14:28 UTC — Daily refresh (Job A)
 - Leaderboard: 47607 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
