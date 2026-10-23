@@ -1,5 +1,5 @@
 {
-  "cash": 3370.5397688704334,
+  "cash": 3599.5089242429503,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66:BTC:SHORT": {
@@ -112,20 +112,6 @@
       "leverage": 3,
       "margin": 273.5968713429224,
       "notional": 820.7906140287671,
-      "opened_at": "2026-10-18T16:30:07.464418+00:00"
-    },
-    "0xd47587702a91731dc1089b5db0932cf820151a91:HYPE:SHORT": {
-      "trader": "0xd47587702a91731dc1089b5db0932cf820151a91",
-      "coin": "HYPE",
-      "side": "SHORT",
-      "size": 9.123499890641334,
-      "entry_price": 77.115,
-      "entry_fee": 0.35177934703340324,
-      "entry_slippage_bps": 0.32,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 234.51956468893547,
-      "notional": 703.5586940668064,
       "opened_at": "2026-10-18T16:30:07.464418+00:00"
     },
     "0xcf5343ba750a6e30afbb1dadda08bc78f8c8ee11:HYPE:SHORT": {
@@ -26645,7 +26631,17 @@
       "ts": "2026-10-23T15:02:36.326107+00:00",
       "equity": 10341.34097971985,
       "cash": 3370.5397688704334
+    },
+    {
+      "ts": "2026-10-23T19:03:05.382952+00:00",
+      "equity": 10475.727565700676,
+      "cash": 3370.5397688704334
+    },
+    {
+      "ts": "2026-10-23T19:03:06.325691+00:00",
+      "equity": 10474.8620735781,
+      "cash": 3599.5089242429503
     }
   ],
-  "last_processed_signal_index": 973
+  "last_processed_signal_index": 974
 }
