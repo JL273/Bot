@@ -5325,6 +5325,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-25
 
+### 18:10 UTC — Position poll (Job B)
+- 2 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT VVV [SL hit (-24.1% of margin)]
+- EXIT SHORT PONS [SL hit (-22.5% of margin)]
+- Portfolio equity: $10,727.69 (+7.28%)
 ### 14:59 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - NEW SHORT BTC (0x468fe3f0e20b0bf463083a4054687cddc71a9186) [2/5 traders]
