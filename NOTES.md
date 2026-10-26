@@ -5355,6 +5355,12 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-26
 
+### 17:23 UTC — Position poll (Job B)
+- 2 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
+- NEW SHORT ETH (0xf929122994e177079c924631ba13fb280f5cd1f9) [3/5 traders]
+- CLOSED LONG ETH (0xf929122994e177079c924631ba13fb280f5cd1f9)
+- SKIPPED LONG PENDLE (0xaf0fdd39e5d92499b0ed9f68693da99c0ec1e92e) — only 1/5 traders
+- Portfolio equity: $10,660.84 (+6.61%)
 ### 16:04 UTC — Daily refresh (Job A)
 - Leaderboard: 47640 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped
