@@ -13967,5 +13967,19 @@
     "unrealized_pnl": -25.51383411006765,
     "liquidation_price": 0,
     "exit_reason": "SL hit (-22.5% of margin)"
+  },
+  {
+    "ts": "2026-10-26T11:15:41.254513+00:00",
+    "trader": "0x47f5a6397b79deaaca5c456503e7c1a49357b942",
+    "type": "NEW",
+    "confluence": 4,
+    "coin": "SOL",
+    "side": "SHORT",
+    "size": 1428.67,
+    "entry_price": 101.7406,
+    "position_value_usd": 144624.2641,
+    "leverage": 20,
+    "unrealized_pnl": 729.616,
+    "liquidation_price": 1552.3222018186
   }
 ]
