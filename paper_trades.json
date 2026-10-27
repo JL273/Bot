@@ -9798,5 +9798,30 @@
     "pnl_pct": -1.5925761932145035,
     "total_slippage_bps": 0.44,
     "exit_reason": "time-stop (7d open, flat)"
+  },
+  {
+    "trader": "0x47f5a6397b79deaaca5c456503e7c1a49357b942",
+    "coin": "CASHCAT",
+    "side": "SHORT",
+    "size": 4175.495541454885,
+    "entry_price": 0.09025093546210154,
+    "entry_fee": 0.18842118931706878,
+    "entry_slippage_bps": 3.44,
+    "entry_fill_method": "book",
+    "leverage": 3,
+    "margin": 125.61412621137919,
+    "notional": 376.84237863413756,
+    "opened_at": "2026-10-24T16:34:57.263909+00:00",
+    "exit_price": 0.09760485634434495,
+    "exit_fee": 0.20377432124507844,
+    "total_fees": 0.3921955105621472,
+    "exit_slippage_bps": 5.21,
+    "exit_fill_method": "book",
+    "closed_at": "2026-10-27T10:57:25.198930+00:00",
+    "gross_pnl": -30.706263856019305,
+    "pnl": -31.09845936658145,
+    "pnl_pct": -24.75713544689235,
+    "total_slippage_bps": 8.65,
+    "exit_reason": "SL hit (-24.3% of margin)"
   }
 ]

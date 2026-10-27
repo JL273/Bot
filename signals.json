@@ -14022,5 +14022,19 @@
     "unrealized_pnl": -3.0045076901955867,
     "liquidation_price": 0,
     "exit_reason": "time-stop (7d open, flat)"
+  },
+  {
+    "ts": "2026-10-27T10:57:25.198930+00:00",
+    "trader": "0x47f5a6397b79deaaca5c456503e7c1a49357b942",
+    "type": "CLOSED",
+    "coin": "CASHCAT",
+    "side": "SHORT",
+    "size": 4175.495541454885,
+    "entry_price": 0.09025093546210154,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -30.4939134169523,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-24.3% of margin)"
   }
 ]
