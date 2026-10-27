@@ -5379,3 +5379,10 @@ _Auto-generated. Newest entry at top._
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - NEW SHORT SOL (0x47f5a6397b79deaaca5c456503e7c1a49357b942) [4/5 traders]
 - Portfolio equity: $10,970.70 (+9.71%)
+
+## 2026-10-27
+
+### 00:48 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT HYPE [time-stop (7d open, flat)]
+- Portfolio equity: $10,837.37 (+8.37%)
