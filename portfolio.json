@@ -1,5 +1,5 @@
 {
-  "cash": 1750.0868936428938,
+  "cash": 2080.5999311809373,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66:BTC:SHORT": {
@@ -126,20 +126,6 @@
       "leverage": 3,
       "margin": 223.01919637020774,
       "notional": 669.0575891106232,
-      "opened_at": "2026-10-20T14:42:53.309810+00:00"
-    },
-    "0xc4643e390f49d1616b5108bf0eac309f7c0eb868:HYPE:SHORT": {
-      "trader": "0xc4643e390f49d1616b5108bf0eac309f7c0eb868",
-      "coin": "HYPE",
-      "side": "SHORT",
-      "size": 7.780458467006695,
-      "entry_price": 81.686,
-      "entry_fee": 0.31777726516795446,
-      "entry_slippage_bps": 0.37,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 211.85151011196965,
-      "notional": 635.5545303359089,
       "opened_at": "2026-10-20T14:42:53.309810+00:00"
     },
     "0xc4643e390f49d1616b5108bf0eac309f7c0eb868:XPL:SHORT": {
@@ -364,20 +350,6 @@
       "leverage": 3,
       "margin": 154.269904817249,
       "notional": 462.809714451747,
-      "opened_at": "2026-10-24T16:34:57.263909+00:00"
-    },
-    "0x47f5a6397b79deaaca5c456503e7c1a49357b942:NEAR:SHORT": {
-      "trader": "0x47f5a6397b79deaaca5c456503e7c1a49357b942",
-      "coin": "NEAR",
-      "side": "SHORT",
-      "size": 100.34797607919832,
-      "entry_price": 4.3811,
-      "entry_fee": 0.2198172590002879,
-      "entry_slippage_bps": 0.34,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 146.54483933352526,
-      "notional": 439.6345180005758,
       "opened_at": "2026-10-24T16:34:57.263909+00:00"
     },
     "0x47f5a6397b79deaaca5c456503e7c1a49357b942:PUMP:SHORT": {
@@ -27049,7 +27021,17 @@
       "ts": "2026-10-27T20:38:50.949754+00:00",
       "equity": 10633.308125563492,
       "cash": 1750.0868936428938
+    },
+    {
+      "ts": "2026-10-27T23:58:24.438925+00:00",
+      "equity": 10436.533717423126,
+      "cash": 1750.0868936428938
+    },
+    {
+      "ts": "2026-10-27T23:58:26.045402+00:00",
+      "equity": 10435.396084193573,
+      "cash": 2080.5999311809373
     }
   ],
-  "last_processed_signal_index": 1036
+  "last_processed_signal_index": 1038
 }
