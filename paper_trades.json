@@ -9823,5 +9823,30 @@
     "pnl_pct": -24.75713544689235,
     "total_slippage_bps": 8.65,
     "exit_reason": "SL hit (-24.3% of margin)"
+  },
+  {
+    "trader": "0x47f5a6397b79deaaca5c456503e7c1a49357b942",
+    "coin": "MEGA",
+    "side": "SHORT",
+    "size": 9396.08686920023,
+    "entry_price": 0.044446142881099576,
+    "entry_fee": 0.20880990975584848,
+    "entry_slippage_bps": 4.24,
+    "entry_fill_method": "book",
+    "leverage": 3,
+    "margin": 139.206606503899,
+    "notional": 417.61981951169696,
+    "opened_at": "2026-10-24T16:34:57.263909+00:00",
+    "exit_price": 0.04814883191521836,
+    "exit_fee": 0.2262053036629561,
+    "total_fees": 0.43501521341880456,
+    "exit_slippage_bps": 0.45,
+    "exit_fill_method": "book",
+    "closed_at": "2026-10-27T16:08:48.152528+00:00",
+    "gross_pnl": -34.79078781421521,
+    "pnl": -35.225803027634015,
+    "pnl_pct": -25.304692005869267,
+    "total_slippage_bps": 4.69,
+    "exit_reason": "SL hit (-25.0% of margin)"
   }
 ]

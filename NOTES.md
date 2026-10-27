@@ -5382,6 +5382,28 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-27
 
+### 16:08 UTC — Position poll (Job B)
+- 15 signal(s) acted on, 4 skipped (confluence), 0 paused (daily profit limit):
+- NEW SHORT ETH (0xabe6724948b47deb99ae12fce930ea4b35d51d99) [4/5 traders]
+- NEW SHORT AAVE (0xabe6724948b47deb99ae12fce930ea4b35d51d99) [3/5 traders]
+- NEW SHORT SOL (0xabe6724948b47deb99ae12fce930ea4b35d51d99) [4/5 traders]
+- NEW SHORT SUI (0xabe6724948b47deb99ae12fce930ea4b35d51d99) [2/5 traders]
+- NEW SHORT BTC (0xabe6724948b47deb99ae12fce930ea4b35d51d99) [5/5 traders]
+- NEW SHORT AAVE (0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0) [3/5 traders]
+- NEW SHORT SOL (0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0) [4/5 traders]
+- NEW SHORT ETH (0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0) [4/5 traders]
+- NEW SHORT PUMP (0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0) [2/5 traders]
+- NEW SHORT BTC (0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0) [5/5 traders]
+- CLOSED SHORT PAXG (0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0)
+- NEW SHORT ETH (0xf899937184168b1d9dee75acbaa3fef0f52888db) [4/5 traders]
+- NEW SHORT BTC (0xf899937184168b1d9dee75acbaa3fef0f52888db) [5/5 traders]
+- NEW SHORT SOL (0xf899937184168b1d9dee75acbaa3fef0f52888db) [4/5 traders]
+- EXIT SHORT MEGA [SL hit (-25.0% of margin)]
+- SKIPPED SHORT XLM (0xabe6724948b47deb99ae12fce930ea4b35d51d99) — only 1/5 traders
+- SKIPPED SHORT BNB (0xabe6724948b47deb99ae12fce930ea4b35d51d99) — only 1/5 traders
+- SKIPPED SHORT XMR (0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0) — only 1/5 traders
+- SKIPPED SHORT GRASS (0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0) — only 1/5 traders
+- Portfolio equity: $10,684.72 (+6.85%)
 ### 15:18 UTC — Daily refresh (Job A)
 - Leaderboard: 47677 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped
