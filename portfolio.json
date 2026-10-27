@@ -1,5 +1,5 @@
 {
-  "cash": 1608.1453321973868,
+  "cash": 1750.0868936428938,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66:BTC:SHORT": {
@@ -322,20 +322,6 @@
       "leverage": 3,
       "margin": 196.60814583273768,
       "notional": 589.824437498213,
-      "opened_at": "2026-10-23T15:02:31.982884+00:00"
-    },
-    "0xa20fb0c9e04063eec5be286e9269028d966646fa:PURR:SHORT": {
-      "trader": "0xa20fb0c9e04063eec5be286e9269028d966646fa",
-      "coin": "PURR",
-      "side": "SHORT",
-      "size": 5714.019964361481,
-      "entry_price": 0.09805513146349325,
-      "entry_fee": 0.280144489395245,
-      "entry_slippage_bps": 18.21,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 186.76299293016334,
-      "notional": 560.28897879049,
       "opened_at": "2026-10-23T15:02:31.982884+00:00"
     },
     "0xbe19541903f64af97bcf8436f4d15bf3a56b8bd1:WLD:SHORT": {
@@ -27053,7 +27039,17 @@
       "ts": "2026-10-27T16:08:53.468311+00:00",
       "equity": 10684.721844368736,
       "cash": 1608.1453321973868
+    },
+    {
+      "ts": "2026-10-27T20:38:49.852790+00:00",
+      "equity": 10634.78946680349,
+      "cash": 1608.1453321973868
+    },
+    {
+      "ts": "2026-10-27T20:38:50.949754+00:00",
+      "equity": 10633.308125563492,
+      "cash": 1750.0868936428938
     }
   ],
-  "last_processed_signal_index": 1035
+  "last_processed_signal_index": 1036
 }

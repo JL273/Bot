@@ -9848,5 +9848,30 @@
     "pnl_pct": -25.304692005869267,
     "total_slippage_bps": 4.69,
     "exit_reason": "SL hit (-25.0% of margin)"
+  },
+  {
+    "trader": "0xa20fb0c9e04063eec5be286e9269028d966646fa",
+    "coin": "PURR",
+    "side": "SHORT",
+    "size": 5714.019964361481,
+    "entry_price": 0.09805513146349325,
+    "entry_fee": 0.280144489395245,
+    "entry_slippage_bps": 18.21,
+    "entry_fill_method": "book",
+    "leverage": 3,
+    "margin": 186.76299293016334,
+    "notional": 560.28897879049,
+    "opened_at": "2026-10-23T15:02:31.982884+00:00",
+    "exit_price": 0.10579732054758618,
+    "exit_fee": 0.3022640008924293,
+    "total_fees": 0.5824084902876743,
+    "exit_slippage_bps": 14.89,
+    "exit_fill_method": "book",
+    "closed_at": "2026-10-27T20:38:48.408246+00:00",
+    "gross_pnl": -44.23902299436857,
+    "pnl": -44.821431484656244,
+    "pnl_pct": -23.999096813262362,
+    "total_slippage_bps": 33.1,
+    "exit_reason": "SL hit (-23.2% of margin)"
   }
 ]
