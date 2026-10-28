@@ -5438,6 +5438,29 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-28
 
+### 16:33 UTC — Position poll (Job B)
+- 17 signal(s) acted on, 3 skipped (confluence), 0 paused (daily profit limit):
+- CLOSED SHORT CHIP (0xc435249d0e837efa5eb431ad74c9fa8889f2c905)
+- CLOSED SHORT TAO (0xc435249d0e837efa5eb431ad74c9fa8889f2c905)
+- CLOSED SHORT TRX (0xc435249d0e837efa5eb431ad74c9fa8889f2c905)
+- NEW SHORT AAVE (0xba5d9cc840745aeeeeedac5712e32f13ab8ea352) [2/5 traders]
+- NEW SHORT MON (0xba5d9cc840745aeeeeedac5712e32f13ab8ea352) [2/5 traders]
+- NEW SHORT SOL (0xba5d9cc840745aeeeeedac5712e32f13ab8ea352) [2/5 traders]
+- NEW SHORT LINK (0xba5d9cc840745aeeeeedac5712e32f13ab8ea352) [2/5 traders]
+- NEW SHORT ZRO (0xba5d9cc840745aeeeeedac5712e32f13ab8ea352) [2/5 traders]
+- NEW SHORT XMR (0xba5d9cc840745aeeeeedac5712e32f13ab8ea352) [3/5 traders]
+- NEW SHORT GRAM (0xba5d9cc840745aeeeeedac5712e32f13ab8ea352) [2/5 traders]
+- NEW SHORT PUMP (0xba5d9cc840745aeeeeedac5712e32f13ab8ea352) [3/5 traders]
+- NEW SHORT NEAR (0xba5d9cc840745aeeeeedac5712e32f13ab8ea352) [3/5 traders]
+- NEW SHORT HYPE (0xba5d9cc840745aeeeeedac5712e32f13ab8ea352) [3/5 traders]
+- NEW SHORT BTC (0xba5d9cc840745aeeeeedac5712e32f13ab8ea352) [4/5 traders]
+- NEW SHORT ETH (0xba5d9cc840745aeeeeedac5712e32f13ab8ea352) [3/5 traders]
+- CLOSED SHORT ZEC (0xbbf7fbc7fa97a88c83c1b8a825692f84ef9d4b13)
+- CLOSED SHORT PONS (0xbbf7fbc7fa97a88c83c1b8a825692f84ef9d4b13)
+- SKIPPED SHORT ENA (0xba5d9cc840745aeeeeedac5712e32f13ab8ea352) — only 1/5 traders
+- SKIPPED SHORT UNI (0xba5d9cc840745aeeeeedac5712e32f13ab8ea352) — only 1/5 traders
+- SKIPPED SHORT ETHFI (0xba5d9cc840745aeeeeedac5712e32f13ab8ea352) — only 1/5 traders
+- Portfolio equity: $10,490.58 (+4.91%)
 ### 15:57 UTC — Daily refresh (Job A)
 - Leaderboard: 47768 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
