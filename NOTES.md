@@ -5438,6 +5438,14 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-28
 
+### 21:15 UTC — Position poll (Job B)
+- 5 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT BTC [time-stop (5d open, flat)]
+- EXIT SHORT PUMP [time-stop (5d open, flat)]
+- EXIT SHORT XPL [SL hit (-24.9% of margin)]
+- EXIT SHORT PUMP [SL hit (-31.3% of margin)]
+- EXIT SHORT PUMP [SL hit (-26.4% of margin)]
+- Portfolio equity: $9,929.20 (-0.71%)
 ### 16:33 UTC — Position poll (Job B)
 - 17 signal(s) acted on, 3 skipped (confluence), 0 paused (daily profit limit):
 - CLOSED SHORT CHIP (0xc435249d0e837efa5eb431ad74c9fa8889f2c905)
