@@ -9998,5 +9998,30 @@
     "pnl_pct": -23.09118185450949,
     "total_slippage_bps": 7.53,
     "exit_reason": "SL hit (-22.7% of margin)"
+  },
+  {
+    "trader": "0xcf5343ba750a6e30afbb1dadda08bc78f8c8ee11",
+    "coin": "BTC",
+    "side": "SHORT",
+    "size": 0.008096802338415681,
+    "entry_price": 81974.0,
+    "entry_fee": 0.33186363744464353,
+    "entry_slippage_bps": 0.06,
+    "entry_fill_method": "book",
+    "leverage": 3,
+    "margin": 221.2424249630957,
+    "notional": 663.7272748892871,
+    "opened_at": "2026-10-19T17:18:03.774182+00:00",
+    "exit_price": 81530.0,
+    "exit_fee": 0.33006614732551526,
+    "total_fees": 0.6619297847701588,
+    "exit_slippage_bps": 0.06,
+    "exit_fill_method": "book",
+    "closed_at": "2026-10-28T10:03:12.907356+00:00",
+    "gross_pnl": 3.5949802382565625,
+    "pnl": 2.9330504534864037,
+    "pnl_pct": 1.3257179105570058,
+    "total_slippage_bps": 0.12,
+    "exit_reason": "time-stop (8d open, flat)"
   }
 ]
