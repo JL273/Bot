@@ -14287,5 +14287,47 @@
     "unrealized_pnl": -30.530871722096055,
     "liquidation_price": 0,
     "exit_reason": "SL hit (-20.8% of margin)"
+  },
+  {
+    "ts": "2026-10-28T03:53:27.320694+00:00",
+    "trader": "0xacb66d1996501bcc82a0e7819c9e041599f5efbd",
+    "type": "CLOSED",
+    "coin": "BTC",
+    "side": "SHORT",
+    "size": 0.010920841962471405,
+    "entry_price": 81667.0,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 5.826269186978495,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (5d open, flat)"
+  },
+  {
+    "ts": "2026-10-28T03:53:27.320694+00:00",
+    "trader": "0xa20fb0c9e04063eec5be286e9269028d966646fa",
+    "type": "CLOSED",
+    "coin": "PONS",
+    "side": "SHORT",
+    "size": 2963.9212964289063,
+    "entry_price": 0.2572820617237857,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -124.92317185744253,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-49.1% of margin)"
+  },
+  {
+    "ts": "2026-10-28T03:53:27.320694+00:00",
+    "trader": "0xa20fb0c9e04063eec5be286e9269028d966646fa",
+    "type": "CLOSED",
+    "coin": "SPX",
+    "side": "SHORT",
+    "size": 1984.3225418559598,
+    "entry_price": 0.3650507340779827,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -54.88490486024727,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-22.7% of margin)"
   }
 ]

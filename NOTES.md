@@ -5435,3 +5435,12 @@ _Auto-generated. Newest entry at top._
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT HYPE [time-stop (7d open, flat)]
 - Portfolio equity: $10,837.37 (+8.37%)
+
+## 2026-10-28
+
+### 03:53 UTC — Position poll (Job B)
+- 3 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT BTC [time-stop (5d open, flat)]
+- EXIT SHORT PONS [SL hit (-49.1% of margin)]
+- EXIT SHORT SPX [SL hit (-22.7% of margin)]
+- Portfolio equity: $10,183.69 (+1.84%)
