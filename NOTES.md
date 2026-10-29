@@ -5496,6 +5496,19 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-29
 
+### 23:16 UTC — Position poll (Job B)
+- 8 signal(s) acted on, 2 skipped (confluence), 0 paused (daily profit limit):
+- CLOSED LONG HYPE (0x2d99fe0f36c1aebd28a1a2c0e82e8ca13c2ea351)
+- EXIT SHORT LINK [TP hit (+49.8% of margin)]
+- EXIT SHORT AAVE [TP hit (+59.3% of margin)]
+- EXIT SHORT UNI [TP hit (+45.6% of margin)]
+- EXIT SHORT AVAX [TP hit (+47.0% of margin)]
+- EXIT SHORT NEAR [TP hit (+48.5% of margin)]
+- EXIT SHORT AAVE [TP hit (+56.7% of margin)]
+- EXIT SHORT WLD [TP hit (+46.2% of margin)]
+- SKIPPED SHORT UNI (0x60a8c761f39696b3b419f31dcda20b405cb685f6) — only 1/5 traders
+- SKIPPED SHORT ENA (0x60a8c761f39696b3b419f31dcda20b405cb685f6) — only 1/5 traders
+- Portfolio equity: $11,162.28 (+11.62%)
 ### 19:13 UTC — Position poll (Job B)
 - 5 signal(s) acted on, 4 skipped (confluence), 0 paused (daily profit limit):
 - CLOSED SHORT WIF (0xacb66d1996501bcc82a0e7819c9e041599f5efbd)
