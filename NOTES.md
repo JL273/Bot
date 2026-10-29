@@ -5496,6 +5496,12 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-29
 
+### 13:44 UTC — Position poll (Job B)
+- 2 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT HYPE [SL hit (-22.9% of margin)]
+- EXIT SHORT HYPE [SL hit (-43.3% of margin)]
+- SKIPPED SHORT CHIP (0xc435249d0e837efa5eb431ad74c9fa8889f2c905) — only 1/5 traders
+- Portfolio equity: $10,266.02 (+2.66%)
 ### 00:58 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT LIT [TP hit (+41.0% of margin)]
