@@ -5496,6 +5496,18 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-29
 
+### 19:13 UTC — Position poll (Job B)
+- 5 signal(s) acted on, 4 skipped (confluence), 0 paused (daily profit limit):
+- CLOSED SHORT WIF (0xacb66d1996501bcc82a0e7819c9e041599f5efbd)
+- CLOSED SHORT IMX (0xacb66d1996501bcc82a0e7819c9e041599f5efbd)
+- CLOSED SHORT SAND (0xacb66d1996501bcc82a0e7819c9e041599f5efbd)
+- NEW LONG HYPE (0x2d99fe0f36c1aebd28a1a2c0e82e8ca13c2ea351) [2/5 traders]
+- EXIT SHORT HYPE [SL hit (-20.9% of margin)]
+- SKIPPED LONG kPEPE (0x4b67337795c5e1ca1aaea307f57b79419c632c88) — only 1/5 traders
+- SKIPPED SHORT SOL (0xacb66d1996501bcc82a0e7819c9e041599f5efbd) — only 1/5 traders
+- SKIPPED SHORT ETH (0xacb66d1996501bcc82a0e7819c9e041599f5efbd) — only 1/5 traders
+- SKIPPED SHORT XRP (0xacb66d1996501bcc82a0e7819c9e041599f5efbd) — only 1/5 traders
+- Portfolio equity: $10,209.41 (+2.09%)
 ### 16:01 UTC — Daily refresh (Job A)
 - Leaderboard: 48379 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped

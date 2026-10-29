@@ -14688,5 +14688,72 @@
     "unrealized_pnl": -39.86078869307068,
     "liquidation_price": 0,
     "exit_reason": "SL hit (-43.3% of margin)"
+  },
+  {
+    "ts": "2026-10-29T19:13:05.157710+00:00",
+    "trader": "0xacb66d1996501bcc82a0e7819c9e041599f5efbd",
+    "type": "CLOSED",
+    "coin": "WIF",
+    "side": "SHORT",
+    "size": 139518.0,
+    "entry_price": 0.228785,
+    "position_value_usd": 28172.86974,
+    "leverage": 5,
+    "unrealized_pnl": 3746.79683,
+    "liquidation_price": 69.757472547
+  },
+  {
+    "ts": "2026-10-29T19:13:05.157710+00:00",
+    "trader": "0xacb66d1996501bcc82a0e7819c9e041599f5efbd",
+    "type": "CLOSED",
+    "coin": "IMX",
+    "side": "SHORT",
+    "size": 186089.5,
+    "entry_price": 0.14639,
+    "position_value_usd": 27522.63705,
+    "leverage": 5,
+    "unrealized_pnl": -280.153886,
+    "liquidation_price": 52.2961952293
+  },
+  {
+    "ts": "2026-10-29T19:13:05.157710+00:00",
+    "trader": "0xacb66d1996501bcc82a0e7819c9e041599f5efbd",
+    "type": "CLOSED",
+    "coin": "SAND",
+    "side": "SHORT",
+    "size": 587970.0,
+    "entry_price": 0.041484,
+    "position_value_usd": 31555.17396,
+    "leverage": 5,
+    "unrealized_pnl": -7163.737193,
+    "liquidation_price": 16.5583369203
+  },
+  {
+    "ts": "2026-10-29T19:13:05.157710+00:00",
+    "trader": "0x2d99fe0f36c1aebd28a1a2c0e82e8ca13c2ea351",
+    "type": "NEW",
+    "confluence": 2,
+    "coin": "HYPE",
+    "side": "LONG",
+    "size": 28007.5,
+    "entry_price": 78.8881,
+    "position_value_usd": 2641219.28,
+    "leverage": 2,
+    "unrealized_pnl": 431758.23967,
+    "liquidation_price": 41.7845863791
+  },
+  {
+    "ts": "2026-10-29T19:13:05.157710+00:00",
+    "trader": "0x02745fb27d7cee999fccf295f9d4a897fd22a7f7",
+    "type": "CLOSED",
+    "coin": "HYPE",
+    "side": "SHORT",
+    "size": 5.16433819942079,
+    "entry_price": 85.4,
+    "position_value_usd": 0,
+    "leverage": 2,
+    "unrealized_pnl": -46.00134251134068,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-20.9% of margin)"
   }
 ]

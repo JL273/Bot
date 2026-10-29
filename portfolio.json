@@ -1,5 +1,5 @@
 {
-  "cash": 3045.29779396281,
+  "cash": 3066.929919365228,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66:BTC:SHORT": {
@@ -29,20 +29,6 @@
       "margin": 232.1417386796513,
       "notional": 696.4252160389539,
       "opened_at": "2026-10-09T17:05:18.075850+00:00"
-    },
-    "0x02745fb27d7cee999fccf295f9d4a897fd22a7f7:HYPE:SHORT": {
-      "trader": "0x02745fb27d7cee999fccf295f9d4a897fd22a7f7",
-      "coin": "HYPE",
-      "side": "SHORT",
-      "size": 5.16433819942079,
-      "entry_price": 85.4,
-      "entry_fee": 0.22051724111526774,
-      "entry_slippage_bps": 1.46,
-      "entry_fill_method": "book",
-      "leverage": 2,
-      "margin": 220.51724111526775,
-      "notional": 441.0344822305355,
-      "opened_at": "2026-10-10T17:55:42.632612+00:00"
     },
     "0xd260b2216b735277da6771564a01c04856e78321:SOL:SHORT": {
       "trader": "0xd260b2216b735277da6771564a01c04856e78321",
@@ -589,6 +575,20 @@
       "margin": 83.00281340009401,
       "notional": 249.00844020028205,
       "opened_at": "2026-10-28T16:33:09.693206+00:00"
+    },
+    "0x2d99fe0f36c1aebd28a1a2c0e82e8ca13c2ea351:HYPE:LONG": {
+      "trader": "0x2d99fe0f36c1aebd28a1a2c0e82e8ca13c2ea351",
+      "coin": "HYPE",
+      "side": "LONG",
+      "size": 3.2290980552687047,
+      "entry_price": 94.308,
+      "entry_fee": 0.1522648896981405,
+      "entry_slippage_bps": 0.05,
+      "entry_fill_method": "book",
+      "leverage": 2,
+      "margin": 152.2648896981405,
+      "notional": 304.529779396281,
+      "opened_at": "2026-10-29T19:13:05.157710+00:00"
     }
   },
   "equity_history": [
@@ -27091,7 +27091,17 @@
       "ts": "2026-10-29T13:44:14.555435+00:00",
       "equity": 10266.019390326761,
       "cash": 3045.29779396281
+    },
+    {
+      "ts": "2026-10-29T19:13:06.461563+00:00",
+      "equity": 10209.874650664386,
+      "cash": 2892.8806393749715
+    },
+    {
+      "ts": "2026-10-29T19:13:07.145062+00:00",
+      "equity": 10209.408032050715,
+      "cash": 3066.929919365228
     }
   ],
-  "last_processed_signal_index": 1067
+  "last_processed_signal_index": 1072
 }
