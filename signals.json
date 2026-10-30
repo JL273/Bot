@@ -14866,5 +14866,33 @@
     "unrealized_pnl": 83.19775106053895,
     "liquidation_price": 0,
     "exit_reason": "TP hit (+46.2% of margin)"
+  },
+  {
+    "ts": "2026-10-30T02:37:39.197279+00:00",
+    "trader": "0xd260b2216b735277da6771564a01c04856e78321",
+    "type": "CLOSED",
+    "coin": "SOL",
+    "side": "SHORT",
+    "size": 5.617420528315951,
+    "entry_price": 111.45,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 90.79717670943486,
+    "liquidation_price": 0,
+    "exit_reason": "TP hit (+43.5% of margin)"
+  },
+  {
+    "ts": "2026-10-30T02:37:39.197279+00:00",
+    "trader": "0x6f97d329b072e0f7b74575565d806a4351b8f824",
+    "type": "CLOSED",
+    "coin": "TAO",
+    "side": "SHORT",
+    "size": 3.2647047141386727,
+    "entry_price": 269.24,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 118.72098692965287,
+    "liquidation_price": 0,
+    "exit_reason": "TP hit (+40.5% of margin)"
   }
 ]
