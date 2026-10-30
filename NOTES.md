@@ -5548,6 +5548,35 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-10-30
 
+### 19:58 UTC — Position poll (Job B)
+- 9 signal(s) acted on, 17 skipped (confluence), 0 paused (daily profit limit):
+- NEW SHORT SOL (0xca4903c207a0df58bf37d4bc8bbc5210726f53c8) [3/5 traders]
+- NEW SHORT ETH (0xca4903c207a0df58bf37d4bc8bbc5210726f53c8) [3/5 traders]
+- NEW SHORT BTC (0xca4903c207a0df58bf37d4bc8bbc5210726f53c8) [3/5 traders]
+- CLOSED LONG ZEC (0xe867fbdad3291530e41530301ecb77693850c78e)
+- NEW SHORT ETH (0x482b0f4dad512fe086e121882a81e34c374acae4) [3/5 traders]
+- NEW SHORT BTC (0x482b0f4dad512fe086e121882a81e34c374acae4) [3/5 traders]
+- CLOSED LONG BTC (0x482b0f4dad512fe086e121882a81e34c374acae4)
+- NEW SHORT PUMP (0x641edd3f198101eb13ce9228a415cbf02b62b6c8) [2/5 traders]
+- NEW SHORT VVV (0x641edd3f198101eb13ce9228a415cbf02b62b6c8) [2/5 traders]
+- SKIPPED SHORT DOGE (0xca4903c207a0df58bf37d4bc8bbc5210726f53c8) — only 1/5 traders
+- SKIPPED SHORT XRP (0xca4903c207a0df58bf37d4bc8bbc5210726f53c8) — only 1/5 traders
+- SKIPPED SHORT NIL (0x641edd3f198101eb13ce9228a415cbf02b62b6c8) — only 1/5 traders
+- SKIPPED SHORT GRIFFAIN (0x641edd3f198101eb13ce9228a415cbf02b62b6c8) — only 1/5 traders
+- SKIPPED SHORT ZRO (0x641edd3f198101eb13ce9228a415cbf02b62b6c8) — only 1/5 traders
+- SKIPPED SHORT ZORA (0x641edd3f198101eb13ce9228a415cbf02b62b6c8) — only 1/5 traders
+- SKIPPED SHORT MON (0x641edd3f198101eb13ce9228a415cbf02b62b6c8) — only 1/5 traders
+- SKIPPED SHORT BNB (0x641edd3f198101eb13ce9228a415cbf02b62b6c8) — only 1/5 traders
+- SKIPPED SHORT STRK (0x641edd3f198101eb13ce9228a415cbf02b62b6c8) — only 1/5 traders
+- SKIPPED SHORT MEGA (0x641edd3f198101eb13ce9228a415cbf02b62b6c8) — only 1/5 traders
+- SKIPPED SHORT SUI (0x641edd3f198101eb13ce9228a415cbf02b62b6c8) — only 1/5 traders
+- SKIPPED SHORT CHIP (0x641edd3f198101eb13ce9228a415cbf02b62b6c8) — only 1/5 traders
+- SKIPPED SHORT WLD (0x641edd3f198101eb13ce9228a415cbf02b62b6c8) — only 1/5 traders
+- SKIPPED SHORT BOME (0x641edd3f198101eb13ce9228a415cbf02b62b6c8) — only 1/5 traders
+- SKIPPED SHORT REZ (0x641edd3f198101eb13ce9228a415cbf02b62b6c8) — only 1/5 traders
+- SKIPPED SHORT 0G (0x641edd3f198101eb13ce9228a415cbf02b62b6c8) — only 1/5 traders
+- SKIPPED SHORT NEAR (0x641edd3f198101eb13ce9228a415cbf02b62b6c8) — only 1/5 traders
+- Portfolio equity: $11,110.98 (+11.11%)
 ### 15:51 UTC — Daily refresh (Job A)
 - Leaderboard: 48414 traders fetched, 5 shortlisted
 - Shortlist change: +5 new, -5 dropped

@@ -1,5 +1,5 @@
 {
-  "cash": 5814.655763770663,
+  "cash": 4058.347504387032,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66:BTC:SHORT": {
@@ -463,6 +463,104 @@
       "margin": 306.05062181013017,
       "notional": 612.1012436202603,
       "opened_at": "2026-10-30T08:56:36.807805+00:00"
+    },
+    "0xca4903c207a0df58bf37d4bc8bbc5210726f53c8:SOL:SHORT": {
+      "trader": "0xca4903c207a0df58bf37d4bc8bbc5210726f53c8",
+      "coin": "SOL",
+      "side": "SHORT",
+      "size": 9.196718241270371,
+      "entry_price": 94.838,
+      "entry_fee": 0.43609918228279976,
+      "entry_slippage_bps": 1.42,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 290.73278818853316,
+      "notional": 872.1983645655995,
+      "opened_at": "2026-10-30T19:58:41.998978+00:00"
+    },
+    "0xca4903c207a0df58bf37d4bc8bbc5210726f53c8:ETH:SHORT": {
+      "trader": "0xca4903c207a0df58bf37d4bc8bbc5210726f53c8",
+      "coin": "ETH",
+      "side": "SHORT",
+      "size": 0.3704333459089586,
+      "entry_price": 2236.631881579049,
+      "entry_fee": 0.4142615157299884,
+      "entry_slippage_bps": 1.87,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 276.1743438199923,
+      "notional": 828.5230314599769,
+      "opened_at": "2026-10-30T19:58:41.998978+00:00"
+    },
+    "0xca4903c207a0df58bf37d4bc8bbc5210726f53c8:BTC:SHORT": {
+      "trader": "0xca4903c207a0df58bf37d4bc8bbc5210726f53c8",
+      "coin": "BTC",
+      "side": "SHORT",
+      "size": 0.010229998968721486,
+      "entry_price": 76934.0,
+      "entry_fee": 0.39351737032980943,
+      "entry_slippage_bps": 0.32,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 262.34491355320625,
+      "notional": 787.0347406596188,
+      "opened_at": "2026-10-30T19:58:41.998978+00:00"
+    },
+    "0x482b0f4dad512fe086e121882a81e34c374acae4:ETH:SHORT": {
+      "trader": "0x482b0f4dad512fe086e121882a81e34c374acae4",
+      "coin": "ETH",
+      "side": "SHORT",
+      "size": 0.3342627944295307,
+      "entry_price": 2236.6353314822854,
+      "entry_fee": 0.3738119880105442,
+      "entry_slippage_bps": 1.85,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 249.20799200702947,
+      "notional": 747.6239760210884,
+      "opened_at": "2026-10-30T19:58:41.998978+00:00"
+    },
+    "0x482b0f4dad512fe086e121882a81e34c374acae4:BTC:SHORT": {
+      "trader": "0x482b0f4dad512fe086e121882a81e34c374acae4",
+      "coin": "BTC",
+      "side": "SHORT",
+      "size": 0.009231116351961843,
+      "entry_price": 76934.0,
+      "entry_fee": 0.3550933527109162,
+      "entry_slippage_bps": 0.32,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 236.72890180727745,
+      "notional": 710.1867054218324,
+      "opened_at": "2026-10-30T19:58:41.998978+00:00"
+    },
+    "0x641edd3f198101eb13ce9228a415cbf02b62b6c8:PUMP:SHORT": {
+      "trader": "0x641edd3f198101eb13ce9228a415cbf02b62b6c8",
+      "coin": "PUMP",
+      "side": "SHORT",
+      "size": 166058.49634363223,
+      "entry_price": 0.0040625690404410535,
+      "entry_fee": 0.3373120530739171,
+      "entry_slippage_bps": 1.06,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 224.87470204927806,
+      "notional": 674.6241061478341,
+      "opened_at": "2026-10-30T19:58:41.998978+00:00"
+    },
+    "0x641edd3f198101eb13ce9228a415cbf02b62b6c8:VVV:SHORT": {
+      "trader": "0x641edd3f198101eb13ce9228a415cbf02b62b6c8",
+      "coin": "VVV",
+      "side": "SHORT",
+      "size": 29.008798063591474,
+      "entry_price": 22.091308389532802,
+      "entry_fee": 0.3204211520162406,
+      "entry_slippage_bps": 5.74,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 213.61410134416042,
+      "notional": 640.8423040324813,
+      "opened_at": "2026-10-30T19:58:41.998978+00:00"
     }
   },
   "equity_history": [
@@ -27005,7 +27103,12 @@
       "ts": "2026-10-30T15:27:08.354934+00:00",
       "equity": 11091.459820790524,
       "cash": 5814.655763770663
+    },
+    {
+      "ts": "2026-10-30T19:58:44.624300+00:00",
+      "equity": 11110.97666648909,
+      "cash": 4058.347504387032
     }
   ],
-  "last_processed_signal_index": 1083
+  "last_processed_signal_index": 1092
 }
