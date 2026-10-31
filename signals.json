@@ -15032,5 +15032,32 @@
     "leverage": 3,
     "unrealized_pnl": -97.92819,
     "liquidation_price": 223.9573422706
+  },
+  {
+    "ts": "2026-10-31T08:48:31.729230+00:00",
+    "trader": "0x641edd3f198101eb13ce9228a415cbf02b62b6c8",
+    "type": "CLOSED",
+    "coin": "ZRO",
+    "side": "SHORT",
+    "size": 21994.6,
+    "entry_price": 2.25923,
+    "position_value_usd": 37087.29452,
+    "leverage": 5,
+    "unrealized_pnl": 12603.69477,
+    "liquidation_price": 23.4350550926
+  },
+  {
+    "ts": "2026-10-31T08:48:31.729230+00:00",
+    "trader": "0xc4643e390f49d1616b5108bf0eac309f7c0eb868",
+    "type": "CLOSED",
+    "coin": "XPL",
+    "side": "SHORT",
+    "size": 7572.645183183922,
+    "entry_price": 0.079725,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -4.005929301904308,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (10d open, flat)"
   }
 ]
