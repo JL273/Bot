@@ -1,5 +1,5 @@
 {
-  "cash": 4254.751012915222,
+  "cash": 4343.880669293366,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66:BTC:SHORT": {
@@ -350,20 +350,6 @@
       "leverage": 3,
       "margin": 125.19248871644032,
       "notional": 375.57746614932097,
-      "opened_at": "2026-10-28T16:33:09.693206+00:00"
-    },
-    "0xba5d9cc840745aeeeeedac5712e32f13ab8ea352:ZRO:SHORT": {
-      "trader": "0xba5d9cc840745aeeeeedac5712e32f13ab8ea352",
-      "coin": "ZRO",
-      "side": "SHORT",
-      "size": 211.12659162734863,
-      "entry_price": 1.6898412548695683,
-      "entry_fee": 0.17838521226594686,
-      "entry_slippage_bps": 0.94,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 118.92347484396457,
-      "notional": 356.7704245318937,
       "opened_at": "2026-10-28T16:33:09.693206+00:00"
     },
     "0xba5d9cc840745aeeeeedac5712e32f13ab8ea352:XMR:SHORT": {
@@ -27124,7 +27110,17 @@
       "ts": "2026-10-31T18:49:16.902021+00:00",
       "equity": 10756.813287848818,
       "cash": 4254.751012915222
+    },
+    {
+      "ts": "2026-10-31T21:55:19.208104+00:00",
+      "equity": 10797.654262687665,
+      "cash": 4254.751012915222
+    },
+    {
+      "ts": "2026-10-31T21:55:19.775152+00:00",
+      "equity": 10797.071654503072,
+      "cash": 4343.880669293366
     }
   ],
-  "last_processed_signal_index": 1094
+  "last_processed_signal_index": 1095
 }

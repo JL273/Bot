@@ -10523,5 +10523,30 @@
     "pnl_pct": -2.4048220881628692,
     "total_slippage_bps": 4.13,
     "exit_reason": "time-stop (10d open, flat)"
+  },
+  {
+    "trader": "0xba5d9cc840745aeeeeedac5712e32f13ab8ea352",
+    "coin": "ZRO",
+    "side": "SHORT",
+    "size": 211.12659162734863,
+    "entry_price": 1.6898412548695683,
+    "entry_fee": 0.17838521226594686,
+    "entry_slippage_bps": 0.94,
+    "entry_fill_method": "book",
+    "leverage": 3,
+    "margin": 118.92347484396457,
+    "notional": 356.7704245318937,
+    "opened_at": "2026-10-28T16:33:09.693206+00:00",
+    "exit_price": 1.8292,
+    "exit_fee": 0.19309638070237303,
+    "total_fees": 0.3714815929683199,
+    "exit_slippage_bps": 5.47,
+    "exit_fill_method": "book",
+    "closed_at": "2026-10-31T21:55:07.776956+00:00",
+    "gross_pnl": -29.42233687285241,
+    "pnl": -29.793818465820728,
+    "pnl_pct": -25.05293299318085,
+    "total_slippage_bps": 6.41,
+    "exit_reason": "SL hit (-24.6% of margin)"
   }
 ]
