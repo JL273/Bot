@@ -5630,3 +5630,20 @@ _Auto-generated. Newest entry at top._
 - CLOSED SHORT ZRO (0x641edd3f198101eb13ce9228a415cbf02b62b6c8)
 - EXIT SHORT XPL [time-stop (10d open, flat)]
 - Portfolio equity: $11,004.22 (+10.04%)
+
+## 2026-11-01
+
+### 15:57 UTC — Daily refresh (Job A)
+- Leaderboard: 48270 traders fetched, 5 shortlisted
+- Shortlist change: +5 new, -5 dropped
+- #1 0x482b0f4dad512fe086e121882a81e34c374acae4 acc=$3,575,005 month=$215,872 edge=125bps
+- #2 0x5b5d51203a0f9079f8aeb098a6523a13f298c060 acc=$204,053,113 month=$120,516,262 edge=4727bps
+- #3 0x64bddab5f13a99576fca6747f0aa205422c5f708 acc=$2,721,517 month=$174,429 edge=156bps
+- #4 0xf899937184168b1d9dee75acbaa3fef0f52888db acc=$692,140 month=$1,113,552 edge=1747bps
+- #5 0x781e95fdc049433565cf8e05265361b8402196b7 acc=$3,803,643 month=$1,417,756 edge=1373bps
+- Current positions across the shortlist:
+-   0x482b0f4dad512fe086e121882a81e34c374acae4... 5 positions: SHORT BTC x40, SHORT ETH x25, SHORT SOL x20, LONG PURR x3, LONG HYPE x10
+-   0x5b5d51203a0f9079f8aeb098a6523a13f298c060... 22 positions: SHORT BTC x5, SHORT ETH x5, SHORT SOL x7, SHORT BNB x3, SHORT DOGE x3, SHORT INJ x3, SHORT SUI x3, SHORT LINK x3, SHORT XRP x5, SHORT WLD x2, SHORT ZRO x3, SHORT NEAR x3, SHORT ONDO x3, SHORT ENA x3, SHORT PURR x3, SHORT HYPE x5, SHORT FARTCOIN x3, SHORT VVV x3, SHORT PUMP x5, SHORT XPL x3, SHORT ZEC x3, SHORT XMR x3
+-   0x64bddab5f13a99576fca6747f0aa205422c5f708... 3 positions: LONG BTC x20, LONG HYPE x10, LONG XMR x5
+-   0xf899937184168b1d9dee75acbaa3fef0f52888db... 3 positions: SHORT BTC x20, SHORT ETH x20, SHORT SOL x20
+-   0x781e95fdc049433565cf8e05265361b8402196b7... 9 positions: SHORT BTC x40, SHORT TRX x10, SHORT NEAR x10, SHORT TAO x5, SHORT HYPE x10, SHORT PAXG x10, SHORT XPL x10, SHORT MON x5, SHORT AERO x3
