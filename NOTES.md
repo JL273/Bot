@@ -5633,6 +5633,25 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-01
 
+### 18:35 UTC — Position poll (Job B)
+- 6 signal(s) acted on, 10 skipped (confluence), 0 paused (daily profit limit):
+- CLOSED SHORT LIT (0x5b5d51203a0f9079f8aeb098a6523a13f298c060)
+- NEW LONG HYPE (0x64bddab5f13a99576fca6747f0aa205422c5f708) [2/5 traders]
+- NEW SHORT NEAR (0x781e95fdc049433565cf8e05265361b8402196b7) [2/5 traders]
+- NEW SHORT BTC (0x781e95fdc049433565cf8e05265361b8402196b7) [4/5 traders]
+- NEW SHORT HYPE (0x781e95fdc049433565cf8e05265361b8402196b7) [2/5 traders]
+- NEW SHORT XPL (0x781e95fdc049433565cf8e05265361b8402196b7) [2/5 traders]
+- SKIPPED SHORT ZRO (0x5b5d51203a0f9079f8aeb098a6523a13f298c060) — only 1/5 traders
+- SKIPPED SHORT PURR (0x5b5d51203a0f9079f8aeb098a6523a13f298c060) — only 1/5 traders
+- SKIPPED SHORT XMR (0x5b5d51203a0f9079f8aeb098a6523a13f298c060) — only 1/5 traders
+- SKIPPED LONG BTC (0x64bddab5f13a99576fca6747f0aa205422c5f708) — only 1/5 traders
+- SKIPPED LONG XMR (0x64bddab5f13a99576fca6747f0aa205422c5f708) — only 1/5 traders
+- SKIPPED SHORT PAXG (0x781e95fdc049433565cf8e05265361b8402196b7) — only 1/5 traders
+- SKIPPED SHORT MON (0x781e95fdc049433565cf8e05265361b8402196b7) — only 1/5 traders
+- SKIPPED SHORT TRX (0x781e95fdc049433565cf8e05265361b8402196b7) — only 1/5 traders
+- SKIPPED SHORT AERO (0x781e95fdc049433565cf8e05265361b8402196b7) — only 1/5 traders
+- SKIPPED SHORT TAO (0x781e95fdc049433565cf8e05265361b8402196b7) — only 1/5 traders
+- Portfolio equity: $10,821.39 (+8.21%)
 ### 15:57 UTC — Daily refresh (Job A)
 - Leaderboard: 48270 traders fetched, 5 shortlisted
 - Shortlist change: +5 new, -5 dropped
