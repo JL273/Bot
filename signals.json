@@ -15156,5 +15156,47 @@
     "leverage": 10,
     "unrealized_pnl": 45467.832921,
     "liquidation_price": 1.5767670661
+  },
+  {
+    "ts": "2026-11-02T18:14:47.394092+00:00",
+    "trader": "0x781e95fdc049433565cf8e05265361b8402196b7",
+    "type": "NEW",
+    "confluence": 2,
+    "coin": "XMR",
+    "side": "SHORT",
+    "size": 94.335,
+    "entry_price": 603.484,
+    "position_value_usd": 56676.939675,
+    "leverage": 5,
+    "unrealized_pnl": 252.771045,
+    "liquidation_price": 29427.4995962551
+  },
+  {
+    "ts": "2026-11-02T18:14:47.394092+00:00",
+    "trader": "0xba5d9cc840745aeeeeedac5712e32f13ab8ea352",
+    "type": "CLOSED",
+    "coin": "MON",
+    "side": "SHORT",
+    "size": 19719.49742267752,
+    "entry_price": 0.021106929055248448,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 61.05016502576424,
+    "liquidation_price": 0,
+    "exit_reason": "TP hit (+44.0% of margin)"
+  },
+  {
+    "ts": "2026-11-02T18:14:47.394092+00:00",
+    "trader": "0xba5d9cc840745aeeeeedac5712e32f13ab8ea352",
+    "type": "CLOSED",
+    "coin": "NEAR",
+    "side": "SHORT",
+    "size": 63.07812256264234,
+    "entry_price": 4.6054,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 42.08887727992314,
+    "liquidation_price": 0,
+    "exit_reason": "TP hit (+43.5% of margin)"
   }
 ]
