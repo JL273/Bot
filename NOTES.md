@@ -5692,6 +5692,26 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-03
 
+### 21:08 UTC — Position poll (Job B)
+- 13 signal(s) acted on, 4 skipped (confluence), 0 paused (daily profit limit):
+- CLOSED SHORT PUMP (0xba5d9cc840745aeeeeedac5712e32f13ab8ea352)
+- NEW SHORT XRP (0xf6f371fb269f8e7c078e340fb8d3a253463247f8) [2/5 traders]
+- NEW SHORT HBAR (0xf6f371fb269f8e7c078e340fb8d3a253463247f8) [2/5 traders]
+- NEW SHORT XMR (0xf6f371fb269f8e7c078e340fb8d3a253463247f8) [2/5 traders]
+- NEW SHORT AAVE (0xf6f371fb269f8e7c078e340fb8d3a253463247f8) [2/5 traders]
+- NEW SHORT ETH (0xf6f371fb269f8e7c078e340fb8d3a253463247f8) [3/5 traders]
+- NEW SHORT XPL (0xf6f371fb269f8e7c078e340fb8d3a253463247f8) [2/5 traders]
+- NEW SHORT ZEC (0xf6f371fb269f8e7c078e340fb8d3a253463247f8) [2/5 traders]
+- NEW SHORT ARB (0xf6f371fb269f8e7c078e340fb8d3a253463247f8) [2/5 traders]
+- NEW SHORT LINK (0xf6f371fb269f8e7c078e340fb8d3a253463247f8) [3/5 traders]
+- NEW SHORT UNI (0xf6f371fb269f8e7c078e340fb8d3a253463247f8) [4/5 traders]
+- NEW SHORT NEAR (0xf6f371fb269f8e7c078e340fb8d3a253463247f8) [3/5 traders]
+- EXIT SHORT PUMP [time-stop (7d open, flat)]
+- SKIPPED SHORT BNB (0xf6f371fb269f8e7c078e340fb8d3a253463247f8) — only 1/5 traders
+- SKIPPED SHORT TAO (0xf6f371fb269f8e7c078e340fb8d3a253463247f8) — only 1/5 traders
+- SKIPPED SHORT INJ (0xf6f371fb269f8e7c078e340fb8d3a253463247f8) — only 1/5 traders
+- SKIPPED SHORT WLD (0xf6f371fb269f8e7c078e340fb8d3a253463247f8) — only 1/5 traders
+- Portfolio equity: $11,064.67 (+10.65%)
 ### 16:58 UTC — Daily refresh (Job A)
 - Leaderboard: 48352 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
