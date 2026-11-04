@@ -15655,5 +15655,61 @@
     "unrealized_pnl": -32.66588902967565,
     "liquidation_price": 0,
     "exit_reason": "SL hit (-27.2% of margin)"
+  },
+  {
+    "ts": "2026-11-04T21:28:57.346173+00:00",
+    "trader": "0x34ea1e25034eb9d49f23c5c55483c84a9d642f47",
+    "type": "NEW",
+    "confluence": 2,
+    "coin": "ZEC",
+    "side": "SHORT",
+    "size": 200.0,
+    "entry_price": 1425.5359,
+    "position_value_usd": 257760.0,
+    "leverage": 10,
+    "unrealized_pnl": 27347.19,
+    "liquidation_price": 11046.978177281
+  },
+  {
+    "ts": "2026-11-04T21:28:57.346173+00:00",
+    "trader": "0xf818fa41af44a1b42ba7433f4ec472be40a2c268",
+    "type": "NEW",
+    "confluence": 2,
+    "coin": "ZEC",
+    "side": "SHORT",
+    "size": 500.0,
+    "entry_price": 1254.6799,
+    "position_value_usd": 644400.0,
+    "leverage": 10,
+    "unrealized_pnl": -17060.044,
+    "liquidation_price": 5466.4831849867
+  },
+  {
+    "ts": "2026-11-04T21:28:57.346173+00:00",
+    "trader": "0xabe6724948b47deb99ae12fce930ea4b35d51d99",
+    "type": "CLOSED",
+    "coin": "SUI",
+    "side": "SHORT",
+    "size": 408.56030943976305,
+    "entry_price": 0.9230755609905011,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 1.2688089592632226,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (8d open, flat)"
+  },
+  {
+    "ts": "2026-11-04T21:28:57.346173+00:00",
+    "trader": "0xca4903c207a0df58bf37d4bc8bbc5210726f53c8",
+    "type": "CLOSED",
+    "coin": "SOL",
+    "side": "SHORT",
+    "size": 9.196718241270371,
+    "entry_price": 94.838,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 1.0438275203840743,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (5d open, flat)"
   }
 ]

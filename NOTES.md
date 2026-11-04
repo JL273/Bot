@@ -5740,6 +5740,24 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-04
 
+### 21:29 UTC — Position poll (Job B)
+- 4 signal(s) acted on, 11 skipped (confluence), 0 paused (daily profit limit):
+- NEW SHORT ZEC (0x34ea1e25034eb9d49f23c5c55483c84a9d642f47) [2/5 traders]
+- NEW SHORT ZEC (0xf818fa41af44a1b42ba7433f4ec472be40a2c268) [2/5 traders]
+- EXIT SHORT SUI [time-stop (8d open, flat)]
+- EXIT SHORT SOL [time-stop (5d open, flat)]
+- SKIPPED LONG WLFI (0x34ea1e25034eb9d49f23c5c55483c84a9d642f47) — only 1/5 traders
+- SKIPPED SHORT TAO (0x34ea1e25034eb9d49f23c5c55483c84a9d642f47) — only 1/5 traders
+- SKIPPED SHORT USELESS (0x34ea1e25034eb9d49f23c5c55483c84a9d642f47) — only 1/5 traders
+- SKIPPED SHORT BTC (0x34ea1e25034eb9d49f23c5c55483c84a9d642f47) — only 1/5 traders
+- SKIPPED SHORT VVV (0x34ea1e25034eb9d49f23c5c55483c84a9d642f47) — only 1/5 traders
+- SKIPPED SHORT HYPE (0x34ea1e25034eb9d49f23c5c55483c84a9d642f47) — only 1/5 traders
+- SKIPPED SHORT WLD (0xf818fa41af44a1b42ba7433f4ec472be40a2c268) — only 1/5 traders
+- SKIPPED SHORT XMR (0xf818fa41af44a1b42ba7433f4ec472be40a2c268) — only 1/5 traders
+- SKIPPED SHORT UNI (0xf818fa41af44a1b42ba7433f4ec472be40a2c268) — only 1/5 traders
+- SKIPPED SHORT DASH (0xf818fa41af44a1b42ba7433f4ec472be40a2c268) — only 1/5 traders
+- SKIPPED SHORT NEAR (0xf818fa41af44a1b42ba7433f4ec472be40a2c268) — only 1/5 traders
+- Portfolio equity: $10,348.21 (+3.48%)
 ### 17:09 UTC — Daily refresh (Job A)
 - Leaderboard: 48568 traders fetched, 5 shortlisted
 - Shortlist change: +5 new, -5 dropped
