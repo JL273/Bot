@@ -1,5 +1,5 @@
 {
-  "cash": 2634.1538925466275,
+  "cash": 2960.3911615321936,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66:BTC:SHORT": {
@@ -434,34 +434,6 @@
       "leverage": 3,
       "margin": 236.72890180727745,
       "notional": 710.1867054218324,
-      "opened_at": "2026-10-30T19:58:41.998978+00:00"
-    },
-    "0x641edd3f198101eb13ce9228a415cbf02b62b6c8:PUMP:SHORT": {
-      "trader": "0x641edd3f198101eb13ce9228a415cbf02b62b6c8",
-      "coin": "PUMP",
-      "side": "SHORT",
-      "size": 166058.49634363223,
-      "entry_price": 0.0040625690404410535,
-      "entry_fee": 0.3373120530739171,
-      "entry_slippage_bps": 1.06,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 224.87470204927806,
-      "notional": 674.6241061478341,
-      "opened_at": "2026-10-30T19:58:41.998978+00:00"
-    },
-    "0x641edd3f198101eb13ce9228a415cbf02b62b6c8:VVV:SHORT": {
-      "trader": "0x641edd3f198101eb13ce9228a415cbf02b62b6c8",
-      "coin": "VVV",
-      "side": "SHORT",
-      "size": 29.008798063591474,
-      "entry_price": 22.091308389532802,
-      "entry_fee": 0.3204211520162406,
-      "entry_slippage_bps": 5.74,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 213.61410134416042,
-      "notional": 640.8423040324813,
       "opened_at": "2026-10-30T19:58:41.998978+00:00"
     },
     "0x64bddab5f13a99576fca6747f0aa205422c5f708:HYPE:LONG": {
@@ -27359,7 +27331,17 @@
       "ts": "2026-11-04T01:15:57.690027+00:00",
       "equity": 11409.485842409948,
       "cash": 2634.1538925466275
+    },
+    {
+      "ts": "2026-11-04T07:30:18.157570+00:00",
+      "equity": 10862.653895115147,
+      "cash": 2634.1538925466275
+    },
+    {
+      "ts": "2026-11-04T07:30:19.366012+00:00",
+      "equity": 10861.86934698485,
+      "cash": 2960.3911615321936
     }
   ],
-  "last_processed_signal_index": 1124
+  "last_processed_signal_index": 1126
 }

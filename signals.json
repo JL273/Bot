@@ -15473,5 +15473,33 @@
     "unrealized_pnl": 77.14583242958919,
     "liquidation_price": 0,
     "exit_reason": "TP hit (+43.6% of margin)"
+  },
+  {
+    "ts": "2026-11-04T07:30:16.837795+00:00",
+    "trader": "0x641edd3f198101eb13ce9228a415cbf02b62b6c8",
+    "type": "CLOSED",
+    "coin": "PUMP",
+    "side": "SHORT",
+    "size": 166058.49634363223,
+    "entry_price": 0.0040625690404410535,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -57.195687238553106,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-25.4% of margin)"
+  },
+  {
+    "ts": "2026-11-04T07:30:16.837795+00:00",
+    "trader": "0x641edd3f198101eb13ce9228a415cbf02b62b6c8",
+    "type": "CLOSED",
+    "coin": "VVV",
+    "side": "SHORT",
+    "size": 29.008798063591474,
+    "entry_price": 22.091308389532802,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -53.17868523991294,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-24.9% of margin)"
   }
 ]
