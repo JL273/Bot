@@ -5740,6 +5740,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-04
 
+### 17:09 UTC — Daily refresh (Job A)
+- Leaderboard: 48568 traders fetched, 5 shortlisted
+- Shortlist change: +5 new, -5 dropped
+- #1 0xcafe9392d902f6f517b1573371923ebf7ffa7b3b acc=$6,259,315 month=$2,352,595 edge=2817bps
+- #2 0xb69928c8891fda94f534f79b8acfe3b83773392e acc=$1,485,386 month=$301,482 edge=370bps
+- #3 0x4b67337795c5e1ca1aaea307f57b79419c632c88 acc=$1,196,937 month=$808,647 edge=785bps
+- #4 0x34ea1e25034eb9d49f23c5c55483c84a9d642f47 acc=$2,843,942 month=$1,033,911 edge=815bps
+- #5 0xf818fa41af44a1b42ba7433f4ec472be40a2c268 acc=$34,990,917 month=$13,539,465 edge=914bps
+- Current positions across the shortlist:
+-   0xcafe9392d902f6f517b1573371923ebf7ffa7b3b... 2 positions: LONG BTC x10, SHORT MEGA x3
+-   0xb69928c8891fda94f534f79b8acfe3b83773392e... no open positions
+-   0x4b67337795c5e1ca1aaea307f57b79419c632c88... 1 positions: LONG kPEPE x4
+-   0x34ea1e25034eb9d49f23c5c55483c84a9d642f47... 7 positions: SHORT BTC x30, SHORT TAO x5, SHORT HYPE x10, SHORT VVV x3, LONG WLFI x5, SHORT ZEC x10, SHORT USELESS x3
+-   0xf818fa41af44a1b42ba7433f4ec472be40a2c268... 6 positions: SHORT WLD x10, SHORT UNI x10, SHORT NEAR x10, SHORT ZEC x10, SHORT XMR x5, SHORT DASH x5
 ### 15:40 UTC — Position poll (Job B)
 - 11 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT BTC [time-stop (10d open, flat)]
