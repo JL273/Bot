@@ -10673,5 +10673,30 @@
     "pnl_pct": -1.9421142517967227,
     "total_slippage_bps": 3.42,
     "exit_reason": "time-stop (7d open, flat)"
+  },
+  {
+    "trader": "0x781e95fdc049433565cf8e05265361b8402196b7",
+    "coin": "XPL",
+    "side": "SHORT",
+    "size": 7344.244614393494,
+    "entry_price": 0.0722402569358864,
+    "entry_fee": 0.26527505897189296,
+    "entry_slippage_bps": 1.63,
+    "entry_fill_method": "book",
+    "leverage": 3,
+    "margin": 176.8500393145953,
+    "notional": 530.550117943786,
+    "opened_at": "2026-11-01T18:35:15.598488+00:00",
+    "exit_price": 0.06171611738129363,
+    "exit_fee": 0.22662913134942123,
+    "total_fees": 0.49190419032131416,
+    "exit_slippage_bps": 1.8,
+    "exit_fill_method": "book",
+    "closed_at": "2026-11-04T01:15:54.875543+00:00",
+    "gross_pnl": 77.29185524494349,
+    "pnl": 76.79995105462217,
+    "pnl_pct": 43.426595409461086,
+    "total_slippage_bps": 3.43,
+    "exit_reason": "TP hit (+43.6% of margin)"
   }
 ]
