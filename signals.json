@@ -15739,5 +15739,61 @@
     "unrealized_pnl": -2.1314184799345206,
     "liquidation_price": 0,
     "exit_reason": "time-stop (8d open, flat)"
+  },
+  {
+    "ts": "2026-11-05T16:38:20.195400+00:00",
+    "trader": "0x2d99fe0f36c1aebd28a1a2c0e82e8ca13c2ea351",
+    "type": "CLOSED",
+    "coin": "HYPE",
+    "side": "LONG",
+    "size": 6.674240206957293,
+    "entry_price": 91.711,
+    "position_value_usd": 0,
+    "leverage": 2,
+    "unrealized_pnl": -78.65925795909517,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-25.7% of margin)"
+  },
+  {
+    "ts": "2026-11-05T16:38:20.195400+00:00",
+    "trader": "0xca4903c207a0df58bf37d4bc8bbc5210726f53c8",
+    "type": "CLOSED",
+    "coin": "BTC",
+    "side": "SHORT",
+    "size": 0.010229998968721486,
+    "entry_price": 76934.0,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 1.294094869543268,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (5d open, flat)"
+  },
+  {
+    "ts": "2026-11-05T16:38:20.195400+00:00",
+    "trader": "0x482b0f4dad512fe086e121882a81e34c374acae4",
+    "type": "CLOSED",
+    "coin": "BTC",
+    "side": "SHORT",
+    "size": 0.009231116351961843,
+    "entry_price": 76934.0,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 1.167736218523173,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (5d open, flat)"
+  },
+  {
+    "ts": "2026-11-05T16:38:20.195400+00:00",
+    "trader": "0x64bddab5f13a99576fca6747f0aa205422c5f708",
+    "type": "CLOSED",
+    "coin": "HYPE",
+    "side": "LONG",
+    "size": 7.433823919795609,
+    "entry_price": 87.651,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -57.43000669238095,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-26.4% of margin)"
   }
 ]

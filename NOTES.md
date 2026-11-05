@@ -5798,6 +5798,13 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-05
 
+### 16:38 UTC — Position poll (Job B)
+- 4 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT LONG HYPE [SL hit (-25.7% of margin)]
+- EXIT SHORT BTC [time-stop (5d open, flat)]
+- EXIT SHORT BTC [time-stop (5d open, flat)]
+- EXIT LONG HYPE [SL hit (-26.4% of margin)]
+- Portfolio equity: $10,966.33 (+9.66%)
 ### 08:28 UTC — Position poll (Job B)
 - 2 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT AAVE [time-stop (8d open, flat)]
