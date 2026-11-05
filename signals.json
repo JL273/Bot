@@ -15795,5 +15795,72 @@
     "unrealized_pnl": -57.43000669238095,
     "liquidation_price": 0,
     "exit_reason": "SL hit (-26.4% of margin)"
+  },
+  {
+    "ts": "2026-11-05T22:14:43.338177+00:00",
+    "trader": "0x47f5a6397b79deaaca5c456503e7c1a49357b942",
+    "type": "CLOSED",
+    "coin": "XPL",
+    "side": "SHORT",
+    "size": 2237890.0,
+    "entry_price": 0.116425,
+    "position_value_usd": 149027.80877,
+    "leverage": 3,
+    "unrealized_pnl": 111519.5034,
+    "liquidation_price": 0.5872509592
+  },
+  {
+    "ts": "2026-11-05T22:14:43.338177+00:00",
+    "trader": "0x47f5a6397b79deaaca5c456503e7c1a49357b942",
+    "type": "CLOSED",
+    "coin": "GRASS",
+    "side": "SHORT",
+    "size": 258916.2,
+    "entry_price": 0.34461,
+    "position_value_usd": 158205.565686,
+    "leverage": 3,
+    "unrealized_pnl": -68980.454004,
+    "liquidation_price": 4.6612119367
+  },
+  {
+    "ts": "2026-11-05T22:14:43.338177+00:00",
+    "trader": "0x47f5a6397b79deaaca5c456503e7c1a49357b942",
+    "type": "CLOSED",
+    "coin": "WLFI",
+    "side": "SHORT",
+    "size": 1200860.0,
+    "entry_price": 0.051402,
+    "position_value_usd": 59523.02762,
+    "leverage": 3,
+    "unrealized_pnl": 2203.89115,
+    "liquidation_price": 0.9757471788
+  },
+  {
+    "ts": "2026-11-05T22:14:43.338177+00:00",
+    "trader": "0xa20fb0c9e04063eec5be286e9269028d966646fa",
+    "type": "CLOSED",
+    "coin": "SOL",
+    "side": "SHORT",
+    "size": 6.246638825026145,
+    "entry_price": 104.64,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 90.76053880821736,
+    "liquidation_price": 0,
+    "exit_reason": "TP hit (+41.7% of margin)"
+  },
+  {
+    "ts": "2026-11-05T22:14:43.338177+00:00",
+    "trader": "0x781e95fdc049433565cf8e05265361b8402196b7",
+    "type": "CLOSED",
+    "coin": "NEAR",
+    "side": "SHORT",
+    "size": 144.53915901096985,
+    "entry_price": 4.282259084334366,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 82.85838594508789,
+    "liquidation_price": 0,
+    "exit_reason": "TP hit (+40.2% of margin)"
   }
 ]
