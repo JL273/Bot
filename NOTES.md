@@ -5832,3 +5832,10 @@ _Auto-generated. Newest entry at top._
 - EXIT SHORT AAVE [time-stop (8d open, flat)]
 - EXIT SHORT AAVE [time-stop (8d open, flat)]
 - Portfolio equity: $10,135.21 (+1.35%)
+
+## 2026-11-06
+
+### 02:26 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT AERO [TP hit (+42.6% of margin)]
+- Portfolio equity: $11,015.76 (+10.16%)

@@ -11273,5 +11273,30 @@
     "pnl_pct": 39.72838658404269,
     "total_slippage_bps": 7.0,
     "exit_reason": "TP hit (+40.2% of margin)"
+  },
+  {
+    "trader": "0x47f5a6397b79deaaca5c456503e7c1a49357b942",
+    "coin": "AERO",
+    "side": "SHORT",
+    "size": 675.2863213039278,
+    "entry_price": 0.6853533084426999,
+    "entry_fee": 0.2314048572258735,
+    "entry_slippage_bps": 3.45,
+    "entry_fill_method": "book",
+    "leverage": 3,
+    "margin": 154.269904817249,
+    "notional": 462.809714451747,
+    "opened_at": "2026-10-24T16:34:57.263909+00:00",
+    "exit_price": 0.58835,
+    "exit_fee": 0.19865235356958297,
+    "total_fees": 0.43005721079545645,
+    "exit_slippage_bps": 4.25,
+    "exit_fill_method": "book",
+    "closed_at": "2026-11-06T02:26:27.604429+00:00",
+    "gross_pnl": 65.50500731258106,
+    "pnl": 65.0749501017856,
+    "pnl_pct": 42.18253079165026,
+    "total_slippage_bps": 7.7,
+    "exit_reason": "TP hit (+42.6% of margin)"
   }
 ]

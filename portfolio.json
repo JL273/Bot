@@ -1,5 +1,5 @@
 {
-  "cash": 6036.416266566021,
+  "cash": 6255.761121485055,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66:BTC:SHORT": {
@@ -29,20 +29,6 @@
       "margin": 223.01919637020774,
       "notional": 669.0575891106232,
       "opened_at": "2026-10-20T14:42:53.309810+00:00"
-    },
-    "0x47f5a6397b79deaaca5c456503e7c1a49357b942:AERO:SHORT": {
-      "trader": "0x47f5a6397b79deaaca5c456503e7c1a49357b942",
-      "coin": "AERO",
-      "side": "SHORT",
-      "size": 675.2863213039278,
-      "entry_price": 0.6853533084426999,
-      "entry_fee": 0.2314048572258735,
-      "entry_slippage_bps": 3.45,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 154.269904817249,
-      "notional": 462.809714451747,
-      "opened_at": "2026-10-24T16:34:57.263909+00:00"
     },
     "0x47f5a6397b79deaaca5c456503e7c1a49357b942:SOL:SHORT": {
       "trader": "0x47f5a6397b79deaaca5c456503e7c1a49357b942",
@@ -27130,7 +27116,17 @@
       "ts": "2026-11-05T22:14:45.956462+00:00",
       "equity": 11073.121777261902,
       "cash": 6036.416266566021
+    },
+    {
+      "ts": "2026-11-06T02:26:29.053299+00:00",
+      "equity": 11016.359843391929,
+      "cash": 6036.416266566021
+    },
+    {
+      "ts": "2026-11-06T02:26:30.088746+00:00",
+      "equity": 11015.760964600808,
+      "cash": 6255.761121485055
     }
   ],
-  "last_processed_signal_index": 1152
+  "last_processed_signal_index": 1153
 }

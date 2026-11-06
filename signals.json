@@ -15862,5 +15862,19 @@
     "unrealized_pnl": 82.85838594508789,
     "liquidation_price": 0,
     "exit_reason": "TP hit (+40.2% of margin)"
+  },
+  {
+    "ts": "2026-11-06T02:26:27.604429+00:00",
+    "trader": "0x47f5a6397b79deaaca5c456503e7c1a49357b942",
+    "type": "CLOSED",
+    "coin": "AERO",
+    "side": "SHORT",
+    "size": 675.2863213039278,
+    "entry_price": 0.6853533084426999,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 65.67382889290708,
+    "liquidation_price": 0,
+    "exit_reason": "TP hit (+42.6% of margin)"
   }
 ]
