@@ -5835,6 +5835,13 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-06
 
+### 16:54 UTC — Position poll (Job B)
+- 4 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- NEW SHORT HYPE (0x6891ed9ee6a9d0649ffac2bcee814e6899a0e075) [3/5 traders]
+- CLOSED SHORT SOL (0xbe19541903f64af97bcf8436f4d15bf3a56b8bd1)
+- CLOSED SHORT APE (0x47f5a6397b79deaaca5c456503e7c1a49357b942)
+- EXIT SHORT AAVE [time-stop (9d open, flat)]
+- Portfolio equity: $10,941.13 (+9.41%)
 ### 16:42 UTC — Daily refresh (Job A)
 - Leaderboard: 48293 traders fetched, 5 shortlisted
 - Shortlist change: +2 new, -2 dropped

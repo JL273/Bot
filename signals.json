@@ -15876,5 +15876,59 @@
     "unrealized_pnl": 65.67382889290708,
     "liquidation_price": 0,
     "exit_reason": "TP hit (+42.6% of margin)"
+  },
+  {
+    "ts": "2026-11-06T16:54:40.204783+00:00",
+    "trader": "0x6891ed9ee6a9d0649ffac2bcee814e6899a0e075",
+    "type": "NEW",
+    "confluence": 3,
+    "coin": "HYPE",
+    "side": "SHORT",
+    "size": 38757.0,
+    "entry_price": 81.0,
+    "position_value_usd": 3053431.488,
+    "leverage": 10,
+    "unrealized_pnl": 85885.512,
+    "liquidation_price": 145.706207929
+  },
+  {
+    "ts": "2026-11-06T16:54:40.204783+00:00",
+    "trader": "0xbe19541903f64af97bcf8436f4d15bf3a56b8bd1",
+    "type": "CLOSED",
+    "coin": "SOL",
+    "side": "SHORT",
+    "size": 30451.69,
+    "entry_price": 97.6151,
+    "position_value_usd": 3082624.5787,
+    "leverage": 3,
+    "unrealized_pnl": -110077.94834,
+    "liquidation_price": 784.4148634785
+  },
+  {
+    "ts": "2026-11-06T16:54:40.204783+00:00",
+    "trader": "0x47f5a6397b79deaaca5c456503e7c1a49357b942",
+    "type": "CLOSED",
+    "coin": "APE",
+    "side": "SHORT",
+    "size": 80000.0,
+    "entry_price": 0.15339,
+    "position_value_usd": 8776.0,
+    "leverage": 5,
+    "unrealized_pnl": 3495.477123,
+    "liquidation_price": 25.4580684729
+  },
+  {
+    "ts": "2026-11-06T16:54:40.204783+00:00",
+    "trader": "0xba5d9cc840745aeeeeedac5712e32f13ab8ea352",
+    "type": "CLOSED",
+    "coin": "AAVE",
+    "side": "SHORT",
+    "size": 3.320139704943895,
+    "entry_price": 131.97,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -2.440302683133808,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (9d open, flat)"
   }
 ]
