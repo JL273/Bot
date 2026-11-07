@@ -5863,6 +5863,23 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-07
 
+### 18:29 UTC — Position poll (Job B)
+- 9 signal(s) acted on, 5 skipped (confluence), 0 paused (daily profit limit):
+- CLOSED SHORT BTC (0x4fe260d11bf48ba3a94459771259c910a398ac59)
+- NEW SHORT AVAX (0x9c16bc8f1104e4d2f72267eb981fa12de7cc4a6f) [2/5 traders]
+- NEW SHORT ETH (0x9c16bc8f1104e4d2f72267eb981fa12de7cc4a6f) [3/5 traders]
+- NEW SHORT SOL (0x9c16bc8f1104e4d2f72267eb981fa12de7cc4a6f) [3/5 traders]
+- NEW SHORT HYPE (0x2de373887b9742162c9a5885ddb5debea8e4486d) [2/5 traders]
+- NEW SHORT ONDO (0x2de373887b9742162c9a5885ddb5debea8e4486d) [2/5 traders]
+- NEW SHORT UNI (0x2de373887b9742162c9a5885ddb5debea8e4486d) [3/5 traders]
+- NEW SHORT ETH (0x2de373887b9742162c9a5885ddb5debea8e4486d) [3/5 traders]
+- NEW SHORT SOL (0x2de373887b9742162c9a5885ddb5debea8e4486d) [3/5 traders]
+- SKIPPED SHORT BTC (0x9c16bc8f1104e4d2f72267eb981fa12de7cc4a6f) — only 1/5 traders
+- SKIPPED SHORT FARTCOIN (0x2de373887b9742162c9a5885ddb5debea8e4486d) — only 1/5 traders
+- SKIPPED SHORT SKY (0x2de373887b9742162c9a5885ddb5debea8e4486d) — only 1/5 traders
+- SKIPPED SHORT LIT (0x2de373887b9742162c9a5885ddb5debea8e4486d) — only 1/5 traders
+- SKIPPED SHORT ENA (0x2de373887b9742162c9a5885ddb5debea8e4486d) — only 1/5 traders
+- Portfolio equity: $11,124.38 (+11.24%)
 ### 15:37 UTC — Daily refresh (Job A)
 - Leaderboard: 48288 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
