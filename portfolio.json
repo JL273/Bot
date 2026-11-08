@@ -1,5 +1,5 @@
 {
-  "cash": 4034.5985641264438,
+  "cash": 4185.210411235321,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66:BTC:SHORT": {
@@ -168,20 +168,6 @@
       "leverage": 3,
       "margin": 125.19248871644032,
       "notional": 375.57746614932097,
-      "opened_at": "2026-10-28T16:33:09.693206+00:00"
-    },
-    "0xba5d9cc840745aeeeeedac5712e32f13ab8ea352:GRAM:SHORT": {
-      "trader": "0xba5d9cc840745aeeeeedac5712e32f13ab8ea352",
-      "coin": "GRAM",
-      "side": "SHORT",
-      "size": 262.6535615251464,
-      "entry_price": 1.2257,
-      "entry_fee": 0.16096723518068598,
-      "entry_slippage_bps": 0.82,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 107.31149012045732,
-      "notional": 321.93447036137195,
       "opened_at": "2026-10-28T16:33:09.693206+00:00"
     },
     "0xba5d9cc840745aeeeeedac5712e32f13ab8ea352:ETH:SHORT": {
@@ -27283,7 +27269,17 @@
       "ts": "2026-11-07T22:11:06.978270+00:00",
       "equity": 11251.79263178649,
       "cash": 4034.5985641264438
+    },
+    {
+      "ts": "2026-11-08T01:23:45.910748+00:00",
+      "equity": 11206.75973991636,
+      "cash": 4034.5985641264438
+    },
+    {
+      "ts": "2026-11-08T01:23:46.720453+00:00",
+      "equity": 11206.786494351143,
+      "cash": 4185.210411235321
     }
   ],
-  "last_processed_signal_index": 1166
+  "last_processed_signal_index": 1167
 }

@@ -11323,5 +11323,30 @@
     "pnl_pct": -2.1934785357733264,
     "total_slippage_bps": 8.11,
     "exit_reason": "time-stop (9d open, flat)"
+  },
+  {
+    "trader": "0xba5d9cc840745aeeeeedac5712e32f13ab8ea352",
+    "coin": "GRAM",
+    "side": "SHORT",
+    "size": 262.6535615251464,
+    "entry_price": 1.2257,
+    "entry_fee": 0.16096723518068598,
+    "entry_slippage_bps": 0.82,
+    "entry_fill_method": "book",
+    "leverage": 3,
+    "margin": 107.31149012045732,
+    "notional": 321.93447036137195,
+    "opened_at": "2026-10-28T16:33:09.693206+00:00",
+    "exit_price": 1.0597,
+    "exit_fee": 0.13916698957409884,
+    "total_fees": 0.3001342247547848,
+    "exit_slippage_bps": 1.89,
+    "exit_fill_method": "book",
+    "closed_at": "2026-11-08T01:23:44.513256+00:00",
+    "gross_pnl": 43.60049121317429,
+    "pnl": 43.3003569884195,
+    "pnl_pct": 40.3501590927633,
+    "total_slippage_bps": 2.71,
+    "exit_reason": "TP hit (+40.7% of margin)"
   }
 ]

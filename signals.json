@@ -16055,5 +16055,19 @@
     "leverage": 20,
     "unrealized_pnl": 78984.3091,
     "liquidation_price": 276.747347713
+  },
+  {
+    "ts": "2026-11-08T01:23:44.513256+00:00",
+    "trader": "0xba5d9cc840745aeeeeedac5712e32f13ab8ea352",
+    "type": "CLOSED",
+    "coin": "GRAM",
+    "side": "SHORT",
+    "size": 262.6535615251464,
+    "entry_price": 1.2257,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 43.65302192547931,
+    "liquidation_price": 0,
+    "exit_reason": "TP hit (+40.7% of margin)"
   }
 ]
