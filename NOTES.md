@@ -5897,6 +5897,17 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-08
 
+### 22:34 UTC — Position poll (Job B)
+- 8 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT BTC [TP hit (+40.1% of margin)]
+- EXIT SHORT SOL [TP hit (+45.6% of margin)]
+- EXIT SHORT SOL [TP hit (+44.6% of margin)]
+- EXIT SHORT SOL [TP hit (+44.6% of margin)]
+- EXIT SHORT SOL [TP hit (+44.6% of margin)]
+- EXIT SHORT SOL [TP hit (+45.1% of margin)]
+- EXIT SHORT HYPE [TP hit (+45.5% of margin)]
+- EXIT SHORT XRP [TP hit (+40.1% of margin)]
+- Portfolio equity: $11,883.28 (+18.83%)
 ### 15:55 UTC — Daily refresh (Job A)
 - Leaderboard: 48280 traders fetched, 5 shortlisted
 - Shortlist change: +1 new, -1 dropped
