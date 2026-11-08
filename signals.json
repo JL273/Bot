@@ -16069,5 +16069,19 @@
     "unrealized_pnl": 43.65302192547931,
     "liquidation_price": 0,
     "exit_reason": "TP hit (+40.7% of margin)"
+  },
+  {
+    "ts": "2026-11-08T07:31:19.292062+00:00",
+    "trader": "0xf6f371fb269f8e7c078e340fb8d3a253463247f8",
+    "type": "CLOSED",
+    "coin": "XPL",
+    "side": "SHORT",
+    "size": 7242.759897728729,
+    "entry_price": 0.0644121106263515,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 62.310264640262496,
+    "liquidation_price": 0,
+    "exit_reason": "TP hit (+40.1% of margin)"
   }
 ]
