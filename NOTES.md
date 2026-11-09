@@ -5930,3 +5930,20 @@ _Auto-generated. Newest entry at top._
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT GRAM [TP hit (+40.7% of margin)]
 - Portfolio equity: $11,206.79 (+12.07%)
+
+## 2026-11-09
+
+### 19:44 UTC — Daily refresh (Job A)
+- Leaderboard: 48229 traders fetched, 5 shortlisted
+- Shortlist change: +2 new, -2 dropped
+- #1 0x779e5e469d5de3a13e563f736ffcf47ebe5584c5 acc=$5,058,213 month=$307,712 edge=415bps
+- #2 0x4fe260d11bf48ba3a94459771259c910a398ac59 acc=$2,186,986 month=$475,372 edge=270bps
+- #3 0x2de373887b9742162c9a5885ddb5debea8e4486d acc=$1,658,004 month=$240,749 edge=255bps
+- #4 0xca4903c207a0df58bf37d4bc8bbc5210726f53c8 acc=$17,120,859 month=$9,592,720 edge=5037bps
+- #5 0x218a65e21eddeece7a9df38c6bbdd89f692b7da2 acc=$11,641,456 month=$9,648,934 edge=3946bps
+- Current positions across the shortlist:
+-   0x779e5e469d5de3a13e563f736ffcf47ebe5584c5... 1 positions: SHORT HYPE x10
+-   0x4fe260d11bf48ba3a94459771259c910a398ac59... 2 positions: SHORT HYPE x10, SHORT ZEC x10
+-   0x2de373887b9742162c9a5885ddb5debea8e4486d... 9 positions: SHORT ETH x25, SHORT SOL x20, SHORT UNI x10, SHORT ONDO x10, SHORT ENA x10, SHORT HYPE x10, SHORT FARTCOIN x10, SHORT SKY x3, SHORT LIT x5
+-   0xca4903c207a0df58bf37d4bc8bbc5210726f53c8... 5 positions: SHORT BTC x40, SHORT ETH x25, SHORT SOL x20, SHORT DOGE x10, SHORT XRP x20
+-   0x218a65e21eddeece7a9df38c6bbdd89f692b7da2... 2 positions: SHORT BTC x8, SHORT ETH x10
