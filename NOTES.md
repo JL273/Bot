@@ -5950,6 +5950,24 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-10
 
+### 17:11 UTC — Position poll (Job B)
+- 12 signal(s) acted on, 3 skipped (confluence), 0 paused (daily profit limit):
+- NEW SHORT ZEC (0x6788e111b25a244e7168847fe19bb1456a8398d4) [3/5 traders]
+- NEW SHORT BTC (0x6788e111b25a244e7168847fe19bb1456a8398d4) [2/5 traders]
+- NEW SHORT XMR (0x6788e111b25a244e7168847fe19bb1456a8398d4) [2/5 traders]
+- NEW SHORT SOL (0x6788e111b25a244e7168847fe19bb1456a8398d4) [2/5 traders]
+- NEW SHORT HYPE (0x6788e111b25a244e7168847fe19bb1456a8398d4) [3/5 traders]
+- EXIT SHORT ETH [TP hit (+40.3% of margin)]
+- EXIT SHORT ETH [TP hit (+41.8% of margin)]
+- EXIT SHORT ETH [TP hit (+41.7% of margin)]
+- EXIT SHORT ETH [TP hit (+41.7% of margin)]
+- EXIT SHORT ETH [TP hit (+40.4% of margin)]
+- EXIT SHORT ZEC [TP hit (+66.1% of margin)]
+- EXIT SHORT ZEC [TP hit (+66.1% of margin)]
+- SKIPPED SHORT ZRO (0x6788e111b25a244e7168847fe19bb1456a8398d4) — only 1/5 traders
+- SKIPPED LONG WLFI (0x6788e111b25a244e7168847fe19bb1456a8398d4) — only 1/5 traders
+- SKIPPED SHORT AERO (0x6788e111b25a244e7168847fe19bb1456a8398d4) — only 1/5 traders
+- Portfolio equity: $12,512.85 (+25.13%)
 ### 16:59 UTC — Daily refresh (Job A)
 - Leaderboard: 47992 traders fetched, 5 shortlisted
 - Shortlist change: +2 new, -2 dropped
