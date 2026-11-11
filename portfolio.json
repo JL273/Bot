@@ -1,5 +1,5 @@
 {
-  "cash": 6008.970769879278,
+  "cash": 3594.953412883645,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x6041f881358c71d64bc9253c9ba0391df69f7d98:BTC:SHORT": {
@@ -337,6 +337,146 @@
       "margin": 238.30555337662256,
       "notional": 714.9166601298676,
       "opened_at": "2026-11-10T17:11:21.823226+00:00"
+    },
+    "0xbfc79c444c41a74516bf31237ebf586a231480b4:BTC:SHORT": {
+      "trader": "0xbfc79c444c41a74516bf31237ebf586a231480b4",
+      "coin": "BTC",
+      "side": "SHORT",
+      "size": 0.012200130149998533,
+      "entry_price": 73880.0,
+      "entry_fee": 0.4506728077409458,
+      "entry_slippage_bps": 0.07,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 300.4485384939639,
+      "notional": 901.3456154818916,
+      "opened_at": "2026-11-11T23:00:59.444470+00:00"
+    },
+    "0xbfc79c444c41a74516bf31237ebf586a231480b4:TAO:SHORT": {
+      "trader": "0xbfc79c444c41a74516bf31237ebf586a231480b4",
+      "coin": "TAO",
+      "side": "SHORT",
+      "size": 3.955731453198263,
+      "entry_price": 216.44814465207895,
+      "entry_fee": 0.428105366893318,
+      "entry_slippage_bps": 2.4,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 285.4035779288787,
+      "notional": 856.2107337866361,
+      "opened_at": "2026-11-11T23:00:59.444470+00:00"
+    },
+    "0xbfc79c444c41a74516bf31237ebf586a231480b4:XMR:SHORT": {
+      "trader": "0xbfc79c444c41a74516bf31237ebf586a231480b4",
+      "coin": "XMR",
+      "side": "SHORT",
+      "size": 1.394824272079488,
+      "entry_price": 583.11,
+      "entry_fee": 0.40666799064613507,
+      "entry_slippage_bps": 0.09,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 271.1119937640901,
+      "notional": 813.3359812922702,
+      "opened_at": "2026-11-11T23:00:59.444470+00:00"
+    },
+    "0xbfc79c444c41a74516bf31237ebf586a231480b4:NEAR:SHORT": {
+      "trader": "0xbfc79c444c41a74516bf31237ebf586a231480b4",
+      "coin": "NEAR",
+      "side": "SHORT",
+      "size": 213.98924858857768,
+      "entry_price": 3.6105000000000005,
+      "entry_fee": 0.3863040910145299,
+      "entry_slippage_bps": 5.96,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 257.53606067635326,
+      "notional": 772.6081820290598,
+      "opened_at": "2026-11-11T23:00:59.444470+00:00"
+    },
+    "0xbfc79c444c41a74516bf31237ebf586a231480b4:AAVE:SHORT": {
+      "trader": "0xbfc79c444c41a74516bf31237ebf586a231480b4",
+      "coin": "AAVE",
+      "side": "SHORT",
+      "size": 6.084057260332874,
+      "entry_price": 120.63,
+      "entry_fee": 0.3669599136569773,
+      "entry_slippage_bps": 1.66,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 244.63994243798484,
+      "notional": 733.9198273139546,
+      "opened_at": "2026-11-11T23:00:59.444470+00:00"
+    },
+    "0xbfc79c444c41a74516bf31237ebf586a231480b4:UNI:SHORT": {
+      "trader": "0xbfc79c444c41a74516bf31237ebf586a231480b4",
+      "coin": "UNI",
+      "side": "SHORT",
+      "size": 109.67882794682653,
+      "entry_price": 6.356457349263461,
+      "entry_fee": 0.3485843959806041,
+      "entry_slippage_bps": 2.61,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 232.38959732040271,
+      "notional": 697.1687919612082,
+      "opened_at": "2026-11-11T23:00:59.444470+00:00"
+    },
+    "0xbfc79c444c41a74516bf31237ebf586a231480b4:XRP:SHORT": {
+      "trader": "0xbfc79c444c41a74516bf31237ebf586a231480b4",
+      "coin": "XRP",
+      "side": "SHORT",
+      "size": 627.9708559679033,
+      "entry_price": 1.0546,
+      "entry_fee": 0.33112903235187535,
+      "entry_slippage_bps": 2.37,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 220.7526882345836,
+      "notional": 662.2580647037507,
+      "opened_at": "2026-11-11T23:00:59.444470+00:00"
+    },
+    "0xbfc79c444c41a74516bf31237ebf586a231480b4:ZEC:SHORT": {
+      "trader": "0xbfc79c444c41a74516bf31237ebf586a231480b4",
+      "coin": "ZEC",
+      "side": "SHORT",
+      "size": 0.6427407046811378,
+      "entry_price": 978.7702685265643,
+      "entry_fee": 0.3145477460568552,
+      "entry_slippage_bps": 1.12,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 209.6984973712368,
+      "notional": 629.0954921137104,
+      "opened_at": "2026-11-11T23:00:59.444470+00:00"
+    },
+    "0x4c0e6c0f7ba62536202cd9c607dfd9b4f071829f:BTC:SHORT": {
+      "trader": "0x4c0e6c0f7ba62536202cd9c607dfd9b4f071829f",
+      "coin": "BTC",
+      "side": "SHORT",
+      "size": 0.00808870513462529,
+      "entry_price": 73880.0,
+      "entry_fee": 0.2987967676730582,
+      "entry_slippage_bps": 0.07,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 199.19784511537213,
+      "notional": 597.5935353461164,
+      "opened_at": "2026-11-11T23:00:59.444470+00:00"
+    },
+    "0x4c0e6c0f7ba62536202cd9c607dfd9b4f071829f:HYPE:SHORT": {
+      "trader": "0x4c0e6c0f7ba62536202cd9c607dfd9b4f071829f",
+      "coin": "HYPE",
+      "side": "SHORT",
+      "size": 7.929556762402877,
+      "entry_price": 71.589,
+      "entry_fee": 0.28383451953182975,
+      "entry_slippage_bps": 1.12,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 189.22301302121983,
+      "notional": 567.6690390636595,
+      "opened_at": "2026-11-11T23:00:59.444470+00:00"
     }
   },
   "equity_history": [
@@ -27224,7 +27364,12 @@
       "ts": "2026-11-11T16:39:23.243091+00:00",
       "equity": 11982.40360814882,
       "cash": 6008.970769879278
+    },
+    {
+      "ts": "2026-11-11T23:01:02.198923+00:00",
+      "equity": 12313.40646359539,
+      "cash": 3594.953412883645
     }
   ],
-  "last_processed_signal_index": 1189
+  "last_processed_signal_index": 1199
 }

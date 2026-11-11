@@ -5989,6 +5989,39 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-11
 
+### 23:01 UTC — Position poll (Job B)
+- 10 signal(s) acted on, 20 skipped (confluence), 0 paused (daily profit limit):
+- NEW SHORT BTC (0xbfc79c444c41a74516bf31237ebf586a231480b4) [2/5 traders]
+- NEW SHORT TAO (0xbfc79c444c41a74516bf31237ebf586a231480b4) [2/5 traders]
+- NEW SHORT XMR (0xbfc79c444c41a74516bf31237ebf586a231480b4) [2/5 traders]
+- NEW SHORT NEAR (0xbfc79c444c41a74516bf31237ebf586a231480b4) [2/5 traders]
+- NEW SHORT AAVE (0xbfc79c444c41a74516bf31237ebf586a231480b4) [2/5 traders]
+- NEW SHORT UNI (0xbfc79c444c41a74516bf31237ebf586a231480b4) [2/5 traders]
+- NEW SHORT XRP (0xbfc79c444c41a74516bf31237ebf586a231480b4) [2/5 traders]
+- NEW SHORT ZEC (0xbfc79c444c41a74516bf31237ebf586a231480b4) [4/5 traders]
+- NEW SHORT BTC (0x4c0e6c0f7ba62536202cd9c607dfd9b4f071829f) [2/5 traders]
+- NEW SHORT HYPE (0x4c0e6c0f7ba62536202cd9c607dfd9b4f071829f) [2/5 traders]
+- SKIPPED SHORT CFX (0xbfc79c444c41a74516bf31237ebf586a231480b4) — only 1/5 traders
+- SKIPPED SHORT SOL (0xbfc79c444c41a74516bf31237ebf586a231480b4) — only 1/5 traders
+- SKIPPED SHORT VVV (0xbfc79c444c41a74516bf31237ebf586a231480b4) — only 1/5 traders
+- SKIPPED SHORT DOGE (0xbfc79c444c41a74516bf31237ebf586a231480b4) — only 1/5 traders
+- SKIPPED SHORT GRASS (0xbfc79c444c41a74516bf31237ebf586a231480b4) — only 1/5 traders
+- SKIPPED SHORT STRK (0xbfc79c444c41a74516bf31237ebf586a231480b4) — only 1/5 traders
+- SKIPPED SHORT GRAM (0xbfc79c444c41a74516bf31237ebf586a231480b4) — only 1/5 traders
+- SKIPPED SHORT ZRO (0xbfc79c444c41a74516bf31237ebf586a231480b4) — only 1/5 traders
+- SKIPPED SHORT PONS (0xbfc79c444c41a74516bf31237ebf586a231480b4) — only 1/5 traders
+- SKIPPED SHORT ASTER (0xbfc79c444c41a74516bf31237ebf586a231480b4) — only 1/5 traders
+- SKIPPED SHORT PENGU (0xbfc79c444c41a74516bf31237ebf586a231480b4) — only 1/5 traders
+- SKIPPED SHORT FET (0xbfc79c444c41a74516bf31237ebf586a231480b4) — only 1/5 traders
+- SKIPPED SHORT STBL (0xbfc79c444c41a74516bf31237ebf586a231480b4) — only 1/5 traders
+- SKIPPED SHORT PUMP (0xbfc79c444c41a74516bf31237ebf586a231480b4) — only 1/5 traders
+- SKIPPED SHORT MNT (0xbfc79c444c41a74516bf31237ebf586a231480b4) — only 1/5 traders
+- SKIPPED SHORT VIRTUAL (0xbfc79c444c41a74516bf31237ebf586a231480b4) — only 1/5 traders
+- SKIPPED SHORT ENA (0xbfc79c444c41a74516bf31237ebf586a231480b4) — only 1/5 traders
+- SKIPPED SHORT APEX (0xbfc79c444c41a74516bf31237ebf586a231480b4) — only 1/5 traders
+- SKIPPED SHORT ONDO (0xbfc79c444c41a74516bf31237ebf586a231480b4) — only 1/5 traders
+- SKIPPED SHORT SYRUP (0x4c0e6c0f7ba62536202cd9c607dfd9b4f071829f) — only 1/5 traders
+- Portfolio equity: $12,313.41 (+23.13%)
 ### 17:03 UTC — Daily refresh (Job A)
 - Leaderboard: 48237 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
