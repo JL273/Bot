@@ -5986,3 +5986,20 @@ _Auto-generated. Newest entry at top._
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - NEW SHORT HYPE (0x779e5e469d5de3a13e563f736ffcf47ebe5584c5) [3/5 traders]
 - Portfolio equity: $11,681.93 (+16.82%)
+
+## 2026-11-11
+
+### 17:03 UTC — Daily refresh (Job A)
+- Leaderboard: 48237 traders fetched, 5 shortlisted
+- Shortlist change: +3 new, -3 dropped
+- #1 0xbfc79c444c41a74516bf31237ebf586a231480b4 acc=$6,009,305 month=$6,247,671 edge=7718bps
+- #2 0x4fe260d11bf48ba3a94459771259c910a398ac59 acc=$2,541,424 month=$951,156 edge=541bps
+- #3 0xf6f371fb269f8e7c078e340fb8d3a253463247f8 acc=$957,808 month=$1,156,491 edge=1916bps
+- #4 0x4c0e6c0f7ba62536202cd9c607dfd9b4f071829f acc=$551,517 month=$104,767 edge=185bps
+- #5 0x015354106478dda69c4aae3c0cf801290b738052 acc=$11,920,852 month=$1,604,647 edge=3037bps
+- Current positions across the shortlist:
+-   0xbfc79c444c41a74516bf31237ebf586a231480b4... 27 positions: SHORT BTC x40, SHORT SOL x20, SHORT DOGE x10, SHORT CFX x5, SHORT XRP x20, SHORT AAVE x10, SHORT UNI x10, SHORT ZRO x5, SHORT FET x5, SHORT NEAR x10, SHORT JUP x10, SHORT ONDO x10, SHORT STRK x5, SHORT TAO x5, SHORT ENA x10, SHORT MNT x5, SHORT GRASS x3, SHORT VIRTUAL x5, SHORT PENGU x5, SHORT VVV x3, SHORT PUMP x10, SHORT ASTER x5, SHORT STBL x3, SHORT APEX x3, SHORT ZEC x10, SHORT GRAM x5, SHORT PONS x3
+-   0x4fe260d11bf48ba3a94459771259c910a398ac59... 2 positions: SHORT HYPE x10, SHORT ZEC x10
+-   0xf6f371fb269f8e7c078e340fb8d3a253463247f8... 15 positions: SHORT ETH x5, SHORT BNB x5, SHORT ARB x5, SHORT INJ x5, SHORT LINK x5, SHORT XRP x5, SHORT AAVE x5, SHORT WLD x5, SHORT UNI x5, SHORT NEAR x5, SHORT TAO x5, SHORT HBAR x5, SHORT XPL x5, SHORT ZEC x5, SHORT XMR x5
+-   0x4c0e6c0f7ba62536202cd9c607dfd9b4f071829f... 3 positions: SHORT BTC x20, SHORT HYPE x10, SHORT SYRUP x3
+-   0x015354106478dda69c4aae3c0cf801290b738052... 1 positions: SHORT ZEC x1
