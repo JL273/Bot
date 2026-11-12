@@ -11748,5 +11748,30 @@
     "pnl_pct": 65.84619383875224,
     "total_slippage_bps": 1.39,
     "exit_reason": "TP hit (+66.1% of margin)"
+  },
+  {
+    "trader": "0xf6f371fb269f8e7c078e340fb8d3a253463247f8",
+    "coin": "UNI",
+    "side": "SHORT",
+    "size": 52.53061790938701,
+    "entry_price": 7.2313,
+    "entry_fee": 0.18993232864407514,
+    "entry_slippage_bps": 1.04,
+    "entry_fill_method": "book",
+    "leverage": 3,
+    "margin": 126.62155242938343,
+    "notional": 379.8646572881503,
+    "opened_at": "2026-11-03T21:07:54.903627+00:00",
+    "exit_price": 6.2193471890713505,
+    "exit_fee": 0.16335307541746363,
+    "total_fees": 0.35328540406153874,
+    "exit_slippage_bps": 0.24,
+    "exit_fill_method": "book",
+    "closed_at": "2026-11-12T03:40:27.985579+00:00",
+    "gross_pnl": 53.15850645322305,
+    "pnl": 52.80522104916151,
+    "pnl_pct": 41.70318562364086,
+    "total_slippage_bps": 1.28,
+    "exit_reason": "TP hit (+42.0% of margin)"
   }
 ]

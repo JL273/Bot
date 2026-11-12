@@ -6036,3 +6036,10 @@ _Auto-generated. Newest entry at top._
 -   0xf6f371fb269f8e7c078e340fb8d3a253463247f8... 15 positions: SHORT ETH x5, SHORT BNB x5, SHORT ARB x5, SHORT INJ x5, SHORT LINK x5, SHORT XRP x5, SHORT AAVE x5, SHORT WLD x5, SHORT UNI x5, SHORT NEAR x5, SHORT TAO x5, SHORT HBAR x5, SHORT XPL x5, SHORT ZEC x5, SHORT XMR x5
 -   0x4c0e6c0f7ba62536202cd9c607dfd9b4f071829f... 3 positions: SHORT BTC x20, SHORT HYPE x10, SHORT SYRUP x3
 -   0x015354106478dda69c4aae3c0cf801290b738052... 1 positions: SHORT ZEC x1
+
+## 2026-11-12
+
+### 03:40 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT UNI [TP hit (+42.0% of margin)]
+- Portfolio equity: $12,406.97 (+24.07%)
