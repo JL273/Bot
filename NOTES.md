@@ -6039,6 +6039,12 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-12
 
+### 11:48 UTC — Position poll (Job B)
+- 2 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT LINK [TP hit (+40.2% of margin)]
+- EXIT SHORT UNI [TP hit (+44.0% of margin)]
+- SKIPPED SHORT AERO (0xf6f371fb269f8e7c078e340fb8d3a253463247f8) — only 1/5 traders
+- Portfolio equity: $12,789.10 (+27.89%)
 ### 03:40 UTC — Position poll (Job B)
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT UNI [TP hit (+42.0% of margin)]

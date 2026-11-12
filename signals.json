@@ -16531,5 +16531,33 @@
     "unrealized_pnl": 53.166238386090605,
     "liquidation_price": 0,
     "exit_reason": "TP hit (+42.0% of margin)"
+  },
+  {
+    "ts": "2026-11-12T11:48:43.345507+00:00",
+    "trader": "0xba5d9cc840745aeeeeedac5712e32f13ab8ea352",
+    "type": "CLOSED",
+    "coin": "LINK",
+    "side": "SHORT",
+    "size": 32.54570763858934,
+    "entry_price": 11.54,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 50.301018440821714,
+    "liquidation_price": 0,
+    "exit_reason": "TP hit (+40.2% of margin)"
+  },
+  {
+    "ts": "2026-11-12T11:48:43.345507+00:00",
+    "trader": "0x2de373887b9742162c9a5885ddb5debea8e4486d",
+    "type": "CLOSED",
+    "coin": "UNI",
+    "side": "SHORT",
+    "size": 99.04755505630004,
+    "entry_price": 7.1282000000000005,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 103.49479027832793,
+    "liquidation_price": 0,
+    "exit_reason": "TP hit (+44.0% of margin)"
   }
 ]
