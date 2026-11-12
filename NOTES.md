@@ -6039,6 +6039,17 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-12
 
+### 19:10 UTC — Position poll (Job B)
+- 7 signal(s) acted on, 1 skipped (confluence), 0 paused (daily profit limit):
+- NEW SHORT ENA (0x1bf629cd9f4dbcc9fca616ccf7a19891007f5bfa) [2/5 traders]
+- NEW SHORT XMR (0x1bf629cd9f4dbcc9fca616ccf7a19891007f5bfa) [2/5 traders]
+- NEW SHORT BTC (0x1bf629cd9f4dbcc9fca616ccf7a19891007f5bfa) [4/5 traders]
+- NEW SHORT ZEC (0x1bf629cd9f4dbcc9fca616ccf7a19891007f5bfa) [2/5 traders]
+- NEW SHORT HYPE (0x1bf629cd9f4dbcc9fca616ccf7a19891007f5bfa) [2/5 traders]
+- EXIT SHORT BTC [TP hit (+42.0% of margin)]
+- EXIT SHORT XMR [TP hit (+46.0% of margin)]
+- SKIPPED SHORT AERO (0x1bf629cd9f4dbcc9fca616ccf7a19891007f5bfa) — only 1/5 traders
+- Portfolio equity: $13,034.54 (+30.35%)
 ### 17:31 UTC — Daily refresh (Job A)
 - Leaderboard: 48081 traders fetched, 5 shortlisted
 - Shortlist change: +4 new, -4 dropped
