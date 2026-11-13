@@ -16657,5 +16657,18 @@
     "unrealized_pnl": 83.49648659757598,
     "liquidation_price": 0,
     "exit_reason": "TP hit (+46.0% of margin)"
+  },
+  {
+    "ts": "2026-11-13T00:16:20.717318+00:00",
+    "trader": "0xbfc79c444c41a74516bf31237ebf586a231480b4",
+    "type": "CLOSED",
+    "coin": "DOGE",
+    "side": "SHORT",
+    "size": 8719838.0,
+    "entry_price": 0.092037,
+    "position_value_usd": 575640.10557,
+    "leverage": 10,
+    "unrealized_pnl": 226909.682407,
+    "liquidation_price": 0.4332255922
   }
 ]
