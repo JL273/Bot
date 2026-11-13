@@ -6077,6 +6077,19 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-13
 
+### 21:05 UTC — Position poll (Job B)
+- 5 signal(s) acted on, 5 skipped (confluence), 0 paused (daily profit limit):
+- NEW SHORT BTC (0xaea8e3bd369217cc6e3e6abddf0da318fba8e59b) [4/5 traders]
+- NEW SHORT HYPE (0xaea8e3bd369217cc6e3e6abddf0da318fba8e59b) [2/5 traders]
+- NEW SHORT OP (0xaea8e3bd369217cc6e3e6abddf0da318fba8e59b) [2/5 traders]
+- NEW SHORT ETH (0xaea8e3bd369217cc6e3e6abddf0da318fba8e59b) [4/5 traders]
+- NEW SHORT HBAR (0xaea8e3bd369217cc6e3e6abddf0da318fba8e59b) [2/5 traders]
+- SKIPPED SHORT BNB (0xacb66d1996501bcc82a0e7819c9e041599f5efbd) — only 1/5 traders
+- SKIPPED SHORT ETHFI (0xacb66d1996501bcc82a0e7819c9e041599f5efbd) — only 1/5 traders
+- SKIPPED SHORT MOODENG (0xaea8e3bd369217cc6e3e6abddf0da318fba8e59b) — only 1/5 traders
+- SKIPPED SHORT MELANIA (0xaea8e3bd369217cc6e3e6abddf0da318fba8e59b) — only 1/5 traders
+- SKIPPED SHORT APEX (0xaea8e3bd369217cc6e3e6abddf0da318fba8e59b) — only 1/5 traders
+- Portfolio equity: $13,335.60 (+33.36%)
 ### 17:08 UTC — Daily refresh (Job A)
 - Leaderboard: 48099 traders fetched, 5 shortlisted
 - Shortlist change: +2 new, -2 dropped
