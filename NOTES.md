@@ -6121,6 +6121,20 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-14
 
+### 23:08 UTC — Position poll (Job B)
+- 11 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT HYPE [TP hit (+49.4% of margin)]
+- EXIT SHORT XMR [TP hit (+52.5% of margin)]
+- EXIT SHORT SOL [TP hit (+46.9% of margin)]
+- EXIT SHORT BTC [TP hit (+42.4% of margin)]
+- EXIT SHORT TAO [TP hit (+50.3% of margin)]
+- EXIT SHORT XRP [TP hit (+45.6% of margin)]
+- EXIT SHORT ZEC [TP hit (+44.7% of margin)]
+- EXIT SHORT BTC [TP hit (+42.4% of margin)]
+- EXIT SHORT XMR [TP hit (+44.8% of margin)]
+- EXIT SHORT HYPE [TP hit (+41.4% of margin)]
+- EXIT SHORT OP [TP hit (+46.1% of margin)]
+- Portfolio equity: $15,542.37 (+55.42%)
 ### 19:23 UTC — Position poll (Job B)
 - 5 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT ONDO [TP hit (+50.8% of margin)]
