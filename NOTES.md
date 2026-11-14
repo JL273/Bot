@@ -6121,6 +6121,14 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-14
 
+### 19:23 UTC — Position poll (Job B)
+- 5 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT ONDO [TP hit (+50.8% of margin)]
+- EXIT SHORT ZEC [TP hit (+46.0% of margin)]
+- EXIT SHORT XMR [TP hit (+43.7% of margin)]
+- EXIT SHORT NEAR [TP hit (+45.4% of margin)]
+- EXIT SHORT ENA [TP hit (+45.4% of margin)]
+- Portfolio equity: $15,025.66 (+50.26%)
 ### 15:44 UTC — Daily refresh (Job A)
 - Leaderboard: 47887 traders fetched, 5 shortlisted
 - Shortlist change: +0 new, -0 dropped

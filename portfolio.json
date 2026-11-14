@@ -1,21 +1,7 @@
 {
-  "cash": 7482.188326220117,
+  "cash": 9354.570054174328,
   "starting_cash": 10000.0,
   "open_positions": {
-    "0x2de373887b9742162c9a5885ddb5debea8e4486d:ONDO:SHORT": {
-      "trader": "0x2de373887b9742162c9a5885ddb5debea8e4486d",
-      "coin": "ONDO",
-      "side": "SHORT",
-      "size": 2038.0853744173512,
-      "entry_price": 0.36468,
-      "entry_fee": 0.37162448717125984,
-      "entry_slippage_bps": 0.96,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 247.74965811417323,
-      "notional": 743.2489743425197,
-      "opened_at": "2026-11-07T18:29:23.172840+00:00"
-    },
     "0x779e5e469d5de3a13e563f736ffcf47ebe5584c5:HYPE:SHORT": {
       "trader": "0x779e5e469d5de3a13e563f736ffcf47ebe5584c5",
       "coin": "HYPE",
@@ -29,20 +15,6 @@
       "margin": 308.09707513837816,
       "notional": 924.2912254151345,
       "opened_at": "2026-11-10T02:00:53.370629+00:00"
-    },
-    "0x6788e111b25a244e7168847fe19bb1456a8398d4:ZEC:SHORT": {
-      "trader": "0x6788e111b25a244e7168847fe19bb1456a8398d4",
-      "coin": "ZEC",
-      "side": "SHORT",
-      "size": 0.8739000122449203,
-      "entry_price": 1004.7,
-      "entry_fee": 0.43900367115123573,
-      "entry_slippage_bps": 0.0,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 292.66911410082383,
-      "notional": 878.0073423024714,
-      "opened_at": "2026-11-10T17:11:21.823226+00:00"
     },
     "0x6788e111b25a244e7168847fe19bb1456a8398d4:BTC:SHORT": {
       "trader": "0x6788e111b25a244e7168847fe19bb1456a8398d4",
@@ -128,34 +100,6 @@
       "notional": 856.2107337866361,
       "opened_at": "2026-11-11T23:00:59.444470+00:00"
     },
-    "0xbfc79c444c41a74516bf31237ebf586a231480b4:XMR:SHORT": {
-      "trader": "0xbfc79c444c41a74516bf31237ebf586a231480b4",
-      "coin": "XMR",
-      "side": "SHORT",
-      "size": 1.394824272079488,
-      "entry_price": 583.11,
-      "entry_fee": 0.40666799064613507,
-      "entry_slippage_bps": 0.09,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 271.1119937640901,
-      "notional": 813.3359812922702,
-      "opened_at": "2026-11-11T23:00:59.444470+00:00"
-    },
-    "0xbfc79c444c41a74516bf31237ebf586a231480b4:NEAR:SHORT": {
-      "trader": "0xbfc79c444c41a74516bf31237ebf586a231480b4",
-      "coin": "NEAR",
-      "side": "SHORT",
-      "size": 213.98924858857768,
-      "entry_price": 3.6105000000000005,
-      "entry_fee": 0.3863040910145299,
-      "entry_slippage_bps": 5.96,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 257.53606067635326,
-      "notional": 772.6081820290598,
-      "opened_at": "2026-11-11T23:00:59.444470+00:00"
-    },
     "0xbfc79c444c41a74516bf31237ebf586a231480b4:XRP:SHORT": {
       "trader": "0xbfc79c444c41a74516bf31237ebf586a231480b4",
       "coin": "XRP",
@@ -211,20 +155,6 @@
       "margin": 189.22301302121983,
       "notional": 567.6690390636595,
       "opened_at": "2026-11-11T23:00:59.444470+00:00"
-    },
-    "0x1bf629cd9f4dbcc9fca616ccf7a19891007f5bfa:ENA:SHORT": {
-      "trader": "0x1bf629cd9f4dbcc9fca616ccf7a19891007f5bfa",
-      "coin": "ENA",
-      "side": "SHORT",
-      "size": 4606.761464551431,
-      "entry_price": 0.13961,
-      "entry_fee": 0.3215749840330127,
-      "entry_slippage_bps": 2.86,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 214.38332268867512,
-      "notional": 643.1499680660254,
-      "opened_at": "2026-11-12T19:10:36.593639+00:00"
     },
     "0x1bf629cd9f4dbcc9fca616ccf7a19891007f5bfa:XMR:SHORT": {
       "trader": "0x1bf629cd9f4dbcc9fca616ccf7a19891007f5bfa",
@@ -27300,7 +27230,17 @@
       "ts": "2026-11-14T14:29:49.840906+00:00",
       "equity": 14534.971027965366,
       "cash": 7482.188326220117
+    },
+    {
+      "ts": "2026-11-14T19:23:21.256930+00:00",
+      "equity": 15025.345640542457,
+      "cash": 7482.188326220117
+    },
+    {
+      "ts": "2026-11-14T19:23:22.610470+00:00",
+      "equity": 15025.656766326465,
+      "cash": 9354.570054174328
     }
   ],
-  "last_processed_signal_index": 1232
+  "last_processed_signal_index": 1237
 }
