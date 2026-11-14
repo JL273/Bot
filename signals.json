@@ -16933,5 +16933,47 @@
     "unrealized_pnl": 93.83104336711278,
     "liquidation_price": 0,
     "exit_reason": "TP hit (+40.4% of margin)"
+  },
+  {
+    "ts": "2026-11-14T14:29:47.203920+00:00",
+    "trader": "0x6891ed9ee6a9d0649ffac2bcee814e6899a0e075",
+    "type": "CLOSED",
+    "coin": "HYPE",
+    "side": "SHORT",
+    "size": 11.913314986450477,
+    "entry_price": 78.766,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 143.20400279462794,
+    "liquidation_price": 0,
+    "exit_reason": "TP hit (+45.8% of margin)"
+  },
+  {
+    "ts": "2026-11-14T14:29:47.203920+00:00",
+    "trader": "0x2de373887b9742162c9a5885ddb5debea8e4486d",
+    "type": "CLOSED",
+    "coin": "HYPE",
+    "side": "SHORT",
+    "size": 10.070650399420257,
+    "entry_price": 77.694,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 110.25851589805265,
+    "liquidation_price": 0,
+    "exit_reason": "TP hit (+42.3% of margin)"
+  },
+  {
+    "ts": "2026-11-14T14:29:47.203920+00:00",
+    "trader": "0xbfc79c444c41a74516bf31237ebf586a231480b4",
+    "type": "CLOSED",
+    "coin": "AAVE",
+    "side": "SHORT",
+    "size": 6.084057260332874,
+    "entry_price": 120.63,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 101.05619109412903,
+    "liquidation_price": 0,
+    "exit_reason": "TP hit (+41.3% of margin)"
   }
 ]
