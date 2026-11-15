@@ -6176,3 +6176,20 @@ _Auto-generated. Newest entry at top._
 - EXIT SHORT SOL [TP hit (+41.3% of margin)]
 - EXIT SHORT SOL [TP hit (+41.3% of margin)]
 - Portfolio equity: $13,568.52 (+35.69%)
+
+## 2026-11-15
+
+### 16:17 UTC — Daily refresh (Job A)
+- Leaderboard: 47828 traders fetched, 5 shortlisted
+- Shortlist change: +2 new, -2 dropped
+- #1 0xacb66d1996501bcc82a0e7819c9e041599f5efbd acc=$7,246,623 month=$3,106,182 edge=2832bps
+- #2 0xaea8e3bd369217cc6e3e6abddf0da318fba8e59b acc=$2,498,675 month=$1,251,002 edge=1025bps
+- #3 0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0 acc=$33,563,722 month=$19,891,862 edge=24564bps
+- #4 0x218a65e21eddeece7a9df38c6bbdd89f692b7da2 acc=$13,133,269 month=$18,429,977 edge=7019bps
+- #5 0x03ef8f736498047c3349bb2c18311d1bb4a79054 acc=$12,341,949 month=$2,260,653 edge=2862bps
+- Current positions across the shortlist:
+-   0xacb66d1996501bcc82a0e7819c9e041599f5efbd... 16 positions: SHORT BTC x20, SHORT ETH x10, SHORT SOL x20, SHORT BNB x10, SHORT OP x5, SHORT XRP x20, LONG WLD x10, LONG JUP x10, SHORT ENS x5, SHORT STRK x5, SHORT ETHFI x5, SHORT HBAR x5, SHORT EIGEN x5, SHORT PAXG x10, LONG PUMP x10, LONG ASTER x5
+-   0xaea8e3bd369217cc6e3e6abddf0da318fba8e59b... 8 positions: SHORT BTC x20, SHORT ETH x20, SHORT OP x5, SHORT HBAR x5, SHORT MOODENG x3, SHORT HYPE x10, SHORT MELANIA x3, SHORT APEX x3
+-   0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0... 10 positions: SHORT BTC x20, SHORT ETH x20, SHORT SOL x20, SHORT LINK x10, SHORT AAVE x10, SHORT GRASS x3, SHORT HYPE x10, SHORT VVV x3, SHORT PUMP x10, SHORT XMR x5
+-   0x218a65e21eddeece7a9df38c6bbdd89f692b7da2... 2 positions: SHORT BTC x8, SHORT ETH x10
+-   0x03ef8f736498047c3349bb2c18311d1bb4a79054... 1 positions: SHORT HYPE x10
