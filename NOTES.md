@@ -6213,6 +6213,10 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-17
 
+### 17:51 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- CLOSED SHORT LINK (0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0)
+- Portfolio equity: $15,212.93 (+52.13%)
 ### 00:55 UTC — Position poll (Job B)
 - 22 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - NEW SHORT SOL (0x4a96036fb1529561fa3eeeb2781fad2d4f25500e) [3/5 traders]
