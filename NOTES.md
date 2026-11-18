@@ -6256,3 +6256,20 @@ _Auto-generated. Newest entry at top._
 - CLOSED SHORT XPL (0x4a96036fb1529561fa3eeeb2781fad2d4f25500e)
 - CLOSED SHORT WLFI (0x4a96036fb1529561fa3eeeb2781fad2d4f25500e)
 - Portfolio equity: $15,297.07 (+52.97%)
+
+## 2026-11-18
+
+### 00:01 UTC — Position poll (Job B)
+- 7 signal(s) acted on, 4 skipped (confluence), 0 paused (daily profit limit):
+- CLOSED SHORT CC (0x47f5a6397b79deaaca5c456503e7c1a49357b942)
+- CLOSED SHORT APT (0x47f5a6397b79deaaca5c456503e7c1a49357b942)
+- CLOSED SHORT TRUMP (0x47f5a6397b79deaaca5c456503e7c1a49357b942)
+- CLOSED SHORT APEX (0x47f5a6397b79deaaca5c456503e7c1a49357b942)
+- NEW SHORT BTC (0xfb1898bb5955fdd11704e397104c6a0e0725eb17) [3/5 traders]
+- NEW SHORT HYPE (0xfb1898bb5955fdd11704e397104c6a0e0725eb17) [3/5 traders]
+- NEW SHORT ETH (0xfb1898bb5955fdd11704e397104c6a0e0725eb17) [3/5 traders]
+- SKIPPED SHORT ETC (0x47f5a6397b79deaaca5c456503e7c1a49357b942) — only 1/5 traders
+- SKIPPED LONG TIA (0x47f5a6397b79deaaca5c456503e7c1a49357b942) — only 1/5 traders
+- SKIPPED LONG HYPE (0x47f5a6397b79deaaca5c456503e7c1a49357b942) — only 1/5 traders
+- SKIPPED LONG TRUMP (0x47f5a6397b79deaaca5c456503e7c1a49357b942) — only 1/5 traders
+- Portfolio equity: $15,169.57 (+51.70%)
