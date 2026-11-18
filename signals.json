@@ -17607,5 +17607,33 @@
     "leverage": 10,
     "unrealized_pnl": 168.98213,
     "liquidation_price": 4935540.0567226885
+  },
+  {
+    "ts": "2026-11-18T22:48:28.941795+00:00",
+    "trader": "0x6788e111b25a244e7168847fe19bb1456a8398d4",
+    "type": "CLOSED",
+    "coin": "BTC",
+    "side": "SHORT",
+    "size": 0.011444190022320217,
+    "entry_price": 72879.0,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 119.81494743868151,
+    "liquidation_price": 0,
+    "exit_reason": "TP hit (+43.1% of margin)"
+  },
+  {
+    "ts": "2026-11-18T22:48:28.941795+00:00",
+    "trader": "0x4a96036fb1529561fa3eeeb2781fad2d4f25500e",
+    "type": "CLOSED",
+    "coin": "ASTER",
+    "side": "LONG",
+    "size": 3309.3458765257674,
+    "entry_price": 0.57604,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -146.22344755429114,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-23.0% of margin)"
   }
 ]

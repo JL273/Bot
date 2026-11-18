@@ -6259,6 +6259,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-18
 
+### 22:48 UTC — Position poll (Job B)
+- 2 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT BTC [TP hit (+43.1% of margin)]
+- EXIT LONG ASTER [SL hit (-23.0% of margin)]
+- Portfolio equity: $15,501.95 (+55.02%)
 ### 17:58 UTC — Daily refresh (Job A)
 - Leaderboard: 47865 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
