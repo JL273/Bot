@@ -6300,6 +6300,46 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-19
 
+### 20:36 UTC — Position poll (Job B)
+- 27 signal(s) acted on, 10 skipped (confluence), 0 paused (daily profit limit):
+- NEW SHORT LIT (0x5ccaf678b74464fac20f6cae8cbaa9b402010c45) [2/5 traders]
+- NEW SHORT ETH (0x5ccaf678b74464fac20f6cae8cbaa9b402010c45) [4/5 traders]
+- NEW SHORT ENA (0x5ccaf678b74464fac20f6cae8cbaa9b402010c45) [3/5 traders]
+- NEW SHORT SOL (0x5ccaf678b74464fac20f6cae8cbaa9b402010c45) [2/5 traders]
+- NEW SHORT AAVE (0x5ccaf678b74464fac20f6cae8cbaa9b402010c45) [2/5 traders]
+- NEW SHORT ARB (0x5ccaf678b74464fac20f6cae8cbaa9b402010c45) [2/5 traders]
+- NEW SHORT SUI (0x5ccaf678b74464fac20f6cae8cbaa9b402010c45) [2/5 traders]
+- NEW SHORT NEAR (0x5ccaf678b74464fac20f6cae8cbaa9b402010c45) [3/5 traders]
+- NEW SHORT LIT (0xa20fb0c9e04063eec5be286e9269028d966646fa) [2/5 traders]
+- NEW SHORT ETH (0xa20fb0c9e04063eec5be286e9269028d966646fa) [4/5 traders]
+- CLOSED SHORT CC (0xa20fb0c9e04063eec5be286e9269028d966646fa)
+- CLOSED SHORT GRAM (0xa20fb0c9e04063eec5be286e9269028d966646fa)
+- CLOSED SHORT APEX (0xa20fb0c9e04063eec5be286e9269028d966646fa)
+- CLOSED SHORT BNB (0xa20fb0c9e04063eec5be286e9269028d966646fa)
+- CLOSED SHORT SOL (0xa20fb0c9e04063eec5be286e9269028d966646fa)
+- CLOSED SHORT XLM (0xa20fb0c9e04063eec5be286e9269028d966646fa)
+- NEW SHORT BTC (0xb0fbfefc6c325964d0ffc3f909bdda80b8421326) [2/5 traders]
+- NEW SHORT ASTER (0xb0fbfefc6c325964d0ffc3f909bdda80b8421326) [2/5 traders]
+- NEW SHORT STRK (0xb0fbfefc6c325964d0ffc3f909bdda80b8421326) [2/5 traders]
+- CLOSED SHORT JTO (0xb0fbfefc6c325964d0ffc3f909bdda80b8421326)
+- CLOSED SHORT ONDO (0xb0fbfefc6c325964d0ffc3f909bdda80b8421326)
+- CLOSED SHORT ZRO (0xb0fbfefc6c325964d0ffc3f909bdda80b8421326)
+- CLOSED SHORT AAVE (0xb0fbfefc6c325964d0ffc3f909bdda80b8421326)
+- CLOSED SHORT WLD (0xb0fbfefc6c325964d0ffc3f909bdda80b8421326)
+- CLOSED SHORT VVV (0xb0fbfefc6c325964d0ffc3f909bdda80b8421326)
+- CLOSED SHORT MNT (0xb0fbfefc6c325964d0ffc3f909bdda80b8421326)
+- CLOSED SHORT XMR (0xb0fbfefc6c325964d0ffc3f909bdda80b8421326)
+- SKIPPED LONG VVV (0x5ccaf678b74464fac20f6cae8cbaa9b402010c45) — only 1/5 traders
+- SKIPPED SHORT TRUMP (0xa20fb0c9e04063eec5be286e9269028d966646fa) — only 1/5 traders
+- SKIPPED LONG BTC (0xa20fb0c9e04063eec5be286e9269028d966646fa) — only 1/5 traders
+- SKIPPED SHORT POL (0xa20fb0c9e04063eec5be286e9269028d966646fa) — only 1/5 traders
+- SKIPPED LONG GRAM (0xa20fb0c9e04063eec5be286e9269028d966646fa) — only 1/5 traders
+- SKIPPED SHORT OP (0xa20fb0c9e04063eec5be286e9269028d966646fa) — only 1/5 traders
+- SKIPPED LONG SOL (0xa20fb0c9e04063eec5be286e9269028d966646fa) — only 1/5 traders
+- SKIPPED LONG W (0xa20fb0c9e04063eec5be286e9269028d966646fa) — only 1/5 traders
+- SKIPPED LONG MNT (0xa20fb0c9e04063eec5be286e9269028d966646fa) — only 1/5 traders
+- SKIPPED SHORT UNI (0xb0fbfefc6c325964d0ffc3f909bdda80b8421326) — only 1/5 traders
+- Portfolio equity: $15,455.54 (+54.56%)
 ### 18:11 UTC — Daily refresh (Job A)
 - Leaderboard: 48003 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
