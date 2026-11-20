@@ -1,5 +1,5 @@
 {
-  "cash": 5759.2198715211225,
+  "cash": 6078.824960518019,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x6788e111b25a244e7168847fe19bb1456a8398d4:HYPE:SHORT": {
@@ -70,20 +70,6 @@
       "leverage": 3,
       "margin": 238.66388483844435,
       "notional": 715.991654515333,
-      "opened_at": "2026-11-13T21:05:17.444518+00:00"
-    },
-    "0xaea8e3bd369217cc6e3e6abddf0da318fba8e59b:HBAR:SHORT": {
-      "trader": "0xaea8e3bd369217cc6e3e6abddf0da318fba8e59b",
-      "coin": "HBAR",
-      "side": "SHORT",
-      "size": 10958.308452542096,
-      "entry_price": 0.062066,
-      "entry_fee": 0.3400691862077389,
-      "entry_slippage_bps": 11.27,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 226.71279080515924,
-      "notional": 680.1383724154778,
       "opened_at": "2026-11-13T21:05:17.444518+00:00"
     },
     "0x4a96036fb1529561fa3eeeb2781fad2d4f25500e:SOL:SHORT": {
@@ -27410,7 +27396,17 @@
       "ts": "2026-11-19T20:36:45.578144+00:00",
       "equity": 15455.539450354985,
       "cash": 5759.2198715211225
+    },
+    {
+      "ts": "2026-11-20T01:52:33.606124+00:00",
+      "equity": 15892.818939364179,
+      "cash": 5759.2198715211225
+    },
+    {
+      "ts": "2026-11-20T01:52:34.518176+00:00",
+      "equity": 15892.390282774066,
+      "cash": 6078.824960518019
     }
   ],
-  "last_processed_signal_index": 1308
+  "last_processed_signal_index": 1309
 }
