@@ -1,5 +1,5 @@
 {
-  "cash": 9602.680481160827,
+  "cash": 11851.963023346512,
   "starting_cash": 10000.0,
   "open_positions": {
     "0x4a96036fb1529561fa3eeeb2781fad2d4f25500e:SOL:SHORT": {
@@ -28,34 +28,6 @@
       "leverage": 3,
       "margin": 603.6189483694347,
       "notional": 1810.8568451083042,
-      "opened_at": "2026-11-18T00:01:08.924378+00:00"
-    },
-    "0xfb1898bb5955fdd11704e397104c6a0e0725eb17:HYPE:SHORT": {
-      "trader": "0xfb1898bb5955fdd11704e397104c6a0e0725eb17",
-      "coin": "HYPE",
-      "side": "SHORT",
-      "size": 24.616877824057724,
-      "entry_price": 69.878,
-      "entry_fee": 0.8600890942947529,
-      "entry_slippage_bps": 6.08,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 573.3927295298353,
-      "notional": 1720.1781885895057,
-      "opened_at": "2026-11-18T00:01:08.924378+00:00"
-    },
-    "0xfb1898bb5955fdd11704e397104c6a0e0725eb17:ETH:SHORT": {
-      "trader": "0xfb1898bb5955fdd11704e397104c6a0e0725eb17",
-      "coin": "ETH",
-      "side": "SHORT",
-      "size": 0.8956589924336147,
-      "entry_price": 1824.4,
-      "entry_fee": 0.8170201328979433,
-      "entry_slippage_bps": 2.47,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 544.6800885986289,
-      "notional": 1634.0402657958866,
       "opened_at": "2026-11-18T00:01:08.924378+00:00"
     },
     "0x5ccaf678b74464fac20f6cae8cbaa9b402010c45:ETH:SHORT": {
@@ -126,20 +98,6 @@
       "leverage": 3,
       "margin": 434.3292951441634,
       "notional": 1302.9878854324902,
-      "opened_at": "2026-11-19T20:36:41.164472+00:00"
-    },
-    "0x5ccaf678b74464fac20f6cae8cbaa9b402010c45:SUI:SHORT": {
-      "trader": "0x5ccaf678b74464fac20f6cae8cbaa9b402010c45",
-      "coin": "SUI",
-      "side": "SHORT",
-      "size": 1743.9846236113656,
-      "entry_price": 0.70972,
-      "entry_fee": 0.6188703835347292,
-      "entry_slippage_bps": 1.41,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 412.58025568981947,
-      "notional": 1237.7407670694583,
       "opened_at": "2026-11-19T20:36:41.164472+00:00"
     },
     "0xa20fb0c9e04063eec5be286e9269028d966646fa:ETH:SHORT": {
@@ -27314,7 +27272,17 @@
       "ts": "2026-11-20T23:23:37.393030+00:00",
       "equity": 17484.117793672933,
       "cash": 9602.680481160827
+    },
+    {
+      "ts": "2026-11-21T04:03:38.293752+00:00",
+      "equity": 18412.56361381742,
+      "cash": 9602.680481160827
+    },
+    {
+      "ts": "2026-11-21T04:03:39.434064+00:00",
+      "equity": 18405.836479894053,
+      "cash": 11851.963023346512
     }
   ],
-  "last_processed_signal_index": 1317
+  "last_processed_signal_index": 1320
 }

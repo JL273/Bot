@@ -18125,5 +18125,47 @@
     "unrealized_pnl": 170.1824612380672,
     "liquidation_price": 0,
     "exit_reason": "TP hit (+45.7% of margin)"
+  },
+  {
+    "ts": "2026-11-21T04:03:37.111147+00:00",
+    "trader": "0xfb1898bb5955fdd11704e397104c6a0e0725eb17",
+    "type": "CLOSED",
+    "coin": "HYPE",
+    "side": "SHORT",
+    "size": 24.616877824057724,
+    "entry_price": 69.878,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 316.6838247675906,
+    "liquidation_price": 0,
+    "exit_reason": "TP hit (+55.2% of margin)"
+  },
+  {
+    "ts": "2026-11-21T04:03:37.111147+00:00",
+    "trader": "0xfb1898bb5955fdd11704e397104c6a0e0725eb17",
+    "type": "CLOSED",
+    "coin": "ETH",
+    "side": "SHORT",
+    "size": 0.8956589924336147,
+    "entry_price": 1824.4,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 230.85610529976418,
+    "liquidation_price": 0,
+    "exit_reason": "TP hit (+42.4% of margin)"
+  },
+  {
+    "ts": "2026-11-21T04:03:37.111147+00:00",
+    "trader": "0x5ccaf678b74464fac20f6cae8cbaa9b402010c45",
+    "type": "CLOSED",
+    "coin": "SUI",
+    "side": "SHORT",
+    "size": 1743.9846236113656,
+    "entry_price": 0.70972,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 177.8166722234149,
+    "liquidation_price": 0,
+    "exit_reason": "TP hit (+43.1% of margin)"
   }
 ]

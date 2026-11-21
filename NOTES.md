@@ -6386,3 +6386,12 @@ _Auto-generated. Newest entry at top._
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT HBAR [TP hit (+41.2% of margin)]
 - Portfolio equity: $15,892.39 (+58.92%)
+
+## 2026-11-21
+
+### 04:03 UTC — Position poll (Job B)
+- 3 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT HYPE [TP hit (+55.2% of margin)]
+- EXIT SHORT ETH [TP hit (+42.4% of margin)]
+- EXIT SHORT SUI [TP hit (+43.1% of margin)]
+- Portfolio equity: $18,405.84 (+84.06%)
