@@ -6389,6 +6389,11 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-21
 
+### 19:36 UTC — Position poll (Job B)
+- 2 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- NEW SHORT HYPE (0x71038a3e5fd46ba4ca5edc81339a4d1e9e493104) [4/5 traders]
+- NEW SHORT BTC (0x71038a3e5fd46ba4ca5edc81339a4d1e9e493104) [3/5 traders]
+- Portfolio equity: $17,547.89 (+75.48%)
 ### 16:44 UTC — Daily refresh (Job A)
 - Leaderboard: 46416 traders fetched, 5 shortlisted
 - Shortlist change: +2 new, -2 dropped
