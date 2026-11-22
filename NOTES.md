@@ -6414,3 +6414,20 @@ _Auto-generated. Newest entry at top._
 - EXIT SHORT ETH [TP hit (+42.4% of margin)]
 - EXIT SHORT SUI [TP hit (+43.1% of margin)]
 - Portfolio equity: $18,405.84 (+84.06%)
+
+## 2026-11-22
+
+### 17:04 UTC — Daily refresh (Job A)
+- Leaderboard: 46588 traders fetched, 5 shortlisted
+- Shortlist change: +4 new, -4 dropped
+- #1 0x03ef8f736498047c3349bb2c18311d1bb4a79054 acc=$12,000,908 month=$2,388,101 edge=3048bps
+- #2 0x71038a3e5fd46ba4ca5edc81339a4d1e9e493104 acc=$5,135,968 month=$918,967 edge=185bps
+- #3 0xd7b19f8aaf5c9619bd5141945a73d2ca74984451 acc=$9,453,739 month=$2,653,013 edge=1596bps
+- #4 0xdcd62a213d1009992da52d8428b5562adee065b0 acc=$1,399,291 month=$165,197 edge=69bps
+- #5 0xceec48581b3145a575508719f45da07dc57fa7ce acc=$14,365,880 month=$4,673,134 edge=1769bps
+- Current positions across the shortlist:
+-   0x03ef8f736498047c3349bb2c18311d1bb4a79054... 1 positions: SHORT HYPE x10
+-   0x71038a3e5fd46ba4ca5edc81339a4d1e9e493104... 2 positions: SHORT BTC x20, SHORT HYPE x10
+-   0xd7b19f8aaf5c9619bd5141945a73d2ca74984451... no open positions
+-   0xdcd62a213d1009992da52d8428b5562adee065b0... 1 positions: SHORT HYPE x10
+-   0xceec48581b3145a575508719f45da07dc57fa7ce... 1 positions: SHORT HYPE x10
