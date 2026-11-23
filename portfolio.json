@@ -1,5 +1,5 @@
 {
-  "cash": 10826.042679115202,
+  "cash": 11837.277776179399,
   "starting_cash": 10000.0,
   "open_positions": {
     "0xfb1898bb5955fdd11704e397104c6a0e0725eb17:BTC:SHORT": {
@@ -128,34 +128,6 @@
       "notional": 957.3622154667148,
       "opened_at": "2026-11-19T20:36:41.164472+00:00"
     },
-    "0xb0fbfefc6c325964d0ffc3f909bdda80b8421326:STRK:SHORT": {
-      "trader": "0xb0fbfefc6c325964d0ffc3f909bdda80b8421326",
-      "coin": "STRK",
-      "side": "SHORT",
-      "size": 29098.40888087101,
-      "entry_price": 0.03125333437475558,
-      "entry_fee": 0.4547111512636095,
-      "entry_slippage_bps": 8.52,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 303.140767509073,
-      "notional": 909.422302527219,
-      "opened_at": "2026-11-19T20:36:41.164472+00:00"
-    },
-    "0x71038a3e5fd46ba4ca5edc81339a4d1e9e493104:HYPE:SHORT": {
-      "trader": "0x71038a3e5fd46ba4ca5edc81339a4d1e9e493104",
-      "coin": "HYPE",
-      "side": "SHORT",
-      "size": 28.908637063628746,
-      "entry_price": 61.497,
-      "entry_fee": 0.8888972267509885,
-      "entry_slippage_bps": 0.08,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 592.5981511673257,
-      "notional": 1777.794453501977,
-      "opened_at": "2026-11-21T19:35:59.361907+00:00"
-    },
     "0x71038a3e5fd46ba4ca5edc81339a4d1e9e493104:BTC:SHORT": {
       "trader": "0x71038a3e5fd46ba4ca5edc81339a4d1e9e493104",
       "coin": "BTC",
@@ -169,20 +141,6 @@
       "margin": 562.9237987476218,
       "notional": 1688.7713962428656,
       "opened_at": "2026-11-21T19:35:59.361907+00:00"
-    },
-    "0xdcd62a213d1009992da52d8428b5562adee065b0:HYPE:SHORT": {
-      "trader": "0xdcd62a213d1009992da52d8428b5562adee065b0",
-      "coin": "HYPE",
-      "side": "SHORT",
-      "size": 25.64145211348567,
-      "entry_price": 62.563,
-      "entry_fee": 0.802103084288002,
-      "entry_slippage_bps": 0.24,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 534.7353895253347,
-      "notional": 1604.206168576004,
-      "opened_at": "2026-11-22T18:42:01.278159+00:00"
     }
   },
   "equity_history": [
@@ -27355,7 +27313,17 @@
       "ts": "2026-11-23T04:03:30.520703+00:00",
       "equity": 17188.80271415238,
       "cash": 10826.042679115202
+    },
+    {
+      "ts": "2026-11-23T14:22:21.265837+00:00",
+      "equity": 16085.909388415615,
+      "cash": 11211.353942370517
+    },
+    {
+      "ts": "2026-11-23T14:22:22.382874+00:00",
+      "equity": 16085.56242489463,
+      "cash": 11837.277776179399
     }
   ],
-  "last_processed_signal_index": 1324
+  "last_processed_signal_index": 1327
 }
