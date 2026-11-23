@@ -18209,5 +18209,19 @@
     "leverage": 10,
     "unrealized_pnl": 198960.301292,
     "liquidation_price": 116.5793883545
+  },
+  {
+    "ts": "2026-11-23T04:03:27.901905+00:00",
+    "trader": "0x4a96036fb1529561fa3eeeb2781fad2d4f25500e",
+    "type": "CLOSED",
+    "coin": "SOL",
+    "side": "SHORT",
+    "size": 28.130565759722604,
+    "entry_price": 71.339,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 0.1828486774382705,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (6d open, flat)"
   }
 ]
