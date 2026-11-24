@@ -1,36 +1,36 @@
 {
-  "account_value": 204519.692091,
+  "account_value": 93608.107085,
   "positions": [
     {
       "coin": "ENA",
       "side": "SHORT",
       "size": 860000.0,
       "entry_price": 0.151266,
-      "position_value_usd": 119548.6,
+      "position_value_usd": 87651.2,
       "leverage": 10,
-      "unrealized_pnl": 10540.548283,
-      "liquidation_price": 2.3270961765
+      "unrealized_pnl": 42437.948283,
+      "liquidation_price": 2.2403112907
     },
     {
       "coin": "HYPE",
       "side": "SHORT",
       "size": 3700.0,
       "entry_price": 88.6772,
-      "position_value_usd": 272212.7,
+      "position_value_usd": 237491.9,
       "leverage": 10,
-      "unrealized_pnl": 55893.00056,
-      "liquidation_price": 582.1531923732
+      "unrealized_pnl": 90613.80056,
+      "liquidation_price": 561.2184891969
     },
     {
-      "coin": "XMR",
+      "coin": "ZEC",
       "side": "SHORT",
-      "size": 1580.0,
-      "entry_price": 566.726,
-      "position_value_usd": 849329.0,
-      "leverage": 5,
-      "unrealized_pnl": 46098.831251,
-      "liquidation_price": 1674.3979961853
+      "size": 200.0,
+      "entry_price": 869.3059,
+      "position_value_usd": 156514.24,
+      "leverage": 10,
+      "unrealized_pnl": 17346.9533,
+      "liquidation_price": 9977.6537501429
     }
   ],
-  "timestamp_ms": 1794581772992
+  "timestamp_ms": 1795484665013
 }

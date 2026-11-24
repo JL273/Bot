@@ -6462,3 +6462,48 @@ _Auto-generated. Newest entry at top._
 - 1 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
 - EXIT SHORT SOL [time-stop (6d open, flat)]
 - Portfolio equity: $17,188.80 (+71.89%)
+
+## 2026-11-24
+
+### 01:44 UTC — Position poll (Job B)
+- 9 signal(s) acted on, 30 skipped (confluence), 0 paused (daily profit limit):
+- NEW SHORT GRAM (0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3) [2/5 traders]
+- NEW SHORT HYPE (0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3) [5/5 traders]
+- NEW SHORT ENA (0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3) [3/5 traders]
+- NEW SHORT NEAR (0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3) [2/5 traders]
+- NEW SHORT AAVE (0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3) [2/5 traders]
+- NEW SHORT ZEC (0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3) [3/5 traders]
+- NEW SHORT ZEC (0xba5d9cc840745aeeeeedac5712e32f13ab8ea352) [3/5 traders]
+- NEW SHORT ZEC (0x1bf629cd9f4dbcc9fca616ccf7a19891007f5bfa) [3/5 traders]
+- CLOSED SHORT XMR (0x1bf629cd9f4dbcc9fca616ccf7a19891007f5bfa)
+- SKIPPED LONG SOL (0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3) — only 1/5 traders
+- SKIPPED LONG XLM (0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3) — only 1/5 traders
+- SKIPPED LONG LINK (0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3) — only 1/5 traders
+- SKIPPED SHORT VVV (0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3) — only 1/5 traders
+- SKIPPED LONG ETH (0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3) — only 1/5 traders
+- SKIPPED LONG ADA (0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3) — only 1/5 traders
+- SKIPPED SHORT DOGE (0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3) — only 1/5 traders
+- SKIPPED LONG ICP (0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3) — only 1/5 traders
+- SKIPPED SHORT PUMP (0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3) — only 1/5 traders
+- SKIPPED SHORT LTC (0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3) — only 1/5 traders
+- SKIPPED LONG XRP (0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3) — only 1/5 traders
+- SKIPPED LONG POL (0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3) — only 1/5 traders
+- SKIPPED SHORT BNB (0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3) — only 1/5 traders
+- SKIPPED LONG LIT (0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3) — only 1/5 traders
+- SKIPPED LONG SEI (0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3) — only 1/5 traders
+- SKIPPED SHORT ALGO (0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3) — only 1/5 traders
+- SKIPPED SHORT TAO (0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3) — only 1/5 traders
+- SKIPPED LONG XMR (0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3) — only 1/5 traders
+- SKIPPED LONG FARTCOIN (0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3) — only 1/5 traders
+- SKIPPED SHORT BIO (0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3) — only 1/5 traders
+- SKIPPED LONG SUI (0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3) — only 1/5 traders
+- SKIPPED LONG PNUT (0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3) — only 1/5 traders
+- SKIPPED LONG BTC (0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3) — only 1/5 traders
+- SKIPPED LONG STRK (0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3) — only 1/5 traders
+- SKIPPED SHORT ONDO (0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3) — only 1/5 traders
+- SKIPPED LONG TRX (0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3) — only 1/5 traders
+- SKIPPED LONG AVAX (0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3) — only 1/5 traders
+- SKIPPED LONG FET (0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3) — only 1/5 traders
+- SKIPPED LONG UNI (0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3) — only 1/5 traders
+- SKIPPED SHORT WLD (0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3) — only 1/5 traders
+- Portfolio equity: $16,789.40 (+67.89%)
