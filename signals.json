@@ -18403,5 +18403,57 @@
     "leverage": 5,
     "unrealized_pnl": -6751.75675,
     "liquidation_price": 3349.4013380357
+  },
+  {
+    "ts": "2026-11-24T21:29:01.412672+00:00",
+    "trader": "0x3dc908374e11623d8eb9f07dfc7a2e5e803a54b0",
+    "type": "CLOSED",
+    "coin": "XMR",
+    "side": "SHORT",
+    "size": 139.35,
+    "entry_price": 505.189,
+    "position_value_usd": 70403.8005,
+    "leverage": 5,
+    "unrealized_pnl": -5.682297,
+    "liquidation_price": 144852.5509789151
+  },
+  {
+    "ts": "2026-11-24T21:29:01.412672+00:00",
+    "trader": "0x45d26f28196d226497130c4bac709d808fed4029",
+    "type": "CLOSED",
+    "coin": "GRAM",
+    "side": "SHORT",
+    "size": 138000.0,
+    "entry_price": 1.485406,
+    "position_value_usd": 185361.6,
+    "leverage": 5,
+    "unrealized_pnl": 19624.5105,
+    "liquidation_price": 229.0299212626
+  },
+  {
+    "ts": "2026-11-24T21:29:01.412672+00:00",
+    "trader": "0x45d26f28196d226497130c4bac709d808fed4029",
+    "type": "CLOSED",
+    "coin": "TIA",
+    "side": "SHORT",
+    "size": 4100.0,
+    "entry_price": 8.54819,
+    "position_value_usd": 2504.239,
+    "leverage": 5,
+    "unrealized_pnl": 32543.342475,
+    "liquidation_price": 8029.1460484588
+  },
+  {
+    "ts": "2026-11-24T21:29:01.412672+00:00",
+    "trader": "0x45d26f28196d226497130c4bac709d808fed4029",
+    "type": "CLOSED",
+    "coin": "ADA",
+    "side": "SHORT",
+    "size": 995000.0,
+    "entry_price": 0.21937,
+    "position_value_usd": 217367.7,
+    "leverage": 10,
+    "unrealized_pnl": 906.031158,
+    "liquidation_price": 32.7008500435
   }
 ]
