@@ -6532,3 +6532,15 @@ _Auto-generated. Newest entry at top._
 - SKIPPED LONG UNI (0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3) — only 1/5 traders
 - SKIPPED SHORT WLD (0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3) — only 1/5 traders
 - Portfolio equity: $16,789.40 (+67.89%)
+
+## 2026-11-25
+
+### 14:45 UTC — Position poll (Job B)
+- 6 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT ENA [TP hit (+42.3% of margin)]
+- EXIT SHORT AAVE [TP hit (+42.8% of margin)]
+- EXIT SHORT ARB [TP hit (+44.3% of margin)]
+- EXIT SHORT ZEC [TP hit (+40.5% of margin)]
+- EXIT SHORT ZEC [TP hit (+40.5% of margin)]
+- EXIT SHORT ZEC [TP hit (+40.5% of margin)]
+- Portfolio equity: $19,129.82 (+91.30%)
