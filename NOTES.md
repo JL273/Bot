@@ -6535,6 +6535,12 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-25
 
+### 23:20 UTC — Position poll (Job B)
+- 1 signal(s) acted on, 2 skipped (confluence), 0 paused (daily profit limit):
+- NEW SHORT HYPE (0xafd2fedf8615a073f1cd80884e91e1c4ef1ad797) [5/5 traders]
+- SKIPPED SHORT ETH (0xafd2fedf8615a073f1cd80884e91e1c4ef1ad797) — only 1/5 traders
+- SKIPPED SHORT SOL (0xafd2fedf8615a073f1cd80884e91e1c4ef1ad797) — only 1/5 traders
+- Portfolio equity: $18,001.34 (+80.01%)
 ### 19:09 UTC — Daily refresh (Job A)
 - Leaderboard: 46692 traders fetched, 5 shortlisted
 - Shortlist change: +3 new, -3 dropped
