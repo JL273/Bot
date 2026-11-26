@@ -1,5 +1,5 @@
 {
-  "cash": 10710.06478120424,
+  "cash": 10732.080473717117,
   "starting_cash": 10000.0,
   "open_positions": {
     "0xfb1898bb5955fdd11704e397104c6a0e0725eb17:BTC:SHORT": {
@@ -85,20 +85,6 @@
       "margin": 319.1207384889049,
       "notional": 957.3622154667148,
       "opened_at": "2026-11-19T20:36:41.164472+00:00"
-    },
-    "0x71038a3e5fd46ba4ca5edc81339a4d1e9e493104:BTC:SHORT": {
-      "trader": "0x71038a3e5fd46ba4ca5edc81339a4d1e9e493104",
-      "coin": "BTC",
-      "side": "SHORT",
-      "size": 0.027994088721991606,
-      "entry_price": 60326.0,
-      "entry_fee": 0.8443856981214328,
-      "entry_slippage_bps": 0.08,
-      "entry_fill_method": "book",
-      "leverage": 3,
-      "margin": 562.9237987476218,
-      "notional": 1688.7713962428656,
-      "opened_at": "2026-11-21T19:35:59.361907+00:00"
     },
     "0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3:GRAM:SHORT": {
       "trader": "0xcac19662ec88d23fa1c81ac0e8570b0cf2ff26b3",
@@ -197,6 +183,20 @@
       "margin": 563.7321252311625,
       "notional": 1691.1963756934874,
       "opened_at": "2026-11-25T23:20:18.905981+00:00"
+    },
+    "0x4fd04553468610e5a88a2cffa38e057c954312da:HYPE:SHORT": {
+      "trader": "0x4fd04553468610e5a88a2cffa38e057c954312da",
+      "coin": "HYPE",
+      "side": "SHORT",
+      "size": 25.83726908521722,
+      "entry_price": 62.178,
+      "entry_fee": 0.8032548585903181,
+      "entry_slippage_bps": 0.08,
+      "entry_fill_method": "book",
+      "leverage": 3,
+      "margin": 535.5032390602121,
+      "notional": 1606.5097171806362,
+      "opened_at": "2026-11-26T23:43:24.409483+00:00"
     }
   },
   "equity_history": [
@@ -27424,7 +27424,17 @@
       "ts": "2026-11-26T15:04:47.308751+00:00",
       "equity": 18410.611130694033,
       "cash": 10710.06478120424
+    },
+    {
+      "ts": "2026-11-26T23:43:25.914629+00:00",
+      "equity": 18086.120072141755,
+      "cash": 10173.758287285438
+    },
+    {
+      "ts": "2026-11-26T23:43:26.640327+00:00",
+      "equity": 18084.359859831096,
+      "cash": 10732.080473717117
     }
   ],
-  "last_processed_signal_index": 1348
+  "last_processed_signal_index": 1350
 }
