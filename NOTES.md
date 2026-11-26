@@ -6564,3 +6564,20 @@ _Auto-generated. Newest entry at top._
 - EXIT SHORT ZEC [TP hit (+40.5% of margin)]
 - EXIT SHORT ZEC [TP hit (+40.5% of margin)]
 - Portfolio equity: $19,129.82 (+91.30%)
+
+## 2026-11-26
+
+### 18:57 UTC — Daily refresh (Job A)
+- Leaderboard: 46783 traders fetched, 5 shortlisted
+- Shortlist change: +3 new, -3 dropped
+- #1 0x03ef8f736498047c3349bb2c18311d1bb4a79054 acc=$11,520,906 month=$2,717,563 edge=3566bps
+- #2 0x71038a3e5fd46ba4ca5edc81339a4d1e9e493104 acc=$5,138,894 month=$1,130,724 edge=310bps
+- #3 0xd7b19f8aaf5c9619bd5141945a73d2ca74984451 acc=$9,463,887 month=$3,305,606 edge=1989bps
+- #4 0x4fd04553468610e5a88a2cffa38e057c954312da acc=$10,130,490 month=$2,266,845 edge=3350bps
+- #5 0xdc1a840dbf28f046074c4343a731dfbd96f3fd28 acc=$2,928,355 month=$1,670,558 edge=1392bps
+- Current positions across the shortlist:
+-   0x03ef8f736498047c3349bb2c18311d1bb4a79054... 1 positions: SHORT HYPE x10
+-   0x71038a3e5fd46ba4ca5edc81339a4d1e9e493104... 2 positions: SHORT BTC x20, SHORT HYPE x10
+-   0xd7b19f8aaf5c9619bd5141945a73d2ca74984451... no open positions
+-   0x4fd04553468610e5a88a2cffa38e057c954312da... 1 positions: SHORT HYPE x10
+-   0xdc1a840dbf28f046074c4343a731dfbd96f3fd28... no open positions
