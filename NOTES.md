@@ -6586,3 +6586,13 @@ _Auto-generated. Newest entry at top._
 -   0xd7b19f8aaf5c9619bd5141945a73d2ca74984451... no open positions
 -   0x4fd04553468610e5a88a2cffa38e057c954312da... 1 positions: SHORT HYPE x10
 -   0xdc1a840dbf28f046074c4343a731dfbd96f3fd28... no open positions
+
+## 2026-11-27
+
+### 05:21 UTC — Position poll (Job B)
+- 4 signal(s) acted on, 0 skipped (confluence), 0 paused (daily profit limit):
+- EXIT SHORT SOL [time-stop (7d open, flat)]
+- EXIT SHORT BTC [time-stop (7d open, flat)]
+- EXIT SHORT ASTER [time-stop (7d open, flat)]
+- EXIT SHORT HYPE [SL hit (-22.8% of margin)]
+- Portfolio equity: $17,406.53 (+74.07%)

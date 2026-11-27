@@ -18581,5 +18581,61 @@
     "unrealized_pnl": -2.841400005282148,
     "liquidation_price": 0,
     "exit_reason": "time-stop (5d open, flat)"
+  },
+  {
+    "ts": "2026-11-27T05:21:40.978086+00:00",
+    "trader": "0x5ccaf678b74464fac20f6cae8cbaa9b402010c45",
+    "type": "CLOSED",
+    "coin": "SOL",
+    "side": "SHORT",
+    "size": 19.78816364927102,
+    "entry_price": 72.972,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -4.5117013120339635,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (7d open, flat)"
+  },
+  {
+    "ts": "2026-11-27T05:21:40.978086+00:00",
+    "trader": "0xb0fbfefc6c325964d0ffc3f909bdda80b8421326",
+    "type": "CLOSED",
+    "coin": "BTC",
+    "side": "SHORT",
+    "size": 0.016231487106982398,
+    "entry_price": 62090.99999999999,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 5.916377050494966,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (7d open, flat)"
+  },
+  {
+    "ts": "2026-11-27T05:21:40.978086+00:00",
+    "trader": "0xb0fbfefc6c325964d0ffc3f909bdda80b8421326",
+    "type": "CLOSED",
+    "coin": "ASTER",
+    "side": "SHORT",
+    "size": 1873.3972867869104,
+    "entry_price": 0.51103,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": 4.280712800308056,
+    "liquidation_price": 0,
+    "exit_reason": "time-stop (7d open, flat)"
+  },
+  {
+    "ts": "2026-11-27T05:21:40.978086+00:00",
+    "trader": "0xafd2fedf8615a073f1cd80884e91e1c4ef1ad797",
+    "type": "CLOSED",
+    "coin": "HYPE",
+    "side": "SHORT",
+    "size": 27.582706948075998,
+    "entry_price": 61.313647673418615,
+    "position_value_usd": 0,
+    "leverage": 3,
+    "unrealized_pnl": -128.57271520582643,
+    "liquidation_price": 0,
+    "exit_reason": "SL hit (-22.8% of margin)"
   }
 ]
