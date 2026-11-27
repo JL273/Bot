@@ -6589,6 +6589,21 @@ _Auto-generated. Newest entry at top._
 
 ## 2026-11-27
 
+### 23:29 UTC — Position poll (Job B)
+- 6 signal(s) acted on, 6 skipped (confluence), 0 paused (daily profit limit):
+- CLOSED SHORT LIT (0xc435249d0e837efa5eb431ad74c9fa8889f2c905)
+- CLOSED SHORT ZEC (0xc435249d0e837efa5eb431ad74c9fa8889f2c905)
+- CLOSED SHORT ONDO (0xc435249d0e837efa5eb431ad74c9fa8889f2c905)
+- CLOSED SHORT PUMP (0xc435249d0e837efa5eb431ad74c9fa8889f2c905)
+- CLOSED SHORT WLD (0xc435249d0e837efa5eb431ad74c9fa8889f2c905)
+- CLOSED SHORT ASTER (0xc435249d0e837efa5eb431ad74c9fa8889f2c905)
+- SKIPPED LONG INIT (0xc435249d0e837efa5eb431ad74c9fa8889f2c905) — only 1/5 traders
+- SKIPPED SHORT PENDLE (0xc435249d0e837efa5eb431ad74c9fa8889f2c905) — only 1/5 traders
+- SKIPPED LONG ZEC (0xc435249d0e837efa5eb431ad74c9fa8889f2c905) — only 1/5 traders
+- SKIPPED SHORT WLFI (0xc435249d0e837efa5eb431ad74c9fa8889f2c905) — only 1/5 traders
+- SKIPPED SHORT CASHCAT (0xc435249d0e837efa5eb431ad74c9fa8889f2c905) — only 1/5 traders
+- SKIPPED LONG WLD (0xc435249d0e837efa5eb431ad74c9fa8889f2c905) — only 1/5 traders
+- Portfolio equity: $17,908.83 (+79.09%)
 ### 18:53 UTC — Daily refresh (Job A)
 - Leaderboard: 46957 traders fetched, 5 shortlisted
 - Shortlist change: +2 new, -2 dropped

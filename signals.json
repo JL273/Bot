@@ -18651,5 +18651,83 @@
     "unrealized_pnl": 189.1975286213024,
     "liquidation_price": 0,
     "exit_reason": "TP hit (+48.2% of margin)"
+  },
+  {
+    "ts": "2026-11-27T23:29:56.176214+00:00",
+    "trader": "0xc435249d0e837efa5eb431ad74c9fa8889f2c905",
+    "type": "CLOSED",
+    "coin": "LIT",
+    "side": "SHORT",
+    "size": 161375.0,
+    "entry_price": 4.28974,
+    "position_value_usd": 507475.9625,
+    "leverage": 5,
+    "unrealized_pnl": 184780.968309,
+    "liquidation_price": 21.6509013011
+  },
+  {
+    "ts": "2026-11-27T23:29:56.176214+00:00",
+    "trader": "0xc435249d0e837efa5eb431ad74c9fa8889f2c905",
+    "type": "CLOSED",
+    "coin": "ZEC",
+    "side": "SHORT",
+    "size": 201.71,
+    "entry_price": 1177.9276,
+    "position_value_usd": 256877.685,
+    "leverage": 10,
+    "unrealized_pnl": -19277.895565,
+    "liquidation_price": 16784.1319939139
+  },
+  {
+    "ts": "2026-11-27T23:29:56.176214+00:00",
+    "trader": "0xc435249d0e837efa5eb431ad74c9fa8889f2c905",
+    "type": "CLOSED",
+    "coin": "ONDO",
+    "side": "SHORT",
+    "size": 650007.0,
+    "entry_price": 0.460242,
+    "position_value_usd": 269226.39933,
+    "leverage": 10,
+    "unrealized_pnl": 29934.624438,
+    "liquidation_price": 5.1996220149
+  },
+  {
+    "ts": "2026-11-27T23:29:56.176214+00:00",
+    "trader": "0xc435249d0e837efa5eb431ad74c9fa8889f2c905",
+    "type": "CLOSED",
+    "coin": "PUMP",
+    "side": "SHORT",
+    "size": 120000000.0,
+    "entry_price": 0.005271,
+    "position_value_usd": 528000.0,
+    "leverage": 10,
+    "unrealized_pnl": 104533.773658,
+    "liquidation_price": 0.0304720798
+  },
+  {
+    "ts": "2026-11-27T23:29:56.176214+00:00",
+    "trader": "0xc435249d0e837efa5eb431ad74c9fa8889f2c905",
+    "type": "CLOSED",
+    "coin": "WLD",
+    "side": "SHORT",
+    "size": 577571.4,
+    "entry_price": 0.38856,
+    "position_value_usd": 242689.726566,
+    "leverage": 10,
+    "unrealized_pnl": -18265.073217,
+    "liquidation_price": 5.8370953029
+  },
+  {
+    "ts": "2026-11-27T23:29:56.176214+00:00",
+    "trader": "0xc435249d0e837efa5eb431ad74c9fa8889f2c905",
+    "type": "CLOSED",
+    "coin": "ASTER",
+    "side": "SHORT",
+    "size": 589923.0,
+    "entry_price": 0.725882,
+    "position_value_usd": 417907.35243,
+    "leverage": 5,
+    "unrealized_pnl": 10307.60319,
+    "liquidation_price": 5.7708304091
   }
 ]
